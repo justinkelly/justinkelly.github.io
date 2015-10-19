@@ -29,7 +29,7 @@ Went to twitter - it was full of very funny and informative tweets from all over
 
 Best tweet goes to
 
-![]( right http://i.minus.com/ibyWLfUn8G0j1w.png )
+![](http://i.minus.com/ibyWLfUn8G0j1w.png )
 > Live pictures from the Melbourne earthquake 
 _@JoshuaWithers https://twitter.com/JoshuaWithers/status/215036748449849344_
 

@@ -5,7 +5,7 @@ date: 2013-06-19 04:47
 comments: true
 categories: [ nginx, apache ]
 ---
-![]( left http://nginx.org/nginx.gif Nginx logo %}
+![](http://nginx.org/nginx.gif Nginx logo %}
 
 Having just migrated a number of sites from Apache to the Nginx webserver here's the below Nginx config to get URL rewriting working correctly with Vallia Forums
 

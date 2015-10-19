@@ -9,7 +9,7 @@ categories:
 posterous_url: http://blog.justin.kelly.org.au/what-happened-to-netgear-being-awesome
 posterous_slug: what-happened-to-netgear-being-awesome
 ---
-![]( right http://i.minus.com/jYdgx0i4YTtFj.jpg )
+![](http://i.minus.com/jYdgx0i4YTtFj.jpg )
 just got a netgear dgn2000 adsl2+  modem / wireless N router, opened the box and first thought was, 
 whats happened to netgear? 
 

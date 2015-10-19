@@ -39,7 +39,7 @@ Missing features
 Though fluent.io have worked hard to remove as much stuff from what we consider email theres 2 important features that work great in gmail that should be incorporated in fluent
 
 ### Rapportive.com
-![]( right http://i.minus.com/io7DwgBhX1GY8.png )
+![](http://i.minus.com/io7DwgBhX1GY8.png )
 
 Though not created by google the rapportive.com plugin for gmail is an essential add-on.  Rapportive shows you everything about your contacts right inside your inbox.
 

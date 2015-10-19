@@ -19,7 +19,7 @@ and your trying to get it to work in Ubuntu/Linux there is only one way to make 
 3. Buy a [TP-Link TL-WN721N](http://www.amazon.com/TP-Link-TL-WN721N-150Mbps-Wireless-Adapter/dp/B002ZDQHS4) usb wifi card
 
 ### TP-Link TL-WN721N
-![]( right http://i.minus.com/ibgn5FdKPtwcLR.png )
+![](http://i.minus.com/ibgn5FdKPtwcLR.png )
 I've tried a few wifi devices usb and pci-express but the [TP-Link TL-WN721N](http://www.amazon.com/TP-Link-TL-WN721N-150Mbps-Wireless-Adapter/dp/B002ZDQHS4) just works - tested in various version of Ubuntu
 
 No drivers to install, nothing to config, just plug it in, boot up and Ubuntu can see and connect to your wifi as it's supposed it

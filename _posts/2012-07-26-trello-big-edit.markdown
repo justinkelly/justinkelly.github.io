@@ -5,7 +5,7 @@ date: 2012-07-26 02:51
 comments: true
 categories:  chrome
 ---
-![]( right http://i.minus.com/i4p25T56yb4bM.png )
+![](http://i.minus.com/i4p25T56yb4bM.png )
 
 If you use [trello.com](trello.com) alot like myself, and add lots (pages) of information in the card description section 
 you'll find the small card window a real pain to use.

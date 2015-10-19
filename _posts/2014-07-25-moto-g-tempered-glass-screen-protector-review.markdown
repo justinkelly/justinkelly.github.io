@@ -5,7 +5,7 @@ title: "Moto G tempered glass screen protector review"
 date: 2014-07-25 05:49
 ---
 
-![]( right https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/Moto-G-screen-small.jpg  300 %}
+![](https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/Moto-G-screen-small.jpg  300 %}
 
 After scratching and smashing a few screens on my last couple of phones I was determined to find a solution to save my new Motorola G from the same fate.
 
@@ -17,7 +17,7 @@ The nice guys over at [MobileZap](http://www.mobilezap.com.au/35014/motorola/mot
 The Good
 ===
 
-![]( right https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/Moto-G-scratch.png 'scratch' %}
+![](https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/Moto-G-scratch.png 'scratch' %}
 
 * Much stronger that film based protectors, check out any of the youtube clips and you'll see a bunch of people trying to scratch or smash the tempered glass with scissors and screwdrivers to no avail
 * 0.3 mm thickness adds minimal bulk to your phone.
@@ -38,7 +38,7 @@ If you are concerned about scratching or smashing your phones screen I highly re
 Note:
 ===
 
-![]( right https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/Moto-G-screen-remove-small.jpg )
+![](https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/Moto-G-screen-remove-small.jpg )
 I had endless trouble trying to remove the Motorola film protector on the phone, quickest solution is to put tape on a corner and peel if off.
 
 Links:

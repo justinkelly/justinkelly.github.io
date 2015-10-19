@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-![]( right http://i.minus.com/ibfUIMnX0HSmP5.png )
+![](http://i.minus.com/ibfUIMnX0HSmP5.png )
 
 It's been a while since I moved this blog from Posterous to Octopress, but I've finally gotten round
 to removing the default theme and apply the theme I did for [bzr.bz/docs](http://bzr.bz/docs), screenshot and full code for the theme is below:

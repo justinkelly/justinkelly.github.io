@@ -5,7 +5,7 @@ date: 2013-09-06 02:12
 comments: true
 categories: [Nginx, linux, ubuntu]
 ---
-![]( right https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/nginx_200.png )
+![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/nginx_200.png )
 
 After writing a number of scripts to auto create domains for Apache and Nginx on linux servers I've finally gotten round to cleaning it up and releasing by current script to handle
 auto creating domains for Nginx (my current preferred web server)

@@ -8,7 +8,7 @@ categories: [Nexus 7, Headphones]
 
 Thanks again to the guys at [MobileZap][2] for sending over [Avantree Hive bluetooth headphones][1] to review.
 
-![]( right https://googledrive.com/host/0B3qPjbk9su5uTXR2eFhPUkNkNzg/2013-08-13-headphones.jpg )
+![](https://googledrive.com/host/0B3qPjbk9su5uTXR2eFhPUkNkNzg/2013-08-13-headphones.jpg )
 
 I've been after wireless heapdhones for my Nexus 7 since I purchased it and the Avantree Hive headphones
 looks like a great budget friendly bluetooth headphones. Lets look closer at these bluetooth headphones

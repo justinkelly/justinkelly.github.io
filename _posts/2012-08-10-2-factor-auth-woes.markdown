@@ -6,12 +6,12 @@ comments: true
 categories: [google, security]
 ---
 
-![]( right http://i.minus.com/jbeaJAwoBWEd3Q.png )
+![](http://i.minus.com/jbeaJAwoBWEd3Q.png )
 Given the recent [dramas](http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/all/) with online account being hacked I've turned on 2 factor auth for my Google Apps accounts
 
 Works great, easy enough to use but ..
 
-![]( right http://i.minus.com/ib1mvHAA9I5Uj1.png )
+![](http://i.minus.com/ib1mvHAA9I5Uj1.png )
 
 The verification code SMSs are not coming through regularly on Optus mobile in Australia.  
 

@@ -6,7 +6,7 @@ comments: true
 categories:  reviews
 ---
 
-![]( right https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/cruzerlite_moto_g.jpg 'Cruzerlite Bugdroid Circuit case for Moto G: Image source - androidcentral.com' %}
+![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/cruzerlite_moto_g.jpg 'Cruzerlite Bugdroid Circuit case for Moto G: Image source - androidcentral.com' %}
 
 After picking up a couple of [Motorola Moto G](http://wikipedia.org/wiki/Moto_G) phones on the weekend
 I set about looking for a couple of different covers for them so as to not destroy yet another phone. 

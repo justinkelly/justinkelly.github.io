@@ -9,7 +9,7 @@ Uninspired by the state of mobile gaming on Android? Doesn't have to be that way
 
 Gaming on Android is dominated by puzzle and endless runner games that you can play for a few minutes to kill time. Save for a few great games like [VVVVVV](https://play.google.com/store/apps/details?id=air.com.distractionware.vvvvvvmobile&hl=en) gaming on a touch screen is in a totally different leagure to the tactile experience of PC or console gaming.
 
-![]( right https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/moga/IMG_5341.JPG )
+![](https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/moga/IMG_5341.JPG )
 
 The new higher end Moga controllers bring the great tactile experience of console gaming to mobile.
 
@@ -25,7 +25,7 @@ The MOGA comes withaa dedicated app and 2 different bluetooth connection modes. 
 
 If you're only using emulators I would just stick to B mode and use the MOGA as a regular bluetooth controller 
 
-![]( left https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/moga/IMG_53462.JPG )
+![](https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/moga/IMG_53462.JPG )
 
 ## The Good
 

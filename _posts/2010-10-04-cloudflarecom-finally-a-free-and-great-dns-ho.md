@@ -10,7 +10,7 @@ categories:
 posterous_url: http://blog.justin.kelly.org.au/cloudflarecom-finally-a-free-and-great-dns-ho
 posterous_slug: cloudflarecom-finally-a-free-and-great-dns-ho
 ---
-![]( right http://i.imgur.com/sG0wa.png )
+![](http://i.imgur.com/sG0wa.png )
 
 Just moved all my domains DNS over to [CloudFlare.com](http://cloudflare.com) -  finally a free and great DNS host!!
  
