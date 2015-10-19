@@ -1,9 +1,10 @@
 ---
+publihsed:true
 layout: post
 title: "Moto G tempered glass screen protector review"
 date: 2014-07-25 05:49
-comments: true
 ---
+
 ![]( right https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/Moto-G-screen-small.jpg  300 %}
 
 After scratching and smashing a few screens on my last couple of phones I was determined to find a solution to save my new Motorola G from the same fate.
