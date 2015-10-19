@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://justinkelly.github.io
+title: Justin Kelly
+tagline: various rambligns
+description: My awesome new site
+paginate: 5
