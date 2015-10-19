@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Simple Invoices 2009.1 beta 3 released
+published: true
+date: 2009-02-19
+categories: 
+- simple invoices
+posterous_url: http://blog.justin.kelly.org.au/simple-invoices-20091-beta-3-released
+posterous_slug: simple-invoices-20091-beta-3-released
+---
+<p>Hi Guys,</p>
+<p>I&#8217;m very happy to announce the availability of Simple Invoices 2009.1 beta 3</p>
+<p><a href="http://simpleinvoices.googlecode.com/files/simpleinvoices.2009.1.beta3.zip">http://simpleinvoices.googlecode.com/files/simpleinvoices.2009.1.beta3.zip</a></p>
+<p>Whats new<br />- users management <br />- you can now add/edit users in Simple Invoices <br />- no more phpmyadmin nonsense <br />- multiple taxes per line item <br />- just adjust the number of taxes per line item in System Preferences to show the number you require <br />- UI updates - Simple Invoices is now using 970px wide layout instead of 100% width <br />- email as pdf working now <br />- email - now allow multiple email addresses in to or bcc and can be delimited via , or&#160;; - thanks stella <br />- add system pref for number of taxes per line item <br />- sql patch 163 - tax conversion patch updated</p>
+<p>Known issues <br />- customer view info tabs - not happy - need to be redone in jquery UI <br />- can&#8217;t close yellow text <br />- backup db - once db backed up - menu goes wierd <br />- IE - menu not all nice <br />- no data validation on form input <br />- postgres version not complete <br />- total style invoice not selectable <br />- Help link - top right - not working <br />- Reports - not localised - ie. in 6 decimal places <br />- PHP.ini max memory needs to be min 64M to handle new PDF</p>
+<p>Note <br />- If using a new database for beta2 please restore using ./database/MySQL/Strucutre.sql and then Essentials.sql) <br />- if you want the sample data also restore SampleData.sql <br />- chmod -Rv 777 ./tmp; as cache, log, and dbbackups directories have been moved into this folder</p>
+<p>How to help out <br />- try upgrading a database from an older version (pre 2009.1 beta2) and make sure all the invoices are still OK <br />- create invoices using a few different scenarios and then edit them - etc.. <br />- make sure the invoice is 100% ok in all the differents <br />- are you a css guru? i need someone to help fix the css round the menus - issue in IE and also with side borders <br />- post on the forum - <a href="http://simpleinvoices.org">http://simpleinvoices.org</a> if you find any issues</p>
+<p>Cheers</p>
+<p>Justin</p>

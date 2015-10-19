@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Fluent.io - 1 week on"
+date: 2012-06-15 04:04
+comments: true
+categories: [fluent, gmail]
+---
+
+After using [Fluent.io](http://fluent.io) as my main mail app for the last week. I've a few more thought on it
+since I first [reviewed it](http://blog.justin.kelly.org.au/testing-out-fluent-dot-io-the-future-of-email-beta-access/) 
+
+More good stuff
+---
+
+### Search
+
+![fluent search](http://i.minus.com/ifuB9svgWOXSk.png)
+
+I didn't noticed this the first time, Fluent adds a search timeline to most search results - as above. This allows you to quickly filter
+results by time. This is great and should be in gmail.
+
+### Summaries 
+Gmail and Fluent email summaries both share the aim 'to quickly understand you email threads at a glance', but both do this in differnt ways/ 
+
+Gmail summaries each email thread as a single line, with the first line of the last email next to the email subject
+
+![gmail](http://i.minus.com/jfXNhsXSOeyvW.png)
+
+While for the active thread fluent summaries like:
+
+![fluent](http://i.minus.com/iTn2bkuIWUKTH.png)
+
+This means you don't have to open a thread to know what happening.  You can quickly go through all your emails, just use the J key to auto go to the next email and fluent shows you the nice summary, 
+press D to delete the thread, or J to go the next.  This highlights fluent aim to make you do 'triage' on your email to sort it all out as quickly as 
+possible
+
+Missing features
+---
+Though fluent.io have worked hard to remove as much stuff from what we consider email theres 2 important features that work great in gmail that should be incorporated in fluent
+
+### Rapportive.com
+![]( right http://i.minus.com/io7DwgBhX1GY8.png )
+
+Though not created by google the rapportive.com plugin for gmail is an essential add-on.  Rapportive shows you everything about your contacts right inside your inbox.
+
+If fluent wants to be the future of email - its need this!
+
+### Send As
+Another great feature of gmail is the support for multiple accounts. So you can easily redirect all the emails from your various accounts to 1 gmail account and gmail is smart enough to know when you reply to an email sent from a different account - to use that accounts details instead of the account your in
+
+Fluent supports multiple accounts but their solution segregates the emails and it not what i'd expect from what they claim as 'the future of email'
+
+@fluent you need to make this 'just work' and not look like email of the past 
+
+Conclusion
+---
+I'm still using fluent as my main mail client - but need to go back into gmail for rapportive and multi account functions.  Hopefully Fluent will sort these issues out.

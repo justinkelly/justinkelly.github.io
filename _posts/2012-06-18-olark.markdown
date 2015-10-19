@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Olark.com - finally website chat plugin that delivers"
+date: 2012-06-18 01:57
+comments: true
+categories: [olark, instant messaging]
+---
+_Edit:[Olark] has confirmed that the limits on the free plans are soft caps 
+- you can go over the 20 chat limit,  no charges or cancellation of service
+-  thanks [Olark]!_
+
+[![olark logo](http://i.minus.com/icwmF2HyDRv9I.png)][olark]
+
+Over the years I've added various web based chat pluggins to my websits - so users of my various products etc..
+can chat to me while they are browsing the site
+
+I've tried Meebo Me flash based IM, Plupper and now [Olark]
+
+Meebo Me
+---
+The Meebo me plugin works great - the best part is that now other tabs,windows,
+web elements popup - the user can just start typeing right on the page
+without clicking anothing else.  
+
+The problem with meebo is that its flash based :( and you need to be logged into meebo.com IM to chat to the
+website visitors. There are plugins to make meebo me work in the pidgin.im IM client but they are pretty unstable
+
+Also given that google just purchased meebo this product will be phased out soon
+
+Plupper.com
+---
+A free javascript/xmpp based web chat plugin that almost does the job. 
+
+The best features of plupper is that its javascript and xmpp - meaning no flash on your site and you can use a normal
+IM client like pidgin to connect. Also it calims to work with your gmail
+
+It would be great except plupper.com is unstable and offline frequently,
+the plugin status display is inconsistent - somethings your online it says offline etc.. 
+
+The gmail integration would be great but you need to provide them with your email username and password. Which is way to insecure.
+
+Plupper should be great but just isnt
+
+Olark - The Good
+---
+
+Their  tag line is 'Olark live chat, Talk to your customers'. Unlike most other of its competitors it delivers on their promises
+and doesnt box you in to using their chat client.  [Olark] integrates perfectly with gmail chat - so if your usign gmail 
+you dont have to change a thing - it just works.  You dont need to give them your password and you don't need to use an IM client - 
+works great in the normal gmail.
+
+[Olark] doesn't require flash to work - its a simple javascript pluggin that appears at the bottom of your page.  See the bottom right of this page to see ti in action.
+It's extremly customisable - even though the default setup works just how you want it to
+
+If you need to talk to the vistiors of your site, don't want to use flash, and use gmail -  [Olark] is perfect!
+
+Olark - The Bad
+---
+Pretty much everythign about [Olark] is great, the only problem is there free plans are to restrictive.  Currently they are set to 20 per month,
+this should be at least 50 - given the high amount of people who use it when your offline as a simple email contact form
+
+Also If your a cloudflare.com user olark doesnt seeem to work with their rocket script setup
+
+Conclusion
+---
+
+[Olark] is the best web chat plugin available for you site.  For low volume its free and great, just wish they would raise their usage on free plans.
+
+Update: [Olark] have confirmed that the limits on the free plan are 'soft caps' meaning they are just an indication
+- you can exceed them and there are no charges or cancellation of service
+
+
+
+[Olark]: http://www.olark.com/?rid=1449-689-10-9758-link "Olark"
