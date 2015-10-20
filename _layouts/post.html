@@ -9,10 +9,8 @@ layout: default
 </div>
 
 <div class="related">
-<p id="post-meta">Tags: {{ tags_content }}</p>
-<h5 class="index-headline featured"><span>Tags</span></h5>
   {% if page.tags != null %}
-  <h2>Tags</h2>
+  <h2>Tags</h2><i class="fa fa-tag"></i>
   <ul class="related-posts">
      {% for tag in page.tags %}
       <li>
