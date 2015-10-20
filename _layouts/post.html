@@ -11,14 +11,11 @@ layout: default
 <div class="related">
   {% if page.tags != null %}
   <h2>Tags</h2><i class="fa fa-tag"></i>
-  <ul class="related-posts">
      {% for tag in page.tags %}
-      <li>
         <h3>
          <a href="/tags#{{ tag | slugify }}-ref">{{ tag }}</a>
           </a>
         </h3>
-      </li>
     {% endfor %}
   </ul>
   {% endif %}
