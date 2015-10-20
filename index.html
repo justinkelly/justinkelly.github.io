@@ -16,10 +16,12 @@ title: Home
 
 
    <p class="post-summary">
-          {% if post.summary %}
+          {% if post.excerpt %}
+            {{ post.excerpt }}
+          {% elseif post.summary %}
             {{ post.summary }}
           {% else %}
-            {{ post.excerpt }}
+            {{ post.content }}
           {% endif %}
         </p>
 
