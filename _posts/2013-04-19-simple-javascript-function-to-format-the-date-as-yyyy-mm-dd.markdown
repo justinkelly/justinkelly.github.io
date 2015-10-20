@@ -14,11 +14,12 @@ Heres a simple javscript function I use to output the date in YYYY-MM-DD format
 
 <iframe
   style="width: 100%; height: 300px"
-  src="http://jsfiddle.net/EVF6f/embedded/js,html/light/#JavaScript" />
-
+  src="http://jsfiddle.net/EVF6f/embedded/js,html/light/#JavaScript" >
+</iframe>
 ### Result
 
 <iframe
   style="width: 100%; height: 300px"
-   src="http://jsfiddle.net/EVF6f/embedded/result/light/#Result" />
+   src="http://jsfiddle.net/EVF6f/embedded/result/light/#Result" >
+</iframe>
 
