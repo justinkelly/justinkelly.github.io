@@ -3,7 +3,7 @@ layout: post
 title: "Octopress theme"
 date: 2012-08-16 01:57
 comments: true
-categories: 
+tags: 
 ---
 
 ![](http://i.minus.com/ibfUIMnX0HSmP5.png )

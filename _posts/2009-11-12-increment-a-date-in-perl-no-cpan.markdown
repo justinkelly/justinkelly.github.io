@@ -3,7 +3,7 @@ layout: post
 title: "increment a date in perl - no cpan "
 published: true
 date: 2009-11-12
-categories: 
+tags: 
 - perl
 posterous_url: http://blog.justin.kelly.org.au/increment-a-date-in-perl-no-cpan
 posterous_slug: increment-a-date-in-perl-no-cpan

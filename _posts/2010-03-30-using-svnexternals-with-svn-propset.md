@@ -3,7 +3,7 @@ layout: post
 title: "using svn:externals with svn propset "
 published: true
 date: 2010-03-30
-categories: 
+tags: 
 - svn
 posterous_url: http://blog.justin.kelly.org.au/using-svnexternals-with-svn-propset
 posterous_slug: using-svnexternals-with-svn-propset

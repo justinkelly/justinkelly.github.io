@@ -3,7 +3,7 @@ layout: post
 title: "PHP class autoloading"
 date: 2012-07-30 01:11
 comments: true
-categories: [php]
+tags: [php]
 ---
 
 Some simple but great php tips from [Codular.com](http://codular.com/php-tips-tricks) today

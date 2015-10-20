@@ -3,7 +3,7 @@ layout: post
 title: How to setup SRV records (for google apps IM) on the free	namecheap.com DNS hosting
 published: true
 date: 2010-02-17
-categories: 
+tags: 
 - dns
 - google apps
 posterous_url: http://blog.justin.kelly.org.au/how-to-setup-srv-records-for-google-apps-im-o

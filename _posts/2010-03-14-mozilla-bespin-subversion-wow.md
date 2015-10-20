@@ -3,7 +3,7 @@ layout: post
 title: Mozilla Bespin + Subversion = wow!
 published: true
 date: 2010-03-14
-categories: 
+tags: 
 - bespin
 - svn
 posterous_url: http://blog.justin.kelly.org.au/mozilla-bespin-subversion-wow

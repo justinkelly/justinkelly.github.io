@@ -3,7 +3,7 @@ layout: post
 title: "Bluetooth headphones for Nexus 7"
 date: 2013-08-13 05:55
 comments: true
-categories: [Nexus 7, Headphones]
+tags: [Nexus 7, Headphones]
 ---
 
 Thanks again to the guys at [MobileZap][2] for sending over [Avantree Hive bluetooth headphones][1] to review.

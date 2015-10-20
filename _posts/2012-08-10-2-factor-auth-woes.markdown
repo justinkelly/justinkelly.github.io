@@ -3,7 +3,7 @@ layout: post
 title: "2 factor auth woes"
 date: 2012-08-10 02:54
 comments: true
-categories: [google, security]
+tags: [google, security]
 ---
 
 ![](http://i.minus.com/jbeaJAwoBWEd3Q.png )

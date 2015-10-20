@@ -3,7 +3,7 @@ layout: post
 title: Bitbucket.org now offering free unlimited private Hg projects 
 published: true
 date: 2010-09-28
-categories: [hg , dvcs, version control, mercurial]
+tags: [hg , dvcs, version control, mercurial]
 
 posterous_url: http://blog.justin.kelly.org.au/bitbucketorg-now-offering-free-unlimited-priv
 posterous_slug: bitbucketorg-now-offering-free-unlimited-priv

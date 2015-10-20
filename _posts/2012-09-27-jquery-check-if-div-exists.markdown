@@ -3,7 +3,7 @@ layout: post
 title: "How to check if a div exists with jQuery"
 date: 2012-09-27 02:10
 comments: true
-categories: [ jQuery, javascript ]
+tags: [ jQuery, javascript ]
 ---
 
 The simple way to check if a div or element exists on the page using jQuery is to use the `length` function

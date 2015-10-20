@@ -3,7 +3,7 @@ layout: post
 title: "Make broadcom wifi work perfect in ubuntu"
 date: 2012-07-31 01:17
 comments: true
-categories: 
+tags: 
 - linux
 - ubuntu
 - broadcom

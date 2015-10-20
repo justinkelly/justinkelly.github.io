@@ -3,7 +3,7 @@ layout: post
 title: How to add Pinboard.in 'Search Mine' as a Chrome search engine
 published: true
 date: 2010-05-20
-categories: 
+tags: 
 - chrome
 - pinboard.in
 posterous_url: http://blog.justin.kelly.org.au/how-to-add-pinboardin-search-mine-as-a-chrome

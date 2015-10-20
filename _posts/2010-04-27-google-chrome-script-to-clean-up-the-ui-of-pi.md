@@ -3,7 +3,7 @@ layout: post
 title: Google Chrome script to clean up the UI of Pinboard.in
 published: true
 date: 2010-04-27
-categories: 
+tags: 
 - chrome
 - google
 - pinboard.in

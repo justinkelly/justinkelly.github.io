@@ -3,7 +3,7 @@ layout: post
 title: "Vim Lowercase"
 date: 2012-08-24 01:28
 comments: true
-categories: [vi, vim] 
+tags: [vi, vim] 
 ---
 
 Was trying to copy a chuck of text in Vim when I accidentally pressed `u` instead of `y`. 

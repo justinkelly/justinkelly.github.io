@@ -3,7 +3,7 @@ layout: post
 title: "Bespin + Google Code (SVN) : How to"
 published: true
 date: 2010-03-14
-categories: 
+tags: 
 - bespin
 - svn
 posterous_url: http://blog.justin.kelly.org.au/bespin-google-code-svn-how-to

@@ -3,7 +3,7 @@ layout: post
 title: Can anyone make this sql query faster
 published: true
 date: 2009-09-13
-categories: 
+tags: 
 - mysql
 - simple invoices
 posterous_url: http://blog.justin.kelly.org.au/can-anyone-make-this-sql-query-faster

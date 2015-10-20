@@ -3,7 +3,7 @@ layout: post
 title: "Auto select all text with jQuery"
 date: 2013-06-21 03:56
 comments: true
-categories: jQuery
+tags: jQuery
 ---
 If you're stuck using an older version of jQuery ( < 1.9 ) and need to auto select all text in a dynamically created `input` field you can combine `.select()` with `.live()` to make it work.
 

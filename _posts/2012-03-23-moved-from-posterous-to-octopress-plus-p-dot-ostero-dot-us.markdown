@@ -3,7 +3,7 @@ layout: post
 title: "Moved from Posterous to Octopress + p.ostero.us"
 date: 2012-03-23 05:04
 comments: true
-categories: [p.ostero.us, posterous.com]
+tags: [p.ostero.us, posterous.com]
 ---
 I've been a long term [posterous.com](posterous.com) user, but since they started messing with the core concept
  of posterous by introducting 'groups' and then pivoting to be 'spaces' I've had an uneasy feeling being hosted with them. What are these guys up to?

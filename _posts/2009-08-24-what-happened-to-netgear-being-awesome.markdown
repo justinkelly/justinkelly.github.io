@@ -3,7 +3,7 @@ layout: post
 title: what happened to netgear being awesome?
 published: true
 date: 2009-08-24
-categories: 
+tags: 
 - hardware
 - netgear
 posterous_url: http://blog.justin.kelly.org.au/what-happened-to-netgear-being-awesome

@@ -3,7 +3,7 @@ layout: post
 title: ack = a better grep "ignores most of the crap you don't want to search"
 published: true
 date: 2010-08-23
-categories: 
+tags: 
 - linux
 posterous_url: http://blog.justin.kelly.org.au/ack-a-better-grep-ignores-most-of-the-crap-yo
 posterous_slug: ack-a-better-grep-ignores-most-of-the-crap-yo

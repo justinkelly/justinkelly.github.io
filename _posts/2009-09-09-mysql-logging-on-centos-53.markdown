@@ -3,7 +3,7 @@ layout: post
 title: Mysql logging on CentOS 5.3
 published: true
 date: 2009-09-09
-categories: 
+tags: 
 - centos
 - linux
 - mysql

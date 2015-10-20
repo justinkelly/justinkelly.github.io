@@ -3,7 +3,7 @@ layout: post
 title: "simple bash if then else example "
 published: true
 date: 2010-02-01
-categories: 
+tags: 
 - bash
 - linux
 posterous_url: http://blog.justin.kelly.org.au/simple-bash-if-then-else-example

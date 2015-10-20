@@ -3,7 +3,7 @@ layout: post
 title: theage.com.au follows huffington post with landmine advertising
 published: true
 date: 2009-10-06
-categories: 
+tags: 
 - random
 posterous_url: http://blog.justin.kelly.org.au/theagecomau-follow-huffington-post-with-landm
 posterous_slug: theagecomau-follow-huffington-post-with-landm

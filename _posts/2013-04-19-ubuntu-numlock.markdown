@@ -3,7 +3,7 @@ layout: post
 title: "Ubuntu Numlock"
 date: 2013-04-19 00:37
 comments: true
-categories: ubuntu, linux
+tags: ubuntu, linux
 ---
 
 If your using a smaller Ubuntu or Debian based distro (lubuntu, solusOS, etc..) you'll often find that numlock on the keyboard isn't turned on my default.

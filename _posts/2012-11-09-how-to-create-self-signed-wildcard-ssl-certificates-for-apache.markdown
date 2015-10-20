@@ -3,7 +3,7 @@ layout: post
 title: "How to create self signed wildcard SSL certificates for Apache"
 date: 2012-11-09 04:13
 comments: true
-categories: [ apache, ssl, https ]
+tags: [ apache, ssl, https ]
 ---
 ### Create the wildcard SSL certification
 

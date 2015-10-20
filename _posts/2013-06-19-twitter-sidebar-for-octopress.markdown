@@ -3,7 +3,7 @@ layout: post
 title: "Twitter sidebar for Octopress"
 date: 2013-06-19 05:47
 comments: true
-categories: [octopress, twitter]
+tags: [octopress, twitter]
 ---
 Since Twitter has decommissioned the old Twitter API, the Twitter sidebar in [Octopress](http://octopress.org) based blogs has stopped working. 
 A few [blogs](http://blog.jmac.org/blog/2013/03/30/putting-twitter-back-into-octopress/) have started to add the new Twitter widget to the sidebar but its quite garish.

@@ -3,7 +3,7 @@ layout: post
 title: cloudflare.com - finally a free and great DNS host!!
 published: true
 date: 2010-10-04
-categories: 
+tags: 
 - dns
 - google apps
 - srv

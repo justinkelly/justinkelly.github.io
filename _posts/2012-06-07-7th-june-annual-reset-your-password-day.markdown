@@ -3,7 +3,7 @@ layout: post
 title: "7th June - annual reset your password day"
 date: 2012-06-07 03:35
 comments: true
-categories: security
+tags: security
 ---
 
 In honour of the [publishing](http://translate.google.com/translate?hl=en&sl=no&tl=en&u=http://www.dagensit.no/article2411857.ece) of

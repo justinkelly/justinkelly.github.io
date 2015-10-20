@@ -3,7 +3,7 @@ layout: post
 title: PHP int filter, Facebook user IDs, and 32 bit servers dont mix
 published: true
 date: 2011-08-26
-categories: 
+tags: 
 - php
 posterous_url: http://blog.justin.kelly.org.au/php-int-filter-facebook-user-ids-and-32-bit-s
 posterous_slug: php-int-filter-facebook-user-ids-and-32-bit-s

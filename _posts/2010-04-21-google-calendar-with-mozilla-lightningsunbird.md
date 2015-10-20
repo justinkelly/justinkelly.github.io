@@ -3,7 +3,7 @@ layout: post
 title: Google Calendar with Mozilla Lightning/Sunbird - accepting invites solution
 published: true
 date: 2010-04-21
-categories: 
+tags: 
 - google
 - google apps
 posterous_url: http://blog.justin.kelly.org.au/google-calendar-with-mozilla-lightningsunbird

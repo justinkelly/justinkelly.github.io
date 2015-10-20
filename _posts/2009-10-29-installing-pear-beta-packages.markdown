@@ -3,7 +3,7 @@ layout: post
 title: "installing pear beta packages "
 published: true
 date: 2009-10-29
-categories: 
+tags: 
 - php
 posterous_url: http://blog.justin.kelly.org.au/installing-pear-beta-packages
 posterous_slug: installing-pear-beta-packages

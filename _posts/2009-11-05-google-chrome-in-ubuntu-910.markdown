@@ -3,7 +3,7 @@ layout: post
 title: "google chrome in ubuntu 9.10 "
 published: true
 date: 2009-11-05
-categories: 
+tags: 
 - chrome
 - linux
 - ubuntu

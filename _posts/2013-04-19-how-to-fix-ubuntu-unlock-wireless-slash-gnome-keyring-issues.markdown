@@ -3,7 +3,7 @@ layout: post
 title: "How to fix Ubuntu unlock wireless/Gnome keyring issues"
 date: 2013-04-19 01:11
 comments: true
-categories: ubuntu, linux, gnome
+tags: ubuntu, linux, gnome
 ---
 
 Even if you manage to get wireless/wifi working fine in Ubuntu, one annoying 

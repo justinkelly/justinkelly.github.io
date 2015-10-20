@@ -3,7 +3,7 @@ layout: post
 title: How to create a Google Chrome extension from a greasemonkey/user script
 published: true
 date: 2010-05-10
-categories: 
+tags: 
 - chrome
 - extensions
 - google

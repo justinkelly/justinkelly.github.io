@@ -3,7 +3,7 @@ layout: post
 title: DVD, MP3, Skype, etc.. for Ubuntu 9.10
 published: true
 date: 2009-10-26
-categories: 
+tags: 
 - linux
 - media
 - ubuntu

@@ -3,7 +3,7 @@ layout: post
 title: "GNU Screen and Vim: making vim tab mappings work"
 published: true
 date: 2010-02-27
-categories: 
+tags: 
 - gnu_screen
 - linux
 - vi

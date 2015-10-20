@@ -3,7 +3,7 @@ layout: post
 title: Simple 1 page PHP/JQuery contact form
 published: true
 date: 2010-03-31
-categories: 
+tags: 
 - jquery
 - php
 posterous_url: http://blog.justin.kelly.org.au/simple-1-page-phpjquery-contact-form

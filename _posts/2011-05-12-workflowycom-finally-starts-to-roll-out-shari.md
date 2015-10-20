@@ -3,7 +3,7 @@ layout: post
 title: Workflowy.com finally starts to roll out sharing
 published: true
 date: 2011-05-12
-categories: workflowy
+tags: workflowy
 posterous_url: http://blog.justin.kelly.org.au/workflowycom-finally-starts-to-roll-out-shari
 posterous_slug: workflowycom-finally-starts-to-roll-out-shari
 ---

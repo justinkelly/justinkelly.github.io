@@ -3,7 +3,7 @@ layout: post
 title: "Posterous Backup"
 date: 2013-04-15 02:36
 comments: true
-categories: posterous
+tags: posterous
 ---
 
 Posterous.com is due to shutdown at the end of April 2013.  If your after a simple way to backup a Posterous site the below command will download your

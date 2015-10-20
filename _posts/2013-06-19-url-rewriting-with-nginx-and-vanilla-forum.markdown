@@ -3,7 +3,7 @@ layout: post
 title: "URL rewriting with Nginx and Vanilla forum"
 date: 2013-06-19 04:47
 comments: true
-categories: [ nginx, apache ]
+tags: [ nginx, apache ]
 ---
 ![](http://nginx.org/nginx.gif Nginx logo %}
 

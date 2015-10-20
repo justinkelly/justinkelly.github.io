@@ -3,7 +3,7 @@ layout: post
 title: "First rule of Vim - drop the arrow keys"
 date: 2012-08-24 00:15
 comments: true
-categories: [vi,vim]
+tags: [vi,vim]
 ---
 
 If your new to Vim the first thing you should do is disable the arrow keys.

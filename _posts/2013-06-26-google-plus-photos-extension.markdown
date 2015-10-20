@@ -3,7 +3,7 @@ layout: post
 title: "Google Plus photos extension for non Chromebook Pixels"
 date: 2013-06-26 00:37
 comments: false
-categories: chrome
+tags: chrome
 ---
 
 Earlier today Google released a new Chrome [extension](https://plus.google.com/u/0/+ajasver/posts/MoF7hRqeBut) for Google+ Photos that only works on the new Chromebook Pixel.

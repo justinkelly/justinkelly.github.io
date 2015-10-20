@@ -3,7 +3,7 @@ layout: post
 title: "Ubuntu 10.04 : how to move window buttons to the right"
 published: true
 date: 2010-05-18
-categories: 
+tags: 
 - ubuntu
 posterous_url: http://blog.justin.kelly.org.au/ubuntu-1004-how-to-move-window-buttons-to-the
 posterous_slug: ubuntu-1004-how-to-move-window-buttons-to-the

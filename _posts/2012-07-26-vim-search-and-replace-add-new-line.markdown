@@ -3,7 +3,7 @@ layout: post
 title: "Vim search and replace - add new line"
 date: 2012-07-26 06:16
 comments: true
-categories: [vi, vim]
+tags: [vi, vim]
 ---
 
 Was using Vim and needed to replace text where the line started with ` - text` with a newline and then `### text` in a 

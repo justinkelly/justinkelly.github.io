@@ -3,7 +3,7 @@ layout: post
 title: running dropbox on centos in a headless/vps setup
 published: true
 date: 2009-09-16
-categories: 
+tags: 
 - centos
 - dropbox
 - linux

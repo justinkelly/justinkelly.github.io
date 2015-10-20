@@ -3,7 +3,7 @@ layout: post
 title: simple bash regex example
 published: true
 date: 2010-02-03
-categories: 
+tags: 
 - bash
 - linux
 posterous_url: http://blog.justin.kelly.org.au/simple-bash-regex-example

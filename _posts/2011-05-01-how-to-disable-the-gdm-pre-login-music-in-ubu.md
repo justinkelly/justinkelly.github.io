@@ -3,7 +3,7 @@ layout: post
 title: How to disable the GDM pre-login 'music' in Ubuntu 11.04
 published: true
 date: 2011-05-01
-categories: 
+tags: 
 - linux
 - ubuntu
 posterous_url: http://blog.justin.kelly.org.au/how-to-disable-the-gdm-pre-login-music-in-ubu

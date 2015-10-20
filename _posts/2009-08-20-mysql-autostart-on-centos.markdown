@@ -3,7 +3,7 @@ layout: post
 title: mysql autostart on centos
 published: true
 date: 2009-08-20
-categories: 
+tags: 
 - centos
 - linux
 - mysql

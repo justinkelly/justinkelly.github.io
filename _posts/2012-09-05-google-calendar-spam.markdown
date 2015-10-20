@@ -3,7 +3,7 @@ layout: post
 title: "Google Calendar spam"
 date: 2012-09-05 01:41
 comments: true
-categories: google
+tags: google
 ---
 Didn’t know that this was even possible - but there is now spam in Google Calendars
 

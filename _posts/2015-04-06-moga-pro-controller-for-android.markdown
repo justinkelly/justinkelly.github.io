@@ -3,7 +3,7 @@ layout: post
 title: "MOGA Pro controller for Android"
 date: 2015-04-06 14:32
 comments: true
-categories: 
+tags: 
 ---
 Uninspired by the state of mobile gaming on Android? Doesn't have to be that way - Enter the Moga Pro controller.
 

@@ -3,7 +3,7 @@ layout: post
 title: Polaroid style theme for posterous.com
 published: true
 date: 2010-05-10
-categories: 
+tags: 
 - posterous
 posterous_url: http://blog.justin.kelly.org.au/polaroid-style-theme-for-posterouscom
 posterous_slug: polaroid-style-theme-for-posterouscom

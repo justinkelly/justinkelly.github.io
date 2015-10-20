@@ -3,7 +3,7 @@ layout: post
 title: "Simple mcrypt encrypt & decrypt functions for PHP : How to"
 published: true
 date: 2011-09-16
-categories: 
+tags: 
 - php
 posterous_url: http://blog.justin.kelly.org.au/simple-mcrypt-encrypt-decrypt-functions-for-p
 posterous_slug: simple-mcrypt-encrypt-decrypt-functions-for-p

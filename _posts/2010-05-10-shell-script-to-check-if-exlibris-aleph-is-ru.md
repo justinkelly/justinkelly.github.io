@@ -3,7 +3,7 @@ layout: post
 title: shell script to check if ExLibris Aleph is running OK
 published: true
 date: 2010-05-10
-categories: 
+tags: 
 - aleph
 - bash
 - exlibris

@@ -3,7 +3,7 @@ layout: post
 title: "linux shell: adding date to file name"
 published: true
 date: 2009-08-30
-categories: 
+tags: 
 - bash
 - linux
 - shell

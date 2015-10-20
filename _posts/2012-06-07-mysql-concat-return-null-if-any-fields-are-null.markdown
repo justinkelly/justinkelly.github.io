@@ -3,7 +3,7 @@ layout: post
 title: "Workaround for the MySQL concat() returns NULL if any fields are NULL problem"
 date: 2012-06-07 04:55
 comments: true
-categories: mysql
+tags: mysql
 ---
 
 In MySQL the `CONCAT` funcation returns `NULL` if any of the concated fields are `NULL`, who knew? - so even if all the fields except 

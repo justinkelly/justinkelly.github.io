@@ -3,7 +3,7 @@ layout: post
 title: "How to: copy file and append current date in linux/bash"
 published: true
 date: 2010-06-23
-categories: 
+tags: 
 - bash
 - link
 posterous_url: http://blog.justin.kelly.org.au/how-to-copy-file-and-append-current-date-in-l

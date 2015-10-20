@@ -3,7 +3,7 @@ layout: post
 title: "bash: how to send emails in a script "
 published: true
 date: 2010-02-01
-categories: 
+tags: 
 - bash
 - linux
 posterous_url: http://blog.justin.kelly.org.au/bash-how-to-send-emails-in-a-script

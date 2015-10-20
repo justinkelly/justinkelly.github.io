@@ -3,7 +3,7 @@ layout: post
 title: How to add Google Maps as a Chrome search engine
 published: true
 date: 2010-03-02
-categories: 
+tags: 
 - chrome
 - google
 posterous_url: http://blog.justin.kelly.org.au/how-to-add-google-maps-as-a-chrome-search-eng

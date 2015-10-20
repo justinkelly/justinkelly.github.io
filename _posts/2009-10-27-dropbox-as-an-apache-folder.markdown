@@ -3,7 +3,7 @@ layout: post
 title: dropbox as an apache folder
 published: true
 date: 2009-10-27
-categories: 
+tags: 
 - apache
 - dropbox
 - linux

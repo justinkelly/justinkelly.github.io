@@ -3,7 +3,7 @@ layout: post
 title: "Curl JSON function for PHP"
 date: 2012-06-27 10:07
 comments: true
-categories: php
+tags: php
 ---
 
 As I'm always working with various JSON based APIs in PHP which don't have dedicated libraries, heres my simple 

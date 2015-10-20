@@ -3,7 +3,7 @@ layout: post
 title: Sub-domain setup for Redmine & mod_passenger
 published: true
 date: 2010-08-02
-categories: 
+tags: 
 - apache
 - rails
 - redmine

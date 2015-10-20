@@ -3,7 +3,7 @@ layout: post
 title: "PHP mobile detect"
 date: 2012-08-07 00:24
 comments: true
-categories: php 
+tags: php 
 ---
 
 I've tried many PHP method to dettect mobile browsers/devices, the regex from [detectmobilebrowsers.com](http://detectmobilebrowsers.com)

@@ -3,7 +3,7 @@ layout: post
 title: VPS + OpenDNS
 published: true
 date: 2009-09-02
-categories: 
+tags: 
 - vps
 posterous_url: http://blog.justin.kelly.org.au/vps-opendns
 posterous_slug: vps-opendns

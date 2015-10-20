@@ -3,7 +3,7 @@ layout: post
 title: "PDO out of memory fix"
 date: 2013-02-11 04:24
 comments: true
-categories: php
+tags: php
 ---
 
 If your having issues with large PDO query sizes in PHP and getting out of memory issues the solution is to set `PDO::MYSQL_ATTR_USE_BUFFERED_QUERY` to false

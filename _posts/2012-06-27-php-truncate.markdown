@@ -3,7 +3,7 @@ layout: post
 title: "Best PHP truncate function"
 date: 2012-06-27 23:51
 comments: true
-categories: php
+tags: php
 ---
 
 I've used many different truncate functions in PHP and Smarty but the below script is definetly the best.

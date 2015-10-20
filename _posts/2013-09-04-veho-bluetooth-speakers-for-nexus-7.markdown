@@ -3,7 +3,7 @@ layout: post
 title: "Veho bluetooth speakers for Nexus 7"
 date: 2013-09-04 04:15
 comments: true
-categories: [Nexus 7, speakers, bluetooth]
+tags: [Nexus 7, speakers, bluetooth]
 ---
 
 ![](https://googledrive.com/host/0B3qPjbk9su5uTXR2eFhPUkNkNzg/2013-09-03-veho-300.jpg )

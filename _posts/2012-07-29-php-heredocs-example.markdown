@@ -3,7 +3,7 @@ layout: post
 title: "PHP heredocs example"
 date: 2012-07-29 06:44
 comments: true
-categories: 
+tags: 
 ---
 I'm always forgetting the php heredocs syntax
 

@@ -3,7 +3,7 @@ layout: post
 title: .htaccess and Apache VirtualDocumentRoot
 published: true
 date: 2010-07-22
-categories: 
+tags: 
 - apache
 - linux
 posterous_url: http://blog.justin.kelly.org.au/htaccess-and-apache-virtualdocumentroot

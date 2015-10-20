@@ -3,7 +3,7 @@ layout: post
 title: "shell script: read in values from text file"
 published: true
 date: 2009-08-24
-categories: 
+tags: 
 - linux
 - shell
 posterous_url: http://blog.justin.kelly.org.au/shell-script-read-in-values-from-text-file

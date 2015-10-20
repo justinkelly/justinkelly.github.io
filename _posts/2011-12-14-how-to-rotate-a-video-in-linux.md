@@ -3,7 +3,7 @@ layout: post
 title: "How to: Rotate a video in linux"
 published: true
 date: 2011-12-14
-categories: 
+tags: 
 - linux
 - ubuntu
 posterous_url: http://blog.justin.kelly.org.au/how-to-rotate-a-video-in-linux

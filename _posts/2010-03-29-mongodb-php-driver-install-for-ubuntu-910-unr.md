@@ -3,7 +3,7 @@ layout: post
 title: "MongoDB php driver install for Ubuntu 9.10 UNR without pear/pecl "
 published: true
 date: 2010-03-29
-categories: 
+tags: 
 - mongo
 - php
 - ubuntu

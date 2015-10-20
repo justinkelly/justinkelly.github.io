@@ -3,7 +3,7 @@ layout: post
 title: "Testing out Fluent.io - the future of email - beta access"
 date: 2012-06-08 00:12
 comments: true
-categories: [fluent,gmail]
+tags: [fluent,gmail]
 ---
 Just got beta access to [Fluent.io](http://fluent.io) which promises to be the future of email
 ![logo](http://i.minus.com/ibs7Rwy17ky8YH.png)

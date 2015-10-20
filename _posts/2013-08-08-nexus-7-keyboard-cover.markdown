@@ -3,7 +3,7 @@ layout: post
 title: "Nexus 7 keyboard cover"
 date: 2013-08-08 02:33
 comments: true
-categories: [Nexus 7, keyboard]
+tags: [Nexus 7, keyboard]
 ---
 ![]( https://googledrive.com/host/0B3qPjbk9su5uS1dCcElaVTZ5YUE/IMG_3075_small.jpg )
 

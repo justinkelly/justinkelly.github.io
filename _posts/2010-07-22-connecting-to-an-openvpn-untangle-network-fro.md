@@ -3,7 +3,7 @@ layout: post
 title: "Connecting to an OpenVPN (untangle) network from linux: How to"
 published: true
 date: 2010-07-22
-categories: 
+tags: 
 - linux
 - vpn
 - openvpn

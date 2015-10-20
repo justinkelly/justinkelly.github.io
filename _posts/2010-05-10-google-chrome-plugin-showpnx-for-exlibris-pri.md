@@ -3,7 +3,7 @@ layout: post
 title: "Google Chrome plugin: showPnx for Exlibris Primo"
 published: true
 date: 2010-05-10
-categories: 
+tags: 
 - chrome
 - exlibris
 - extensions

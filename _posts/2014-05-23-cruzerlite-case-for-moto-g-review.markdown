@@ -3,7 +3,7 @@ layout: post
 title: "Cruzerlite case for Moto G review"
 date: 2014-05-23 04:00
 comments: true
-categories:  reviews
+tags:  reviews
 ---
 
 ![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/cruzerlite_moto_g.jpg 'Cruzerlite Bugdroid Circuit case for Moto G: Image source - androidcentral.com' %}

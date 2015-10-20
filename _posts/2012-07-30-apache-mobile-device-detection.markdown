@@ -3,7 +3,7 @@ layout: post
 title: "Detect mobile browsers with Apache"
 date: 2012-07-30 04:31
 comments: true
-categories: [apache, mobile]
+tags: [apache, mobile]
 ---
 Thanks to [detectmobilebrowsers.com](http://detectmobilebrowsers.com) theres now a simple way to detect mobile browser
 via Apache web server configs

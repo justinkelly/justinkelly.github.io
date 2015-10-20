@@ -3,7 +3,7 @@ layout: post
 title: PHP remove trailing and leading zeros
 published: true
 date: 2010-05-12
-categories:
+tags:
 - php
 posterous_url: http://blog.justin.kelly.org.au/php-remove-trailing-and-leading-zeros
 posterous_slug: php-remove-trailing-and-leading-zeros

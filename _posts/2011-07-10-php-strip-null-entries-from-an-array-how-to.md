@@ -3,7 +3,7 @@ layout: post
 title: "PHP: Strip null entries from an array : how to"
 published: true
 date: 2011-07-10
-categories: 
+tags: 
 - php
 posterous_url: http://blog.justin.kelly.org.au/php-strip-null-entries-from-an-array-how-to
 posterous_slug: php-strip-null-entries-from-an-array-how-to

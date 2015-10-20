@@ -3,7 +3,7 @@ layout: post
 title: "Pinboard.in/Delicious.com -> Chrome bookmark syncing : How to"
 published: true
 date: 2010-07-18
-categories: 
+tags: 
 - chrome
 - pinboard.in
 - project

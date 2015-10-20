@@ -3,7 +3,7 @@ layout: post
 title: "Anchor links in markdown"
 date: 2012-08-13 14:12
 comments: true
-categories: markdown
+tags: markdown
 ---
 
 Need to do anchor links in markdown formatting but wasn't sure if it was possible,  below is the code to use to make it work

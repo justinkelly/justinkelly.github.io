@@ -3,7 +3,7 @@ layout: post
 title: how to setup google apps dns records with the free namecheap.com dns hosting
 published: true
 date: 2010-02-17
-categories: 
+tags: 
 - dns
 - google apps
 posterous_url: http://blog.justin.kelly.org.au/how-to-setup-require-google-sub-domains-for-g

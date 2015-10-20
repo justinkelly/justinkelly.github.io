@@ -3,7 +3,7 @@ layout: post
 title: "Perl: checking command line arguments for basic sanity"
 published: true
 date: 2009-10-05
-categories: 
+tags: 
 - perl
 posterous_url: http://blog.justin.kelly.org.au/perl-checking-command-line-arguments-for-basi
 posterous_slug: perl-checking-command-line-arguments-for-basi

@@ -3,6 +3,6 @@ layout: post
 title: "Great ad for the 2012 Paralympics!"
 date: 2012-08-10 06:38
 comments: true
-categories: 
+tags: 
 ---
 ![](http://i.minus.com/ixSp980PEEnFE.png)

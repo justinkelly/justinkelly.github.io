@@ -3,7 +3,7 @@ layout: post
 title: "PHP end of month plus"
 date: 2012-06-29 04:42
 comments: true
-categories: php
+tags: php
 ---
 
 I was trying to find how to calculate end of the month + 60 days in PHP,

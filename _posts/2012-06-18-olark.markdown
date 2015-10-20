@@ -3,7 +3,7 @@ layout: post
 title: "Olark.com - finally website chat plugin that delivers"
 date: 2012-06-18 01:57
 comments: true
-categories: [olark, instant messaging]
+tags: [olark, instant messaging]
 ---
 _Edit:[Olark] has confirmed that the limits on the free plans are soft caps 
 - you can go over the 20 chat limit,  no charges or cancellation of service

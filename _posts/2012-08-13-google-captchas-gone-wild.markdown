@@ -3,7 +3,7 @@ layout: post
 title: "Google captchas gone wild"
 date: 2012-08-13 02:29
 comments: true
-categories: 
+tags: 
 ---
 
 There has been alot of [talk](http://blog.andrewmunsell.com/post/28232343440/captchas-are-becoming-ridiculous#.UCZRNLQgeTM) recently 

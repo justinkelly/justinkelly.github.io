@@ -3,7 +3,7 @@ layout: post
 title: SimpleInvoices at phpMelbourne 18th April 7PM
 published: true
 date: 2011-04-12
-categories: [simple invoices, php]
+tags: [simple invoices, php]
 
 posterous_url: http://blog.justin.kelly.org.au/simpleinvoices-at-phpmelbourne-18th-april-7pm
 posterous_slug: simpleinvoices-at-phpmelbourne-18th-april-7pm

@@ -3,7 +3,7 @@ layout: post
 title: "How to ignore changes in tracked files with Git"
 date: 2012-11-13 00:13
 comments: true
-categories: git
+tags: git
 ---
 
 If you've added files into your GIT repository, then realised you don't want 

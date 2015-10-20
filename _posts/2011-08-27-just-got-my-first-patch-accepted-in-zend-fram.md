@@ -3,7 +3,7 @@ layout: post
 title: Just got my first patch accepted in Zend Framework trunk!
 published: true
 date: 2011-08-27
-categories: 
+tags: 
 - php
 - zend framework
 posterous_url: http://blog.justin.kelly.org.au/just-got-my-first-patch-accepted-in-zend-fram

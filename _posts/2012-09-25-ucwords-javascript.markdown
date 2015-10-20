@@ -3,7 +3,7 @@ layout: post
 title: "Ucwords for Javascript"
 date: 2012-09-25 04:02
 comments: true
-categories: [ php , jquery, javascript ]
+tags: [ php , jquery, javascript ]
 ---
 
 PHP has a great function [ucwords](http://php.net/manual/en/function.ucwords.php) that

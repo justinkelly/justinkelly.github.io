@@ -3,7 +3,7 @@ layout: post
 title: "Using page content stored in Wordpress in another PHP/HTML page : How to"
 published: true
 date: 2011-11-17
-categories: 
+tags: 
 - php
 - wordpress
 posterous_url: http://blog.justin.kelly.org.au/using-page-content-stored-in-wordpress-in-ano

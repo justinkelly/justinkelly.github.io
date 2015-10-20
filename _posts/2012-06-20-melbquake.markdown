@@ -3,7 +3,7 @@ layout: post
 title: "Melbourne earthquake : Social media analysis"
 date: 2012-06-20 00:01
 comments: true
-categories: 
+tags: 
 ---
 
 _tlrl; google plus fails #melbquake_

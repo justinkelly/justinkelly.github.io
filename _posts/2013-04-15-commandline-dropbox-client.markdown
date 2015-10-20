@@ -3,7 +3,7 @@ layout: post
 title: "Commandline Dropbox client"
 date: 2013-04-15 03:06
 comments: true
-categories: dropbox, linux, bash 
+tags: dropbox, linux, bash 
 ---
 
 Looking for a simple way to upload files from your server to Dropbox without doing a full sync?

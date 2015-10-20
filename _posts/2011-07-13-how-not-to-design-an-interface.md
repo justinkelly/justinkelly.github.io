@@ -3,7 +3,7 @@ layout: post
 title: How not to design an interface
 published: true
 date: 2011-07-13
-categories: []
+tags: []
 
 posterous_url: http://blog.justin.kelly.org.au/how-not-to-design-an-interface
 posterous_slug: how-not-to-design-an-interface

@@ -3,7 +3,7 @@ layout: post
 title: Checking your SRV records for google apps IM
 published: true
 date: 2010-02-18
-categories: 
+tags: 
 - dns
 - google apps
 posterous_url: http://blog.justin.kelly.org.au/checking-your-srv-records-for-google-apps-im

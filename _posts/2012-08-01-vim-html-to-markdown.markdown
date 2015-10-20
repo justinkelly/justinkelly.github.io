@@ -3,7 +3,7 @@ layout: post
 title: "Vim HTML to Markdown"
 date: 2012-08-01 13:37
 comments: true
-categories: 
+tags: 
 - vi
 - vim
 ---

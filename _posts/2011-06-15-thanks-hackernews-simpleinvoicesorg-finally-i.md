@@ -3,7 +3,7 @@ layout: post
 title: "Thanks HackerNews: SimpleInvoices.org finally implements HN donated design"
 published: true
 date: 2011-06-15
-categories: 
+tags: 
 - simple invoices
 posterous_url: http://blog.justin.kelly.org.au/thanks-hackernews-simpleinvoicesorg-finally-i
 posterous_slug: thanks-hackernews-simpleinvoicesorg-finally-i

@@ -3,7 +3,7 @@ layout: post
 title: "Google Plus comments link for Octopress"
 date: 2012-08-08 04:30
 comments: true
-categories: 
+tags: 
 ---
 Need Octopress blog posts to auto link to your Google Plus post for comments?
 

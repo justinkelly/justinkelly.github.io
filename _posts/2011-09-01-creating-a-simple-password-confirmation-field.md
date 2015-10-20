@@ -3,7 +3,7 @@ layout: post
 title: "Creating a simple password confirmation field with Zend_Form : How to"
 published: true
 date: 2011-09-01
-categories: 
+tags: 
 - php
 - zend framework
 posterous_url: http://blog.justin.kelly.org.au/creating-a-simple-password-confirmation-field
