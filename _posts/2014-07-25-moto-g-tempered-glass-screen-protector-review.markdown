@@ -3,6 +3,7 @@ publihsed:true
 layout: post
 title: "Moto G tempered glass screen protector review"
 date: 2014-07-25 05:49
+tags: review motorola
 ---
 
 ![](https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/Moto-G-screen-small.jpg)
