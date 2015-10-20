@@ -1,5 +1,5 @@
 ---
-publihsed:true
+published: true
 layout: post
 title: "Moto G tempered glass screen protector review"
 tags: [review, motorola]
