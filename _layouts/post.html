@@ -11,16 +11,6 @@ layout: default
 <div class="related">
 <p id="post-meta">Tags: {{ tags_content }}</p>
 <h5 class="index-headline featured"><span>Tags</span></h5>
-              <section style="color:#999;font-size:14px;margin-bottom:20px;">
-                {% if page.tags == null %}
-                {% else %}
-                  <ul style="margin-top:0px;">
-                    {% for tag in page.tags %}
-                      <li><a href="/tags#{{ tag | slugify }}-ref">{{ tag | capitalize}}</a></li>
-                    {% endfor %}
-                  </ul>
-                {% endif %}
-              </section>
   {% if page.tags !== null %}
   <h2>Tags</h2>
   <ul class="related-posts">
@@ -33,4 +23,5 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+  {% endif %}
 </div>
