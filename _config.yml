@@ -1,4 +1,4 @@
-excerpt_separator: ""
+excerpt_separator: "\n\n"
 pygments: true
 markdown: kramdown
 url: http://justinkelly.github.io
