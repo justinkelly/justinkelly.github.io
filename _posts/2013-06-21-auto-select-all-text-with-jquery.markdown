@@ -13,11 +13,12 @@ Refer the javascript code and demo below to see it in action.
 
 <iframe
   style="width: 100%; height: 300px"
- src="http://jsfiddle.net/BRCQX/embedded/js,html,css/light/#JavaScript" />
-
+ src="http://jsfiddle.net/BRCQX/embedded/js,html,css/light/#JavaScript" >
+</iframe>
 ### Result
 
 <iframe
   style="width: 100%; height: 300px"
-   src="http://jsfiddle.net/BRCQX/embedded/result/light/#Result" />
+   src="http://jsfiddle.net/BRCQX/embedded/result/light/#Result" >
+</iframe>
 
