@@ -11,12 +11,12 @@ layout: default
 <div class="related">
   {% if page.tags != null %}
   <h2>Tags</h2><i class="fa fa-tag"></i>
-     {% for tag in page.tags %}
         <h3>
+     {% for tag in page.tags %}
          <a href="/tags#{{ tag | slugify }}-ref">{{ tag }}</a>
           </a>
+     {% endfor %}
         </h3>
-    {% endfor %}
   </ul>
   {% endif %}
 </div>
