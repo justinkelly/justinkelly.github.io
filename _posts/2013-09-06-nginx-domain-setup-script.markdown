@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Nginx domain setup script"
-date: 2013-09-06 02:12
+title: Nginx domain setup script
+date: "2013-09-06 02:12"
 comments: true
-categories: [Nginx, linux, ubuntu]
+categories: 
+  - Nginx
+  - linux
+  - ubuntu
+published: true
 ---
 ![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/nginx_200.png )
 
