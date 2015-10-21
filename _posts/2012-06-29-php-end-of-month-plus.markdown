@@ -11,7 +11,7 @@ took a while but finally got it working using the below code - just change 60 da
 
 _end_of_month_plus_60_days.php_
 
-``` php
+```php
 <?php
  
     $invoice_date ='now'; //use 'now' if for the current month else add your data here
