@@ -4,8 +4,11 @@ title: Tags
 ---
 
 {% for tag in site.tags %}
+
   <h2 class='tag-header' id="{{ tag[0]| slugify }}-ref">{{ tag[0] }}</h2>
+
   <ul>
+
     {% assign pages_list = tag[1] %}
 
     {% for node in pages_list %}
@@ -26,5 +29,7 @@ title: Tags
 
     {% assign pages_list = nil %}
     {% assign group = nil %}
+
   </ul>
+
 {% endfor %}
