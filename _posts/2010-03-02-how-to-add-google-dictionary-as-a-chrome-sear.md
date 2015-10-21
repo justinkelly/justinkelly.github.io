@@ -6,8 +6,6 @@ date: 2010-03-02
 tags: 
 - chrome
 - google
-posterous_url: http://blog.justin.kelly.org.au/how-to-add-google-dictionary-as-a-chrome-sear
-posterous_slug: how-to-add-google-dictionary-as-a-chrome-sear
 ---
 Just noticed that Google now has their own Dictionary site: [www.google.com/dictionary](http://www.google.com/dictionary)
 
@@ -38,4 +36,4 @@ in the chrome address box and it&#39;ll auto use Google Dictionary ( refer image
 
 the end result is you'll be auto send to a page like
 
- * [http://www.google.com/dictionary?langpair=en|en&amp;q=archive](http://www.google.com/dictionary?langpair=en|en&amp;q=archive)
+[http://www.google.com/dictionary?langpair=en|en&amp;q=archive](http://www.google.com/dictionary?langpair=en|en&amp;q=archive)
