@@ -11,16 +11,15 @@ posterous_slug: zend-frameworks-this-url-adding-extra-paramet
 ---
 <p>what i was doing</p>
 
-<div class="CodeRay">
-  <div class="code"><pre><span class="predefined">echo</span> <span class="local-variable">$this</span>-&gt;url(<span class="predefined">array</span>(<span class="string"><span class="delimiter">'</span><span class="content">controller</span><span class="delimiter">'</span></span>=<span class="string"><span class="delimiter">'</span><span class="content">pages</span><span class="delimiter">'</span></span>,<span class="string"><span class="delimiter">'</span><span class="content">action</span><span class="delimiter">'</span></span>=<span class="string"><span class="delimiter">'</span><span class="content">about</span><span class="delimiter">'</span></span>));</pre></div>
-</div>
-
+{% highlight php %}
+echo $this->url(array('controller'='pages','action'='about'));
+{% endhighlight %}
 
 <p>the correct way for zend framework $this->url links</p>
 
-<div class="CodeRay">
-  <div class="code"><pre><span class="predefined">echo</span> <span class="local-variable">$this</span>-&gt;url(<span class="predefined">array</span>(<span class="string"><span class="delimiter">'</span><span class="content">controller</span><span class="delimiter">'</span></span>=<span class="string"><span class="delimiter">'</span><span class="content">pages</span><span class="delimiter">'</span></span>,<span class="string"><span class="delimiter">'</span><span class="content">action</span><span class="delimiter">'</span></span>=<span class="string"><span class="delimiter">'</span><span class="content">about</span><span class="delimiter">'</span></span>),<span class="predefined-constant">null</span>,<span class="predefined-constant">true</span>);</pre></div>
-</div>
+{% highlight php %}
+echo $this->url(array('controller'='pages','action'='about'),null,true);
+{% endhighlight %}
 
 
 <p> thanks stackoverflow &ndash; <a href="http://stackoverflow.com/questions/4215295/zend-framework-url-view-helper-adds-id-by-default">http://stackoverflow.com/questions/4215295/zend-framework-url-view-helper-add...</a></p>
