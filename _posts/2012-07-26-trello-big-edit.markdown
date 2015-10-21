@@ -35,7 +35,9 @@ Easiest way to add this into Firefox is to
 
 ### Code
 
-``` javascript trell_big_edit.user.js
+_javascript trell_big_edit.user.js_
+
+{% highlight javascript %}
 // ==UserScript==
 // @name           Trello : Big Edit
 // @author         Justin Kelly http://justin.kelly.org.au @_justin_kelly
@@ -74,7 +76,7 @@ function insertCSS(cssToInsert) {
     style.appendChild(document.createTextNode(cssToInsert));
     head.appendChild(style);
 }
-```
+{% endhighlight %}`
 
 [chrome]: https://chrome.google.com/webstore/detail/full-screen-card-view-for/iakcnnmjbdoemkjecojadhpinebnkipm
 [git]: https://github.com/justinkelly/trello_big_edit
