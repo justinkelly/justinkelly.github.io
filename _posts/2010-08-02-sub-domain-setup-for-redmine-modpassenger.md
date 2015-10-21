@@ -23,7 +23,8 @@ Important things are:
 
 refer example vhost file below
 
-``` apache example_vhost.conf
+`example_vhost.conf`
+{% highlight apache %}
 <VirtualHost *:80>
  
   # Admin email, Server Name (domain name) and any aliases
@@ -49,5 +50,4 @@ refer example vhost file below
   </Directory>
  
 </VirtualHost>
-```
-
+{% endhighlight %}

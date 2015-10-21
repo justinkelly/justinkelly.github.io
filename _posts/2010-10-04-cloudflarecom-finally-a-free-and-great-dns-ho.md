@@ -23,7 +23,7 @@ Only a couple of minor issues:
 * Easiest option is to just download your zone file from cloudflare and add in the below records for SRV
 
 `Google Apps SRV records :: DNS`
-{% highligh yaml %}
+{% highlight yaml %}
 _jabber._tcp.@  1   IN  SRV 5   0   5269    xmpp-server.l.google.com
 _jabber._tcp.@  1   IN  SRV 20  0   5269    xmpp-server4.l.google.com
 _jabber._tcp.@  1   IN  SRV 20  0   5269    xmpp-server2.l.google.com
