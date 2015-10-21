@@ -11,12 +11,12 @@ tags:
 
 just setup a new vps with centos and needed the latest php5.3 - heres the shortcuts
 
-```bash
+{% highlight bash %}
 sudo rpm --import http://repo.webtatic.com/yum/RPM-GPG-KEY-webtatic-andy
 cd /etc/yum.repos.d/
 sudo wget http://repo.webtatic.com/yum/webtatic.repo
 sudo yum --enablerepo=webtatic update php
-```
+{% endhighlight %}
 
 php-xml is not availble in the webtatic repo - you can manually download the rpm from fubra with wget
 
