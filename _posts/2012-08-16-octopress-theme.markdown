@@ -134,7 +134,7 @@ remove the line
 
 {% highlight html %}
 {% raw %}<header role="banner">{% include header.html %}</header>{% endraw %}
-{% endhiglight %}
+{% endhighlight %}
 
 from the `source/_layouts/default.html` file
 
