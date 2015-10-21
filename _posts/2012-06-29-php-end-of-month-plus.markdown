@@ -9,7 +9,9 @@ tags: php
 I was trying to find how to calculate end of the month + 60 days in PHP,
 took a while but finally got it working using the below code - just change 60 days to whatever you want
 
-``` php end_of_month_plus_60_days.php 
+_end_of_month_plus_60_days.php_
+
+```
 <?php
  
     $invoice_date ='now'; //use 'now' if for the current month else add your data here
