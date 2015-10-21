@@ -14,9 +14,9 @@ can easily edit the html content but display it in another non-Wordpress php/htm
 
 Below is a simple way to grab Wordpress content and add it to your site
 
-_page.php_
+`page.php`
 
-{% highlight php}
+{% highlight php %}
 <?php
  
     require( 'wp/wp-load.php' );
