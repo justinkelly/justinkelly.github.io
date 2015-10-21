@@ -11,7 +11,8 @@ posterous_slug: creating-a-simple-password-confirmation-field
 ---
 If you creating a user signup form with `Zend_Form` and need a password confirmation field just use the code below, its very simple but couldn't find any info on the zend framework site on how to do it
 
-``` php User.php
+`User.php`
+{% highlight php %}
 <?php
  
 class Application_Form_User extends Zend_Form
@@ -55,4 +56,4 @@ class Application_Form_User extends Zend_Form
     }
  
 }
-```
+{% endhighlight %}

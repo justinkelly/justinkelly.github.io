@@ -14,7 +14,9 @@ can easily edit the html content but display it in another non-Wordpress php/htm
 
 Below is a simple way to grab Wordpress content and add it to your site
 
-``` php page.php
+_page.php_
+
+{% highlight php}
 <?php
  
     require( 'wp/wp-load.php' );
@@ -34,9 +36,11 @@ Below is a simple way to grab Wordpress content and add it to your site
        //print the page content using the Wordpress page ID
        echo getPageContent('190');
     ?>
-```
+{% endhighlight %}
 
-``` php wp-content.php
+_wp-content.php_
+
+{% highlight php %}
 <?php
  
 if(!function_exists('getPageContent'))
@@ -62,7 +66,7 @@ if(!function_exists('getPageContent'))
     }
  
 ?>
-```
+{% endhighlight %}
 
 Also install the disable auto format plugin to disable the way wordpress formats stored html
 
