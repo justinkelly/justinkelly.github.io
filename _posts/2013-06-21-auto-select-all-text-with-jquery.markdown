@@ -15,6 +15,7 @@ Refer the javascript code and demo below to see it in action.
   style="width: 100%; height: 300px"
  src="http://jsfiddle.net/BRCQX/embedded/js,html,css/light/#JavaScript" >
 </iframe>
+
 ### Result
 
 <iframe
