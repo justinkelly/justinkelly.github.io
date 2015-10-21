@@ -7,8 +7,6 @@ tags:
 - chrome
 - extensions
 - google
-posterous_url: http://blog.justin.kelly.org.au/how-to-create-a-google-chrome-extension-from
-posterous_slug: how-to-create-a-google-chrome-extension-from
 ---
 
 Follow these steps to create a chrome extension from your userscript
@@ -19,7 +17,7 @@ Follow these steps to create a chrome extension from your userscript
 * Create a file called `manifest.json` in this folder
   * example is below - replace the `pinboard.in` content with your details
 
-```
+{% highlight json %}
 {
   "name": "Pinboard.in clean up",
   "version": "0.1",
@@ -32,8 +30,8 @@ Follow these steps to create a chrome extension from your userscript
     }
   ]
 }
-```
- 
+{% endhighlight %}
+
 ### Note
 
 * replace 'pinboardin_clean_up.user.js' with your js file and matches with which pages you want your script to work on
