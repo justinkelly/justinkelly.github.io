@@ -34,4 +34,6 @@ in the chrome address box and it&#39;ll auto use Google Dictionary ( refer image
 
 ![](http://i.minus.com/iNhPYTINpJmHE.png)
 
-the end result is you'll be auto send to a page like: http://www.google.com/dictionary?langpair=en|en&amp;q=archive
+the end result is you'll be auto send to a page like: 
+
+`http://www.google.com/dictionary?langpair=en|en&amp;q=archive`
