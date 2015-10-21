@@ -11,7 +11,7 @@ posterous_slug: php-strip-null-entries-from-an-array-how-to
 For a while i've had issues with certain db update queries in php - particularly where image uploads are involved. 
 My original code looked like
 
-``` php
+{% highlight php %}
 <?php
  
 //db update query from form with image upload fields
@@ -26,7 +26,7 @@ $data = array(
 $this->update($data, 'id = '. (int)$id);
  
 ?>
-```
+{% endhighlight %}
 
 but using the above code would over write the image fields in the db if the user didn't upload a new image 
 
@@ -38,7 +38,8 @@ to get around this problem i wrote an `is_null` check on the image  fields and p
 - see code below
 
 
-``` php strip_null_array_entries.php
+`strip_null_array_entries.php`
+{% highlight php %}
 <?php
  
 /* 
@@ -55,7 +56,8 @@ function strip_null_array_entries($values){
 }
  
 ?>
-```
+{% endhighlight %}
+
 now i don't need to write the `$data` array twice - i can just use
 
 {% highlight php %}
