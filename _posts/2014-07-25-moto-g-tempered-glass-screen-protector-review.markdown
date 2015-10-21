@@ -11,6 +11,8 @@ After scratching and smashing a few screens on my last couple of phones I was de
 
 In the last year a new breed of phone screen protectors has launched onto the market - These are tempered glass protectors, thin strong glass overlays that replace the cheap plastic protectors.
 
+<!--more-->
+
 The nice guys over at [MobileZap](http://www.mobilezap.com.au/35014/motorola/moto-g/screen-protectors.htm) sent over a Orzly premium tempered glass 0.3mm screen protector for review.
 
 

@@ -14,6 +14,8 @@ The good guys over at [MozileZap](http://www.mobilezap.com.au/35004/motorola/mot
 
 The first up is the Cruzerlite Bugdroid case.
 
+<!--more-->
+
 ## The Good
 
  * Looks great, made of a hard rubber so its strong and will bounce if needed.
