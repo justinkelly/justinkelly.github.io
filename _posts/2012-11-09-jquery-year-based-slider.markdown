@@ -3,7 +3,9 @@ layout: post
 title: "jQuery year based slider"
 date: 2012-11-09 04:47
 comments: true
-tags: jQuery, jQuery UI
+tags: 
+- jquery
+- jquery ui
 ---
 
 I haven't been able to find any decent year based jQuery UI date slider examples that have the 2 date ranges pre-populated.

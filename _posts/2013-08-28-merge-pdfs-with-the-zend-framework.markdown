@@ -3,7 +3,7 @@ layout: post
 title: "Merge PDFs with the Zend Framework"
 date: 2013-08-28 05:37
 comments: true
-tags: [Zend Framework, PHP]
+tags: [zend framework, php]
 ---
 
 I've used a number of PHP libraries to handle creation of PDFs but only

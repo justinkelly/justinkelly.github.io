@@ -4,7 +4,7 @@ title: Nginx domain setup script
 date: "2013-09-06 02:12"
 comments: true
 tags: 
-  - Nginx
+  - nginx
   - linux
   - ubuntu
 published: true
