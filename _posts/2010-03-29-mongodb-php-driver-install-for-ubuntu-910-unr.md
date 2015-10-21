@@ -46,7 +46,8 @@ now create the php mongo config file create/open the below file in vi
 
 
 and paste in the below configuration
-```
+
+{% highlight ini %}
 extension=mongo.so
 [mongo]
 ; If the driver should reconnect to mongo
@@ -65,7 +66,7 @@ mongo.default_port = 42
 mongo.chunk_size = 1024
 ; Specify an alternate character to $ to use for special db functions ($set, $push, etc.)
 mongo.cmd = "$"
-```
+{% endhighlight %}
 
 save the above file and close, now check php and ensure that it has picked up the mongo driver and configuration
 

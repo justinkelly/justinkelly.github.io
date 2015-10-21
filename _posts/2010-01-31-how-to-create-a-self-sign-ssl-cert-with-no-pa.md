@@ -17,12 +17,14 @@ Generate your key with openssl
 openssl genrsa -out server.key 1024
 ```
 Output:
-```
+
+{% highlight bash %}
 Generating RSA private key, 1024 bit long modulus
 ..........................++++++
 ..................................................................................++++++
 e is 65537 (0x10001)
-```
+{% endhighlight %}
+
 Use your kep to create your 'Certificate Signing Request' - and leave the passwords blank to create a testing 'no password' certificate
 
 ```
@@ -30,7 +32,7 @@ openssl req -new -key server.key -out server.csr
 ```
 Output:
     
-```
+{% highlight bash %}
 You are about to be asked to enter information that will be incorporated into your certificate request.
 What you are about to enter is what is called a Distinguished Name or a DN.
 There are quite a few fields but you can leave some blank
@@ -47,7 +49,8 @@ Email Address []:
 Please enter the following 'extra' attributes to be sent with your certificate request
 A challenge password []:
 An optional company name []:
-```
+{% endhighlight %}
+
 Now create your ssl certicates for apache
 
 ```

@@ -15,11 +15,14 @@ edit the apt sources file
 ```
 sudo gedit /etc/apt/sources.list
 ```
+
 add in
-```
+
+{% highlight bash %}
 deb http://ppa.launchpad.net/chromium-daily/ppa/ubuntu karmic main
 deb-src http://ppa.launchpad.net/chromium-daily/ppa/ubuntu karmic main
-```
+{% endhighlight %}
+
 then add in the apt key
 
 ```
