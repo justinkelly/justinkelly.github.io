@@ -20,7 +20,9 @@ To make this work I edited the posterous import script - refer new version below
 
 Also the octopress permalinks format needed to change to just :title.  Now any links to my old posterous hosted blog will auto forward to this blog.  Below is the updated import and config script
 
-``` ruby posterous.rb
+`posterous.rb`
+
+{% highlight ruby %}
 require 'rubygems'
 require 'jekyll'
 require 'fileutils'
@@ -106,16 +108,18 @@ module Jekyll
     end
   end
 end
-```
+{% endhighlight %}
 
-``` yaml _config.yml
+`_config.yml`
+
+{% highlight yaml %}
 # To maintain your posterous links use the below permalink config
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
  
 permalink: /:title/
-```
+{% endhighlight %}
 
 ##p.ostero.us
 
