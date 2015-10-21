@@ -9,7 +9,9 @@ tags: php
 As I'm always working with various JSON based APIs in PHP which don't have dedicated libraries, heres my simple 
 'default' Curl JSON function for PHP.
 
-``` php curl_json.php
+_curl_json.php_
+
+{% highlight php %}
 <?php
  
         function curl_json($base_url='',$query='',$json=true){
@@ -56,6 +58,6 @@ As I'm always working with various JSON based APIs in PHP which don't have dedic
                 }
         }
 ?>
-```
+{% endhighlight %}
 
 Just alter the target url, auth setting, and set any default json query and your good to go.  

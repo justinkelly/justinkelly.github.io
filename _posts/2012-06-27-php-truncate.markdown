@@ -11,7 +11,9 @@ It can break on period, end of word / space or however you need.
 
 The default action is to break on the first "." after $limit characters and then pad with "...". 
 
-``` php myTruncate.php
+_myTruncate.php_ 
+
+{% highlight php %}
 <?php
  
 // Original PHP code by Chirp Internet: www.chirp.com.au
@@ -34,7 +36,7 @@ function myTruncate($string, $limit, $break=".", $pad="...")
 }
  
 ?>
-```
+{% endhighlight %}
 
 [http://www.the-art-of-web.com/php/truncate/](http://www.the-art-of-web.com/php/truncate/) has a write up with all the different 
 options, foramts and additonal functions.
