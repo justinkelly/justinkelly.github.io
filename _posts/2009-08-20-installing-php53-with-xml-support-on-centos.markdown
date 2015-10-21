@@ -7,8 +7,6 @@ tags:
 - centos
 - linux
 - php
-posterous_url: http://blog.justin.kelly.org.au/installing-php53-with-xml-support-on-centos
-posterous_slug: installing-php53-with-xml-support-on-centos
 ---
 
 just setup a new vps with centos and needed the latest php5.3 - heres the shortcuts
