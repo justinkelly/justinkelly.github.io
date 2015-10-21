@@ -7,11 +7,11 @@ tags:
 - mysql
 - shell
 - simple invoices
-posterous_url: http://blog.justin.kelly.org.au/mysql-script-drop-all-tables-in-a-db-and-impo
-posterous_slug: mysql-script-drop-all-tables-in-a-db-and-impo
 ---
--- used to refresh SimpleInvoices.org/demo each hour
-```
+
+Used to refresh SimpleInvoices.org/demo each hour
+
+{% highlight bash %}
 #!/bin/bash
 
 MUSER="-- Insert Db username here --"
@@ -34,4 +34,4 @@ done
 
 cat $FILE | mysql -u $MUSER -p$MPASS $MDB
 echo "Sql imported"
-```
+{% endhighlight %}
