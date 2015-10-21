@@ -7,9 +7,9 @@ description: My awesome new site
 permalink: /:title
 paginate: 5
 
-markdown: kramdown
-kramdown:
-  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+#markdown: kramdown
+#kramdown:
+#  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 
 # Build settings
 markdown: redcarpet
