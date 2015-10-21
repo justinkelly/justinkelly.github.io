@@ -28,12 +28,14 @@ select ... 'replace this line with your query'&nbsp; ;
 SPOOL OFF
 quit
 ```
+
 ### 2. Create a simple shell script
 
 ```
 #!/bin/bash
 sqlplus oracle_user/password @/path/to/your/sql_file.sql
 ```
+
 ### 3. chmod the script
 
 ```
@@ -62,4 +64,6 @@ setenv ORA_LIB ..
 
 then just add the oracle_sql.sh to your cron
 
-### 6. done
+### 6. 
+
+done
