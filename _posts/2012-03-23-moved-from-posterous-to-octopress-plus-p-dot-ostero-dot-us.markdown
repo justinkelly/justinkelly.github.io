@@ -121,7 +121,7 @@ end
 permalink: /:title/
 {% endhighlight %}
 
-##p.ostero.us
+## p.ostero.us
 
 My [http://blog.justin.kelly.org.au](http://blog.justin.kelly.org.au) blog is now hosted with octopress at [p.ostero.us](http://p.ostero.us)
 
@@ -132,17 +132,19 @@ This is where [p.ostero.us](http://p.ostero.us) comes in. I'm bringing the beaut
 or hook [p.ostero.us](http://p.ostero.us) up to pull markdown formatted posts from your github repo 
 
 
-###GitHub
+### GitHub
+
 Currently you can easily enought host an octopress blog on github but you still have to mess with ruby/rake to create posts.  With [p.ostero.us](http://p.ostero.us) you just point it at a repo folder that contents your posts - no need to run rake commands
 .  Just use the normal octopress blog template and its all good to go
 
-##No lock in
+## No lock in
 
 I always had the uneasy feeling of being locked into posterous - even though they have a good api - i can't just grab the how blog (theme included) and host of my own server..
 
 With [p.ostero.us](http://p.ostero.us) you can 1 click export/download your site - full octopress install and happily self host your blog any time you want
 
-##Money
+## Money
+
 Another problem with posterous.com was that there was no way to actually pay for the service.  
 Theres a great post over at [pinboard.in](http://blog.pinboard.in/2011/12/don_t_be_a_free_user/) that details whats wrong with this.  
 
@@ -150,7 +152,6 @@ Eventfully they are going to have to make a return for their investor and with n
 
 [p.ostero.us](http://p.ostero.us) is a user pays site with a model similar to [pinboard.in](http://pinboard.in), so you know the service is going to be around in the future and not goign to just get 'turned off' by twitter
 
-##Conclusion
+## Conclusion
+
 If your a posterous.com user looking to move now twitter is about to kill it off check out [p.ostero.us](http://p.ostero.us) 
-
-
