@@ -14,7 +14,8 @@ Refer image below for example of it in action
 
 ![](http://i.minus.com/jRaluuMZF0unf.jpg)
 
-``` html posterous_polaroid.html
+{% highlight html %}
+{% raw %}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
@@ -886,5 +887,5 @@ h1 {
     </div><!-- /.main-column -->
 </body>
 </html>
-?
-```
+{% endraw %}
+{% endhighlight %}
