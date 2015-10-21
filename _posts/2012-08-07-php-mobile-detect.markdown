@@ -11,7 +11,7 @@ is the best.
 
 Below is some sample code of it in action
 
-``` php php_mobile_detect.php
+{% highlight php %}
 <?php
  
 $useragent=$_SERVER['HTTP_USER_AGENT'];
@@ -34,8 +34,7 @@ if ( $mobile == true )
 }       
  
 ?>
-```
-
+{% endhighlight %}
 
 Also for Javascript and Apache mobile detection refer the below posts:
 
