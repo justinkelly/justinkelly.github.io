@@ -17,7 +17,9 @@ _Andy Lester http://betterthangrep.com_
 
 ### How to install
 
-`curl http://betterthangrep.com/ack-standalone >  ~/bin/ack &&; chmod 0755 !#:3`
+{% highlight bash %}
+curl http://betterthangrep.com/ack-standalone >  ~/bin/ack &&; chmod 0755 !#:3
+{% endhighlight %}
 
 ### Top reasons to use ack instead of grep
 
@@ -40,13 +42,26 @@ _Andy Lester http://betterthangrep.com_
 
 Which would you rather type?
 
-`$ grep pattern $(find . -type f | grep -v '\.svn')`
+{% highlight bash %}
+$ grep pattern $(find . -type f | grep -v '\.svn')
+{% endhighlight %}
+
 or
-`$ ack pattern`
+
+{% highlight bash %}
+$ ack pattern
+{% endhighlight %}
 
 also
 
-`grep pattern $(find . -name '*.pl' -or -name '*.pm' -or -name '*.pod' | grep -v .svn)` versus 
-`ack --perl pattern`
+{% highlight bash %}
+grep pattern $(find . -name '*.pl' -or -name '*.pm' -or -name '*.pod' | grep -v .svn)
+{% endhighlight %}
+
+versus
+
+{% highlight bash %}
+ack --perl pattern
+{% endhighlight %}
 
 * Note that ack's `--perl` also checks the shebang lines of files without suffixes, which the find command will not
