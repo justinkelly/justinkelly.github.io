@@ -24,7 +24,6 @@ I've uploaded to userscripts.org a Chrome user script / Firefox greasemonkey scr
 * [http://userscripts.org/scripts/source/75422.user.js](http://userscripts.org/scripts/source/75422.user.js)
 * [http://userscripts.org/scripts/show/75422](http://userscripts.org/scripts/show/75422)
 
- 
 ### Removed sections of the Pinboard UI
 
 - star
