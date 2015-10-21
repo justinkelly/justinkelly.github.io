@@ -16,22 +16,30 @@ MariaDB is a drop-in replacement for MySQL - you don't need to export then impor
 
 ## Remove MySQL
 
-    sudo apt-get install software-properties-common                                                                                                                                        
-    sudo apt-get remove mysql-server                                                                                                                                                       
-    sudo apt-get remove mysql-server-5.5                                                                                                                                                   
-    sudo apt-get remove mysql-server-core-5.5                                                                                                                                              
+{% highlight bash %}
+sudo apt-get install software-properties-common
+sudo apt-get remove mysql-server
+sudo apt-get remove mysql-server-5.5
+sudo apt-get remove mysql-server-core-5.5
+{% endhighlight %}
 
 ## Add MariaDB repository
 
-    sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 0xcbcb082a1bb943db                                                                                                       
-    sudo add-apt-repository 'deb http://mirror.aarnet.edu.au/pub/MariaDB/repo/10.0/ubuntu quantal main'                                                                                    
-    sudo apt-get update                                                                                                                                                                    
-    sudo apt-get install mariadb-server                                                                                                                                                    
+{% highlight bash %}
+sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 0xcbcb082a1bb943db
+sudo add-apt-repository 'deb http://mirror.aarnet.edu.au/pub/MariaDB/repo/10.0/ubuntu quantal main'
+sudo apt-get update
+sudo apt-get install mariadb-server
+{% endhighlight %}
 
-##Check that its worked
+## Check that its worked
 
-    mysql --version           
+{% highlight bash %}
+mysql --version
+{% endhighlight %}
 
-If the migration was a success it'll says the distribution of mysql is MariaDB - similar to below                                                                                                                                                   
+If the migration was a success it'll says the distribution of mysql is MariaDB - similar to below
 
-    mysql  Ver 15.1 Distrib 10.0.3-MariaDB, for debian-linux-gnu (i686) using readline 5.1      
+{% highlight bash %}
+mysql  Ver 15.1 Distrib 10.0.3-MariaDB, for debian-linux-gnu (i686) using readline 5.1
+{% endhighlight %}

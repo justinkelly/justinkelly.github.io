@@ -15,16 +15,17 @@ to removing the default theme and apply the theme I did for [bzr.bz/docs](http:/
 
 Edit `sass/custom/_colors.scss` 
 
-``` scss sass/custom/_colors.scss
+{% highlight scss %}
 $page-bg :#f7f7f7;
 $main-bg :#fff;
 $nav-color :#fff;
 $nav-color-hover: #fff;
 $visited: #fff;
-```
+{% endhighlight %}
+
 Edit `sass/custom/_style.scss`
 
-``` scss sass/custom/_style.scss
+{% highlight scss %}
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
  
@@ -106,11 +107,11 @@ html {
  
  
 }
-```
+{% endhighlight %}
 
 Edit `source/_includes/custom/navigation.html`
 
-``` html source/_includes/custom/navigation.html
+{% highlight html %}
 {% raw %}<ul class="main-navigation">
     <li><a href="{{ root_url }}/">
         <span class="blue_light">
@@ -127,13 +128,13 @@ Edit `source/_includes/custom/navigation.html`
   <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
   <li><a href="{{ root_url }}/about">About me</a></li>
 </ul>{% endraw %}
-```
+{% endhiglight %}
 
 remove the line
 
-``` html
+{% highlight html %}
 {% raw %}<header role="banner">{% include header.html %}</header>{% endraw %}
-```
+{% endhiglight %}
 
 from the `source/_layouts/default.html` file
 
