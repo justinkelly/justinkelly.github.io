@@ -128,7 +128,7 @@ Edit `source/_includes/custom/navigation.html`
   <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
   <li><a href="{{ root_url }}/about">About me</a></li>
 </ul>{% endraw %}
-{% endhiglight %}
+{% endhighlight %}
 
 remove the line
 
