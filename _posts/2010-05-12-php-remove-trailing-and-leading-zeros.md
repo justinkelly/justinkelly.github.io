@@ -5,10 +5,8 @@ published: true
 date: 2010-05-12
 tags:
 - php
-posterous_url: http://blog.justin.kelly.org.au/php-remove-trailing-and-leading-zeros
-posterous_slug: php-remove-trailing-and-leading-zeros
 ---
-couldn't find a nice 'number clean' function for php for remove leading and 
+I couldn't find a nice `number clean` function for php for remove leading and 
 trailing zeros (and trailing decimal points) so hear is function number_clean, enjoy :)
 
 {% highlight php %}

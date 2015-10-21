@@ -23,7 +23,8 @@ Note:
 - replace LIB with your 3 character library code
 - add/remove ue_ sections as you need
 
-``` bash aleph.sh
+`aleph.sh`
+{% highlight bash %}
 #!/bin/bash
  
 SUBJECT='Aleph: alert'
@@ -167,4 +168,4 @@ EOM
 else
         echo "No email needs to be sent - all working OK"
 fi
-```
+{% endhighlight %}
