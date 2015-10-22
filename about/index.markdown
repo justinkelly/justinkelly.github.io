@@ -2,7 +2,9 @@
 layout: page
 title: "About me"
 ---
-{% img right http://justin.kelly.org.au/resume_files/author.png %}
+
+![](http://justin.kelly.org.au/resume_files/author.png)
+
 I'm a PHP/Web Developer based in Melbourne, Australia.  I work on all kinds of projects, from small & large web applications, invoicing web apps, to maintaining existing web apps.
 
 If you have an idea for a project, I'd love to talk to you about it.
