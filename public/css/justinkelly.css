@@ -3,6 +3,9 @@
 	height:auto;
 	margin: 0 auto;
 }
+.no-margin{
+	margin:0;
+}
 /*----- Genral Classes start ------
 body {
 	background: #2C303C;
@@ -54,9 +57,9 @@ hr{
 }
 /*Change icons circle size and color here*/
 .social-icons .fa {
-	width: 50px;
-	height: 50px;
-	line-height: 50px;
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
 	text-align: center;
 	color: #FFF;
 	color: rgba(255, 255, 255, 0.8);
