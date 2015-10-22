@@ -6,6 +6,11 @@
 .no-margin{
 	margin:0;
 }
+.inline{
+	margin:0;
+	padding:0;
+	display:inline;
+}
 /*----- Genral Classes start ------
 body {
 	background: #2C303C;
