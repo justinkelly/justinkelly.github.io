@@ -11,6 +11,13 @@
 	padding:0;
 	display:inline;
 }
+.sidebar-item-top {
+	padding-bottom:1px;
+
+}
+.social-icons span {
+	padding-top:-3px;
+}
 /*----- Genral Classes start ------
 body {
 	background: #2C303C;
