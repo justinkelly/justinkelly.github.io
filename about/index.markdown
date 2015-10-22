@@ -14,6 +14,7 @@ Email me: <a href="mailto:justin@kelly.org.au">justin@kelly.org.au</a>
 Refer below for more [contact](#contact_form) [details](#contact_details) and current [web](#web) projects
 
 <a id="web"></a>
+
 ## Web
 
 ### SimpleInvoices.org
@@ -36,10 +37,13 @@ Started by me at the start of 2010. SmarterInvoices.com provides Simple Invoices
 New 'work-in-progress' web based invoicing app 
 
 <a id="contact_form"></a>
+
 ## Contact me
+
 <iframe width="500px" height="650px" src="http://justin.kelly.org.au/contact.php"><br /></iframe>
 
 <a id="contact_details"></a>
+
 ## More contact details
 
 Email: <a href="mailto:justin@kelly.org.au">justin@kelly.org.au</a>
