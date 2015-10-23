@@ -11,7 +11,8 @@
 	padding:0;
 	display:inline;
 }
-.sidebar-item-top {
+
+#sidebar .sidebar-item-top {
 	padding-bottom:1px;
 
 }
