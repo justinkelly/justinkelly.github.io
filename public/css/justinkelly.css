@@ -24,6 +24,14 @@
 .iframe-contact{
 	border:0;
 }
+.sharing{
+	float:left;
+}
+
+.related{
+	float:right;
+	margin-top:-10px;
+}
 /*----- Genral Classes start ------
 body {
 	background: #2C303C;
