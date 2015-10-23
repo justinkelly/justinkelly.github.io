@@ -12,6 +12,7 @@ If you have an idea for a project, I'd love to talk to you about it.
 ## Contact details
 
 <p class="social-p">
+  <a id="contact_details"></a>
   <a class="social-icons icon-rounded no-margin " href="mailto:justin@kelly.org.au" style="">
 	<i class="fa fa-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
     </a>
@@ -61,10 +62,15 @@ If you have an idea for a project, I'd love to talk to you about it.
 
 ### Freelance web development
 
+Custom web development all kinds of projects:
 
+* Custom Simple Invoices development
+* Business and personal sites
+* Maintaining existing web apps/sites
 
 ### Swinburne University
 
+Library technology focused development for all things search, library/business analytics, Ex Libris and academic libraries
 
 ### SimpleInvoices.org
 
@@ -83,6 +89,4 @@ New 'work-in-progress' web based invoicing app
 ## Contact me
 
 <iframe class="iframe-contact" width="500px" height="650px" src="http://justin.kelly.org.au/contact.php"><br /></iframe>
-
-<a id="contact_details"></a>
 
