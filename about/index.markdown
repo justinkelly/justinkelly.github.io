@@ -11,14 +11,10 @@ If you have an idea for a project, I'd love to talk to you about it.
 
 <p class="social-p">
   <a class="social-icons icon-rounded no-margin " href="mailto:justin@kelly.org.au" style="">
-	<i class="fa fa-envelope-o fa-lg"></i><span>justin@kelly.org.auy</span>
+	<i class="fa fa-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
     </a>
 </p>
 <p class="social-p">
-<a href="mailto:justin@kelly.org.au"><i class="fa fa-envelope-o"></i> justin@kelly.org.au</a>
-</p>
-<p class="social-p">
-
   <a class="social-icons icon-rounded no-margin " href="https://twitter.com/_justin_kelly" style="">
 <i class="fa fa-twitter fa-lg"></i><span>_justin_kelly</span>
     </a>
