@@ -8,6 +8,7 @@ title: "About me"
 Web Developer : Business Analytics : Library Technology based in Melbourne, Australia.
 
 If you have an idea for a project, I'd love to talk to you about it.
+
 <p class="social-p">
   <a class="social-icons icon-rounded no-margin " href="mailto:justin@kelly.org.au" style="">
 	<i class="fa fa-envelope-o fa-lg"></i><span>justin@kelly.org.auy</span>
