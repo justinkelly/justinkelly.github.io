@@ -21,6 +21,9 @@
 .social-p{
 	margin-bottom: 7px;
 }
+.iframe-contact{
+	border:0;
+}
 /*----- Genral Classes start ------
 body {
 	background: #2C303C;

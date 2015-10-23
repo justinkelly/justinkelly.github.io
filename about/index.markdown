@@ -11,8 +11,6 @@ If you have an idea for a project, I'd love to talk to you about it.
 
 ## Contact details
 
-Refer below for more [contact](#contact_form) [details](#contact_details) and current [web](#web) projects
-
 <p class="social-p">
   <a class="social-icons icon-rounded no-margin " href="mailto:justin@kelly.org.au" style="">
 	<i class="fa fa-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
@@ -67,7 +65,6 @@ Refer below for more [contact](#contact_form) [details](#contact_details) and cu
 
 ### Swinburne University
 
-Open source web-based invoice app started by me in 2005 and still going strong
 
 ### SimpleInvoices.org
 
@@ -85,7 +82,7 @@ New 'work-in-progress' web based invoicing app
 
 ## Contact me
 
-<iframe width="500px" height="650px" src="http://justin.kelly.org.au/contact.php"><br /></iframe>
+<iframe class="iframe-contact" width="500px" height="650px" src="http://justin.kelly.org.au/contact.php"><br /></iframe>
 
 <a id="contact_details"></a>
 
