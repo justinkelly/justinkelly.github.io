@@ -11,23 +11,36 @@ If you have an idea for a project, I'd love to talk to you about it.
 
 <a href="mailto:justin@kelly.org.au"><i class="fa fa-envelope-o"></i> justin@kelly.org.au</a>
 
-  <a class="sidebar-nav-item social-icons icon-rounded no-margin sidebar-nav-item" href="https://twitter.com/_justin_kelly" style="">
+  <a class="social-icons icon-rounded no-margin " href="https://twitter.com/_justin_kelly" style="">
 <i class="fa fa-twitter fa-lg"></i><span>_justin_kelly</span>
     </a>
 
-  <a class="sidebar-nav-item social-icons icon-rounded no-margin asidebar-nav-item" href="http://justin.kelly.org.au/+" style="">
+  <a class=" social-icons icon-rounded no-margin" href="http://justin.kelly.org.au/+" style="">
 <i class="fa fa-google-plus fa-lg"></i><span>justin.kelly.org.au/+</span>
     </a>
 
-  <a class="sidebar-nav-item social-icons icon-rounded no-margin asidebar-nav-item" href="https://github.com/justinkelly" style="">
+  <a class="social-icons icon-rounded no-margin" href="https://github.com/justinkelly" style="">
 <i class="fa fa-github fa-lg"></i><span>justinkelly</span>
     </a>
-<p class="sidebar-nav-item social-icons icon-rounded no-margin inline">
-  <a class="" href="https://au.linkedin.com/in/justinkellyau" style=""><i class="fa fa-linkedin"></i></a>
-  <a class="" href="https://bitbucket.org/justin.kelly.org.au" style=""><i class="fa fa-bitbucket"></i></a>
-  <a class="" href="https://facebook.bom/justin.kelly.org.au" style=""><i class="fa fa-facebook"></i></a>
-  <a class="" href="http://orcid.org/0000-0003-2567-6704" style=""><i class="fa fa-openid"></i></a>
-</p>
+
+  <a class="social-icons icon-rounded no-margin" href="https://au.linkedin.com/in/justinkellyau" style="">
+<i class="fa fa-linkedin fa-lg"></i><span>justinkellyau</span>
+    </a>
+
+  <a class="social-icons icon-rounded no-margin" href="https://bitbucket.org/justin.kelly.org.au" style="">
+<i class="fa fa-bitbucket fa-lg"></i><span>justin.kelly.org.au</span>
+    </a>
+
+  <a class=" social-icons icon-rounded no-margin" href="https://bitbucket.org/justin.kelly.org.au" style="">
+<i class="fa fa-facebook fa-lg"></i><span>justin.kelly.org.au</span>
+    </a>
+<a class=" social-icons icon-rounded no-margin" href="https://skype.com" style="">
+<i class="fa fa-skype fa-lg"></i><span>justin.kelly.org.au</span>
+  </a>
+
+  <a class=" social-icons icon-rounded no-margin " href="http://orcid.org/0000-0003-2567-6704" style="">
+<i class="fa fa-openid fa-lg"></i><span>ORCID: 0000-0003-2567-6704</span>
+    </a>
 
 Refer below for more [contact](#contact_form) [details](#contact_details) and current [web](#web) projects
 
@@ -56,16 +69,3 @@ New 'work-in-progress' web based invoicing app
 
 <a id="contact_details"></a>
 
-## More contact details
-
-Email: <a href="mailto:justin@kelly.org.au">justin@kelly.org.au</a>
-
-Google Talk/IM: <a href="mailto:justin@kelly.org.au">justin@kelly.org.au</a>
-
-Google Plus: <a href="http://justin.kelly.org.au/+">justin.kelly.org.au/+</a>
-
-Twitter: <a href="http://twitter.com/_justin_kelly">_justin_kelly</a>
-
-Skype: justin.kelly.org.au
-
-Facebook: <a href="http://facebook.com/justin.kelly.org.au">facebook.com/justin.kelly.org.au</a>
