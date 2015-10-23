@@ -5,7 +5,7 @@ title: "About me"
 
 ![](http://justin.kelly.org.au/resume_files/author.png)
 
-I'm a PHP/Web Developer based in Melbourne, Australia.  I work on all kinds of projects, from small & large web applications, invoicing web apps, to maintaining existing web apps.
+Web Developer | Business Analytics | Library Technologu based in Melbourne, Australia.
 
 If you have an idea for a project, I'd love to talk to you about it.
 
@@ -17,16 +17,10 @@ Refer below for more [contact](#contact_form) [details](#contact_details) and cu
 
 ## Web
 
+
 ### SimpleInvoices.org
 
 Open source web-based invoice app started by me in 2005 and still going strong
-
-### SixHQ.com
-
-Started by me in 2008 to provide the following services:
-
-* Freelance web development
-* Simple Invoices custom development
 
 ### SmarterInvoices.com
 
