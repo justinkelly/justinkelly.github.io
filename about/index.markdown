@@ -9,6 +9,10 @@ Web Developer : Business Analytics : Library Technology based in Melbourne, Aust
 
 If you have an idea for a project, I'd love to talk to you about it.
 
+## Contact details
+
+Refer below for more [contact](#contact_form) [details](#contact_details) and current [web](#web) projects
+
 <p class="social-p">
   <a class="social-icons icon-rounded no-margin " href="mailto:justin@kelly.org.au" style="">
 	<i class="fa fa-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
@@ -55,7 +59,10 @@ If you have an idea for a project, I'd love to talk to you about it.
     </a>
 </p>
 
-Refer below for more [contact](#contact_form) [details](#contact_details) and current [web](#web) projects
+## Work
+
+### Freelance web development
+
 
 
 ### Swinburne University
