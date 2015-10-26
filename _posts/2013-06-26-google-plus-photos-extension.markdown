@@ -2,7 +2,6 @@
 layout: post
 title: "Google Plus photos extension for non Chromebook Pixels"
 date: 2013-06-26 00:37
-comments: false
 tags: chrome
 ---
 
