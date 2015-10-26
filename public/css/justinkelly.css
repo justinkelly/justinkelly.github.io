@@ -156,7 +156,7 @@ hr{
 .social-icons .fa-renren{background-color:#025DAC;}
 .social-icons .fa-skype{background-color:#01AEF2;}
 .social-icons .fa-stack-exchange{background-color:#245590;}
-.social-icons .fa-stack-overflow{background-color:#FF7300;}
+.social-icons .fa-stack-overflow, .social-icons .fa-rss{background-color:#FF7300;}
 .social-icons .fa-trello{background-color:#265A7F;}
 .social-icons .fa-tumblr,.social-icons .fa-tumblr-square{background-color:#314E6C;} 
 .social-icons .fa-twitter,.social-icons .fa-twitter-square{background-color:#32CCFE;} 
