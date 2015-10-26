@@ -41,7 +41,3 @@ I've uploaded this extension to GitHub but won't be uploading to the chrome webs
   Once installed you can now launch Google+ Photos from your Chrome apps menu, refer below screenshot of startup in Win 7
 
 ![](https://raw.github.com/justinkelly/google_plus_photos/master/win7.png)
-
-### Comments ?
-
-Join the discussion at the [Google+ post](https://plus.google.com/118359435432651949322/posts/T1f2J5bJrUb)
