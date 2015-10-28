@@ -1,6 +1,6 @@
 ---
 published: false
-title: {{file.name}}
+title: FILE NAME
 layout: post
 tags: [draft]
 ---
