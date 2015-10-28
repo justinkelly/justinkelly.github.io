@@ -4,4 +4,4 @@ title: Test Tiny press
 layout: post
 tags: [tonyprtess]
 ---
-this is a test wioth tony press
+this is a test with tiny press
