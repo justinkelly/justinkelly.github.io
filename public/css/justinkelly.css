@@ -1,3 +1,4 @@
+//Adjust Lanyon theme
 .container img{
 	max-width:100%;
 	height:auto;
@@ -11,11 +12,14 @@
 	padding:0;
 	display:inline;
 }
-
 #sidebar .sidebar-item-top {
 	padding-bottom:1px;
-
 }
+.page, .post {
+	margin-bottom:2em;
+}
+
+//Add social icons
 .social-icons span {
 	padding-left: 6px;
 }
@@ -33,50 +37,6 @@
 	float:right;
 	margin-top:-17px;
 }
-/*----- Genral Classes start ------
-body {
-	background: #2C303C;
-	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 100%;
-	margin: 0;
-	padding: 0;
-}
-h1 {
-	text-align: center;
-	color: #999;
-	background: rgba(0, 0, 0, 0.36);
-	margin: 0;
-	padding: 5px;
-}
-h2 {
-	text-align: center;
-	color: #999; 
-	margin: 0;
-	padding: 5px;
-	font-size: 1.8em;
-	margin-bottom: 30px;
-} 
- 
-.wrapper,.copyright {
-	padding: 20px;
-	text-align: center;
-}
-hr{
-	margin: 30px 20px;
-	border-top:2px solid #1C1E26 ;
-	border-bottom:2px solid #38404D;
-}
-.list-unstyled {
-	padding-left: 0;
-	list-style: none;
-}
-.list-inline li {
-	display: inline-block;
-	padding-right: 5px;
-	padding-left: 5px;
-	margin-bottom: 10px;
-}
-/*---- Genral classes end -------*/
 
 /*Change icons size here*/
 .social-icons .fa {
