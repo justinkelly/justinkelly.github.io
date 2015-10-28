@@ -1,7 +1,8 @@
 ---
 title:
-title: '{{file.name}}'
 published: false
+title: Test post with Classeur
+tags: '[draft, class, tinypress]'
 
 ---
 <p>Test with an image</p>
