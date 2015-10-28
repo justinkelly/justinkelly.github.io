@@ -1,6 +1,6 @@
 ---
 published: false
-title: Test post with Classeur
+title: Test post with Classeur - update
 layout: post
 tags: [draft, class, tinypress, update]
 ---
