@@ -9,6 +9,3 @@ paginate: 10
 markdown: kramdown
 kramdown:
   input: GFM 
-
- gems:
-   - jekyll-paginate
