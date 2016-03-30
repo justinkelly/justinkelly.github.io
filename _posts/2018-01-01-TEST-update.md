@@ -1,13 +1,10 @@
 ---
+layout: post
 published: false
 title: "Test post with Classeur - update"
-layout: post
-tags: 
-  - draft
-  - class
-  - tinypress
-  - update
+tags: "draft, class, "
 ---
+
 
 Test with an image
 
@@ -15,5 +12,5 @@ Test with an image
 
 more testing here
 
-![AZ test]({{site.baseurl}}/assets/az.PNG)
+![AZ test]({{site.baseurl}}/assets/az.PNG)![az]({{site.baseurl}}/public/images/az.PNG)
 
