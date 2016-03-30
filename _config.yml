@@ -1,5 +1,5 @@
 excerpt_separator: "<!--more-->"
-pygments: true
+highlighter: pygments
 url: http://justinkelly.github.io
 title: Justin Kelly
 tagline: various ramblings
