@@ -21,7 +21,42 @@ I did, heres how to make Octopress add a comments link to the bottom of each blo
 
 Enable Google Plus for Octopress, then add this into `source/_includes/custom/after_footer.html`
 
-{% gist justinkelly/b2eaf44f67225eb1cebd %}
+_after_footer.html_ 
+
+```javascript
+{% comment %}
+  Add content to be output at the bottom of each page. (You might use this for analytics scripts, for example)
+{% endcomment %}
+{% if page.comments == true %}
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function() {
+    //$post_title = $('header .entry-title').text();
+    //$post_domain = document.domain;
+    if( jQuery('article').hasClass('hentry') )
+    {
+        $post_link = encodeURI(jQuery(location).attr('href'));
+        $gp_url = jQuery('.googleplus h1 a').attr('href');
+        $google_plus_id = $gp_url.split('/')[3].split('?')[0] ;
+        $google_query_url = "https://www.googleapis.com/plus/v1/activities?query=" +
+                            $post_link +
+                            "&maxResults=20&orderBy=best&fields=id%2Citems(actor(displayName%2Cid%2Curl)" +
+                            "%2Cid%2Cobject(attachments(id%2Curl)%2Curl))%2Ctitle&key={YOUR_GOOGLE_API_KEY}";
+        jQuery.getJSON($google_query_url,
+            function(data) {
+                jQuery.each(data.items, function(i,item){
+                    if(item.actor.id == $google_plus_id)
+                    {
+                        jQuery('.entry-content').append( "<h3>Comments?</h3><p>Join the discussion at the <a href='" + item.object.url +"'>Google+ post</a></p>");
+                        return false;
+                    }
+                });
+            });
+    };
+});
+</script>
+{% endif %}
+```
 
 Note: you need to replace the `{YOUR_GOOGLE_API_KEY}` section with your google api key
 
