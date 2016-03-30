@@ -3,37 +3,12 @@ tagline: various ramblings
 description: Justin Kelly - various ramblings
 url: http://justinkelly.github.io
 permalink: /:title
-excerpt_separator: "<!--more-->"
+#excerpt_separator: "<!--more-->"
 paginate: 10
 
 markdown: kramdown
 kramdown:
-  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
-
-prose:
-  siteurl: 'http://blog.justin.kelly.org.au/'
-  media: 'public/images'
-  metadata:
-    _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "layout"
-        field:
-          element: "hidden"
-          label: "Layout"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-      - name: "tags"
-        field:
-          element: "text"
-          label: "Tags"
-          placeholder: "Enter tags, separated by spaces"
+  input: GFM 
 
  gems:
    - jekyll-paginate
