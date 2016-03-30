@@ -16,9 +16,10 @@ This creates the Nginx virtual host config file, sets up a sane folder structure
 
 Hope this help other Nginx users to manage domains easier - let me know if you have any additions to the script
 
-Note: script assumes using PHP via fastcgi and unix sockets
+Note: script assumes using PHP via fastcgi and unix sockets.
 
 _Nginx auto domain setup script nginx_domain.sh_
+
 ```bash
 #!/bin/bash
 
