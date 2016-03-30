@@ -18,21 +18,10 @@ kramdown:
 #  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks","lax_spacing","no_intra_emphasis"]
 
 prose:
-  rooturl: '_posts'
   siteurl: 'http://blog.justin.kelly.org.au'
   media: 'public/images'
   metadata:
     _posts:
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
       - name: "published"
         field:
           label: "Published"
@@ -43,4 +32,8 @@ prose:
           element: "hidden"
           label: "Layout"
           value: "post"
-     
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+          placeholder: "Enter tags, separated by spaces"
