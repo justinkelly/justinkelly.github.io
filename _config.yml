@@ -41,3 +41,6 @@ prose:
           element: "text"
           label: "Tags"
           placeholder: "Enter tags, separated by spaces"
+
+ gems:
+   - jekyll-paginate
