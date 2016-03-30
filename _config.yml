@@ -6,7 +6,7 @@ permalink: /:title
 #excerpt_separator: "<!--more-->"
 paginate: 10
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-gist]
 
 markdown: kramdown
 kramdown:
