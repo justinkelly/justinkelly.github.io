@@ -3,7 +3,7 @@ pygments: true
 url: http://justinkelly.github.io
 title: Justin Kelly
 tagline: various ramblings
-description: My awesome new site
+description: Justin Kelly - various ramblings
 permalink: /:title
 paginate: 10
 
@@ -18,7 +18,7 @@ kramdown:
 #  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks","lax_spacing","no_intra_emphasis"]
 
 prose:
-  siteurl: 'http://blog.justin.kelly.org.au'
+  siteurl: 'http://blog.justin.kelly.org.au/'
   media: 'public/images'
   metadata:
     _posts:
@@ -33,9 +33,9 @@ prose:
           label: "Layout"
           value: "post"
       - name: "title"
-      field:
-        element: "text"
-        label: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "tags"
         field:
           element: "text"
