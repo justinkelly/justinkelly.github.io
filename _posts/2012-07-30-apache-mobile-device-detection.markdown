@@ -3,7 +3,7 @@ layout: post
 title: Detect mobile browsers with Apache
 date: "2012-07-30 04:31"
 comments: true
-tags: "apache, mobile"
+tags: apache mobile
 published: true
 ---
 
