@@ -2,7 +2,7 @@ title: Justin Kelly
 tagline: various ramblings
 description: Justin Kelly - various ramblings
 url: http://justinkelly.github.io
-permalink: /:title
+permalink: /:title/
 excerpt_separator: <!--more-->
 paginate: 10
 
@@ -14,3 +14,24 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+prose:
+
+  siteurl: 'http://blog.justin.kelly.org.au/'
+  media: 'media'
+  ignore:
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+  
+  
