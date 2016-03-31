@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Detect mobile browsers with Apache"
-date: 2012-07-30 04:31
+title: Detect mobile browsers with Apache
+date: "2012-07-30 04:31"
 comments: true
-tags: [apache, mobile]
+tags: 
+  - apache
+  - mobile
+published: true
 ---
+
 Thanks to [detectmobilebrowsers.com](http://detectmobilebrowsers.com) theres now a simple way to detect mobile browser
 via Apache web server configs
 
 The below code detects if the device is mobile and then redirect them to the mobile site for the domain
 
-{% highlight apache %}
+{% highlight conf linenos %}
 RewriteEngine On
 RewriteBase /
  
