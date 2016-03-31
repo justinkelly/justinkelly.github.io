@@ -1,7 +1,6 @@
 language: ruby
 rvm:
 - 2.2
-cache: bundler
 sudo: false
 script:
 - bundle exec jekyll build
