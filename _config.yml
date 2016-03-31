@@ -2,12 +2,12 @@ title: Justin Kelly
 tagline: various ramblings
 description: Justin Kelly - various ramblings
 url: http://justinkelly.github.io
-permalink: /:title
-excerpt_separator: "<!--more-->"
-paginate: 10
+#permalink: /:title
+#excerpt_separator: "<!--more-->"
+#paginate: 10
 
-gems:
-   - jekyll-paginate
+#gems:
+#   - jekyll-paginate
 
 markdown: kramdown
 
