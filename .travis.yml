@@ -4,8 +4,3 @@ rvm:
 sudo: false
 script:
 - bundle exec jekyll build
-
-env:
-  matrix:
-    - ""
-    - JEKYLL_VERSION=3.0.0
