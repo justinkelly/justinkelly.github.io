@@ -28,7 +28,8 @@ Important things are:
 refer example vhost file below
 
 `example_vhost.conf`
-{% highlight conf linenos %}
+
+```
 <VirtualHost *:80>
  
   # Admin email, Server Name (domain name) and any aliases
@@ -54,4 +55,4 @@ refer example vhost file below
   </Directory>
  
 </VirtualHost>
-{% endhighlight %}
+```
