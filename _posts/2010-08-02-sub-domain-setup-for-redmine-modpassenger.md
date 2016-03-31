@@ -27,9 +27,9 @@ Important things are:
 
 refer example vhost file below
 
-`example_vhost.conf`
+_example_vhost.conf_
 
-```
+
 <VirtualHost *:80>
  
   # Admin email, Server Name (domain name) and any aliases
@@ -55,4 +55,4 @@ refer example vhost file below
   </Directory>
  
 </VirtualHost>
-```
+
