@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 --- 
 layout: post
 title: Sub-domain setup for Redmine & mod_passenger
@@ -24,7 +28,7 @@ Important things are:
 refer example vhost file below
 
 `example_vhost.conf`
-{% highlight apache %}
+{% highlight conf linenos %}
 <VirtualHost *:80>
  
   # Admin email, Server Name (domain name) and any aliases
