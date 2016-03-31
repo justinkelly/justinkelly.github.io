@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "MOGA Pro controller for Android"
-date: 2015-04-06 14:32
+title: MOGA Pro controller for Android
+date: "2015-04-06 14:32"
 comments: true
-tags: 
+tags: null
+published: true
 ---
+
 Uninspired by the state of mobile gaming on Android? Doesn't have to be that way - Enter the Moga Pro controller.
 
 Gaming on Android is dominated by puzzle and endless runner games that you can play for a few minutes to kill time. Save for a few great games like [VVVVVV](https://play.google.com/store/apps/details?id=air.com.distractionware.vvvvvvmobile&hl=en) gaming on a touch screen is in a totally different leagure to the tactile experience of PC or console gaming.
@@ -25,7 +27,7 @@ Inital setup is a bit of a pain but on the same level as adding any other keyboa
 
 The MOGA comes withaa dedicated app and 2 different bluetooth connection modes. A for  MOGA specific tiles and B for normal bluetooth mode. 
 
-If you're only using emulators I would just stick to B mode and use the MOGA as a regular bluetooth controller 
+If you're only using emulators I would just stick to B mode and use the MOGA as a regular bluetooth controller.
 
 ![](https://457e801a8dceff4f14fee686917b28b7570650e8.googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/moga/IMG_53462.JPG )
 
