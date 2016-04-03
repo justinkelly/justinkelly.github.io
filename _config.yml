@@ -8,6 +8,7 @@ paginate: 10
 
 gems:
    - jekyll-paginate
+   - jekyll-gist
 
 markdown: kramdown
 
