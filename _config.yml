@@ -1,7 +1,8 @@
 title: Justin Kelly
 tagline: various ramblings
 description: Justin Kelly - various ramblings
-url: http://justinkelly.github.io
+url: https://blog.justin.kelly.org.au
+enforce_ssl: https://blog.justin.kelly.org.au
 permalink: /:title/
 excerpt_separator: <!--more-->
 paginate: 10
