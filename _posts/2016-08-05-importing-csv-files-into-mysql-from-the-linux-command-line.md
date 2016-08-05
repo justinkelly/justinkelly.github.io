@@ -17,6 +17,7 @@ Assuming you have a csv file with contents like below (with no headings line)
 124235,0Ezp93248igtsYu
 12314,0I1d96ujWqrqqU6
 ```
+
 Ensure the `mysql-client` is installed and use the `mysqlimport` command. Refer below for a detailed example. 
 
 ```bash
@@ -25,13 +26,13 @@ mysqlimport  --fields-terminated-by=, --verbose --local -u root -p mysql-databas
 where 
 
  * `--fields-terminated-by` is the delimited
- * `--local` indicates that the csv or file ir
+ * `--local` indicates that the csv or file is on your local file system
  * `-u` is the MySQL user
  * `-p` prompts for the MySQL password
  * `mysql-database-name` replace this with the name of your database
  * `mysql-table-name` the name of the csv file needs to match the target MySQL table name, the extension doesn't matter. This can also include the file path at the start ie. `/var/www/session.csv`
  
-if you csv has a headings row (such as example below) you can added the option `--ignore-lines=1` to skip that line 
+If your csv has a headings row (such as example below) you can added the option `--ignore-lines=1` to skip that line 
 
 ```bash
 user_id, session_id
