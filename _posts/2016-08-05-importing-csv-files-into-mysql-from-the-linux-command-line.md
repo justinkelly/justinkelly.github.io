@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: Importing CSV files into MySQL from the Linux command line
 date: '2016-08-05 14:12'
 comments: true
