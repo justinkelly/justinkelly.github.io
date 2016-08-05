@@ -4,7 +4,7 @@ published: true
 title: Importing CSV files into MySQL from the Linux command line
 date: '2016-08-05 14:12'
 comments: true
-tags: 'mysql, linux'
+tags: mysql linux
 ---
 Every so often I need to bulk import csv type files into MySQL and I forgot the process.  Here are the steps for a simple csv into MySQL.
 
