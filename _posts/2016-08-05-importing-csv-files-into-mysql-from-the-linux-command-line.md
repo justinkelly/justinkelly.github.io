@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 published: true
 title: Importing CSV files into MySQL from the Linux command line
 date: '2016-08-05 14:12'
