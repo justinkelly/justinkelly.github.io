@@ -88,5 +88,9 @@ New 'work-in-progress' web based invoicing app
 
 ## Contact me
 
-<iframe class="iframe-contact" width="500px" height="650px" src="http://justin.kelly.org.au/contact.php"><br /></iframe>
+<form method="POST" action="http://formspree.io/justin@kelly.org.au">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
 
