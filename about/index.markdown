@@ -9,6 +9,16 @@ Web Developer : Business Analytics : Library Technology based in Melbourne, Aust
 
 If you have an idea for a project, I'd love to talk to you about it.
 
+## Latest blog posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Contact details
 
 <p class="social-p">
@@ -110,4 +120,3 @@ New 'work-in-progress' web based invoicing app
       <input type="submit" class="btn btn-lg" value="Send">
     </div>
   </form>
-
