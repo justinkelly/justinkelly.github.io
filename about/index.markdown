@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: page-no-title
+title: "About me"
 ---
 {% include author.html %} 
 
