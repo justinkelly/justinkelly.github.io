@@ -119,7 +119,7 @@ New 'work-in-progress' web based invoicing app
     </div>
 
     <div>
-      <input type="hidden" name="_next" value="//justin.kelly.org.au/thanks">
+      <input type="hidden" name="_next" value="//blog.justin.kelly.org.au/thanks">
       <input type="hidden" name="_subject" value="Justin Kelly website - contact form" />
       <input type="submit" class="btn btn-lg" value="Send">
     </div>
