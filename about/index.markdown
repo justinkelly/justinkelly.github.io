@@ -22,7 +22,7 @@ If you have an idea for a project, I'd love to talk to you about it.
 	</li>
 </ul>
 
-
+<a name="contact"></a>
 ## Contact details
 
 <p class="social-p">
