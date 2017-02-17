@@ -7,13 +7,13 @@ permalink: /:title/
 excerpt_separator: <!--more-->
 paginate: 10
 
-# Owner/author information
+# Owner/author
 owner:
   name:           Justin Kelly
   avatar:         jk.png
   email:          justin@kelly.org.au
   description:    Web Developer | Business Analytics | Library Technology based in Melbourne, Australia
-  # Social networking links used in footer. Update and remove as you like.
+  # Social networking links used in footer
   twitter:        _justin_kelly
   facebook:       justin.kelly.org.au
   github:         justinkelly
