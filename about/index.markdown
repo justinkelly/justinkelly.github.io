@@ -2,7 +2,6 @@
 layout: page
 title: "About me"
 ---
-
 {% include author.html %} 
 
 If you have an idea for a project, I'd love to talk to you about it.
@@ -69,6 +68,7 @@ If you have an idea for a project, I'd love to talk to you about it.
     </a>
 </p>
 
+<br />
 <a name="contact"></a>
 
 ## Contact me
@@ -95,6 +95,8 @@ If you have an idea for a project, I'd love to talk to you about it.
       <input type="submit" class="btn btn-lg" value="Send">
     </div>
   </form>
+
+<br />
 
 ## Work
 
