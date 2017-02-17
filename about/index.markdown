@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-![](http://justin.kelly.org.au/resume_files/author.png)
+![](/public/images/jk.png)
 
 Web Developer : Business Analytics : Library Technology based in Melbourne, Australia.
 
@@ -12,12 +12,13 @@ If you have an idea for a project, I'd love to talk to you about it.
 ## Latest blog posts
 
 <ul>
-  {% for post in site.posts %}
-    <li>
+  {% for post in site.posts limit:5 %}
+      <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-  {% endfor %}
+  {% endfor %}  
 </ul>
+<a href="https://blog.justin.kelly.org.au" class="btn btn-sm btn-primary">More posts <i class="fa fa-long-arrow-right"></i></a>
 
 ## Contact details
 
