@@ -94,3 +94,9 @@ New 'work-in-progress' web based invoicing app
   <button type="submit">Send</button>
 </form>
 
+<form action="https://api.formbucket.com/f/buk_ANt8wlZzOH6gZ9xniBrzKzr5" method="post" target="_blank">
+  <input type="text" name="email" placeholder="Does it work?" />
+  <label style="display: none" >Honey pot (Should be empty and hidden)</label><input type="text" name="__bucket_trap__" value="" style="display: none" />
+  <button class="button secondary" type="submit">Submit</button>
+</form>
+
