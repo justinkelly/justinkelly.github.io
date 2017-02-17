@@ -9,7 +9,7 @@ category: contact
   <h1>Thank you!</h1>
 
   <p>
-    Thank you for contactingg out to me.
+    Thank you for contacting out to me.
   </p>
 
   <p>
