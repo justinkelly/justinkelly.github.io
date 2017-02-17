@@ -37,7 +37,10 @@
 	float:right;
 	margin-top:-17px;
 }
-
+/*Cards */
+.card {
+    margin-bottom: 15px;
+}
 
 /* Contact form */
 .btn {
