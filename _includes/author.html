@@ -22,8 +22,7 @@
   <div class="card-block">
     <h6 class="card-subtitle mb-2 text-muted">Author</h6>
               <h4 class="card-title">{{ site.owner.name }}</h4>
-    
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">{{ site.owner.description }}</p>
     <a href="#" class="card-link">Card link</a>
     <a href="#" class="card-link">Another link</a>
   </div>
@@ -32,14 +31,15 @@
 <div class="card">
   <div class="card-block">
 <div class="media">
-  <img class="d-flex align-self-start mr-3" src="{{site.url}}/public/images/{{ site.owner.avatar }}" alt="Justin Kelly">
+  <img class="d-flex align-self-center mr-3" src="{{site.url}}/public/images/{{ site.owner.avatar }}" alt="Justin Kelly">
   <div class="media-body">
        <h6 class="card-subtitle mb-2 text-muted">Author</h6>
         <h4 class="card-title">{{ site.owner.name }}</h4>
     
     <h5 class="mt-0">Top-aligned media</h5>
   <p>{{ site.owner.description }}</p>
-           
+               <a href="#" class="card-link">Contact me</a>
+    <a href="https://twitter.com/intent/follow?screen_name=_justin_kelly" class="card-link">Twitter</a>
   </div>
 </div>
                 </div>
