@@ -3843,7 +3843,7 @@ tbody.collapse.show {
 }
 
 .card-link:hover {
-  text-decoration: none;
+ /* text-decoration: none;*/
 }
 
 .card-link + .card-link {
