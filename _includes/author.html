@@ -3,7 +3,9 @@
     <div class="media">
         <img class="d-flex align-self-center mr-3" src="{{site.url}}/public/images/{{ site.owner.avatar }}" alt="Justin Kelly">
         <div class="media-body">
+          {% if page.layout == 'post' %}
             <h6 class="card-subtitle mb-2 text-muted">Author</h6>
+          {% endif %} 
             <h4 class="card-title">{{ site.owner.name }}</h4>
             <p>{{ site.owner.description }}</p>
             <a href="{{site.url}}/about/#contact" class="card-link">Contact me</a>
