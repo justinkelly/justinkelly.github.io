@@ -22,7 +22,6 @@ If you have an idea for a project, I'd love to talk to you about it.
 	</li>
 </ul>
 
-<a name="contact"></a>
 ## Contact details
 
 <p class="social-p">
@@ -98,7 +97,7 @@ Started by me at the start of 2010. SmarterInvoices.com provides Simple Invoices
 
 New 'work-in-progress' web based invoicing app 
 
-<a id="contact_form"></a>
+<a name="contact"></a>
 
 ## Contact me
 
