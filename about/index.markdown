@@ -3,9 +3,7 @@ layout: page
 title: "About me"
 ---
 
-![](/public/images/jk.png)
-
-Web Developer : Business Analytics : Library Technology based in Melbourne, Australia.
+{% include author.html %} 
 
 If you have an idea for a project, I'd love to talk to you about it.
 
