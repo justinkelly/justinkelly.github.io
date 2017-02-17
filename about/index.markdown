@@ -94,9 +94,61 @@ New 'work-in-progress' web based invoicing app
   <button type="submit">Send</button>
 </form>
 
+
+
 <form action="https://api.formbucket.com/f/buk_ANt8wlZzOH6gZ9xniBrzKzr5" method="post" target="_blank">
   <input type="text" name="email" placeholder="Does it work?" />
   <label style="display: none" >Honey pot (Should be empty and hidden)</label><input type="text" name="__bucket_trap__" value="" style="display: none" />
   <button class="button secondary" type="submit">Submit</button>
 </form>
+
+
+<form action="//formspree.io/seb@saunier.me" role="form" method="POST" _lpchecked="1">
+    <div class="form-group">
+      <label for="name">What's your name?</label>
+      <input type="text" name="name" class="form-control" required="">
+    </div>
+
+    <div class="form-group">
+      <label for="_replyto">And email address, please?</label>
+      <input type="email" name="_replyto" class="form-control" required="">
+    </div>
+
+    <div class="form-group">
+      <label for="problem">Which problem are you solving?</label>
+      <textarea name="problem" class="form-control" rows="2"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="customer">Which customer segment suffers this pain?</label>
+      <textarea name="customer" class="form-control" rows="2"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="team">How big is the team already working on a solution?</label>
+      <textarea name="team" class="form-control" rows="2"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="funding">Current project funding</label>
+      <select name="funding" class="form-control">
+        <option value="">Choose...</option>
+        <option>Pre-seed</option>
+        <option>Seed</option>
+        <option>Serie A</option>
+        <option>Series B+</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="message">How can I help you?</label>
+      <textarea name="body" class="form-control" rows="4" width="100%" required=""></textarea>
+    </div>
+
+    <div>
+      <input type="hidden" name="_next" value="//sebastien.saunier.me/thanks.html">
+      <input type="submit" class="btn btn-lg" value="Let's do business together">
+      or <a href="mailto:seb@saunier.me" target="_blank">drop a simple email</a>
+    </div>
+  </form>
 
