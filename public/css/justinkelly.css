@@ -38,6 +38,46 @@
 	margin-top:-17px;
 }
 
+
+/* Contact form */
+.btn {
+  border: none;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1.4;
+  border-radius: 4px;
+  padding: 10px 15px;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -webkit-transition: 0.25s linear;
+  transition: 0.25s linear;
+  background-color: #255b96;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+.btn:hover,
+.btn:focus {
+  color: #ffffff;
+  background-color: #3073b3;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn:active,
+.btn.active {
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.btn-lg {
+  padding: 10px 19px;
+  font-size: 17px;
+  line-height: 1.471;
+  border-radius: 6px;
+}
+
+.form-control {
+  -moz-box-sizing: padding-box;
+  box-sizing: padding-box;
+}
 /*Change icons size here*/
 .social-icons .fa {
 	font-size: 1.6em;
