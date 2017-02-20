@@ -37,35 +37,43 @@ If you have an idea for a project, I'd love to talk to you about it.
 <i class="fa fa-google-plus fa-lg"></i><span>justin.kelly.org.au/+</span>
     </a>
 </p>
-<p class="social-p">
-  <a class="social-icons icon-rounded no-margin" href="https://github.com/justinkelly" style="">
-<i class="fa fa-github fa-lg"></i><span>justinkelly</span>
-    </a>
-</p>
+
 <p class="social-p">
   <a class="social-icons icon-rounded no-margin" href="https://au.linkedin.com/in/justinkellyau" style="">
 <i class="fa fa-linkedin fa-lg"></i><span>justinkellyau</span>
     </a>
 </p>
+
 <p class="social-p">
-  <a class="social-icons icon-rounded no-margin" href="https://bitbucket.org/justin.kelly.org.au" style="">
-<i class="fa fa-bitbucket fa-lg"></i><span>justin.kelly.org.au</span>
-    </a>
+	<a class=" social-icons icon-rounded no-margin" href="https://skype.com" style="">
+		<i class="fa fa-skype fa-lg"></i><span>justin.kelly.org.au</span>
+  	</a>
 </p>
 <p class="social-p">
-  <a class=" social-icons icon-rounded no-margin" href="https://bitbucket.org/justin.kelly.org.au" style="">
-<i class="fa fa-facebook fa-lg"></i><span>justin.kelly.org.au</span>
-    </a>
-</p>
-<p class="social-p">
-<a class=" social-icons icon-rounded no-margin" href="https://skype.com" style="">
-<i class="fa fa-skype fa-lg"></i><span>justin.kelly.org.au</span>
-  </a>
-</p>
-<p class="social-p">
-  <a class=" social-icons icon-rounded no-margin " href="http://orcid.org/0000-0003-2567-6704" style="">
+  <a class=" social-icons icon-rounded no-margin " alt="ORCID" href="http://orcid.org/0000-0003-2567-6704" style="">
 <i class="fa fa-openid fa-lg"></i><span>ORCID: 0000-0003-2567-6704</span>
     </a>
+ </p>
+<p class="social-p">
+
+
+  <a class="social-icons icon-rounded no-margin" href="https://github.com/justinkelly" style="">
+<i class="fa fa-github fa-lg"></i><span>justinkelly</span>
+    </a>
+
+
+  <a class="social-icons icon-rounded no-margin" href="https://bitbucket.org/justin.kelly.org.au" style="">
+	<i class="fa fa-bitbucket fa-lg"></i>
+  </a>
+
+  <a class=" social-icons icon-rounded no-margin" href="https://facebook.com/justin.kelly.org.au" style="">
+	<i class="fa fa-facebook fa-lg"></i>
+  </a>
+
+<a class=" social-icons icon-rounded no-margin" href="http://feeds.feedburner.com/justinkelly" style="">
+	<i class="fa fa-rss"></i>
+	</a>
+
 </p>
 
 <br />
