@@ -103,31 +103,3 @@ If you have an idea for a project, I'd love to talk to you about it.
       <input type="submit" class="btn btn-lg" value="Send">
     </div>
   </form>
-
-<br />
-
-## Work
-
-### Freelance web development
-
-Custom web development all kinds of projects:
-
-* Custom Simple Invoices development
-* Business and personal sites
-* Maintaining existing web apps/sites
-
-### Swinburne University
-
-Library technology focused development for all things search, library/business analytics, Ex Libris and academic libraries
-
-### SimpleInvoices.org
-
-Open source web-based invoice app started by me in 2005 and still going strong
-
-### SmarterInvoices.com
-
-Started by me at the start of 2010. SmarterInvoices.com provides Simple Invoices hosting
-
-### Invoice.im
-
-New 'work-in-progress' web based invoicing app 
