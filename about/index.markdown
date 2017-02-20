@@ -58,7 +58,7 @@ If you have an idea for a project, I'd love to talk to you about it.
 
 
   <a class="social-icons icon-rounded no-margin" href="https://github.com/justinkelly" style="">
-<i class="fa fa-github fa-lg"></i><span>justinkelly</span>
+<i class="fa fa-github fa-lg"></i>
     </a>
 
 
@@ -71,7 +71,7 @@ If you have an idea for a project, I'd love to talk to you about it.
   </a>
 
 <a class=" social-icons icon-rounded no-margin" href="http://feeds.feedburner.com/justinkelly" style="">
-	<i class="fa fa-rss"></i>
+	<i class="fa fa-rss fa-lg"></i>
 	</a>
 
 </p>
