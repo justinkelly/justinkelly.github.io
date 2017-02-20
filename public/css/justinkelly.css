@@ -110,6 +110,7 @@
 }
 .social-icons.icon-rounded .fa{
 	border-radius:5px;
+	margin-right:5px;
 }
 .social-icons.icon-flat .fa{
 	border-radius: 0;
