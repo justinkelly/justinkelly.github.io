@@ -3,7 +3,7 @@ layout: post
 title: Nginx domain setup script
 date: '2013-09-06 02:12'
 comments: true
-tags: 'nginx, linux, ubuntu'
+tags: nginx linux ubuntu
 published: true
 ---
 
