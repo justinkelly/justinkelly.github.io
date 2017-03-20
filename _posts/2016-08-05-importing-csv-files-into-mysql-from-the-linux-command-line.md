@@ -21,8 +21,9 @@ Assuming you have a csv file with contents like below (with no headings line)
 Ensure the `mysql-client` is installed and use the `mysqlimport` command. Refer below for a detailed example. 
 
 ```bash
-mysqlimport  --fields-terminated-by=, --verbose --local -u root -p mysql-database-name mysql-table-name.csv 
+mysqlimport  --fields-terminated-by=, --verbose --local -u root -p mysql-database-name mysql-table-name.csv
 ```
+
 where 
 
  * `--fields-terminated-by` is the delimited

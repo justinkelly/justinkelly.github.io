@@ -19,6 +19,11 @@
 	margin-bottom:2em;
 }
 
+//adjust code higlight
+.highlight {
+    border: 1px solid #dedede;
+}
+
 //Add social icons
 .social-icons span {
 	padding-left: 6px;
