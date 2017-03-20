@@ -33,11 +33,11 @@ kramdown:
   
 srcset:
   optipng: true
-  cache: "/img/cache/"
+  cache: "img/cache/"
 
 prose:
   siteurl: 'http://blog.justin.kelly.org.au/'
-  media: 'assets/images'
+  media: 'img'
   ignore:
     - /_layouts
     - /_includes
