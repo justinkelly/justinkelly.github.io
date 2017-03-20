@@ -24,6 +24,20 @@
     border: 1px solid #dedede;
 }
 
+//adjust image layout
+
+.post img {
+    display: block;
+    max-width: 126%;
+    height: auto;
+    padding: 0.6em 0;
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
 //Add social icons
 .social-icons span {
 	padding-left: 6px;
