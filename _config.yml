@@ -30,6 +30,10 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  
+srcset:
+  optipng: true
+  cache: "/img/cache/"
 
 prose:
   siteurl: 'http://blog.justin.kelly.org.au/'
