@@ -52,6 +52,11 @@ prose:
           label: "Title"
           element: "text"
           value: "An Awesome Headline!"
+      - name: "comments"
+        field:
+          label: "Comments"
+          element: "checkbox"
+          value: "true"
       - name: "tags"
         field:
           element: "text"
