@@ -23,6 +23,7 @@ owner:
 gems:
    - jekyll-paginate
    - jekyll-gist
+   - jekyll-srcset
 
 markdown: kramdown
 
