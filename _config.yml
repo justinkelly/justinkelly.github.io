@@ -36,6 +36,7 @@ prose:
   ignore:
     - /_layouts
     - /_includes
+    - /.gitignore
   metadata:
     _posts:
       - name: "layout"
