@@ -41,6 +41,8 @@ prose:
     - /Gemfile
     - /atom.xml
     - /tags
+    - /CNAME
+    - /admin
   metadata:
     _posts:
       - name: "layout"
