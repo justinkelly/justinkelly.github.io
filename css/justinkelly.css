@@ -1,4 +1,4 @@
-//Adjust Lanyon theme
+/* Adjust Lanyon theme */
 .container img{
 	max-width:100%;
 	height:auto;
@@ -19,8 +19,8 @@
 	margin-bottom:2em;
 }
 
-//adjust code higlight
-.highlight {
+/* adjust code higlight */
+pre.highlight {
     border: 1px solid #dedede;
 }
 
@@ -38,7 +38,7 @@
     transform: translateX(-50%);
 }
 
-//Add social icons
+/*Add social icons*/
 .social-icons span {
 	padding-left: 6px;
 }
