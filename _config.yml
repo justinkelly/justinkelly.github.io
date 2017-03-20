@@ -37,6 +37,10 @@ prose:
     - /_layouts
     - /_includes
     - /.gitignore
+    - /.travis.yml
+    - /Gemfile
+    - /atom.xml
+    - /tags
   metadata:
     _posts:
       - name: "layout"
