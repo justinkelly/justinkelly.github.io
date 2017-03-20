@@ -7,7 +7,7 @@ tags: nginx linux ubuntu
 published: true
 ---
 
-![](/public/images/nginx_200.png)
+![](/img/nginx_200.png)
 
 After writing a number of scripts to auto create domains for Apache and Nginx on linux servers I've finally gotten round to cleaning it up and releasing by current script to handle
 auto creating domains for Nginx (my current preferred web server)

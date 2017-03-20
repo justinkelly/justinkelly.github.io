@@ -12,5 +12,5 @@ Test with an image
 
 more testing here
 
-![AZ test]({{site.baseurl}}/assets/az.PNG)![az]({{site.baseurl}}/public/images/az.PNG)
+![AZ test]({{site.baseurl}}/assets/az.PNG)![az]({{site.baseurl}}/img/az.PNG)
 

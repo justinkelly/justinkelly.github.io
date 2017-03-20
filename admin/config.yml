@@ -3,7 +3,7 @@ backend:
   repo: justinkelly/justinkelly.github.io
   branch: master # Branch to update
   
-media_folder: "public/images/uploads" 
+media_folder: "/img/uploads" 
 
 collections:
   - name: "blog" # Used in routes, e.g. /admin/collections/blog
