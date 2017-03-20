@@ -12,8 +12,7 @@ Gaming on Android is dominated by puzzle and endless runner games that you can p
 
 <!--more-->
 
-![IMG_5341.JPG]({{site.baseurl}}/assets/images/IMG_5341.JPG)
-![]({{site.baseurl}}/assets/images/IMG_5341.JPG)
+{% image_tag src="/assets/images/IMG_5341.JPG" width="100" %}
 
 The new higher end Moga controllers bring the great tactile experience of console gaming to mobile.
 
@@ -29,7 +28,7 @@ The MOGA comes withaa dedicated app and 2 different bluetooth connection modes. 
 
 If you're only using emulators I would just stick to B mode and use the MOGA as a regular bluetooth controller.
 
-![IMG_53462.JPG]({{site.baseurl}}/assets/images/IMG_53462.JPG)
+{% image_tag src="/assets/images/IMG_53462.JPG" width="100" %}
 
 ## The Good
 
