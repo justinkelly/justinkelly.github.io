@@ -38,6 +38,12 @@ pre.highlight {
     transform: translateX(-50%);
 }
 
+/*Adjust related footer */
+.related {
+    border-top: 0px solid #eee;
+    padding-top: 1rem;
+}
+
 /*Add social icons*/
 .social-icons span {
 	padding-left: 6px;
