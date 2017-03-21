@@ -9,9 +9,9 @@ tags:
 ---
 For the life of me I can't figure out how to flip/rotate a video in linux using any GUI apps
 
-Here's the commandline way to do it<br />
+Here's the commandline way to do it
 
-```
+``` shell
 mencoder -ovc lavc -vf rotate=2 -oac copy INPUT.AVI -o OUTPUT.AVI
 ```
 
