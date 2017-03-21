@@ -20,4 +20,4 @@ Zend http://framework.zend.com/svn/framework/standard/tags/release-1.7.5/library
 now once theres a new zf release we want just edit the svn props and its all good :)
 
 
-<p><a href="http://svnbook.red-bean.com/en/1.0/ch07s03.html">http://svnbook.red-bean.com/en/1.0/ch07s03.html</a></p>
+[http://svnbook.red-bean.com/en/1.0/ch07s03.html](http://svnbook.red-bean.com/en/1.0/ch07s03.html)

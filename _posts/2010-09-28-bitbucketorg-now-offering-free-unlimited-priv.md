@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Bitbucket.org now offering free unlimited private Hg projects 
-published: true
+published: false
 date: 2010-09-28
 tags: [hg , version control, mercurial]
 

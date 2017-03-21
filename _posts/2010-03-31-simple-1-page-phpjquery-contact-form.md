@@ -10,13 +10,6 @@ tags:
 I've been after a simple 1 file contact form in PHP and jQuery for ages, 
 below is a dead simple cut & paste solution for a simple contact form 
 
-refer: 
-
-* [justin.kelly.org.au/contact.php](http://justin.kelly.org.au/contact.php) for a live example
-* also [http://justin.kelly.org.au/#contact_form](http://justin.kelly.org.au/#contact_form) for example of it embedded in another page  
-
-refer code inline below
-
 _contact.php_
 
 ``` php

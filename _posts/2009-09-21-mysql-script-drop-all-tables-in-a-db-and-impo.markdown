@@ -11,7 +11,7 @@ tags:
 
 Used to refresh SimpleInvoices.org/demo each hour
 
-{% highlight bash %}
+``` shell
 #!/bin/bash
 
 MUSER="-- Insert Db username here --"
@@ -34,4 +34,4 @@ done
 
 cat $FILE | mysql -u $MUSER -p$MPASS $MDB
 echo "Sql imported"
-{% endhighlight %}
+```
