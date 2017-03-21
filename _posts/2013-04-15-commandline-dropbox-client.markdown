@@ -51,7 +51,7 @@ and click the `Create an app` button
 Fill in the app name as listed by the script, select 'Core' and 'App folder access' (this will create a folder call /App/MyUploader888 in your Dropbox director. 
 If you want to access all files in your Dropbox select 'Full Dropbox'
 
-{% image_tag src="/img/2013-Blog-Dropbox0-0core.png" width="400" %}
+{% image_tag src="/img/2013-Blog-Dropbox-core.png" width="400" %}
 
 Dropbox will now show you your API details for this app, get the 'App key' and paste it into commandline
 
