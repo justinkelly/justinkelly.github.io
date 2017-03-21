@@ -3,11 +3,7 @@ layout: post
 title: shell script to check if ExLibris Aleph is running OK
 published: true
 date: 2010-05-10
-tags: 
-- aleph
-- bash
-- exlibris
-- linux
+tags: aleph bash exlibris linux
 ---
 If you have to admin Aleph from ExLibris you may be wondering why there is minimal tools to help you make sure its all running ok
 
@@ -21,8 +17,8 @@ Note:
 - replace LIB with your 3 character library code
 - add/remove ue_ sections as you need
 
-`aleph.sh`
-{% highlight bash %}
+_aleph.sh_
+``` shell
 #!/bin/bash
  
 SUBJECT='Aleph: alert'
@@ -166,4 +162,4 @@ EOM
 else
         echo "No email needs to be sent - all working OK"
 fi
-{% endhighlight %}
+```
