@@ -5,12 +5,13 @@ published: true
 date: 2010-10-11
 tags: javascript
 ---
+
 I've searched the web for a simple way to detect all the different mobile 
 devices ( iphones, andriod, etc..) with javascript but couldn't find anything decent.
 
 This is what i've come up with and has worked for me
 
-```javascript
+``` javascript
 /*
  * Simple javascript mobile OS / iphone/ android detector
  *

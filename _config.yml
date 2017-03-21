@@ -58,12 +58,12 @@ prose:
         field:
           label: "Published"
           element: "checkbox"
-          value: "true"
+          value: true
       - name: "title"
         field:
           label: "Title"
           element: "text"
-          value: "An Awesome Headline!"
+          value: "Title goes here"
       - name: "comments"
         field:
           label: "Comments"
