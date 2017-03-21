@@ -3,7 +3,7 @@ layout: post
 title: "Vi - No higlight"
 date: 2012-09-05 01:44
 comments: true
-tags: [ vi, vim]
+tags: vi
 ---
 
 Many times in Vim I’ve mashed in some random command and the whole screen becomes highlighted 

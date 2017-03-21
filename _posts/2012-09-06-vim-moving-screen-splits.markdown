@@ -3,7 +3,7 @@ layout: post
 title: "Vim - Moving screen splits"
 date: 2012-09-06 01:47
 comments: true
-tags: [ vi, vim]
+tags: vi
 ---
 
 Screen splits in Vim are a great feature, but until recently I had no idea how to move the screens around

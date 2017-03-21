@@ -3,7 +3,7 @@ layout: post
 title: "Simple javascript function to format the date as YYYY-MM-DD"
 date: 2013-04-19 01:43
 comments: true
-tags: javascript, jquery
+tags: javascript jquery
 ---
 
 Tired of concatenating Date.getYear() Date.getMonth(), and Date.getDay() to format todays date in Javascript?
