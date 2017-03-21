@@ -12,7 +12,7 @@ pages to be accessible without a password
 
 Took awhile but finally got it figured out - refer my .htaccess file below for the details
 
-```
+``` conf
 AuthType Basic
 AuthName "Auth Required"
 AuthUserFile /path/to/.htpasswd
@@ -28,5 +28,3 @@ Allow from 777.777.77.7
 Allow from 888.888.88.8
 Satisfy any
 ```
-    
-{% gist 1565033 %}

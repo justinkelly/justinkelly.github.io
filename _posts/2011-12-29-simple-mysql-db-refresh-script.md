@@ -38,5 +38,3 @@ done
 cat $FILE | mysql -u $MUSER -p$MPASS $MDB
 echo "Sql imported"
 ```
-
-{% gist 1537596 %}
