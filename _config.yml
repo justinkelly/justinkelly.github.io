@@ -50,6 +50,10 @@ prose:
     - /admin
   metadata:
     _posts:
+      - name: "excerpt_separator"
+        field:
+          element: "hidden"
+          value: "<!--more-->"
       - name: "layout"
         field:
           element: "hidden"
@@ -79,4 +83,4 @@ prose:
           element: "multiselect"
           label: "Add Categories"
           placeholder: "Add Categories"
-          alterable: true    
+          alterable: true
