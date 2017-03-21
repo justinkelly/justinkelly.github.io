@@ -14,7 +14,7 @@ below is a very simple script to make your life easier
 
 Just edit the configs, create the import.sql add it to your cron jobs 
 
-``` bash
+``` shell
 #!/bin/bash
 
 MUSER="MYSQL_USER"
