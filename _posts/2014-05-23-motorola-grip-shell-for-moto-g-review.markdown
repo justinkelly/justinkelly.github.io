@@ -3,7 +3,7 @@ layout: post
 title: "Motorola grip shell for Moto G review"
 date: 2014-05-23 05:43
 comments: true
-tags:  reviews
+tags:  review
 ---
 
 {% image_tag src="/img/moto_g_grip_side.jpg" width="400" %}
