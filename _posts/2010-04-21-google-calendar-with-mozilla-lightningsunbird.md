@@ -3,12 +3,10 @@ layout: post
 title: Google Calendar with Mozilla Lightning/Sunbird - accepting invites solution
 published: true
 date: 2010-04-21
-tags: 
-- google
-- google apps
+tags: [ google , google apps ]
 ---
-![](http://i.minus.com/jiOJ0LDoKXUv4.jpg)
-![](http://i.minus.com/ibfvZ3kVnrzbcM.png)
+{% image_tag src="/img/thunderbird.png" width="400" %}
+
 There's an isssue with the Mozilla Lightning/Sunbird addon "Provider for Google Calendar Provider"
 where you can't accept meeting/calendar invitation from others into your calendar - which is a real pain if you work in a corporate office setup. 
 
