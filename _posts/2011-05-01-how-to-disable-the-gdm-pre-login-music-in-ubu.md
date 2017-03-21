@@ -13,7 +13,7 @@ To get rid of the annoying pre login gdm 'music' in Ubuntu 11.04 just open the '
 1. Select `System Settings` to get to the Control Panel
 2. Then just untick the `GNOME Login Sound` option - refer image below
 
-![](img/gdm.jpg)
+![](/img/gdm.jpg)
 
 and then option the terminal/commandline and execute this command
 
