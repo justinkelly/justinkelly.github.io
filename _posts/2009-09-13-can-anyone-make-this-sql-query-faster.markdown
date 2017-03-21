@@ -6,8 +6,6 @@ date: 2009-09-13
 tags: 
 - mysql
 - simple invoices
-posterous_url: http://blog.justin.kelly.org.au/can-anyone-make-this-sql-query-faster
-posterous_slug: can-anyone-make-this-sql-query-faster
 ---
 Hi Guys,
 

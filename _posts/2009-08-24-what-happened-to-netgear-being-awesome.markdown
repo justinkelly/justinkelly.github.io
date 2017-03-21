@@ -6,8 +6,6 @@ date: 2009-08-24
 tags: 
 - hardware
 - netgear
-posterous_url: http://blog.justin.kelly.org.au/what-happened-to-netgear-being-awesome
-posterous_slug: what-happened-to-netgear-being-awesome
 ---
 ![](http://i.minus.com/jYdgx0i4YTtFj.jpg )
 

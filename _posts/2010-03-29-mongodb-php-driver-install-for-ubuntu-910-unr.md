@@ -7,8 +7,6 @@ tags:
 - mongo
 - php
 - ubuntu
-posterous_url: http://blog.justin.kelly.org.au/mongodb-php-driver-install-for-ubuntu-910-unr
-posterous_slug: mongodb-php-driver-install-for-ubuntu-910-unr
 ---
 To manually install the MongDB PHP drivers without pear/pecl follow the below steps
 

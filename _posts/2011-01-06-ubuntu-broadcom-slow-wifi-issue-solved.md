@@ -8,8 +8,6 @@ tags:
 - linux
 - ubuntu
 - broadcom
-posterous_url: http://blog.justin.kelly.org.au/ubuntu-broadcom-slow-wifi-issue-solved
-posterous_slug: ubuntu-broadcom-slow-wifi-issue-solved
 ---
 ### Update
 Refer [http://blog.justin.kelly.org.au/make-broadcom-wifi-work-perfect-in-ubuntu/](http://blog.justin.kelly.org.au/make-broadcom-wifi-work-perfect-in-ubuntu/) for the only way to make wifi work perfect for laptops like the HP Mini 2140 that have integrate Broadcom wifi chipset

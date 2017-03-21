@@ -5,8 +5,6 @@ published: true
 date: 2010-07-14
 tags: 
 - chrome
-posterous_url: http://blog.justin.kelly.org.au/how-to-add-wikipedia-as-a-chrome-search-engin
-posterous_slug: how-to-add-wikipedia-as-a-chrome-search-engin
 ---
 
 For a simple way to add Wikpedia into Chrome as a search engine follow the below steps:

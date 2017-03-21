@@ -6,8 +6,6 @@ date: 2010-02-01
 tags: 
 - bash
 - linux
-posterous_url: http://blog.justin.kelly.org.au/simple-gpg-password-protected-file-encryption
-posterous_slug: simple-gpg-password-protected-file-encryption
 ---
 ### Creating the file:
 

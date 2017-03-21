@@ -7,8 +7,6 @@ tags:
 - linux
 - media
 - ubuntu
-posterous_url: http://blog.justin.kelly.org.au/dvd-mp3-skype-etc-for-ubuntu-910
-posterous_slug: dvd-mp3-skype-etc-for-ubuntu-910
 ---
 
 ```

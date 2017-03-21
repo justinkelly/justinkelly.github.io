@@ -5,8 +5,6 @@ published: true
 date: 2009-10-05
 tags: 
 - perl
-posterous_url: http://blog.justin.kelly.org.au/perl-how-check-if-variable-is-empty
-posterous_slug: perl-how-check-if-variable-is-empty
 ---
 Need a Perl equivilant of PHPs empty() ?
 

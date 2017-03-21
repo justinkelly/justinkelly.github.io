@@ -5,8 +5,6 @@ published: true
 date: 2011-08-26
 tags: 
 - php
-posterous_url: http://blog.justin.kelly.org.au/php-int-filter-facebook-user-ids-and-32-bit-s
-posterous_slug: php-int-filter-facebook-user-ids-and-32-bit-s
 ---
 Just working on a facebook app and wondering why is it always inserting the Facebook user ID as 2147483647 
 when the ID is something else. 

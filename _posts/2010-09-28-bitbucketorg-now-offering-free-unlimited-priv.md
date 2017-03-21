@@ -5,8 +5,6 @@ published: true
 date: 2010-09-28
 tags: [hg , version control, mercurial]
 
-posterous_url: http://blog.justin.kelly.org.au/bitbucketorg-now-offering-free-unlimited-priv
-posterous_slug: bitbucketorg-now-offering-free-unlimited-priv
 ---
 
 [Bitbucket.org](http://bitbucket.org) are now offering free unlimited private Hg projects with no disk space limit

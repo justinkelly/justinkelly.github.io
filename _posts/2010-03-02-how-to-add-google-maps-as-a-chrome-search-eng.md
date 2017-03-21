@@ -6,8 +6,6 @@ date: 2010-03-02
 tags: 
 - chrome
 - google
-posterous_url: http://blog.justin.kelly.org.au/how-to-add-google-maps-as-a-chrome-search-eng
-posterous_slug: how-to-add-google-maps-as-a-chrome-search-eng
 ---
 
 For a simple way to add Google Maps into Chrome as a search engine follow the below steps:

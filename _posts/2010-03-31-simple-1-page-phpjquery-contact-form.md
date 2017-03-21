@@ -6,8 +6,6 @@ date: 2010-03-31
 tags: 
 - jquery
 - php
-posterous_url: http://blog.justin.kelly.org.au/simple-1-page-phpjquery-contact-form
-posterous_slug: simple-1-page-phpjquery-contact-form
 ---
 I've been after a simple 1 file contact form in PHP and jQuery for ages, 
 below is a dead simple cut & paste solution for a simple contact form 

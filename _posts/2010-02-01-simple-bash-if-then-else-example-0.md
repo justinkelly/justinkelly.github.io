@@ -6,8 +6,6 @@ date: 2010-02-01
 tags: 
 - bash
 - linux
-posterous_url: http://blog.justin.kelly.org.au/simple-bash-if-then-else-example
-posterous_slug: simple-bash-if-then-else-example-0
 ---
 {% highlight bash %}
 if [ -r somefile ]; then 

@@ -6,8 +6,6 @@ date: 2011-08-27
 tags: 
 - php
 - zend framework
-posterous_url: http://blog.justin.kelly.org.au/just-got-my-first-patch-accepted-in-zend-fram
-posterous_slug: just-got-my-first-patch-accepted-in-zend-fram
 ---
 About a year and a half ago I submitted a small patch to the Zend Framework, 
 [http://framework.zend.com/issues/browse/ZF-9577](http://framework.zend.com/issues/browse/ZF-9577),

@@ -5,8 +5,6 @@ published: true
 date: 2011-09-16
 tags: 
 - php
-posterous_url: http://blog.justin.kelly.org.au/simple-mcrypt-encrypt-decrypt-functions-for-p
-posterous_slug: simple-mcrypt-encrypt-decrypt-functions-for-p
 ---
 After more searching through the [php.net](http://php.net) and stackoverflow comments below 
 is the simplest way i have come around to encrypt & decrypt info in PHP

@@ -7,8 +7,6 @@ tags:
 - apache
 - dropbox
 - linux
-posterous_url: http://blog.justin.kelly.org.au/dropbox-as-an-apache-folder
-posterous_slug: dropbox-as-an-apache-folder
 ---
 Create an apache config file for dropbox 
 

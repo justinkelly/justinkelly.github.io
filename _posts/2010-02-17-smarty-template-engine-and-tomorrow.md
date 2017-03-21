@@ -5,8 +5,6 @@ published: true
 date: 2010-02-17
 tags: []
 
-posterous_url: http://blog.justin.kelly.org.au/smarty-template-engine-and-tomorrow
-posterous_slug: smarty-template-engine-and-tomorrow
 ---
 
 ```

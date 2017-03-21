@@ -6,8 +6,6 @@ date: 2011-12-14
 tags: 
 - linux
 - ubuntu
-posterous_url: http://blog.justin.kelly.org.au/how-to-rotate-a-video-in-linux
-posterous_slug: how-to-rotate-a-video-in-linux
 ---
 For the life of me I can't figure out how to flip/rotate a video in linux using any GUI apps
 

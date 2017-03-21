@@ -6,8 +6,6 @@ date: 2010-02-01
 tags: 
 - bash
 - linux
-posterous_url: http://blog.justin.kelly.org.au/bash-check-if-null
-posterous_slug: bash-check-if-null
 ---
 expanding on the previous [bash not null](http://blog.justin.kelly.org.au/bash-check-if-not-null)  post
 to check if a string is null

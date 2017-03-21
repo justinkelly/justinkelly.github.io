@@ -6,8 +6,6 @@ date: 2010-05-20
 tags: 
 - chrome
 - pinboard.in
-posterous_url: http://blog.justin.kelly.org.au/how-to-add-pinboardin-search-mine-as-a-chrome
-posterous_slug: how-to-add-pinboardin-search-mine-as-a-chrome
 ---
 For a simple way to search your Pinboard.in bookmarks, you can add Pinboard.in 'Search Mine' 
 into Chrome as a search engine follow the below steps:

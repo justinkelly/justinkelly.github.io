@@ -11,8 +11,6 @@ tags:
 - apache
 - rails
 - redmine
-posterous_url: http://blog.justin.kelly.org.au/sub-domain-setup-for-redmine-modpassenger
-posterous_slug: sub-domain-setup-for-redmine-modpassenger
 ---
 
 As someone who doesn't use rail/mod_passenger much, I had issues 

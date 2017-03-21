@@ -6,8 +6,6 @@ date: 2010-04-21
 tags: 
 - google
 - google apps
-posterous_url: http://blog.justin.kelly.org.au/google-calendar-with-mozilla-lightningsunbird
-posterous_slug: google-calendar-with-mozilla-lightningsunbird
 ---
 ![](http://i.minus.com/jiOJ0LDoKXUv4.jpg)
 ![](http://i.minus.com/ibfvZ3kVnrzbcM.png)

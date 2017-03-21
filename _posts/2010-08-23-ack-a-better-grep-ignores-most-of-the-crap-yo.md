@@ -5,8 +5,6 @@ published: true
 date: 2010-08-23
 tags: 
 - linux
-posterous_url: http://blog.justin.kelly.org.au/ack-a-better-grep-ignores-most-of-the-crap-yo
-posterous_slug: ack-a-better-grep-ignores-most-of-the-crap-yo
 ---
 If you've ever use grep to search a svn directory you'll know the issues re .svn folders, easiest solution is to use [ack](http://betterthangrep.com)
 

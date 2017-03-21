@@ -8,8 +8,6 @@ tags:
 - vpn
 - openvpn
 - untangle
-posterous_url: http://blog.justin.kelly.org.au/connecting-to-an-openvpn-untangle-network-fro
-posterous_slug: connecting-to-an-openvpn-untangle-network-fro
 ---
 Just connected to an OpenVPN (untangle) network from linux and it was super easy (way easier than a normal cisco vpn anyway)
 

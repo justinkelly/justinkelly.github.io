@@ -7,8 +7,6 @@ tags:
 - centos
 - linux
 - mysql
-posterous_url: http://blog.justin.kelly.org.au/mysql-logging-on-centos-53
-posterous_slug: mysql-logging-on-centos-53
 ---
 
 for whatever reason when i edited my.cnf on CentSO 5.3 the logging options 

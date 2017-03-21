@@ -5,8 +5,6 @@ published: true
 date: 2010-05-18
 tags: 
 - ubuntu
-posterous_url: http://blog.justin.kelly.org.au/ubuntu-1004-how-to-move-window-buttons-to-the
-posterous_slug: ubuntu-1004-how-to-move-window-buttons-to-the
 ---
 just installed ubuntu 10.04 and the left hand window buttons/icons things are 
 driving me crazy

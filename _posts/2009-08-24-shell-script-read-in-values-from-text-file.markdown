@@ -6,8 +6,6 @@ date: 2009-08-24
 tags: 
 - linux
 - shell
-posterous_url: http://blog.justin.kelly.org.au/shell-script-read-in-values-from-text-file
-posterous_slug: shell-script-read-in-values-from-text-file
 ---
 before i forget how to do this again assuming test.txt contains a number on each line, ie. 
 ```

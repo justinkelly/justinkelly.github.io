@@ -7,8 +7,6 @@ tags:
 - centos
 - linux
 - mysql
-posterous_url: http://blog.justin.kelly.org.au/mysql-autostart-on-centos
-posterous_slug: mysql-autostart-on-centos
 ---
 just setup mysql on centos and forgot to set it to auto-start on boot - there the quick fix
 

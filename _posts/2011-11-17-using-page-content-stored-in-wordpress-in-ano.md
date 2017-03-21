@@ -6,8 +6,6 @@ date: 2011-11-17
 tags: 
 - php
 - wordpress
-posterous_url: http://blog.justin.kelly.org.au/using-page-content-stored-in-wordpress-in-ano
-posterous_slug: using-page-content-stored-in-wordpress-in-ano
 ---
 Sometimes I've needed to have page content stored in Wordpress so the users/client 
 can easily edit the html content but display it in another non-Wordpress php/html website

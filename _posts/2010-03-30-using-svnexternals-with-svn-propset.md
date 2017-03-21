@@ -5,8 +5,6 @@ published: true
 date: 2010-03-30
 tags: 
 - svn
-posterous_url: http://blog.justin.kelly.org.au/using-svnexternals-with-svn-propset
-posterous_slug: using-svnexternals-with-svn-propset
 ---
 if you can't use svn propedit (ie. your using bespin) you can use svn propset
 

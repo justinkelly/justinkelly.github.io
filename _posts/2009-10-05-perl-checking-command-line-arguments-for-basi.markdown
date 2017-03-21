@@ -5,8 +5,6 @@ published: true
 date: 2009-10-05
 tags: 
 - perl
-posterous_url: http://blog.justin.kelly.org.au/perl-checking-command-line-arguments-for-basi
-posterous_slug: perl-checking-command-line-arguments-for-basi
 ---
 Usage: ./your_script.pl 'path/to/file.txt'
 

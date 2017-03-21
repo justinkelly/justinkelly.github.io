@@ -6,8 +6,6 @@ date: 2011-09-01
 tags: 
 - php
 - zend framework
-posterous_url: http://blog.justin.kelly.org.au/creating-a-simple-password-confirmation-field
-posterous_slug: creating-a-simple-password-confirmation-field
 ---
 If you creating a user signup form with `Zend_Form` and need a password confirmation field just use the code below, its very simple but couldn't find any info on the zend framework site on how to do it
 

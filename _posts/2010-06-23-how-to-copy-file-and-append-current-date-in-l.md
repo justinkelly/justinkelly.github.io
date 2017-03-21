@@ -6,8 +6,6 @@ date: 2010-06-23
 tags: 
 - bash
 - link
-posterous_url: http://blog.justin.kelly.org.au/how-to-copy-file-and-append-current-date-in-l
-posterous_slug: how-to-copy-file-and-append-current-date-in-l
 ---
 
 {% highlight bash %}

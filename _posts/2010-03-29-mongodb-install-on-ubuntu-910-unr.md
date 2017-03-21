@@ -6,8 +6,6 @@ date: 2010-03-29
 tags: 
 - mongo
 - ubuntu
-posterous_url: http://blog.justin.kelly.org.au/mongodb-install-on-ubuntu-910-unr
-posterous_slug: mongodb-install-on-ubuntu-910-unr
 ---
 tried to install MongoDB from the mongo apt repo but it failed, below are the steps to manually install mongo on ubuntu 9.10
 

@@ -6,8 +6,6 @@ date: 2011-05-01
 tags: 
 - linux
 - ubuntu
-posterous_url: http://blog.justin.kelly.org.au/how-to-disable-the-gdm-pre-login-music-in-ubu
-posterous_slug: how-to-disable-the-gdm-pre-login-music-in-ubu
 ---
 To get rid of the annoying pre login gdm 'music' in Ubuntu 11.04 just open the 'Startup Applications' from the Control Panel
 

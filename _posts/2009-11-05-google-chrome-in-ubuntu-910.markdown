@@ -7,8 +7,6 @@ tags:
 - chrome
 - linux
 - ubuntu
-posterous_url: http://blog.justin.kelly.org.au/google-chrome-in-ubuntu-910
-posterous_slug: google-chrome-in-ubuntu-910
 ---
 edit the apt sources file
 

@@ -8,8 +8,6 @@ tags:
 - dropbox
 - linux
 - vps
-posterous_url: http://blog.justin.kelly.org.au/running-dropbox-on-centos-in-a-headlessvps-se
-posterous_slug: running-dropbox-on-centos-in-a-headlessvps-se
 ---
 ```
 wget -O dropbox.tar.gz http://www.getdropbox.com/download?plat=lnx.x86

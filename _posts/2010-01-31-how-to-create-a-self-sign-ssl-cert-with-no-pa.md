@@ -6,8 +6,6 @@ date: 2010-01-31
 tags: 
 - apache
 - linux
-posterous_url: http://blog.justin.kelly.org.au/how-to-create-a-self-signed-ssl-cert-with-no
-posterous_slug: how-to-create-a-self-sign-ssl-cert-with-no-pa
 ---
 
 To create a simple self signed ssl cert follow the below steps

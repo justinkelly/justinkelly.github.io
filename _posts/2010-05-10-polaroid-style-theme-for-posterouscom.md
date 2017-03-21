@@ -5,8 +5,6 @@ published: true
 date: 2010-05-10
 tags: 
 - posterous
-posterous_url: http://blog.justin.kelly.org.au/polaroid-style-theme-for-posterouscom
-posterous_slug: polaroid-style-theme-for-posterouscom
 ---
 If you have a simple photo blog on posterous.com below is the code for a simple 'polaroid' style theme for posterous
 

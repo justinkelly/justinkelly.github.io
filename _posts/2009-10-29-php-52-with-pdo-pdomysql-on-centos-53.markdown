@@ -7,8 +7,6 @@ tags:
 - centos
 - linux
 - php
-posterous_url: http://blog.justin.kelly.org.au/php-52-with-pdo-pdomysql-on-centos-53
-posterous_slug: php-52-with-pdo-pdomysql-on-centos-53
 ---
 after installing/removing various php installs from various repos 
 - the final solution for php5.2 on centos5.3 is:

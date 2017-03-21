@@ -8,8 +8,6 @@ tags:
 - google
 - pinboard.in
 - project
-posterous_url: http://blog.justin.kelly.org.au/google-chrome-script-to-clean-up-the-ui-of-pi
-posterous_slug: google-chrome-script-to-clean-up-the-ui-of-pi
 ---
 Pinboard.in is a great minimalist bookmarking service.  I moved to Pinboard at the start of the year and have never looked back to Delicious.
 

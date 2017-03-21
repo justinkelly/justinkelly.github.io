@@ -6,8 +6,6 @@ date: 2010-07-22
 tags: 
 - apache
 - linux
-posterous_url: http://blog.justin.kelly.org.au/htaccess-and-apache-virtualdocumentroot
-posterous_slug: htaccess-and-apache-virtualdocumentroot
 ---
 
 If you using VirtualDocumentRoot in your Apache set you need to make a minor change to your .htaccess rewrites to make them work 

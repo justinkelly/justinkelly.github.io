@@ -5,8 +5,6 @@ published: true
 date: 2011-07-10
 tags: 
 - php
-posterous_url: http://blog.justin.kelly.org.au/php-strip-null-entries-from-an-array-how-to
-posterous_slug: php-strip-null-entries-from-an-array-how-to
 ---
 For a while i've had issues with certain db update queries in php - particularly where image uploads are involved. 
 My original code looked like

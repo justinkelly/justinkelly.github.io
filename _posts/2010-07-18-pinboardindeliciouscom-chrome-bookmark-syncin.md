@@ -7,8 +7,6 @@ tags:
 - chrome
 - pinboard.in
 - project
-posterous_url: http://blog.justin.kelly.org.au/pinboardindeliciouscom-chrome-bookmark-syncin
-posterous_slug: pinboardindeliciouscom-chrome-bookmark-syncin
 ---
 Since Chrome was first released I wanted an easy way to get my 
 Delicious.com and Pinboard.in bookmarks syncing to Chrome's internal bookmarks.  

@@ -8,8 +8,6 @@ tags:
 - bash
 - exlibris
 - linux
-posterous_url: http://blog.justin.kelly.org.au/shell-script-to-check-if-exlibris-aleph-is-ru
-posterous_slug: shell-script-to-check-if-exlibris-aleph-is-ru
 ---
 If you have to admin Aleph from ExLibris you may be wondering why there is minimal tools to help you make sure its all running ok
 

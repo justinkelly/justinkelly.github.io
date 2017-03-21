@@ -6,8 +6,6 @@ date: 2009-09-09
 tags: 
 - hardware
 - linux
-posterous_url: http://blog.justin.kelly.org.au/hp-mini-2140-hd-linux-mint-finally-a-great-ne
-posterous_slug: hp-mini-2140-hd-linux-mint-finally-a-great-ne
 ---
 
 ![]( http://i.minus.com/jbbt7S0RYtjaWd.jpg )

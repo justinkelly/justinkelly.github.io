@@ -6,8 +6,6 @@ date: 2010-02-17
 tags: 
 - dns
 - google apps
-posterous_url: http://blog.justin.kelly.org.au/how-to-setup-require-google-sub-domains-for-g
-posterous_slug: how-to-setup-require-google-sub-domains-for-g
 ---
 ### Sub-domain settings
 ![](http://i.minus.com/ibsvfEUimNJfTx.png)

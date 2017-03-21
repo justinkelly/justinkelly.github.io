@@ -6,8 +6,6 @@ date: 2009-10-12
 tags: 
 - oracle
 - shell
-posterous_url: http://blog.justin.kelly.org.au/oracle-how-to-auto-execute-a-sql-from-command
-posterous_slug: oracle-how-to-auto-execute-a-sql-from-command
 ---
 ### 1. Create a .sql file using the below template
 

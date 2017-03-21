@@ -5,8 +5,6 @@ published: true
 date: 2011-07-13
 tags: []
 
-posterous_url: http://blog.justin.kelly.org.au/how-not-to-design-an-interface
-posterous_slug: how-not-to-design-an-interface
 ---
 
 Great work from the designers of [myki](http://en.wikipedia.org/wiki/Myki)

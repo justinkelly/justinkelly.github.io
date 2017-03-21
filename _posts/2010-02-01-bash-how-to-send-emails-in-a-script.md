@@ -6,8 +6,6 @@ date: 2010-02-01
 tags: 
 - bash
 - linux
-posterous_url: http://blog.justin.kelly.org.au/bash-how-to-send-emails-in-a-script
-posterous_slug: bash-how-to-send-emails-in-a-script
 ---
 simple example to send an email if $message is not null
 

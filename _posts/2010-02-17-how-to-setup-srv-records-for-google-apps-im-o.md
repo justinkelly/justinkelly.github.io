@@ -6,8 +6,6 @@ date: 2010-02-17
 tags: 
 - dns
 - google apps
-posterous_url: http://blog.justin.kelly.org.au/how-to-setup-srv-records-for-google-apps-im-o
-posterous_slug: how-to-setup-srv-records-for-google-apps-im-o
 ---
 
 setting up SRV records (for google IM in your google apps domain) is a real pain with [namecheap.com](namecheap.com), 
