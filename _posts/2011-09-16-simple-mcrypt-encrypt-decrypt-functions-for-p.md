@@ -3,8 +3,7 @@ layout: post
 title: "Simple mcrypt encrypt & decrypt functions for PHP : How to"
 published: true
 date: 2011-09-16
-tags: 
-- php
+tags: php
 ---
 After more searching through the [php.net](http://php.net) and stackoverflow comments below 
 is the simplest way i have come around to encrypt & decrypt info in PHP
@@ -29,3 +28,5 @@ It works and only 1 line per function
  
 ?>
 ```
+
+Refer gist for comments [https://gist.github.com/justinkelly/1222159](https://gist.github.com/justinkelly/1222159)

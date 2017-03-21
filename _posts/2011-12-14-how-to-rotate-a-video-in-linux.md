@@ -3,10 +3,9 @@ layout: post
 title: "How to: Rotate a video in linux"
 published: true
 date: 2011-12-14
-tags: 
-- linux
-- ubuntu
+tags: linux ubuntu
 ---
+
 For the life of me I can't figure out how to flip/rotate a video in linux using any GUI apps
 
 Here's the commandline way to do it

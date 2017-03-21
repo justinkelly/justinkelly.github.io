@@ -3,8 +3,7 @@ layout: post
 title: "Get the number of seconds since Jan 1, 0001 in PHP : How to"
 published: true
 date: 2011-09-18
-tags: 
-- php
+tags: php
 ---
 If you need to get the number of seconds since Jan 1, 0001 in PHP you can&#39;t
 use the normal date or time functions as they are based around Jan 1, 1970
@@ -36,3 +35,5 @@ Requires PHP 5.3 and above
 ?>
 
 ```
+
+Refer gist for comments [https://gist.github.com/justinkelly/1225940](https://gist.github.com/justinkelly/1225940)
