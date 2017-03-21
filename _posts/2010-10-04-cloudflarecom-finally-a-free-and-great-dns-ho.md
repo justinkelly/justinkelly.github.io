@@ -8,7 +8,7 @@ tags:
 - google apps
 - srv
 ---
-![](http://i.imgur.com/sG0wa.png )
+![](/img/cloudflare.png)
 
 Just moved all my domains DNS over to [CloudFlare.com](http://cloudflare.com) -  finally a free and great DNS host!!
  
@@ -22,8 +22,9 @@ Only a couple of minor issues:
 * Creating srv records via the web dns editor is painful
 * Easiest option is to just download your zone file from cloudflare and add in the below records for SRV
 
-`Google Apps SRV records :: DNS`
-{% highlight yaml %}
+_Google Apps SRV records :: DNS_
+
+``` yaml
 _jabber._tcp.@  1   IN  SRV 5   0   5269    xmpp-server.l.google.com
 _jabber._tcp.@  1   IN  SRV 20  0   5269    xmpp-server4.l.google.com
 _jabber._tcp.@  1   IN  SRV 20  0   5269    xmpp-server2.l.google.com
@@ -39,9 +40,8 @@ _xmpp-server._tcp.@ 1   IN  SRV 5   0   5269    xmpp-server.l.google.com
 _xmpp-server._tcp.@ 1   IN  SRV 20  0   5269    xmpp-server2.l.google.com
 _xmpp-server._tcp.@ 1   IN  SRV 20  0   5269    xmpp-server1.l.google.com
 _xmpp-server._tcp.@ 1   IN  SRV 20  0   5269    xmpp-server3.l.google.co
-{% endhighlight %}
+```
 
 * There need to be an easy way to create all the required dns records for Google Apps - just as editdns does
  
 thanks @cloudflare !!!
-
