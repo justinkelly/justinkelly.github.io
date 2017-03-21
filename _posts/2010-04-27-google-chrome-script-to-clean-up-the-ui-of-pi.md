@@ -3,17 +3,11 @@ layout: post
 title: Google Chrome script to clean up the UI of Pinboard.in
 published: true
 date: 2010-04-27
-tags: 
-- chrome
-- google
-- pinboard.in
-- project
+tags: [ chrome , google , pinboard.in ]
 ---
 Pinboard.in is a great minimalist bookmarking service.  I moved to Pinboard at the start of the year and have never looked back to Delicious.
 
-
 One issue i have with pinboard though is that in the bookmark listing, minimal though it is is still to bulky and padded out.
- 
 
 I've uploaded to userscripts.org a Chrome user script / Firefox greasemonkey script to clean up the UI of Pinboard.in
 
