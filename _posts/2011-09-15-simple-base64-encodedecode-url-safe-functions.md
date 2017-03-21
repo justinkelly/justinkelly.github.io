@@ -3,9 +3,9 @@ layout: post
 title: "Simple PHP base64 encode/decode url safe functions : How to"
 published: true
 date: 2011-09-15
-tags: 
-- php
+tags: php
 ---
+
 After searching through the php base64 comments I found the best way to safely encode and decode base64 url components
 
 ``` php
@@ -21,4 +21,4 @@ function base64_url_decode($input)
 ?>
 ```
 
-Refer gist for comments (https://gist.github.com/justinkelly/1219265)[https://gist.github.com/justinkelly/1219265]
+Refer gist for comments [https://gist.github.com/justinkelly/1219265](https://gist.github.com/justinkelly/1219265)
