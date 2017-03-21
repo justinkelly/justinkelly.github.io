@@ -11,8 +11,8 @@ driving me crazy
 
 quickest solution i could find is the command below
 
-```
+``` shell
 gconftool-2 --type string --set /apps/metacity/general/button_layout "menu:minimize,maximize,close"
 ```
 
-![](http://i.minus.com/juCaqGy6FvJJe.jpg)
+{% image_tag src="/img/ubuntu-right.png" width="400" %}

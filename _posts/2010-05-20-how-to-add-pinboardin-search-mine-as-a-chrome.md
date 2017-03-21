@@ -22,9 +22,9 @@ URL:  http://pinboard.in/search/?query=%s&amp;mine=Search+Mine
 
 Refer image below
 
-![](http://i.minus.com/j9DeB5ImiXxkY.jpg)
+![](/img/pin-chrome.png)
 
 just type `pin` followed by what you want, ie 'pin php arrary' in the chrome address box 
 (refer image below) and chrome will now seasrch google maps for that address
 
-![](http://i.minus.com/ib2JEfwDAjANXb.png)
+{% image_tag src="/img/pin-chrome-bar.png" width="400" %}
