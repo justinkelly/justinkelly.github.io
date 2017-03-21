@@ -17,10 +17,10 @@ refer:
 
 refer code inline below
 
-`contact.php`
+_contact.php_
 
-{% highlight php %}
-{% raw %}
+``` php
+
 <?php
  
 //configs
@@ -192,10 +192,7 @@ revention_test']; ?>"/>
         </div>
 </body>
 </html>
-{% endraw %}
-{% endhighlight %}
-
-
+```
 
 note:
 
