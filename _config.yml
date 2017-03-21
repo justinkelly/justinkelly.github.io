@@ -50,10 +50,6 @@ prose:
     - /admin
   metadata:
     _posts:
-      - name: "excerpt_separator"
-        field:
-          element: "hidden"
-          value: "<!--more-->"
       - name: "layout"
         field:
           element: "hidden"
@@ -62,12 +58,12 @@ prose:
         field:
           label: "Published"
           element: "checkbox"
-          value: "true"
+          value: true
       - name: "title"
         field:
           label: "Title"
           element: "text"
-          value: "An Awesome Headline!"
+          value: "Title goes here"
       - name: "comments"
         field:
           label: "Comments"
@@ -75,7 +71,6 @@ prose:
           value: "true"
       - name: "tags"
         field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Add Tags"
-          alterable: true
+          element: "text"
+          label: "Tags"
+          placeholder: "Enter tags, separated by spaces"
