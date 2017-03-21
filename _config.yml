@@ -71,7 +71,6 @@ prose:
           value: "true"
       - name: "tags"
         field:
-          element: "multiselect"
+          element: "text"
           label: "Tags"
           placeholder: "Enter tags, separated by spaces"
-          alterable: true
