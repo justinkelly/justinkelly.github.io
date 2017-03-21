@@ -13,11 +13,13 @@ To get rid of the annoying pre login gdm 'music' in Ubuntu 11.04 just open the '
 1. Select `System Settings` to get to the Control Panel
 2. Then just untick the `GNOME Login Sound` option - refer image below
 
-![](http://i.minus.com/j1pasxOY97u1Z.jpg)
+![](img/gdm.jpg)
 
 and then option the terminal/commandline and execute this command
 
-    sudo -u gdm gconftool-2 --type=bool --set /desktop/gnome/sound/event_sounds false
+``` shell
+sudo -u gdm gconftool-2 --type=bool --set /desktop/gnome/sound/event_sounds false
+```
 
 restart and you won't get those annoying drums
 
@@ -30,13 +32,15 @@ This 'music' becomes an issue when you work in a quiet environment
 
 from the command line execute
 
-
-    gksudo gedit /etc/gdm/custom.conf
-
+``` shell
+gksudo gedit /etc/gdm/custom.conf
+```
 
 and add the line
 
-    SoundOnLogin=false
+``` conf
+SoundOnLogin=false
+```
 
 above the and the `[daemon]` line
 
