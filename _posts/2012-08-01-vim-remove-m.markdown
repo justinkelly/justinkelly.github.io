@@ -3,9 +3,7 @@ layout: post
 title: "Vim remove ^M"
 date: 2012-08-01 13:45
 comments: true
-tags: 
-- vi
-- vim
+tags: vi
 ---
 
 I'm always needing to remove `^M`s in vim and forgetting the command - heres the details:

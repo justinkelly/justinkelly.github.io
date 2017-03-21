@@ -3,11 +3,7 @@ layout: post
 title: "GNU Screen and Vim: making vim tab mappings work"
 published: true
 date: 2010-02-27
-tags: 
-- gnu_screen
-- linux
-- vi
-- vim
+tags: screen linux vi
 ---
 
 if using Vim in GNU Screen and you want to use fancy key bindings to navigate tabs, 

@@ -3,9 +3,7 @@ layout: post
 title: "Vim HTML to Markdown"
 date: 2012-08-01 13:37
 comments: true
-tags: 
-- vi
-- vim
+tags: vi
 ---
 
 If you need to remove HTML from documents (or convert basic HTML to Markdown) with Vim below are the main search and replace commands.  I've been using these to convert stuff from simple html to markdown.

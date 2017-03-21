@@ -4,12 +4,9 @@ title: "GNU Screen: how to bind Alt + Left Arrow & Alt + Right Arrow to \tprev/n
 published: true
 date: 2010-02-27
 tags: 
-- gnu screen
+- screen
 - linux
 - vi
-- vim
-posterous_url: http://blog.justin.kelly.org.au/gnu-screen-how-to-bind-alt-left-arrow-alt-rig
-posterous_slug: gnu-screen-how-to-bind-alt-left-arrow-and-alt
 ---
 for a simple way to switch between GNU Screen 'screens' 
 using Alt + Arrow key, use the below key bindings in your .screenrc file
