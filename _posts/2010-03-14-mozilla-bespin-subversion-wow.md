@@ -6,8 +6,7 @@ date: 2010-03-14
 tags: 
 - bespin
 - svn
-posterous_url: http://blog.justin.kelly.org.au/mozilla-bespin-subversion-wow
-posterous_slug: mozilla-bespin-subversion-wow
+- version control
 ---
 when mozilla first launched bespin - a browser based text editor - i was interested
 but a number of required features were still lacking

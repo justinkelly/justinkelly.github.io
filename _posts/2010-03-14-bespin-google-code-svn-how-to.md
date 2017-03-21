@@ -6,8 +6,7 @@ date: 2010-03-14
 tags: 
 - bespin
 - svn
-posterous_url: http://blog.justin.kelly.org.au/bespin-google-code-svn-how-to
-posterous_slug: bespin-google-code-svn-how-to
+- version control
 ---
 If your new to mozilla bespin refer: [http://blog.justin.kelly.org.au/mozilla-bespin-subversion-wow](http://blog.justin.kelly.org.au/mozilla-bespin-subversion-wow)
 
