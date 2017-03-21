@@ -6,7 +6,7 @@ comments: true
 tags:  reviews
 ---
 
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/cruzerlite_moto_g.jpg)
+{% image_tag src="/img/cruzerlite_moto_g.jpg" width="400" %}
 
 After picking up a couple of [Motorola Moto G](http://wikipedia.org/wiki/Moto_G) phones on the weekend
 I set about looking for a couple of different covers for them so as to not destroy yet another phone. 

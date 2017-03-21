@@ -46,15 +46,17 @@ App Key, App Secret and the Access level:
 Open up the url [https://www2.dropbox.com/developers/apps](https://www2.dropbox.com/developers/apps) in your browser, sign into Dropbox
 and click the `Create an app` button
 
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/2013-Blog-Dropbox%20create%20app.png)
+{% image_tag src="/img/2013-Blog-Dropbox%20create%20app.png" width="400" %}
 
 Fill in the app name as listed by the script, select 'Core' and 'App folder access' (this will create a folder call /App/MyUploader888 in your Dropbox director. 
 If you want to access all files in your Dropbox select 'Full Dropbox'
 
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/2013-Blog-Dropbox%20-%20core.png)
+{% image_tag src="/img/2013-Blog-Dropbox%20-%20core.png" width="400" %}
 
 Dropbox will now show you your API details for this app, get the 'App key' and paste it into commandline
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/2013-Blog-dropbox-api-info.png)
+
+{% image_tag src="/img/2013-Blog-dropbox-api-info.png" width="400" %}
+
 Then paste in the 'App secret' when requested
 
 ```

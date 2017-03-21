@@ -6,7 +6,7 @@ comments: true
 tags: [nexus 7, speakers, bluetooth]
 ---
 
-![](https://googledrive.com/host/0B3qPjbk9su5uTXR2eFhPUkNkNzg/2013-09-03-veho-300.jpg )
+{% image_tag src="/img/2013-09-03-veho-300.jpg" width="300" %}
 
 The original Nexus 7 (2012 model) is a fantastic tablet but has the constant criticism of its limited mono back facing speakers.  Though the audio output level is decent,
 compared to the iPhone 5 or Nexus 10 (with front facing speakers) it's quite lacking

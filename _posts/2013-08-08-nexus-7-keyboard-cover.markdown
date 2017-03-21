@@ -5,7 +5,7 @@ date: 2013-08-08 02:33
 comments: true
 tags: [nexus 7, keyboard]
 ---
-![]( https://googledrive.com/host/0B3qPjbk9su5uS1dCcElaVTZ5YUE/IMG_3075_small.jpg )
+{% image_tag src="/img/IMG_3075_small.jpg" width="400" %}
 
 The good folks at [MobileZap][2](AU version of MobileFun.co.uk) sent over a bluetooth [keyboard case][1] for my Nexus 7(2012) to review. 
 
@@ -21,7 +21,7 @@ This is a mini keyboard to match the size of the Nexus 7, its pretty much the sa
 Works perfect with the Nexus 7 (2012 version), all normal keys, media, and Android specific keys 'just work'.  The Nexus 7 fits in perfectly in portrait
 and landscape mode and the case clips on and looks just like the Nexus 7.
 
-![](https://googledrive.com/host/0B3qPjbk9su5uS1dCcElaVTZ5YUE/IMG_3093_small.jpg )
+{% image_tag src="/img/IMG_3093_small.jpg" width="400" %}
 
 The bluetooth pairing worked without a hitch and only took a few seconds. Battery life so far seems good, its rechargable via the same
 USB cable as the Nexus 7.

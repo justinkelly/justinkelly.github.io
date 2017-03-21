@@ -6,7 +6,7 @@ comments: true
 tags:  reviews
 ---
 
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/moto_g_grip_side.jpg )
+{% image_tag src="/img/moto_g_grip_side.jpg" width="400" %}
 
 Following on from my review of the [Cruzerlite case for the Moto G](cruzerlite-case-for-moto-g-review/) the second case 
 from [MobileZap](http://www.mobilezap.com.au/35004/motorola/moto-g/covers.htm) is the Motorola Grip Shell.
@@ -27,8 +27,6 @@ This isn't that hard, just an extra step to put the grip shell on.
   * Looks much nicer than similar no name brand cases.
 
 ## The Bad
-
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Blog/moto%20g%20-%20grip%20side.jpg )
 
   * If you're after a case that will protect your Moto G from drops onto concrete, this isn't the one for you.  It will protect again minor drops and scratches but that's about it.
   * Having to remove the back plate may put some people off as its a bit hard do to and the moldings over the buttons cheapen the feel on the Moto G
