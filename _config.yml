@@ -74,15 +74,9 @@ prose:
           element: "text"
           label: "Tags"
           placeholder: "Enter tags, separated by spaces"
-		- name: "category"
+      - name: "categories"
         field:
-          element: "select"
+          element: "multiselect"
           label: "Add Categories"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Food Story"
-              value: "galerie"
-            - name: "Aktuelles"
-              value: "news"
-            - name: "Presse"
-              value: "presse"
+          placeholder: "Add Categories"
+          alterable: true    
