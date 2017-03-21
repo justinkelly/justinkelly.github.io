@@ -74,3 +74,15 @@ prose:
           element: "text"
           label: "Tags"
           placeholder: "Enter tags, separated by spaces"
+		- name: "category"
+        field:
+          element: "select"
+          label: "Add Categories"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Food Story"
+              value: "galerie"
+            - name: "Aktuelles"
+              value: "news"
+            - name: "Presse"
+              value: "presse"
