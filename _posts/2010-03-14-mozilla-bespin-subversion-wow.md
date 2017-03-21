@@ -25,7 +25,7 @@ is this useful ?
  
 below: bespin in action
 
-![](http://i.minus.com/jPg5LuV9tPxue.jpg)
+{% image_tag src="/img/bespin.png" width="400" %}
 
 if you havent checked out bespin from mozilla labs i suggest you take a look
 

@@ -3,13 +3,11 @@ layout: post
 title: what happened to netgear being awesome?
 published: true
 date: 2009-08-24
-tags: 
-- hardware
-- netgear
+tags: hardware netgear
 ---
-![](http://i.minus.com/jYdgx0i4YTtFj.jpg )
+![](/img/netgear.jpg )
 
-Jst got a netgear dgn2000 adsl2+  modem / wireless N router, opened the box and first thought was, 
+Just got a netgear dgn2000 adsl2+  modem / wireless N router, opened the box and first thought was, 
 whats happened to netgear? 
 
 instead of the solid metal box that my current 802.11g box is this is cheapo plastic and doesnt 

@@ -23,12 +23,12 @@ URL: http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=%s
 
 Refer image below:
 
-![](http://i.minus.com/jbbCUw1X30wzk6.jpg)
+![](/img/google_maps.png)
 
 Just type `map` followed by where you want, ie `map MCG, Melbourne, Australia`
 in the chrome address box (refer image below) and chrome will now seasrch google maps for that address
 
-![](http://i.minus.com/ib2zdHlCyXZZdK.png)
+![](/img/google_map_box.png)
 
 Note:
 

@@ -27,12 +27,12 @@ URL: http://www.google.com/dictionary?langpair=en|en&amp;q=%s
 
 Refer image below: 
 
-![](http://i.minus.com/jpQVwu3m1JawY.jpg)
+![](/img/google_dictionary.png)
 
 Now just type spell followed by the word your testing ie. `spell archive`
 in the chrome address box and it&#39;ll auto use Google Dictionary ( refer image below)
 
-![](http://i.minus.com/iNhPYTINpJmHE.png)
+![](/img/google_dictionary_box.png)
 
 the end result is you'll be auto send to a page like: 
 

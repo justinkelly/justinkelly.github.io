@@ -3,12 +3,10 @@ layout: post
 title: "hp mini 2140 HD + linux mint : finally a great netbook - why the \tfreak is HP making it so hard to get one"
 published: true
 date: 2009-09-09
-tags: 
-- hardware
-- linux
+tags: hardware linux
 ---
 
-![]( http://i.minus.com/jbbt7S0RYtjaWd.jpg )
+![](/img/hp_mini.jpg )
 just got a hp mini 2140 HD netbook
 
 finally a great netbook with high-res (1366 x 768) HD display, 6 cell battery,

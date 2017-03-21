@@ -14,4 +14,4 @@ refer below for links and image:
 
 * [http://www.olark.com/gtalk/check_srv](http://www.olark.com/gtalk/check_srv)
 
-![](http://i.minus.com/jbcSXclmPbQC0o.jpg)
+![](/img/olark-srv.png)

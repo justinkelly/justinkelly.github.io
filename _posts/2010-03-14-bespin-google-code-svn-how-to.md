@@ -15,7 +15,7 @@ To use Bespin with Google Code (svn)
 * create a bespin account at [bespin.mozillalabs.com](http://bespin.mozillalabs.com)
 * open the bespin command line and execute
 
-```
+``` shell
 vcs clone https://(yourproject).googlecode.com/svn/trunk
 ```
 You'll be asked for:
@@ -27,11 +27,11 @@ You'll be asked for:
 * Username: enter your google code svn username
 * Password: enter your google code svn password
 
-![](http://i.minus.com/jb0KHcX5X6shvj.jpg)
+{% image_tag src="/img/bespin2.png" width="400" %}
 
 * to commit the code to the local version control user execute
 
-```
+``` shell
 vcs commit
 ```
 
@@ -39,7 +39,7 @@ vcs commit
 
 * to commit the change to googlecode execute
 
-```
+``` shell
 vcs push
 ```
 
