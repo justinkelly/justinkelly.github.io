@@ -40,11 +40,11 @@ I've uploaded to userscripts.org a Chrome user script / Firefox greasemonkey scr
  
 Screenshot of Pinboard pre script
 
-![](http://i.minus.com/j4X7iti9K7d1k.jpg)
- 
+{% image_tag src="/img/pinboard_original.png" width="400" %}
+
 Screenshot of Pinboard post script
 
-![](http://i.minus.com/jkhJGJNsysypy.jpg) 
+{% image_tag src="/img/pinboard_with_user_script.png" width="400" %}
 
 ## To install
 
