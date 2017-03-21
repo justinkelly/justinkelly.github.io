@@ -3,7 +3,7 @@ layout: post
 title: "Commandline Dropbox client"
 date: 2013-04-15 03:06
 comments: true
-tags: dropbox, linux, bash 
+tags: dropbox linux bash 
 ---
 
 Looking for a simple way to upload files from your server to Dropbox without doing a full sync?
@@ -46,12 +46,12 @@ App Key, App Secret and the Access level:
 Open up the url [https://www2.dropbox.com/developers/apps](https://www2.dropbox.com/developers/apps) in your browser, sign into Dropbox
 and click the `Create an app` button
 
-{% image_tag src="/img/2013-Blog-Dropbox%20create%20app.png" width="400" %}
+{% image_tag src="/img/2013-Blog-Dropbox-create-app.png" width="400" %}
 
 Fill in the app name as listed by the script, select 'Core' and 'App folder access' (this will create a folder call /App/MyUploader888 in your Dropbox director. 
 If you want to access all files in your Dropbox select 'Full Dropbox'
 
-{% image_tag src="/img/2013-Blog-Dropbox%20-%20core.png" width="400" %}
+{% image_tag src="/img/2013-Blog-Dropbox0-0core.png" width="400" %}
 
 Dropbox will now show you your API details for this app, get the 'App key' and paste it into commandline
 
