@@ -3,8 +3,7 @@ layout: post
 title: "Exclude file/directories/urls from Apache .htaccess password protection :: How to"
 published: true
 date: 2012-01-05
-tags: 
-- apache
+tags: apache
 ---
 
 I've an Apache .htaccess password protected site I'm working on but need certain
@@ -28,3 +27,5 @@ Allow from 777.777.77.7
 Allow from 888.888.88.8
 Satisfy any
 ```
+
+Refer gist for comments [https://gist.github.com/justinkelly/1565033](https://gist.github.com/justinkelly/1565033)
