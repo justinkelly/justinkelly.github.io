@@ -71,6 +71,6 @@ prose:
           value: "true"
       - name: "tags"
         field:
-          element: "text"
+          element: "textarea"
           label: "Tags"
           placeholder: "Enter tags, separated by spaces"
