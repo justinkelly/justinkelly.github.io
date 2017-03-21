@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Workflowy.com finally starts to roll out sharing
-published: true
+published: false
 date: 2011-05-12
 tags: workflowy
 ---
