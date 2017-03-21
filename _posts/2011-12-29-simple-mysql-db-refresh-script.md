@@ -3,10 +3,7 @@ layout: post
 title: Simple MySQL db refresh script
 published: true
 date: 2011-12-29
-tags: 
-- bash
-- linux
-- mysql
+tags: bash linux mysql
 ---
 
 If you need to drop the contents of a MySQL database and reimport base data alot (such as a webapp demo or development site)
@@ -38,3 +35,5 @@ done
 cat $FILE | mysql -u $MUSER -p$MPASS $MDB
 echo "Sql imported"
 ```
+
+Refer gist for comments [https://gist.github.com/justinkelly/1537596](https://gist.github.com/justinkelly/1537596)
