@@ -3,12 +3,8 @@ layout: post
 title: How to create a Google Chrome extension from a greasemonkey/user script
 published: true
 date: 2010-05-10
-tags: 
-- chrome
-- extensions
-- google
+tags: chrome extensions google
 ---
-
 Follow these steps to create a chrome extension from your userscript
 
 * Create a folder for your extension
@@ -17,20 +13,20 @@ Follow these steps to create a chrome extension from your userscript
 * Create a file called `manifest.json` in this folder
   * example is below - replace the `pinboard.in` content with your details
 
-{% highlight json %}
+``` json
 {
-  "name": "Pinboard.in clean up",
-  "version": "0.1",
-  "description": "Clean up the UI of pinboard.in",
-  "icons": { "128": "pinboard128.png" },
-  "content_scripts": [
-    {
-      "matches": ["http://www.pinboard.in/*","http://pinboard.in/*"],
-      "js": ["pinboardin_clean_up.user.js"]
-    }
-  ]
+  "name": "Pinboard.in clean up",
+  "version": "0.1",
+  "description": "Clean up the UI of pinboard.in",
+  "icons": { "128": "pinboard128.png" },
+  "content_scripts": [
+   {
+      "matches": ["http://www.pinboard.in/*","http://pinboard.in/*"],
+      "js": ["pinboardin_clean_up.user.js"]
+    }
+   ]
 }
-{% endhighlight %}
+```
 
 ### Note
 
