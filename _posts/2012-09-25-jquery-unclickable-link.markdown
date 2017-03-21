@@ -3,7 +3,7 @@ layout: post
 title: Make a link unclickable with jQuery
 date: '2012-09-26 04:40'
 comments: true
-tags: 'jquery,javascript'
+tags: 'jquery, javascript'
 published: true
 ---
 
