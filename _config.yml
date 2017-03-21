@@ -78,7 +78,7 @@ prose:
           element: "text"
           label: "Tags"
           placeholder: "Enter tags, separated by spaces"
-      - name: "categories"
+      - name: "tags"
         field:
           element: "multiselect"
           label: "Add Categories"
