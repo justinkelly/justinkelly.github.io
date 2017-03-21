@@ -11,9 +11,7 @@ is the simplest way i have come around to encrypt & decrypt info in PHP
 
 It works and only 1 line per function
 
-`simple_encrypt.php`
-
-{% highlight php %}
+``` php
 <?php
  
     $text ='some text';
@@ -30,4 +28,4 @@ It works and only 1 line per function
     }
  
 ?>
-{% endhighlight %}
+```
