@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Trim for jQuery"
-date: 2012-09-27 02:35
+title: Trim for jQuery
+date: '2012-09-27 02:35'
 comments: true
-tags: [ jquery ]
+tags: jquery
+published: true
 ---
 `trim()` is another function I miss in jQuery / Javascript, the below function was found in a random stackoverflow thread 
 but works great
 
 This trims whitespace from the start and end of a string
 
-{% highlight javascript %}
+``` javascript
 (function () {
  if (!String.prototype.trim) {
  /**
@@ -24,4 +25,4 @@ This trims whitespace from the start and end of a string
  };
  }
  })();
- {% endhighlight %}
+ ```
