@@ -81,6 +81,6 @@ prose:
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Add Categories"
-          placeholder: "Add Categories"
+          label: "Add Tags"
+          placeholder: "Add Tags"
           alterable: true
