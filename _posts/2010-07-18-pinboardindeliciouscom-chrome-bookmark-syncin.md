@@ -3,10 +3,7 @@ layout: post
 title: "Pinboard.in/Delicious.com -> Chrome bookmark syncing : How to"
 published: true
 date: 2010-07-18
-tags: 
-- chrome
-- pinboard.in
-- project
+tags: [ chrome , pinboard.in ]
 ---
 Since Chrome was first released I wanted an easy way to get my 
 Delicious.com and Pinboard.in bookmarks syncing to Chrome's internal bookmarks.  
@@ -24,8 +21,8 @@ To sync your pinboard.in or delicious.com bookmarks to chrome follow the below s
 1. Save the options 
 1. Add a bookmarks folder call 'RSS Live Links' into your Chrome bookmarks - bookmarks toolbar is best
 
-`pinboard_to_chrome.php`
-{% highlight php %}
+_pinboard_to_chrome.php_
+``` php
 <?php
  
 /** Config section - start **/  
@@ -124,9 +121,6 @@ $rssfeed .= '</rss>';
  
 echo $rssfeed;
 ?>
-{% endhighlight %}
+```
 
 Done, now the Chrome will grab your bookmarks and sync to the bookmark folder every few minutes
-
- 
-
