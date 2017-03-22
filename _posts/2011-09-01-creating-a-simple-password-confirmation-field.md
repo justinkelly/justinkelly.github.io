@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Creating a simple password confirmation field with Zend_Form : How to
+title: Creating a simple password confirmation field with Zend_Form
 comments: true
 published: true
 tags: php zend 
