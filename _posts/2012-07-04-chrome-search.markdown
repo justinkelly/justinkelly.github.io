@@ -3,7 +3,7 @@ layout: post
 title: "Make Chrome auto go to the first search result"
 date: 2012-07-04 01:00
 comments: true
-tags: [ chrome, google, duckduckgo ]
+tags: chrome, google, duckduckgo
 ---
 
 9 out of 10 times when I'm searching using Chrome I want the first result listed on the Google search results.

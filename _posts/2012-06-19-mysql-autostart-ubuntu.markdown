@@ -3,7 +3,7 @@ layout: post
 title: "Autostart MySQL on Ubuntu"
 date: 2012-06-19 23:21
 comments: true
-tags: [mysql, ubuntu]
+tags: mysql ubuntu
 ---
 
 When I setup a new VPS I'm always forgetting to set MySQL to auto start on boot

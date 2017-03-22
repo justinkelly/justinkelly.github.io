@@ -3,10 +3,7 @@ layout: post
 title: "Install Git in your home directory :: How to"
 published: true
 date: 2012-01-24
-tags: 
-- version control
-- git
-- linux
+tags: [ version control , git , linux ]
 ---
 <p>If you every need to install Git on a server but don&rsquo;t have root access, follow the below steps to install Git in your home directory</p>
 

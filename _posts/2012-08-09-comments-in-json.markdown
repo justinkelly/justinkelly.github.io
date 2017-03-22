@@ -3,7 +3,7 @@ layout: post
 title: "Comments in JSON"
 date: 2012-08-09 02:07
 comments: true
-tags: 
+tags: json javascript
 ---
 
 > JSON does not have comments. A JSON encoder MUST NOT output comments.

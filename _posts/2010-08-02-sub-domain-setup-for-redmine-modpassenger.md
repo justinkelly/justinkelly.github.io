@@ -1,16 +1,9 @@
----
-published: false
----
-
 --- 
 layout: post
 title: Sub-domain setup for Redmine & mod_passenger
 published: true
 date: 2010-08-02
-tags: 
-- apache
-- rails
-- redmine
+tags: apache rails redmine
 ---
 
 As someone who doesn't use rail/mod_passenger much, I had issues 
@@ -27,7 +20,7 @@ refer example vhost file below
 
 _example_vhost.conf_
 
-
+``` apache
 <VirtualHost *:80>
  
   # Admin email, Server Name (domain name) and any aliases
@@ -53,4 +46,4 @@ _example_vhost.conf_
   </Directory>
  
 </VirtualHost>
-
+```
