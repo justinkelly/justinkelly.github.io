@@ -72,5 +72,5 @@ prose:
       - name: "tags"
         field:
           element: "textarea"
-          label: "Many Thanks To"
+          label: "Tags"
           value: ""
