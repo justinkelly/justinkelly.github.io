@@ -6,7 +6,7 @@ comments: true
 tags: octopress
 ---
 
-![](http://i.minus.com/ibfUIMnX0HSmP5.png )
+![](/img/octopress-theme.png )
 
 It's been a while since I moved this blog from Posterous to Octopress, but I've finally gotten round
 to removing the default theme and apply the theme I did for [bzr.bz/docs](http://bzr.bz/docs), screenshot and full code for the theme is below:
@@ -15,17 +15,17 @@ to removing the default theme and apply the theme I did for [bzr.bz/docs](http:/
 
 Edit `sass/custom/_colors.scss` 
 
-{% highlight scss %}
+``` scss
 $page-bg :#f7f7f7;
 $main-bg :#fff;
 $nav-color :#fff;
 $nav-color-hover: #fff;
 $visited: #fff;
-{% endhighlight %}
+```
 
 Edit `sass/custom/_style.scss`
 
-{% highlight scss %}
+``` scss
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
  
@@ -107,11 +107,11 @@ html {
  
  
 }
-{% endhighlight %}
+```
 
 Edit `source/_includes/custom/navigation.html`
 
-{% highlight html %}
+``` html
 {% raw %}<ul class="main-navigation">
     <li><a href="{{ root_url }}/">
         <span class="blue_light">
@@ -128,13 +128,13 @@ Edit `source/_includes/custom/navigation.html`
   <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
   <li><a href="{{ root_url }}/about">About me</a></li>
 </ul>{% endraw %}
-{% endhighlight %}
+```
 
 remove the line
 
-{% highlight html %}
-{% raw %}<header role="banner">{% include header.html %}</header>{% endraw %}
-{% endhighlight %}
+``` html
+<header role="banner">{% include header.html %}</header>
+```
 
 from the `source/_layouts/default.html` file
 
