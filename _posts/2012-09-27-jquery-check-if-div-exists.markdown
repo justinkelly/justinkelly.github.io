@@ -2,7 +2,7 @@
 layout: post
 title: How to check if a div exists with jQuery
 comments: true
-tags: 'jquery,javascript'
+tags: jquery javascript
 published: true
 ---
 

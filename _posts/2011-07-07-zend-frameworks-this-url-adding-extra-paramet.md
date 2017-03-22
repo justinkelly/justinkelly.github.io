@@ -2,9 +2,7 @@
 layout: post
 title: Zend Frameworks $this->url() adding extra parameters - how to fix
 published: true
-tags: 
-- php
-- zend framework
+tags: php zend-framework
 ---
 what i was doing
 

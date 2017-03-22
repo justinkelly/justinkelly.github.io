@@ -2,10 +2,7 @@
 layout: post
 title: cloudflare.com - finally a free and great DNS host!!
 published: true
-tags: 
-- dns
-- google apps
-- srv
+tags: dns google-apps srv
 ---
 ![](/img/cloudflare.png)
 

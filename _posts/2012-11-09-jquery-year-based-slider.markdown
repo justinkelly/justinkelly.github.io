@@ -2,7 +2,7 @@
 layout: post
 title: jQuery year based slider
 comments: true
-tags: [jquery, jquery ui]
+tags: jquery jquery-ui
 published: true
 ---
 

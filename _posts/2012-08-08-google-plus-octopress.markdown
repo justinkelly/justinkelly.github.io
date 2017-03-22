@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Google Plus comments link for Octopress"
-tags: 
-- octopress
-- google plus
+tags: octopress google-plus
 ---
 Need Octopress blog posts to auto link to your Google Plus post for comments?
 

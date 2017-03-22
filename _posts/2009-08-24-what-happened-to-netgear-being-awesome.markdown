@@ -1,7 +1,7 @@
 ---
 layout: post
 title: what happened to netgear being awesome?
-published: true
+published: false
 tags: hardware netgear
 ---
 ![](/img/netgear.jpg )

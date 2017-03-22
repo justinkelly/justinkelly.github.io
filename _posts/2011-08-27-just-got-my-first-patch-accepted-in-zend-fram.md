@@ -2,9 +2,7 @@
 layout: post
 title: Just got my first patch accepted in Zend Framework trunk!
 published: true
-tags: 
-- php
-- zend framework
+tags: php zend-framework
 ---
 About a year and a half ago I submitted a small patch to the Zend Framework, 
 [http://framework.zend.com/issues/browse/ZF-9577](http://framework.zend.com/issues/browse/ZF-9577),
