@@ -58,7 +58,7 @@ ul.posts li span {
     color: silver;
 }
 
-tag-box {
+.tag-box {
     list-style: none;
     margin: 0;
     padding: 4px 0;
