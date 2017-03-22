@@ -68,9 +68,9 @@ prose:
         field:
           label: "Comments"
           element: "checkbox"
-          value: "true"
+          value: true
       - name: "tags"
         field:
           element: "textarea"
           label: "Tags"
-          value: ""
+          value: null
