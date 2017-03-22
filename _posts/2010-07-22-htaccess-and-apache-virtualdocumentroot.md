@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: .htaccess and Apache VirtualDocumentRoot
 published: true

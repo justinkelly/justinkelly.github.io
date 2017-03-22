@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: How to add Wikipedia as a Chrome search engine
 published: true

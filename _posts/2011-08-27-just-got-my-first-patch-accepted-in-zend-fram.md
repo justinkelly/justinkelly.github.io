@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Just got my first patch accepted in Zend Framework trunk!
 published: true

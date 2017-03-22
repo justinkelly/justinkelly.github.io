@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Exclude file/directories/urls from Apache .htaccess password protection :: How to"
 published: true

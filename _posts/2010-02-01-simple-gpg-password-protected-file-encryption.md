@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: simple gpg password protected file encryption example
 published: true

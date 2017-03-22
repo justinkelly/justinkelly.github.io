@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: running dropbox on centos in a headless/vps setup
 published: true

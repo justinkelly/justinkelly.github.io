@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Ubuntu 10.04 : how to move window buttons to the right"
 published: true

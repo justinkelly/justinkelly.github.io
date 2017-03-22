@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Simple mcrypt encrypt & decrypt functions for PHP : How to"
 published: true

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "How to: copy file and append current date in linux/bash"
 published: true

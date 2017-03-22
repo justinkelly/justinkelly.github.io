@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Zend Frameworks $this->url() adding extra parameters - how to fix
 published: true

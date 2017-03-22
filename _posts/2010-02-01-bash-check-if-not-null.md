@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: bash check if not null
 published: true

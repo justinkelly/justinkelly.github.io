@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Can anyone make this sql query faster
 published: true

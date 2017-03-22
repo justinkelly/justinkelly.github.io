@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "PHP: Strip null entries from an array : how to"
 published: true

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: what happened to netgear being awesome?
 published: true

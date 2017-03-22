@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Pinboard.in/Delicious.com -> Chrome bookmark syncing : How to"
 published: true

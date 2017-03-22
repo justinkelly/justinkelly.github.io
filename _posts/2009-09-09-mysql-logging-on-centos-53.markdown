@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Mysql logging on CentOS 5.3
 published: true

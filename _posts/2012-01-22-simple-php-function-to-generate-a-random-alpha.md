@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Simple PHP function to generate a random alpha-numeric code with only readable characters :: How to"
 published: true

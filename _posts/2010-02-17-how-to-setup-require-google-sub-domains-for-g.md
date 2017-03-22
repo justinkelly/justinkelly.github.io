@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: how to setup google apps dns records with the free namecheap.com dns hosting
 published: false

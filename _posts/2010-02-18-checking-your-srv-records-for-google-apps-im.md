@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Checking your SRV records for google apps IM
 published: true

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: shell script to check if ExLibris Aleph is running OK
 published: true

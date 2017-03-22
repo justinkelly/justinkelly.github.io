@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Thanks HackerNews: SimpleInvoices.org finally implements HN donated design"
 published: true

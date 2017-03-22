@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "linux shell: adding date to file name"
 published: true

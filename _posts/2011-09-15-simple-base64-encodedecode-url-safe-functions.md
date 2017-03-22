@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Simple PHP base64 encode/decode url safe functions : How to"
 published: true

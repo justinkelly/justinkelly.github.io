@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Using page content stored in Wordpress in another PHP/HTML page : How to"
 published: true

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "simple bash if then else example "
 published: true

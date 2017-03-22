@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: smarty template engine and tomorrow
 published: true

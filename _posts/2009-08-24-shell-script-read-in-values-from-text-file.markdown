@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "shell script: read in values from text file"
 published: true

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Google Calendar with Mozilla Lightning/Sunbird - accepting invites solution
 published: true

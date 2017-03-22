@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Creating a simple password confirmation field with Zend_Form
 comments: true

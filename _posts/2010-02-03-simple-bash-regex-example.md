@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: simple bash regex example
 published: true

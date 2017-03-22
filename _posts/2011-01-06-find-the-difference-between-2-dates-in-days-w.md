@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Find the difference between 2 dates in days with PHP
 published: true

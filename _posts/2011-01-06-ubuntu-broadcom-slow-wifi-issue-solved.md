@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Ubuntu / Broadcom slow wifi issue solved
 published: true

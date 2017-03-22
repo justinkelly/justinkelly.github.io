@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Oracle: How to auto execute a sql from commandline and save output to file"
 published: true

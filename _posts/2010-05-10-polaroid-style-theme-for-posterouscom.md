@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Polaroid style theme for posterous.com
 published: true

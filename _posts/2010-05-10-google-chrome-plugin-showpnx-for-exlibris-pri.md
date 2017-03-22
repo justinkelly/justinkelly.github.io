@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Google Chrome plugin: showPnx for Exlibris Primo"
 published: true

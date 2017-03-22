@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Install Git in your home directory :: How to"
 published: true

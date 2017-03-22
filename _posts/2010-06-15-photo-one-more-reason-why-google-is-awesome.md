@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "PHOTO: one more reason why google is awesome"
 published: true

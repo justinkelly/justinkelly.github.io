@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: How to add Pinboard.in 'Search Mine' as a Chrome search engine
 published: true

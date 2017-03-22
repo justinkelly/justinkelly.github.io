@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Sub-domain setup for Redmine & mod_passenger
 published: true

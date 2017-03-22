@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "google chrome in ubuntu 9.10 "
 published: true

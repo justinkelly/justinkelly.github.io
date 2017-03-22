@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: DVD, MP3, Skype, etc.. for Ubuntu 9.10
 published: true

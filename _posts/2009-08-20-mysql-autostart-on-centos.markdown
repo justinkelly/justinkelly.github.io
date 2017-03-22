@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: mysql autostart on centos
 published: true

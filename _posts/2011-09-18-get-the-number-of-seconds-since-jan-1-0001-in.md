@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Get the number of seconds since Jan 1, 0001 in PHP : How to"
 published: true

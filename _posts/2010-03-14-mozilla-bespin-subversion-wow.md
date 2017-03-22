@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Mozilla Bespin + Subversion = wow!
 published: true

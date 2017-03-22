@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Connecting to an OpenVPN (untangle) network from linux: How to"
 published: true

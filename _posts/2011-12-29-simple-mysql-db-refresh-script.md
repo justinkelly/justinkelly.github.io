@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Simple MySQL db refresh script
 published: true

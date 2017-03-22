@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: simple function to remove non numeric characters from a string with PHP
 published: true

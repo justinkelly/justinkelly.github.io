@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: How to setup SRV records (for google apps IM) on the free	namecheap.com DNS hosting
 published: true

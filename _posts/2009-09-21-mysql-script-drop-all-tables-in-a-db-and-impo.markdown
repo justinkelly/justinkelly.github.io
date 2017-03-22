@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "MySQL script: drop all tables in a db and import a .sql file"
 published: true

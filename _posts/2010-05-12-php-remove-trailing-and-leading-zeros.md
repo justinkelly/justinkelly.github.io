@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: PHP remove trailing and leading zeros
 published: true

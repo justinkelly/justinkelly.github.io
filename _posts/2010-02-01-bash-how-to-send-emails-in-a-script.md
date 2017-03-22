@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "bash: how to send emails in a script "
 published: true

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: php 5.2 (with pdo + pdo_mysql) on centos 5.3
 published: true

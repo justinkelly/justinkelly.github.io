@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "How to add Google Dictionary as a Chrome search engine "
 published: true

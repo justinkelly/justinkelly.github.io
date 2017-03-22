@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Google Chrome script to clean up the UI of Pinboard.in
 published: true
