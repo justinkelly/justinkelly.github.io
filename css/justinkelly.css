@@ -82,6 +82,12 @@ ul.posts li span {
     text-decoration: none;
 }
 
+.tag-box a span {
+    vertical-align: super;
+    font-size: 10px;
+    font-size: 0.625rem;
+}
+
 /*Add social icons*/
 .social-icons span {
 	padding-left: 6px;
