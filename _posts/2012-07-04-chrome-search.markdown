@@ -19,21 +19,22 @@ you can make Chrome do this
 
 In Chrome open the 'wrench' menu, go to Settings, then click 'Manage Search Engines' in the Search settings - refer image below:
 
-![chrome manage search engines](http://i.minus.com/iTTnwBZq2txPd.png)
-
 Add in new search engines - add the bottom of the window 
 
-    Name: Google - I feel lucky
-    Keyword: !go
-    URL: http://www.google.com/search?q=%s&btnI
+``` config
+Name: !Google - I feel lucky
+Keyword: !go
+URL: http://www.google.com/search?q=%s&btnI
+```
 
 If you want to use DuckDuckGo enter
 
-    Name: DuckDuckGo - I feel ducky
-    Keyword: !dgo
-    URL: https://duckduckgo.com/?q=%21+%s
+``` config
+Name: !DuckDuckGo - I feel ducky
+Keyword: !dgo
+URL: https://duckduckgo.com/?q=%21+%s
+```
 
-![chorme add search engines](http://i.minus.com/ioXWj3JjAJS0v.png)
+![chrome add search engines](/img/chrome-direct.png)
 
-Now if you start your search in Chrome with either `!go` or `!dgo` you'll go straith to the page you want 
-and by-pass the search engiens results page
+Now if you start your search in Chrome with either `!go` or `!dgo` you'll go straith to the page you want and by-pass the search engiens results page

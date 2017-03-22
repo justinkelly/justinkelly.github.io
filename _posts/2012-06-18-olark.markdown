@@ -9,8 +9,6 @@ _Edit:[Olark] has confirmed that the limits on the free plans are soft caps
 - you can go over the 20 chat limit,  no charges or cancellation of service
 -  thanks [Olark]!_
 
-[![olark logo](http://i.minus.com/icwmF2HyDRv9I.png)][olark]
-
 Over the years I've added various web based chat pluggins to my websits - so users of my various products etc..
 can chat to me while they are browsing the site
 
@@ -68,7 +66,5 @@ Conclusion
 
 Update: [Olark] have confirmed that the limits on the free plan are 'soft caps' meaning they are just an indication
 - you can exceed them and there are no charges or cancellation of service
-
-
 
 [Olark]: http://www.olark.com/?rid=1449-689-10-9758-link "Olark"
