@@ -69,8 +69,8 @@ prose:
           label: "Comments"
           element: "checkbox"
           value: "true"
-      - name: "tags"
-        field:
-          element: "text"
-          label: "Tags"
-          placeholder: "Enter tags, separated by spaces"
+#     - name: "tags"
+#        field:
+#          element: "text"
+#          label: "Tags"
+#          placeholder: "Enter tags, separated by spaces"
