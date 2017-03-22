@@ -74,3 +74,10 @@ prose:
           element: "textarea"
           label: "Tags"
           value: ""
+       - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
