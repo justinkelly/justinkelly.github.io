@@ -2,7 +2,6 @@
 layout: post
 title: VPS + OpenDNS
 published: true
-date: 2009-09-02
 tags: vps dns
 ---
 just setup a vps with [fsckvps.com](fsckvps.com) and there was no nameserver in resolve.conf -- thus yum wasn't working

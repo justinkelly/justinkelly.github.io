@@ -2,7 +2,6 @@
 layout: post
 title: "PHP: Strip null entries from an array : how to"
 published: true
-date: 2011-07-10
 tags: 
 - php
 ---

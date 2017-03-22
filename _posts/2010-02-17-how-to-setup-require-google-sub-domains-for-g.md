@@ -2,7 +2,6 @@
 layout: post
 title: how to setup google apps dns records with the free namecheap.com dns hosting
 published: false
-date: 2010-02-17
 tags: [ dns , google apps ]
 ---
 ### Sub-domain settings

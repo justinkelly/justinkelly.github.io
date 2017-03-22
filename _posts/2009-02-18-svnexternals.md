@@ -2,7 +2,6 @@
 layout: post
 title: svn:externals
 published: true
-date: 2009-02-18
 tags: 
 - svn
 - version control

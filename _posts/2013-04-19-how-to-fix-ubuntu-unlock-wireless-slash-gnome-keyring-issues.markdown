@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to fix Ubuntu unlock wireless/Gnome keyring issues"
-date: 2013-04-19 01:11
 comments: true
 tags: ubuntu linux gnome
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: .htaccess and Apache VirtualDocumentRoot
 published: true
-date: 2010-07-22
 tags: apache linux
 ---
 

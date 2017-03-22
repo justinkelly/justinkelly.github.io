@@ -2,7 +2,6 @@
 layout: post
 title: dropbox as an apache folder
 published: true
-date: 2009-10-27
 tags: apache dropbox linux
 ---
 Create an apache config file for dropbox 

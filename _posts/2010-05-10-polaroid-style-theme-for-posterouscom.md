@@ -2,7 +2,6 @@
 layout: post
 title: Polaroid style theme for posterous.com
 published: true
-date: 2010-05-10
 tags: posterous
 ---
 If you have a simple photo blog on posterous.com below is the code for a simple 'polaroid' style theme for posterous

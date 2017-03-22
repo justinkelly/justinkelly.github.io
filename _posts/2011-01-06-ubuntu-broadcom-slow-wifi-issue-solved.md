@@ -2,7 +2,6 @@
 layout: post
 title: Ubuntu / Broadcom slow wifi issue solved
 published: true
-date: 2011-01-06
 tags: linux ubuntu broadcom
 ---
 ### Update

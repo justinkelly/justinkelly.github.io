@@ -2,7 +2,6 @@
 layout: post
 title: "Using page content stored in Wordpress in another PHP/HTML page : How to"
 published: true
-date: 2011-11-17
 tags: php wordpress
 ---
 

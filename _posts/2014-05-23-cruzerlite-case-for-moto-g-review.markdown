@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cruzerlite case for Moto G review"
-date: 2014-05-23 04:00
 comments: true
 tags:  review
 ---

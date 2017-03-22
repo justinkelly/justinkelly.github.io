@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "PHP end of month plus"
-date: 2012-06-29 04:42
 comments: true
 tags: php
 ---

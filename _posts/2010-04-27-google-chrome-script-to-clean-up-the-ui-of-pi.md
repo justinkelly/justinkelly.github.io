@@ -2,7 +2,6 @@
 layout: post
 title: Google Chrome script to clean up the UI of Pinboard.in
 published: true
-date: 2010-04-27
 tags: [ chrome , google , pinboard.in ]
 ---
 Pinboard.in is a great minimalist bookmarking service.  I moved to Pinboard at the start of the year and have never looked back to Delicious.

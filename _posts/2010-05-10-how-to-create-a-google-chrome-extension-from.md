@@ -2,7 +2,6 @@
 layout: post
 title: How to create a Google Chrome extension from a greasemonkey/user script
 published: true
-date: 2010-05-10
 tags: chrome extensions google
 ---
 Follow these steps to create a chrome extension from your userscript

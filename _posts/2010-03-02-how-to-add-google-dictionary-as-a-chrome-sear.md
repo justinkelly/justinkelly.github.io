@@ -2,7 +2,6 @@
 layout: post
 title: "How to add Google Dictionary as a Chrome search engine "
 published: true
-date: 2010-03-02
 tags: 
 - chrome
 - google

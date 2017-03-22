@@ -2,7 +2,6 @@
 layout: post
 title: Simple 1 page PHP/JQuery contact form
 published: true
-date: 2010-03-31
 tags: 
 - jquery
 - php

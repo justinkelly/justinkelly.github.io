@@ -2,7 +2,6 @@
 layout: post
 title: "Exclude file/directories/urls from Apache .htaccess password protection :: How to"
 published: true
-date: 2012-01-05
 tags: apache
 ---
 

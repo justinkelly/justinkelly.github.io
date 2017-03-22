@@ -2,7 +2,6 @@
 layout: post
 title: installing php5.3 with xml support on centos
 published: true
-date: 2009-08-20
 tags: 
 - centos
 - linux

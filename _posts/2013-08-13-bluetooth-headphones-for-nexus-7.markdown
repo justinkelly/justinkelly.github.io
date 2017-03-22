@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bluetooth headphones for Nexus 7"
-date: 2013-08-13 05:55
 comments: true
 tags: [nexus 7, headphones]
 ---

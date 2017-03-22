@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "PHP mobile detect"
-date: 2012-08-07 00:24
 comments: true
 tags: php 
 ---

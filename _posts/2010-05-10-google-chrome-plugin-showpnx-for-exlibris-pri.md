@@ -2,7 +2,6 @@
 layout: post
 title: "Google Chrome plugin: showPnx for Exlibris Primo"
 published: true
-date: 2010-05-10
 tags: chrome exlibris extensions google project
 ---
 If you deal with PNX records and ExLibris Primo I've created a Google Chrome pluging to make your life easier.  

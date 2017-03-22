@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Commandline Dropbox client"
-date: 2013-04-15 03:06
 comments: true
 tags: dropbox linux bash 
 ---

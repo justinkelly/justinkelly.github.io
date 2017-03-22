@@ -2,7 +2,6 @@
 layout: post
 title: Simple MySQL db refresh script
 published: true
-date: 2011-12-29
 tags: bash linux mysql
 ---
 

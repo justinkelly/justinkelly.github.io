@@ -2,7 +2,6 @@
 layout: post
 title: "Pinboard.in/Delicious.com -> Chrome bookmark syncing : How to"
 published: true
-date: 2010-07-18
 tags: [ chrome , pinboard.in ]
 ---
 Since Chrome was first released I wanted an easy way to get my 

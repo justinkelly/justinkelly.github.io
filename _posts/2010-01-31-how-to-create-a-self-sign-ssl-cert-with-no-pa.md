@@ -2,7 +2,6 @@
 layout: post
 title: How to create a self signed ssl cert with no passphrase for your test server
 published: true
-date: 2010-01-31
 tags: apache linux
 ---
 

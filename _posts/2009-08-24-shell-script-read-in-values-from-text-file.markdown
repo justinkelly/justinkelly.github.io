@@ -2,7 +2,6 @@
 layout: post
 title: "shell script: read in values from text file"
 published: true
-date: 2009-08-24
 tags: 
 - linux
 - shell

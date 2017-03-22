@@ -2,7 +2,6 @@
 layout: post
 title: "Get the number of seconds since Jan 1, 0001 in PHP : How to"
 published: true
-date: 2011-09-18
 tags: php
 ---
 If you need to get the number of seconds since Jan 1, 0001 in PHP you can&#39;t

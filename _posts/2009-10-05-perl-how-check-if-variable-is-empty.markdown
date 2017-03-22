@@ -2,7 +2,6 @@
 layout: post
 title: "Perl: how check if variable is empty"
 published: true
-date: 2009-10-05
 tags: 
 - perl
 ---

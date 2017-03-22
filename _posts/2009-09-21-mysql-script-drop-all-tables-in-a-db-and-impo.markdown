@@ -2,7 +2,6 @@
 layout: post
 title: "MySQL script: drop all tables in a db and import a .sql file"
 published: true
-date: 2009-09-21
 tags: 
 - mysql
 - shell

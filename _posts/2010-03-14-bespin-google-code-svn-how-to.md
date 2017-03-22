@@ -2,7 +2,6 @@
 layout: post
 title: "Bespin + Google Code (SVN) : How to"
 published: true
-date: 2010-03-14
 tags: 
 - bespin
 - svn

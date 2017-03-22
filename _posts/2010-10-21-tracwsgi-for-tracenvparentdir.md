@@ -2,7 +2,6 @@
 layout: post
 title: trac.wsgi for trac_env_parent_dir
 published: true
-date: 2010-10-21
 tags: bzr trac
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: Checking your SRV records for google apps IM
 published: true
-date: 2010-02-18
 tags: 
 - dns
 - google apps

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Get the current year in Javascript
-date: '2012-09-27 02:53'
 comments: true
 tags: javascript jquery
 published: true

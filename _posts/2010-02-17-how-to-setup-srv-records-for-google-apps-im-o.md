@@ -2,7 +2,6 @@
 layout: post
 title: How to setup SRV records (for google apps IM) on the free	namecheap.com DNS hosting
 published: true
-date: 2010-02-17
 tags: [ dns, google apps ]
 ---
 Setting up SRV records (for google IM in your google apps domain) is a real pain with [namecheap.com](namecheap.com), 

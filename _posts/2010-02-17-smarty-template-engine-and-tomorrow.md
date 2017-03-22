@@ -2,7 +2,6 @@
 layout: post
 title: smarty template engine and tomorrow
 published: true
-date: 2010-02-17
 tags: []
 
 ---

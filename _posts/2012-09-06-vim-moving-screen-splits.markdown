@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Vim - Moving screen splits"
-date: 2012-09-06 01:47
 comments: true
 tags: vi
 ---

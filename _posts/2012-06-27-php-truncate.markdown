@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Best PHP truncate function"
-date: 2012-06-27 23:51
 comments: true
 tags: php
 ---

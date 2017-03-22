@@ -2,7 +2,6 @@
 layout: post
 title: bash check if null
 published: true
-date: 2010-02-01
 tags: bash linux
 ---
 expanding on the previous [bash not null](http://blog.justin.kelly.org.au/bash-check-if-not-null)  post

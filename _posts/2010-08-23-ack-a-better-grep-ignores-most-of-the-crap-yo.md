@@ -2,7 +2,6 @@
 layout: post
 title: ack = a better grep "ignores most of the crap you don't want to search"
 published: true
-date: 2010-08-23
 tags: linux
 ---
 If you've ever use grep to search a svn directory you'll know the issues re .svn folders, easiest solution is to use [ack](http://betterthangrep.com)

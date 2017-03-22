@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Curl JSON function for PHP"
-date: 2012-06-27 10:07
 comments: true
 tags: php
 ---

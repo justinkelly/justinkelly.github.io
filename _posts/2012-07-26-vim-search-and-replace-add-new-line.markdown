@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Vim search and replace - add new line"
-date: 2012-07-26 06:16
 comments: true
 tags: vi
 ---

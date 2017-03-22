@@ -2,7 +2,6 @@
 layout: post
 title: "Perl: checking command line arguments for basic sanity"
 published: true
-date: 2009-10-05
 tags: 
 - perl
 ---

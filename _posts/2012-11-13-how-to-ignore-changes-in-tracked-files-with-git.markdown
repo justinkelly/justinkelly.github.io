@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to ignore changes in tracked files with Git"
-date: 2012-11-13 00:13
 comments: true
 tags: git
 ---

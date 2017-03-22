@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fluent.io - 1 week on"
-date: 2012-06-15 04:04
 comments: false
 tags: [fluent, gmail]
 ---

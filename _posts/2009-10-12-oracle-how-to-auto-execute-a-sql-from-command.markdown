@@ -2,7 +2,6 @@
 layout: post
 title: "Oracle: How to auto execute a sql from commandline and save output to file"
 published: true
-date: 2009-10-12
 tags: 
 - oracle
 - shell

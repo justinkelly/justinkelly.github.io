@@ -2,7 +2,6 @@
 layout: post
 title: How not to design an interface
 published: true
-date: 2011-07-13
 tags: ui
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: Can anyone make this sql query faster
 published: true
-date: 2009-09-13
 tags: 
 - mysql
 - simple invoices

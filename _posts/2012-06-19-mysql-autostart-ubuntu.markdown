@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Autostart MySQL on Ubuntu"
-date: 2012-06-19 23:21
 comments: true
 tags: mysql ubuntu
 ---

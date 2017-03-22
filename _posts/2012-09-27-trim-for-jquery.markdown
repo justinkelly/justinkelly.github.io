@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Trim for jQuery
-date: '2012-09-27 02:35'
 comments: true
 tags: jquery
 published: true

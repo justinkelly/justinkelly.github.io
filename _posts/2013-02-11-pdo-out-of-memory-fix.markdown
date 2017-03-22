@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "PDO out of memory fix"
-date: 2013-02-11 04:24
 comments: true
 tags: php
 ---

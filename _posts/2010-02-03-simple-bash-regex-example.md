@@ -2,7 +2,6 @@
 layout: post
 title: simple bash regex example
 published: true
-date: 2010-02-03
 tags: bash linux
 ---
 since versions 3 bash has included a simple regular expression operation `=~`

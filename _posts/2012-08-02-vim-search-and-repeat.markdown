@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Vim search and repeat"
-date: 2012-08-02 02:30
 comments: true
 tags: vi
 ---

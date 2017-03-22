@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Anchor links in markdown"
-date: 2012-08-13 14:12
 comments: true
 tags: markdown
 ---

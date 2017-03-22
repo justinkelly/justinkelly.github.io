@@ -2,7 +2,6 @@
 layout: post
 title: ABC.net.au internet radio streams (MMS) in VLC
 published: true
-date: 2009-10-27
 tags: 
 ---
 I haven't been able to find a simple ist of ABC's mp3/m3u internet radio streams on the ABC site.

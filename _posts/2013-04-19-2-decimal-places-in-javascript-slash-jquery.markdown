@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "2 decimal places in Javascript/jQuery"
-date: 2013-04-19 00:55
 comments: true
 tags: javascript jquery 
 ---

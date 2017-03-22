@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Testing out Fluent.io - the future of email - beta access"
-date: 2012-06-08 00:12
 comments: false
 tags: fluent gmail
 ---

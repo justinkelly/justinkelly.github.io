@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Merge PDFs with the Zend Framework"
-date: 2013-08-28 05:37
 comments: true
 tags: 
  - zend framework

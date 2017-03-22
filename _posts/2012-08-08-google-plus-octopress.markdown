@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Google Plus comments link for Octopress"
-date: 2012-08-08 04:30
 tags: 
 - octopress
 - google plus

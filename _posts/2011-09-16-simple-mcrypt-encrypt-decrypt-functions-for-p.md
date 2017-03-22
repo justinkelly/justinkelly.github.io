@@ -2,7 +2,6 @@
 layout: post
 title: "Simple mcrypt encrypt & decrypt functions for PHP : How to"
 published: true
-date: 2011-09-16
 tags: php
 ---
 After more searching through the [php.net](http://php.net) and stackoverflow comments below 

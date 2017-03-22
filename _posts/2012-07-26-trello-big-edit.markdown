@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Trello big edit"
-date: 2012-07-26 02:51
 comments: true
 tags:  chrome
 ---

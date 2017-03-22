@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOGA Pro controller for Android
-date: '2015-04-06 14:32'
 comments: false
 published: true
 tags: review

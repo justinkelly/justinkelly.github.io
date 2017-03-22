@@ -2,7 +2,6 @@
 layout: post
 title: "using svn:externals with svn propset "
 published: true
-date: 2010-03-30
 tags: 
 - svn
 ---

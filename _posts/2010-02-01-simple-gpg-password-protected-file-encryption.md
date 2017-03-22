@@ -2,7 +2,6 @@
 layout: post
 title: simple gpg password protected file encryption example
 published: true
-date: 2010-02-01
 tags: 
 - bash
 - linux

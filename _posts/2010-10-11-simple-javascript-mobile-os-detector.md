@@ -2,7 +2,6 @@
 layout: post
 title: Simple javascript mobile OS detector
 published: true
-date: 2010-10-11
 tags: javascript
 ---
 
@@ -176,4 +175,3 @@ $(document).ready(function() {
 
 Let me know if you find any issues or have enhancements
 
-update: 9th March 2012 to included Windows Phone OS 7 +

@@ -2,7 +2,6 @@
 layout: post
 title: How to add Wikipedia as a Chrome search engine
 published: true
-date: 2010-07-14
 tags: chrome
 ---
 

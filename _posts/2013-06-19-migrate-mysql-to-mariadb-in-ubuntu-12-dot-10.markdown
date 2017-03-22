@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Migrate MySQL to MariaDB in Ubuntu 12.10"
-date: 2013-06-19 04:21
 comments: true
 tags: linux ubuntu mysql mariadb
 ---

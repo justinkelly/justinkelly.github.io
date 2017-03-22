@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Octopress theme'
-date: 2012-08-16 01:57
 comments: true
 tags: octopress
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Posterous Backup"
-date: 2013-04-15 02:36
 comments: true
 tags: posterous
 ---

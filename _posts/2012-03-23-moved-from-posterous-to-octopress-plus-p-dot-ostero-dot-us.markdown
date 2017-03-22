@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Moved from Posterous to Octopress + p.ostero.us"
-date: 2012-03-23 05:04
 comments: true
 tags: posterous
 ---

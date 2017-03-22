@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Simple javascript function to format the date as YYYY-MM-DD
-date: '2013-04-19 01:43'
 comments: true
 tags: javascript jquery
 published: true

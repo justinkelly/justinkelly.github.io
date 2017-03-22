@@ -2,7 +2,6 @@
 layout: post
 title: simple function to remove non numeric characters from a string with PHP
 published: true
-date: 2011-05-12
 tags: php
 ---
 

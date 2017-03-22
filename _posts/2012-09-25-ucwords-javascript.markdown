@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ucwords for Javascript
-date: '2012-09-25 04:02'
 comments: true
 tags: php jquery javascript
 published: true

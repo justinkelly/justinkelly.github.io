@@ -2,7 +2,6 @@
 layout: post
 title: MongoDB install on Ubuntu 9.10 UNR
 published: true
-date: 2010-03-29
 tags: 
 - mongo
 - ubuntu

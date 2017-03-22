@@ -2,7 +2,6 @@
 layout: post
 title: "hp mini 2140 HD + linux mint : finally a great netbook - why the \tfreak is HP making it so hard to get one"
 published: true
-date: 2009-09-09
 tags: hardware linux
 ---
 

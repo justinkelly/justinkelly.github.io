@@ -2,7 +2,6 @@
 layout: post
 title: shell script to check if ExLibris Aleph is running OK
 published: true
-date: 2010-05-10
 tags: aleph bash exlibris linux
 ---
 If you have to admin Aleph from ExLibris you may be wondering why there is minimal tools to help you make sure its all running ok

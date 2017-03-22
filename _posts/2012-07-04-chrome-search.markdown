@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Make Chrome auto go to the first search result"
-date: 2012-07-04 01:00
 comments: true
 tags: chrome, google, duckduckgo
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "GNU Screen: how to bind Alt + Left Arrow & Alt + Right Arrow to \tprev/next"
 published: true
-date: 2010-02-27
 tags: 
 - screen
 - linux

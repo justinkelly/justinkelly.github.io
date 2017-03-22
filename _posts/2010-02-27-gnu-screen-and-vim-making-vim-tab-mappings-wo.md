@@ -2,7 +2,6 @@
 layout: post
 title: "GNU Screen and Vim: making vim tab mappings work"
 published: true
-date: 2010-02-27
 tags: screen linux vi
 ---
 

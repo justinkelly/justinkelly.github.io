@@ -2,7 +2,6 @@
 layout: post
 title: Just got my first patch accepted in Zend Framework trunk!
 published: true
-date: 2011-08-27
 tags: 
 - php
 - zend framework

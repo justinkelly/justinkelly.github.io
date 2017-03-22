@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Google Calendar spam"
-date: 2012-09-05 01:41
 comments: false
 tags: google
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Vim Lowercase"
-date: 2012-08-24 01:28
 comments: true
 tags: vi 
 ---

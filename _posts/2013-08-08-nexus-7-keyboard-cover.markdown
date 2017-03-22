@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Nexus 7 keyboard cover"
-date: 2013-08-08 02:33
 comments: true
 tags: [nexus 7, keyboard]
 ---

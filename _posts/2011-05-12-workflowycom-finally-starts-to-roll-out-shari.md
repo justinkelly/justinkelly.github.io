@@ -2,7 +2,6 @@
 layout: post
 title: Workflowy.com finally starts to roll out sharing
 published: false
-date: 2011-05-12
 tags: workflowy
 ---
 Great to see the fantastic web app [workflowy.com](http://workflowy.com) start to implement list sharing

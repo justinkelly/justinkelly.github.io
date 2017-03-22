@@ -2,7 +2,6 @@
 layout: post
 title: "Simple PHP base64 encode/decode url safe functions : How to"
 published: true
-date: 2011-09-15
 tags: php
 ---
 

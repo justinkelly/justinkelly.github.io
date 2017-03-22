@@ -2,7 +2,6 @@
 layout: post
 title: "bash: how to send emails in a script "
 published: true
-date: 2010-02-01
 tags: 
 - bash
 - linux

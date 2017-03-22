@@ -2,7 +2,6 @@
 layout: post
 title: PHP int filter, Facebook user IDs, and 32 bit servers dont mix
 published: true
-date: 2011-08-26
 tags: php
 ---
 Just working on a facebook app and wondering why is it always inserting the Facebook user ID as 2147483647 

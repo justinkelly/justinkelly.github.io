@@ -2,7 +2,6 @@
 layout: post
 title: php 5.2 (with pdo + pdo_mysql) on centos 5.3
 published: true
-date: 2009-10-29
 tags: centos linux php
 ---
 after installing/removing various php installs from various repos 

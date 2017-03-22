@@ -2,7 +2,6 @@
 layout: post
 title: extract a tar file to a different directory
 published: true
-date: 2009-12-01
 tags: []
 
 ---

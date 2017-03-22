@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "URL rewriting with Nginx and Vanilla forum"
-date: 2013-06-19 04:47
 comments: true
 tags: [ nginx, apache ]
 ---

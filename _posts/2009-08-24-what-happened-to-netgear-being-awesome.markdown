@@ -2,7 +2,6 @@
 layout: post
 title: what happened to netgear being awesome?
 published: true
-date: 2009-08-24
 tags: hardware netgear
 ---
 ![](/img/netgear.jpg )

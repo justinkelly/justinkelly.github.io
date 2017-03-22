@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "PHP class autoloading"
-date: 2012-07-30 01:11
 comments: true
 tags: php
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "Thanks HackerNews: SimpleInvoices.org finally implements HN donated design"
 published: true
-date: 2011-06-15
 tags: 
 - simple invoices
 ---

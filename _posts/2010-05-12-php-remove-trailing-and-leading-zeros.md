@@ -2,7 +2,6 @@
 layout: post
 title: PHP remove trailing and leading zeros
 published: true
-date: 2010-05-12
 tags: php
 ---
 I couldn't find a nice `number clean` function for php for remove leading and 

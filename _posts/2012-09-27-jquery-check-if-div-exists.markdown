@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to check if a div exists with jQuery
-date: '2012-09-27 02:10'
 comments: true
 tags: 'jquery,javascript'
 published: true

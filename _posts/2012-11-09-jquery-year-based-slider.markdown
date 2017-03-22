@@ -1,7 +1,6 @@
 ---
 layout: post
 title: jQuery year based slider
-date: '2012-11-09 04:47'
 comments: true
 tags: [jquery, jquery ui]
 published: true

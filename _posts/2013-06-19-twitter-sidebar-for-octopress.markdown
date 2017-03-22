@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Twitter sidebar for Octopress"
-date: 2013-06-19 05:47
 comments: true
 tags: [octopress, twitter]
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: SimpleInvoices at phpMelbourne 18th April 7PM
 published: true
-date: 2011-04-12
 tags: [simple invoices, php]
 
 ---

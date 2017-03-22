@@ -2,7 +2,6 @@
 layout: post
 title: "MongoDB php driver install for Ubuntu 9.10 UNR without pear/pecl "
 published: true
-date: 2010-03-29
 tags: mongo php ubuntu
 ---
 To manually install the MongDB PHP drivers without pear/pecl follow the below steps

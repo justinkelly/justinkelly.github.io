@@ -1,7 +1,6 @@
 ---
 layout: post
 title: jQuery remove hash from URL
-date: '2012-08-28 01:34'
 comments: true
 tags: jquery
 published: true

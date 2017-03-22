@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Auto select all text with jQuery
-date: '2013-06-21 03:56'
 comments: true
 tags: jquery
 published: true

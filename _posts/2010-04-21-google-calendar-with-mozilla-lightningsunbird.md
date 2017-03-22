@@ -2,7 +2,6 @@
 layout: post
 title: Google Calendar with Mozilla Lightning/Sunbird - accepting invites solution
 published: true
-date: 2010-04-21
 tags: [ google , google apps ]
 ---
 {% image_tag src="/img/thunderbird.png" width="400" %}

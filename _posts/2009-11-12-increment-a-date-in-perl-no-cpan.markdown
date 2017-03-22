@@ -2,7 +2,6 @@
 layout: post
 title: "increment a date in perl - no cpan "
 published: true
-date: 2009-11-12
 tags: perl
 ---
 need to increment a date in perl - but can't use cpan / non core modules - use and modify the below code

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Ubuntu Numlock"
-date: 2013-04-19 00:37
 comments: true
 tags: ubuntu linux
 ---
