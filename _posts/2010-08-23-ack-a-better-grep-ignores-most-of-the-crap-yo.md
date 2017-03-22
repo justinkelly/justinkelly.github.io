@@ -3,8 +3,7 @@ layout: post
 title: ack = a better grep "ignores most of the crap you don't want to search"
 published: true
 date: 2010-08-23
-tags: 
-- linux
+tags: linux
 ---
 If you've ever use grep to search a svn directory you'll know the issues re .svn folders, easiest solution is to use [ack](http://betterthangrep.com)
 
@@ -15,9 +14,9 @@ _Andy Lester http://betterthangrep.com_
 
 ### How to install
 
-{% highlight bash %}
+``` shell
 curl http://betterthangrep.com/ack-standalone >  ~/bin/ack &&; chmod 0755 !#:3
-{% endhighlight %}
+```
 
 ### Top reasons to use ack instead of grep
 
@@ -40,26 +39,26 @@ curl http://betterthangrep.com/ack-standalone >  ~/bin/ack &&; chmod 0755 !#:3
 
 Which would you rather type?
 
-{% highlight bash %}
+``` shell
 $ grep pattern $(find . -type f | grep -v '\.svn')
-{% endhighlight %}
+```
 
 or
 
-{% highlight bash %}
+``` shell
 $ ack pattern
-{% endhighlight %}
+```
 
 also
 
-{% highlight bash %}
+``` shell
 grep pattern $(find . -name '*.pl' -or -name '*.pm' -or -name '*.pod' | grep -v .svn)
-{% endhighlight %}
+```
 
 versus
 
-{% highlight bash %}
+``` shell
 ack --perl pattern
-{% endhighlight %}
+```
 
 * Note that ack's `--perl` also checks the shebang lines of files without suffixes, which the find command will not

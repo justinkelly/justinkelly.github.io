@@ -3,7 +3,7 @@ layout: post
 title: "Moved from Posterous to Octopress + p.ostero.us"
 date: 2012-03-23 05:04
 comments: true
-tags: [p.ostero.us, posterous.com]
+tags: posterous
 ---
 I've been a long term [posterous.com](posterous.com) user, but since they started messing with the core concept
  of posterous by introducting 'groups' and then pivoting to be 'spaces' I've had an uneasy feeling being hosted with them. What are these guys up to?
@@ -22,7 +22,7 @@ Also the octopress permalinks format needed to change to just :title.  Now any l
 
 `posterous.rb`
 
-{% highlight ruby %}
+``` ruby
 require 'rubygems'
 require 'jekyll'
 require 'fileutils'
@@ -108,18 +108,18 @@ module Jekyll
     end
   end
 end
-{% endhighlight %}
+```
 
 `_config.yml`
 
-{% highlight yaml %}
+``` yaml
 # To maintain your posterous links use the below permalink config
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
  
 permalink: /:title/
-{% endhighlight %}
+```
 
 ## p.ostero.us
 

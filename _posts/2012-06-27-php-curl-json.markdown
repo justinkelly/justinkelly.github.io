@@ -11,7 +11,7 @@ As I'm always working with various JSON based APIs in PHP which don't have dedic
 
 _curl_json.php_
 
-{% highlight php %}
+``` php
 <?php
  
         function curl_json($base_url='',$query='',$json=true){
@@ -58,6 +58,6 @@ _curl_json.php_
                 }
         }
 ?>
-{% endhighlight %}
+```
 
 Just alter the target url, auth setting, and set any default json query and your good to go.  

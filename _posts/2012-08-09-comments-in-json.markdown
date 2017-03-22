@@ -14,7 +14,8 @@ Want to use comments in JSON even though Douglas doesn't want you to :)
 Using ini, apache, xml, html or // comment formats invalidate your JSON files
 
 _invalid_comments.json_
-{% highlight javascript %}
+
+``` json
 {
     "name": "Jack (\"Bee\") Nimble", //varchar
         "format": {
@@ -25,7 +26,7 @@ _invalid_comments.json_
             "frame rate": 24 //int
         }
 }
-{% endhighlight  %}
+```
 
 
 As Douglas stated, JSON has no offical support for comments, but it doesn't mean you can't add
@@ -36,7 +37,8 @@ The best way I've found to add comments into JSON is to add
 Refer below for a valid JSON file with comments.
 
 _valid_comments.json_
-{% highlight javascript %}
+
+``` json
 {
     "name": "Jack (\"Bee\") Nimble", 
         "_name_comment":"varchar",
@@ -53,7 +55,7 @@ _valid_comments.json_
             "_frame_rate_comment": "int"
         }
 }
-{% endhighlight  %}
+```
 
 Note:
 

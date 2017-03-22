@@ -11,7 +11,7 @@ took a while but finally got it working using the below code - just change 60 da
 
 _end_of_month_plus_60_days.php_
 
-{% highlight php %}
+``` php
 <?php
  
     $invoice_date ='now'; //use 'now' if for the current month else add your data here
@@ -22,4 +22,4 @@ _end_of_month_plus_60_days.php_
     $due_date = $d->format( 'Y-m-d' );
  
 ?>
-{% endhighlight %}
+```

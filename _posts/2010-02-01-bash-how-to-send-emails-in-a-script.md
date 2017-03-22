@@ -9,7 +9,7 @@ tags:
 ---
 simple example to send an email if $message is not null
 
-{% highlight bash %}
+``` shell
 SUBJECT="Automated Security Alert" 
 TO="alarms@someaddress.com" 
  
@@ -19,4 +19,4 @@ if [[ -n $message ]]
 then 
  echo $message 
  /bin/mail -s "$SUBJECT" "$TO"
-{% endhighlight %}
+```

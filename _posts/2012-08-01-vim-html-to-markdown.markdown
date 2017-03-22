@@ -9,7 +9,8 @@ tags: vi
 If you need to remove HTML from documents (or convert basic HTML to Markdown) with Vim below are the main search and replace commands.  I've been using these to convert stuff from simple html to markdown.
 
 [Pandoc](http://johnmacfarlane.net/pandoc/) is a great tool that can convert html to markdown - but I only want to convert sections in documents - so i've been using these Vim command to do the job - simple and works well
-{% highlight bash %}
+
+``` shell
 :%s/&nbsp; / /g
 :%s/&nbsp;/ /g
 :%s/<div>//g
@@ -23,7 +24,7 @@ If you need to remove HTML from documents (or convert basic HTML to Markdown) wi
 :%s/&lt;/</g
 :%s/&gt;/>/g
 :%s/&amp;/\&/g
-{% endhighlight %}
+```
 
 Let me know if you have more Vim commands to strip HTML or convert to Markdown
 

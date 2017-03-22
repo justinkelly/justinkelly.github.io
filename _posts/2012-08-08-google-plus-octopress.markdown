@@ -23,7 +23,7 @@ Enable Google Plus for Octopress, then add this into `source/_includes/custom/af
 
 _after_footer.html_ 
 
-```javascript
+``` javascript
 {% comment %}
   Add content to be output at the bottom of each page. (You might use this for analytics scripts, for example)
 {% endcomment %}
@@ -62,10 +62,10 @@ Note: you need to replace the `{YOUR_GOOGLE_API_KEY}` section with your google a
 
 Next, modify `source/_includes/custom/head.html` to include `<script>` tags for jQuery
 
-{% highlight html %}
+``` html
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript">jQuery.noConflict();</script>
-{% endhighlight %}
+```
 
 ### What
 
@@ -79,7 +79,8 @@ Open this blog [post](http://blog.justin.kelly.org.au/google-plus-octopress/) an
 just look at the bottom of the page, you'll see a `Comments? refer the Google+ post` link
 
 ### Notes
-1. You need a Google API key to use this
-1. Comments have to be enabled for the blog post
-1. The link only appears when the blog post is open - not in the index/front-page view
-1. This assumes your using the default Octopress theme - if you using something different you'll have to customise the script
+
+* You need a Google API key to use this
+* Comments have to be enabled for the blog post
+* The link only appears when the blog post is open - not in the index/front-page view
+* This assumes your using the default Octopress theme - if you using something different you'll have to customise the script

@@ -3,7 +3,9 @@ layout: post
 title: "Merge PDFs with the Zend Framework"
 date: 2013-08-28 05:37
 comments: true
-tags: [zend framework, php]
+tags: 
+ - zend framework
+ - php
 ---
 
 I've used a number of PHP libraries to handle creation of PDFs but only
@@ -22,7 +24,7 @@ Zend PDF or [tcpdf][tcpdf]
 *Note: This is using Zend Framework version 1*
 
 _PDF merge with Zend - pdf_merge_zend.pph_
-{% highlight php %}
+``` php
 <?php
 $path ="lib/";
 set_include_path(get_include_path() . PATH_SEPARATOR . $path);
@@ -53,7 +55,7 @@ unset($clonedPage);
 //save to a file
 $pdfMerged->save('out/3.pdf');
 ?>
-{% endhighlight %}
+```
 
 [zf]: http://framework.zend.com
 [tcpdf]: http://www.tcpdf.org
