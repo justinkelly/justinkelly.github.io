@@ -10,11 +10,11 @@ When I setup a new VPS I'm always forgetting to set MySQL to auto start on boot
 
 Heres the command:
 
-{% highlight bash %}
+``` shell
 sudo update-rc.d mysql defaults
-{% endhighlight %}
+```
 
-{% highlight bash %}
+``` shell
 update-rc.d: warning: /etc/init.d/mysql missing LSB information
 update-rc.d: see <http://wiki.debian.org/LSBInitScripts>
 Adding system startup for /etc/init.d/mysql ...
@@ -25,9 +25,8 @@ Adding system startup for /etc/init.d/mysql ...
 /etc/rc3.d/S20mysql -> ../init.d/mysql
 /etc/rc4.d/S20mysql -> ../init.d/mysql
 /etc/rc5.d/S20mysql -> ../init.d/mysql
-{% endhighlight %}
+```
 
 Info on how to do this in CentOS/RedHat
 
  * [http://blog.justin.kelly.org.au/mysql-autostart-on-centos/](http://blog.justin.kelly.org.au/mysql-autostart-on-centos/)
-
