@@ -3,11 +3,10 @@ layout: post
 title: "simple bash if then else example "
 published: true
 date: 2010-02-01
-tags: 
-- bash
-- linux
+tags: bash linux
 ---
-{% highlight bash %}
+
+``` shell
 if [ -r somefile ]; then 
    content=$(cat somefile) 
 elif [ -f somefile ]; then 
@@ -15,4 +14,4 @@ elif [ -f somefile ]; then
 else 
    echo "The file 'somefile' does not exist." 
 fi 
-{% endhighlight %}
+```

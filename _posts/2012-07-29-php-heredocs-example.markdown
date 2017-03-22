@@ -3,14 +3,14 @@ layout: post
 title: "PHP heredocs example"
 date: 2012-07-29 06:44
 comments: true
-tags: 
+tags: php
 ---
 I'm always forgetting the php heredocs syntax
 
 its to easy, just follow the below example, EOF can be remaned whatever you want - you just must use the same one to end the statement, 
 and most importantly to end the statement the EOF must be at the start of the line or it doesn't work
 
-{% highlight php %}
+``` php
 <?php
 
     $count = 1 ; //
@@ -29,4 +29,4 @@ and most importantly to end the statement the EOF must be at the start of the li
 EOF;
 
 ?>
-{% endhighlight %}
+```

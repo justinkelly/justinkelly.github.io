@@ -13,6 +13,8 @@ The simple solution is to run the No Highlight command
 
 Just `Esc` and then execute
 
-    :nohl
+```
+:nohl
+```
 
 and you Vim will go back to normal

@@ -12,9 +12,8 @@ In MySQL the `CONCAT` funcation returns `NULL` if any of the concated fields are
 
 if your stuck on this the workaournd is to put an `IFNULL` in the field, refer example below:
 
-{% highlight sql %}
+``` sql
 SELECT CONCAT(IFNULL(fName1,''),' ',IFNULL(mName2,''),' ',IFNULL(lName3,'')) AS userName
-{% endhighlight %}
+```
 
 or use [CONCAT_WS](http://dev.mysql.com/doc/refman/5.0/en/string-functions.html#function_concat-ws) - which allows for null - but requires a seperator to be defined 
-

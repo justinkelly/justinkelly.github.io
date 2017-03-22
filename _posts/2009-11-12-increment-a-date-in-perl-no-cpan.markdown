@@ -3,13 +3,11 @@ layout: post
 title: "increment a date in perl - no cpan "
 published: true
 date: 2009-11-12
-tags: 
-- perl
+tags: perl
 ---
 need to increment a date in perl - but can't use cpan / non core modules - use and modify the below code
 
-
-{% highlight perl %}
+``` perl
 use Time::localtime;
 
 sub date_increment
@@ -46,4 +44,4 @@ sub date_increment
 
         return $year.$month.$day;   # new date
 }  
-{% endhighlight %}
+```

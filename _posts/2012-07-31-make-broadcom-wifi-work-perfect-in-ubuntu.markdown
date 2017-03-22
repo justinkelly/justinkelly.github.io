@@ -3,7 +3,7 @@ layout: post
 title: "Make broadcom wifi work perfect in ubuntu"
 date: 2012-07-31 01:17
 comments: true
-tags: linux  ubuntu broadcom wireless
+tags: linux ubuntu broadcom wireless
 ---
 
 If your unlucky enough to have a Broadcom wireless chip integrated into your laptop
