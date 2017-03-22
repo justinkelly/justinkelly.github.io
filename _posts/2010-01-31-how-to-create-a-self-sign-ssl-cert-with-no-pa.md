@@ -1,7 +1,8 @@
---- 
+---
 layout: post
-title: How to create a self signed ssl cert with no passphrase for your test server
 published: true
+comments: true
+title: How to create a self signed ssl cert with no passphrase for your test server
 tags: apache linux
 ---
 
