@@ -35,6 +35,8 @@ Keyword: !dgo
 URL: https://duckduckgo.com/?q=%21+%s
 ```
 
+Once done this is how it'll appear in the Manage Search Engiens section in Chrome
+
 ![chrome add search engines](/img/chrome-direct.png)
 
 Now if you start your search in Chrome with either `!go` or `!dgo` you'll go straith to the page you want and by-pass the search engiens results page
