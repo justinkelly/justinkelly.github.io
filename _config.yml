@@ -69,8 +69,8 @@ prose:
           label: "Comments"
           element: "checkbox"
           value: "true"
-     - name: "tags"
+      - name: "tags"
         field:
-          label: "Tags"
           element: "textarea"
+          label: "Many Thanks To"
           value: ""
