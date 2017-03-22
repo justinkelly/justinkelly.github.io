@@ -71,6 +71,6 @@ prose:
           value: "true"
      - name: "tags"
         field:
-          element: "textarea"
           label: "Tags"
-          help: "Enter tags, separated by spaces"
+          element: "textarea"
+          value: ""
