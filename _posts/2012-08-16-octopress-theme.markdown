@@ -111,8 +111,8 @@ html {
 
 Edit `source/_includes/custom/navigation.html`
 
+{% highlight html%}
 {% raw %}
-``` html
 <ul class="main-navigation">
     <li><a href="{{ root_url }}/">
         <span class="blue_light">
@@ -129,16 +129,16 @@ Edit `source/_includes/custom/navigation.html`
   <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
   <li><a href="{{ root_url }}/about">About me</a></li>
 </ul>
-```
 {% endraw %}
+{% endhighlight %}
 
 remove the line
 
+{% highlight html%}
 {% raw %}
-``` html
 <header role="banner">{% include header.html %}</header>
-```
 {% endraw %}
+{% endhighlight %}
 
 from the `source/_layouts/default.html` file
 
