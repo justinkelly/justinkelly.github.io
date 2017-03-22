@@ -53,7 +53,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "post"
       - name: "published"
         field:
           label: "Published"
