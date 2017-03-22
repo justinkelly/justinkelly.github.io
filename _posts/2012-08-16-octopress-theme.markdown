@@ -133,7 +133,9 @@ Edit `source/_includes/custom/navigation.html`
 remove the line
 
 ``` html
+{% raw %}
 <header role="banner">{% include header.html %}</header>
+{% endraw %}
 ```
 
 from the `source/_layouts/default.html` file
