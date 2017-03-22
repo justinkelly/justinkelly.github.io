@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "How to create self signed wildcard SSL certificates for Apache"
+title: How to create self signed wildcard SSL certificates for Apache
 comments: true
-tags: [ apache, ssl, https ]
+published: true
+tags: apache ssl https 
 ---
+
 ### Create the wildcard SSL certification
 
 Open up your terminal and execute the below commands, replacing `yourdomain.com` with the domain name
