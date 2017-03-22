@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Octopress theme"
+title: 'Octopress theme'
 date: 2012-08-16 01:57
 comments: true
 tags: octopress
 ---
-
-![](/img/octopress-theme.png )
+![](/img/octopress-theme.png)
 
 It's been a while since I moved this blog from Posterous to Octopress, but I've finally gotten round
 to removing the default theme and apply the theme I did for [bzr.bz/docs](http://bzr.bz/docs), screenshot and full code for the theme is below:
