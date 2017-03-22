@@ -73,11 +73,11 @@ prose:
         field:
           element: "textarea"
           label: "Tags"
+          help: "seperated by spaces [ , ]  or - list"
           value: ""
       - name: "date"
         field:
           element: "text"
           label: "Date"
-          help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
           alterable: true
