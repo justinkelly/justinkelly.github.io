@@ -111,8 +111,9 @@ html {
 
 Edit `source/_includes/custom/navigation.html`
 
+{% raw %}
 ``` html
-{% raw %}<ul class="main-navigation">
+<ul class="main-navigation">
     <li><a href="{{ root_url }}/">
         <span class="blue_light">
             {{ site.title }}
@@ -127,16 +128,17 @@ Edit `source/_includes/custom/navigation.html`
   <li><a href="{{ root_url }}/">Blog</a></li>
   <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
   <li><a href="{{ root_url }}/about">About me</a></li>
-</ul>{% endraw %}
+</ul>
 ```
+{% endraw %}
 
 remove the line
 
-``` html
 {% raw %}
+``` html
 <header role="banner">{% include header.html %}</header>
-{% endraw %}
 ```
+{% endraw %}
 
 from the `source/_layouts/default.html` file
 
