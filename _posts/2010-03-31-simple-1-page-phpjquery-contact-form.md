@@ -2,9 +2,7 @@
 layout: post
 title: Simple 1 page PHP/JQuery contact form
 published: true
-tags: 
-- jquery
-- php
+tags: jquery php
 ---
 I've been after a simple 1 file contact form in PHP and jQuery for ages, 
 below is a dead simple cut & paste solution for a simple contact form 

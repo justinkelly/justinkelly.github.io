@@ -2,11 +2,7 @@
 layout: post
 title: "Connecting to an OpenVPN (untangle) network from linux: How to"
 published: true
-tags: 
-- linux
-- vpn
-- openvpn
-- untangle
+tags: linux vpn openvpn untangle
 ---
 Just connected to an OpenVPN (untangle) network from linux and it was super easy (way easier than a normal cisco vpn anyway)
 
@@ -28,7 +24,7 @@ untangle-vpn/xyz-co-you.key
 
 copy the above files into your `/etc/openvpn` directory, then connect using the below command
 
-```
+``` shell
 sudo openvpn /etc/openvpn/xyz-co.conf
 ```
 

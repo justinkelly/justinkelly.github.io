@@ -2,8 +2,7 @@
 layout: post
 title: "Perl: how check if variable is empty"
 published: true
-tags: 
-- perl
+tags: perl
 ---
 Need a Perl equivilant of PHPs empty() ?
 

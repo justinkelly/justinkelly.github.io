@@ -2,8 +2,7 @@
 layout: post
 title: "PHP: Strip null entries from an array : how to"
 published: true
-tags: 
-- php
+tags: php
 ---
 For a while i've had issues with certain db update queries in php - particularly where image uploads are involved. 
 My original code looked like

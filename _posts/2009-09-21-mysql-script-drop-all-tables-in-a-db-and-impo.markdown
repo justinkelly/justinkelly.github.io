@@ -2,10 +2,7 @@
 layout: post
 title: "MySQL script: drop all tables in a db and import a .sql file"
 published: true
-tags: 
-- mysql
-- shell
-- simple invoices
+tags: mysql shell simple-invoices bash
 ---
 
 Used to refresh SimpleInvoices.org/demo each hour

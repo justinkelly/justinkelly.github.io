@@ -2,17 +2,15 @@
 layout: post
 title: svn:externals
 published: true
-tags: 
-- svn
-- version control
+tags: svn version-control
 ---
 thanks to ruflin.com for adding svn:externals into Simple Invoices<br />- the simplest way to keep the Zend Framework up to date
 
-```
+``` shell
 svn propedit svn:externals library
 ```
 
-```
+``` conf
 Zend http://framework.zend.com/svn/framework/standard/tags/release-1.7.5/library/Zend/
 ```
 

@@ -2,9 +2,7 @@
 layout: post
 title: Can anyone make this sql query faster
 published: true
-tags: 
-- mysql
-- simple invoices
+tags: mysql simple-invoices
 ---
 Hi Guys,
 
@@ -13,7 +11,7 @@ if anyone has a few minutes to review and rewrite this query so it run faster it
 
 theres the sql
 
-```
+``` sql
 SELECT
     c.id as CID,
     c.name as name,

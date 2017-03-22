@@ -2,8 +2,7 @@
 layout: post
 title: "Ubuntu 10.04 : how to move window buttons to the right"
 published: true
-tags: 
-- ubuntu
+tags: ubuntu
 ---
 just installed ubuntu 10.04 and the left hand window buttons/icons things are 
 driving me crazy

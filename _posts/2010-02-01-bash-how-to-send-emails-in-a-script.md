@@ -2,9 +2,7 @@
 layout: post
 title: "bash: how to send emails in a script "
 published: true
-tags: 
-- bash
-- linux
+tags: bash linux
 ---
 simple example to send an email if $message is not null
 

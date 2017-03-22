@@ -2,8 +2,7 @@
 layout: post
 title: "Thanks HackerNews: SimpleInvoices.org finally implements HN donated design"
 published: true
-tags: 
-- simple invoices
+tags: simple-invoices
 ---
 
 A little over a year ago Jason Stachan posted on HN offering a days design work for free to any project ( <a href="http://news.ycombinator.com/item?id=1194567">http://news.ycombinator.com/item?id=1194567</a> ), luckily SimpleInvoices.org was chosen and Jason produced a great design: [jasonstrachan.com/clients/simpleinvoices](http://jasonstrachan.com/clients/simpleinvoices)

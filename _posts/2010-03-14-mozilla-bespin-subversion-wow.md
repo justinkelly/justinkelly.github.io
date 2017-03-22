@@ -2,10 +2,7 @@
 layout: post
 title: Mozilla Bespin + Subversion = wow!
 published: true
-tags: 
-- bespin
-- svn
-- version control
+tags: bespin svn version-control
 ---
 when mozilla first launched bespin - a browser based text editor - i was interested
 but a number of required features were still lacking

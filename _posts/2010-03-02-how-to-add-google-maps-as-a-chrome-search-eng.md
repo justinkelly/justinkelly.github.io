@@ -2,9 +2,7 @@
 layout: post
 title: How to add Google Maps as a Chrome search engine
 published: true
-tags: 
-- chrome
-- google
+tags: chrome google
 ---
 
 For a simple way to add Google Maps into Chrome as a search engine follow the below steps:

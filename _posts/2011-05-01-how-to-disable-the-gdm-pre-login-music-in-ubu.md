@@ -2,9 +2,7 @@
 layout: post
 title: How to disable the GDM pre-login 'music' in Ubuntu 11.04
 published: true
-tags: 
-- linux
-- ubuntu
+tags: linux ubuntu
 ---
 To get rid of the annoying pre login gdm 'music' in Ubuntu 11.04 just open the 'Startup Applications' from the Control Panel
 

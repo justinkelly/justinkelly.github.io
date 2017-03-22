@@ -2,10 +2,7 @@
 layout: post
 title: "Bespin + Google Code (SVN) : How to"
 published: true
-tags: 
-- bespin
-- svn
-- version control
+tags: bespin svn version-control
 ---
 If your new to mozilla bespin refer: [http://blog.justin.kelly.org.au/mozilla-bespin-subversion-wow](http://blog.justin.kelly.org.au/mozilla-bespin-subversion-wow)
 

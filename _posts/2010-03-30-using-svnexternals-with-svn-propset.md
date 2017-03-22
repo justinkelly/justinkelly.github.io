@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "using svn:externals with svn propset "
+title: "using svn:externals with svn propset"
 published: true
-tags: 
-- svn
+tags: svn version-control
 ---
 if you can't use svn propedit (ie. your using bespin) you can use svn propset
 
-    svn propset svn:externals 'Zend http://framework.zend.com/svn/framework/standard/tags/release-1.10.0/library/Zend/' library
+``` shell
+svn propset svn:externals 'Zend http://framework.zend.com/svn/framework/standard/tags/release-1.10.0/library/Zend/' library
+```
 
-the above make the folder 'Zend' within the folder 'library' reference the zend svn repo
+the above make the folder `Zend` within the folder `library` reference the zend svn repo
 
 note: refer this post for info on `svn:externals` with svn propedit [http://blog.justin.kelly.org.au/svnexternals](http://blog.justin.kelly.org.au/svnexternals)

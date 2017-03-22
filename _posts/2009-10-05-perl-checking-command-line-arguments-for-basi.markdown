@@ -2,8 +2,7 @@
 layout: post
 title: "Perl: checking command line arguments for basic sanity"
 published: true
-tags: 
-- perl
+tags: perl
 ---
 Usage: ./your_script.pl 'path/to/file.txt'
 

@@ -2,9 +2,7 @@
 layout: post
 title: simple gpg password protected file encryption example
 published: true
-tags: 
-- bash
-- linux
+tags: bash linux
 ---
 ### Creating the file:
 

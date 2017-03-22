@@ -2,10 +2,7 @@
 layout: post
 title: Mysql logging on CentOS 5.3
 published: true
-tags: 
-- centos
-- linux
-- mysql
+tags: centos linux mysql
 ---
 
 for whatever reason when i edited my.cnf on CentSO 5.3 the logging options 
@@ -17,11 +14,11 @@ gave up messing with my.cnf and put them directly in the init.d file and all was
 make sure that the log files are available and writeable by the mysql user
 
 #### 2 
-edit /etc/init.d/mysqld
+edit `/etc/init.d/mysqld`
 
 find the mysqld_safe section and add the `--log**` sections in as below
 
-```
+``` shell
 # but we need to be sure.
 /usr/bin/mysqld_safe   --datadir="$datadir" --socket="$socketfile"
     --log-error="$errlogfile" --pid-file="$mypidfile"
@@ -34,7 +31,7 @@ find the mysqld_safe section and add the `--log**` sections in as below
 
 #### 3
 
-```
+``` shell
 sudo /etc/init.d/mysql restart
 ```
 

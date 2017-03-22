@@ -2,9 +2,7 @@
 layout: post
 title: "How to add Google Dictionary as a Chrome search engine "
 published: true
-tags: 
-- chrome
-- google
+tags: chrome google
 ---
 Just noticed that Google now has their own Dictionary site: [www.google.com/dictionary](http://www.google.com/dictionary)
 

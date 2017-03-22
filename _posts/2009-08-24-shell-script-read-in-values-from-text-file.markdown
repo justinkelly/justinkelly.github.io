@@ -2,11 +2,10 @@
 layout: post
 title: "shell script: read in values from text file"
 published: true
-tags: 
-- linux
-- shell
+tags: linux shell bash
 ---
 before i forget how to do this again assuming test.txt contains a number on each line, ie. 
+
 ```
 123
 324
@@ -15,7 +14,7 @@ before i forget how to do this again assuming test.txt contains a number on each
 
 heres a couple of simple ways to read from the file and so stuff in a shell script
 
-```
+``` shell
 #!/bin/bash
 INFILE=test.txt
 OUTFILE=out.xml
@@ -27,7 +26,7 @@ done
 
 or use
 
-```
+``` shell
 while read line
     do
         echo $line;

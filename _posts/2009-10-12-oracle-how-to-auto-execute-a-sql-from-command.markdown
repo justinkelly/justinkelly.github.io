@@ -2,16 +2,14 @@
 layout: post
 title: "Oracle: How to auto execute a sql from commandline and save output to file"
 published: true
-tags: 
-- oracle
-- shell
+tags: oracle bash linux
 ---
 ### 1. Create a .sql file using the below template
 
 - set the output file in the first SPOOL command
 - add your query in between the SPOOL sections
 
-```
+``` shell
 set echo off
 set newpage 0
 set pagesize 0
@@ -28,14 +26,14 @@ quit
 
 ### 2. Create a simple shell script
 
-```
+``` shell
 #!/bin/bash
 sqlplus oracle_user/password @/path/to/your/sql_file.sql
 ```
 
 ### 3. chmod the script
 
-```
+``` shell
 chmod +x oracle_sql.sh
 ```
 
@@ -43,7 +41,7 @@ chmod +x oracle_sql.sh
 
 Also to get sql*plus working you may need to set a few environmental variables
 
-```
+``` shell
 setenv ORACLE_HOME ..
 setenv ORACLE_SID ..
 setenv ORACLE_OWNER ..

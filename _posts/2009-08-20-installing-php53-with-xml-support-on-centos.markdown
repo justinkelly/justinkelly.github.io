@@ -2,10 +2,7 @@
 layout: post
 title: installing php5.3 with xml support on centos
 published: true
-tags: 
-- centos
-- linux
-- php
+tags: centos linux php
 ---
 
 just setup a new vps with centos and needed the latest php5.3 - heres the shortcuts
