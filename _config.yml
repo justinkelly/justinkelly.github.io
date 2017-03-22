@@ -73,7 +73,6 @@ prose:
         field:
           element: "textarea"
           label: "Tags"
-          help: "seperated by spaces [ , ]  or - list"
           value: ""
       - name: "date"
         field:
