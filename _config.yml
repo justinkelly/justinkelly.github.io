@@ -74,7 +74,7 @@ prose:
           element: "textarea"
           label: "Tags"
           value: ""
-       - name: "date"
+      - name: "date"
         field:
           element: "text"
           label: "Date"
