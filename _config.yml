@@ -53,7 +53,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "post"
       - name: "published"
         field:
           label: "Published"
@@ -69,8 +69,15 @@ prose:
           label: "Comments"
           element: "checkbox"
           value: "true"
-#     - name: "tags"
-#        field:
-#          element: "text"
-#          label: "Tags"
-#          placeholder: "Enter tags, separated by spaces"
+      - name: "tags"
+        field:
+          element: "textarea"
+          label: "Tags"
+          help: "seperated by spaces [ , ]  or - list"
+          value: ""
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          placeholder: "yyyy-mm-dd"
+          alterable: true
