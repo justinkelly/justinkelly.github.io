@@ -35,7 +35,7 @@ Keyword: !dgo
 URL: https://duckduckgo.com/?q=%21+%s
 ```
 
-Once done this is how it'll appear in the Manage Search Engiens section in Chrome
+Once done this is how it'll appear in the Manage Search Engines section in Chrome
 
 ![chrome add search engines](/img/chrome-direct.png)
 
