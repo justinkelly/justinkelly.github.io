@@ -73,4 +73,4 @@ prose:
         field:
           element: "textarea"
           label: "Tags"
-          placeholder: "Enter tags, separated by spaces or [ , ]"
+          help: "Enter tags, separated by spaces or [ , ]"
