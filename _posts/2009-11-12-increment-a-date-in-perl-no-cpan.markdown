@@ -25,7 +25,7 @@ sub date_increment
   $day += $increment; # Adding incremental value to start day
   while ($day > $mTotal) { # Start of incrementing while loop
     $day -= $mTotal; # Subtracts $mTotal from $day to increment month
-    $month++; # Increments month
+    $month++; # Increments month
     if ($month > ($#months+1)) { # Checks if $month value is larger than 12
        $month -= ($#months+1); # Subtracts 12 from the value of $month
        $year++; # Increments year value
