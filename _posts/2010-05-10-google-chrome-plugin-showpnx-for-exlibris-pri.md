@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Google Chrome plugin: showPnx for Exlibris Primo"
+title: 'Google Chrome plugin: showPnx for Exlibris Primo'
 published: true
-tags: chrome exlibris extensions google project
+tags: chrome exlibris extensions
+comments: true
 ---
 If you deal with PNX records and ExLibris Primo I've created a Google Chrome pluging to make your life easier.  
+
 This plugin allows you to easily display the ExLibris Primo PNX record when in a full display of a record in Primo. 
 
 See the images below for example of this plugin in action
@@ -29,4 +31,3 @@ See the images below for example of this plugin in action
 ### Source
 
 Available via Hg at bitbucket.org: [http://bitbucket.org/justin.kelly.org.au/showpnx/src](http://bitbucket.org/justin.kelly.org.au/showpnx/src)
-
