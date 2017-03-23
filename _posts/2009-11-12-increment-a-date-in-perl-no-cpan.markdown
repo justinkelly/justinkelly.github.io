@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Increment a date in perl - no cpan '
+title: Increment a date in perl - no cpan
 published: true
 tags: perl
 comments: true
