@@ -13,6 +13,7 @@ My solution just copies the Google Plus sidebard and re-formats for Twitter - ju
 
 Create a new file `source/_includes/custom/asides/twitter2.html` 
 
+{% raw %}
 ``` liquid
 {% if site.twitter_user %}
   <section class="twitter2">
@@ -25,11 +26,13 @@ Create a new file `source/_includes/custom/asides/twitter2.html`
 </section>
 {% endif %}
 ```
+{% endraw %}
+
 ### CSS
 
 Update the `sass/partials/sidebar/_googleplus.scss` and add in 
 
-``` css
+``` scss
 .twitter2
 {
   @extend .googleplus;
