@@ -10,17 +10,17 @@ Need a Perl equivilant of PHPs empty() ?
 Purpose: Check is $value is empty
 
 ``` perl
-if( $value  =~ /^\s*$/)
+if( $value =~ /^\s*$/)
 {
-  #...
+  #...
 }
 ```
 
 Purpose: Check is $value is not empty
 
 ``` perl
-if( $value  !~ /^\s*$/ )
- {
-  #...
+if( $value !~ /^\s*$/ )
+{
+  #...
 }
 ```
