@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "bash: how to send emails in a script "
+title: 'How to send emails in a bash script '
 published: true
 tags: bash linux
+comments: true
 ---
-simple example to send an email if $message is not null
+Simple example to send an email if $message is not null
 
 ``` shell
 SUBJECT="Automated Security Alert" 
