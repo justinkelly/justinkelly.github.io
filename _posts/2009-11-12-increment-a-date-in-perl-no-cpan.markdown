@@ -37,6 +37,6 @@ sub date_increment
   $month = sprintf("%02s", $month); # Prepends value of $month with 0's if the total digits are &lt;      
   $year = sprintf("%04s", $year); # Prepends value of $year with 0's if the total digits are &lt; 4
 
-  return $year.$month.$day; # new date
+  return $year.$month.$day; # new date
 }
 ```
