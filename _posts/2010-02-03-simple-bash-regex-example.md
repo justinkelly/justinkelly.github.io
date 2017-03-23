@@ -1,12 +1,13 @@
 ---
 layout: post
-title: simple bash regex example
+title: Simple bash regex example
 published: true
 tags: bash linux
+comments: true
 ---
-since versions 3 bash has included a simple regular expression operation `=~`
+Since versions 3 bash has included a simple regular expression operation `=~`
 
-below is a simple example of it in action
+Below is a simple example of it in action
 
 ``` shell
 ######### example code #########
