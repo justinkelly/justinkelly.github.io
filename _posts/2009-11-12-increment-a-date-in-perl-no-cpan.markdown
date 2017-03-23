@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'increment a date in perl - no cpan '
+title: 'Increment a date in perl - no cpan '
 published: true
 tags: perl
 comments: true
 ---
-need to increment a date in perl - but can't use cpan / non core modules - use and modify the below code
+Need to increment a date in perl - but can't use cpan / non core modules - use and modify the below code
 
 ``` perl
 use Time::localtime;
