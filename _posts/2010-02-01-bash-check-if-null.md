@@ -1,10 +1,11 @@
 ---
 layout: post
-title: bash check if null
+title: How to check if null in bash
 published: true
 tags: bash linux
+comments: true
 ---
-expanding on the previous [bash not null](http://blog.justin.kelly.org.au/bash-check-if-not-null)  post
+Expanding on the previous [bash not null](http://blog.justin.kelly.org.au/bash-check-if-not-null)  post
 to check if a string is null
 
 ``` shell
