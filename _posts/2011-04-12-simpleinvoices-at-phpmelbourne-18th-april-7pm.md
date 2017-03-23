@@ -2,8 +2,7 @@
 layout: post
 title: SimpleInvoices at phpMelbourne 18th April 7PM
 published: true
-tags: [simple invoices, php]
-
+tags: simple-invoices php
 ---
 I'll be speaking at PHP Melbourne (Australia) on Monday (18th April 7PM) about Simple Invoices 
 

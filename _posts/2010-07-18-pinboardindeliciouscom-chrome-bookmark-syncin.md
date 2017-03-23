@@ -2,7 +2,7 @@
 layout: post
 title: "Pinboard.in/Delicious.com -> Chrome bookmark syncing : How to"
 published: true
-tags: [ chrome , pinboard.in ]
+tags: chrome pinboard.in
 ---
 Since Chrome was first released I wanted an easy way to get my 
 Delicious.com and Pinboard.in bookmarks syncing to Chrome's internal bookmarks.  

@@ -2,7 +2,7 @@
 layout: post
 title: How to add Pinboard.in 'Search Mine' as a Chrome search engine
 published: true
-tags: [ chrome, pinboard.in ]
+tags: chrome pinboard.in
 ---
 For a simple way to search your Pinboard.in bookmarks, you can add Pinboard.in 'Search Mine' 
 into Chrome as a search engine follow the below steps:

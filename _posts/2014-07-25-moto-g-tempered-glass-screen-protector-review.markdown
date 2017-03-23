@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "Moto G tempered glass screen protector review"
-tags: [review, motorola]
+tags: review motorola
 ---
 
 {% image_tag src="/img/Moto-G-screen-small.jpg" width="400" %}

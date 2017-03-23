@@ -2,7 +2,7 @@
 layout: post
 title: "Nexus 7 keyboard cover"
 comments: true
-tags: [nexus 7, keyboard]
+tags: nexus-7 keyboard
 ---
 {% image_tag src="/img/IMG_3075_small.jpg" width="400" %}
 

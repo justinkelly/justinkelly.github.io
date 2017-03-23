@@ -2,8 +2,7 @@
 layout: post
 title: smarty template engine and tomorrow
 published: true
-tags: []
-
+tags: php smarty
 ---
 
 ```

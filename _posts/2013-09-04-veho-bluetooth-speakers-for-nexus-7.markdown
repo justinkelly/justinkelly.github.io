@@ -2,7 +2,7 @@
 layout: post
 title: "Veho bluetooth speakers for Nexus 7"
 comments: true
-tags: [nexus 7, speakers, bluetooth]
+tags: nexus-7 speakers bluetooth
 ---
 
 {% image_tag src="/img/2013-09-03-veho-300.jpg" width="300" %}

@@ -2,7 +2,7 @@
 layout: post
 title: "URL rewriting with Nginx and Vanilla forum"
 comments: true
-tags: [ nginx, apache ]
+tags: nginx apache
 ---
 ![](http://nginx.org/nginx.gif)
 
