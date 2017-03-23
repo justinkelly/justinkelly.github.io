@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "simple bash if then else example "
+title: 'Simple bash if then else example '
 published: true
 tags: bash linux
+comments: true
 ---
 
 ``` shell
