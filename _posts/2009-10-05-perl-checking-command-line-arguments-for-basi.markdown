@@ -13,7 +13,7 @@ Purpose: Check if argument has been supplied
 # check files
 if ( $ARGV[0] eq '')
 {
-   print "
+  print "
 ###############
 #    ERROR    #
  ###############
@@ -21,7 +21,7 @@ if ( $ARGV[0] eq '')
 You have not specified an input file, please include the input file when you execute this script,
 \n  
 ";
-    exit;
+  exit;
 }
 ```
 
@@ -29,15 +29,15 @@ Purpose: Check if file specifed in arguement exists
 
 ``` perl
 if (!-e $ARGV[0])
-{   
-    print " 
+{
+  print " 
 ###############
 #    ERROR    #
 ###############
  
 The input file you specified does not exist.
 
-";  
-    exit;
-}    
+";
+  exit;
+}
 ```
