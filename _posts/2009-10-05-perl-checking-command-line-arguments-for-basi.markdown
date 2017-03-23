@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Perl: checking command line arguments for basic sanity"
+title: 'Perl: checking command line arguments for basic sanity'
 published: true
 tags: perl
+comments: true
 ---
-Usage: ./your_script.pl 'path/to/file.txt'
+Usage: `./your_script.pl 'path/to/file.txt'`
 
 Purpose: Check if argument has been supplied
 
-```
+``` perl
 # check files
 if ( $ARGV[0] eq '')
 {
@@ -26,7 +27,7 @@ You have not specified an input file, please include the input file when you exe
 
 Purpose: Check if file specifed in arguement exists
 
-```
+``` perl
 if (!-e $ARGV[0])
 {   
     print " 
