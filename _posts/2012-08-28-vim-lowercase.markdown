@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Vim Lowercase"
+title: Vim Lowercase
 comments: true
-tags: vi 
+tags: vi
+published: true
 ---
 
 Was trying to copy a chuck of text in Vim when I accidentally pressed `u` instead of `y`. 
@@ -10,10 +11,10 @@ Was trying to copy a chuck of text in Vim when I accidentally pressed `u` instea
 
 Text selected in visual mode:
 
-![](http://i.minus.com/itmaOJvwbAqbL.png)
+![](/img/vim-lowercase-before.png)
 
 After pressing `u`
 
-![](http://i.minus.com/iRcpmbFp4zQM5.png)
+![](/img/vim-lowercase-after.png)
 
 File this one under, more Vim commands found out by randomly mashing the keyboard
