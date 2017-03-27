@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Testing out Fluent.io - the future of email - beta access"
+title: Testing out Fluent.io - the future of email - beta access
 comments: false
 tags: fluent gmail
+published: false
 ---
 Just got beta access to [Fluent.io](http://fluent.io) which promises to be the future of email
 ![logo](http://i.minus.com/ibs7Rwy17ky8YH.png)
