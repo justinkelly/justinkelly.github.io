@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How not to design an interface
-published: true
+published: false
 tags: ui
+comments: true
 ---
 
 Great work from the designers of [myki](http://en.wikipedia.org/wiki/Myki)
