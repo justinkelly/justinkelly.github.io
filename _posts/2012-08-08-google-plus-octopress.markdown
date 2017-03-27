@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Google Plus comments link for Octopress"
+title: Google Plus comments link for Octopress
 tags: octopress google-plus
+published: true
+comments: true
 ---
 Need Octopress blog posts to auto link to your Google Plus post for comments?
 
@@ -18,8 +20,9 @@ I did, heres how to make Octopress add a comments link to the bottom of each blo
 
 Enable Google Plus for Octopress, then add this into `source/_includes/custom/after_footer.html`
 
-_after_footer.html_ 
+`after_footer.html
 
+{% raw %}
 ``` javascript
 {% comment %}
   Add content to be output at the bottom of each page. (You might use this for analytics scripts, for example)
@@ -54,6 +57,7 @@ jQuery(document).ready(function() {
 </script>
 {% endif %}
 ```
+{% endraw %}
 
 Note: you need to replace the `{YOUR_GOOGLE_API_KEY}` section with your google api key
 
@@ -68,7 +72,6 @@ Next, modify `source/_includes/custom/head.html` to include `<script>` tags for 
 
 Now after you do a new blog post using Octopress, just +1 the post.  The script will look for the +1 done by the blog owner
 and if it finds one it'll link to it
-
 
 ### See it in action
 
