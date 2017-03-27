@@ -20,7 +20,7 @@ I did, heres how to make Octopress add a comments link to the bottom of each blo
 
 Enable Google Plus for Octopress, then add this into `source/_includes/custom/after_footer.html`
 
-`after_footer.html
+`after_footer.html`
 
 {% raw %}
 ``` javascript
