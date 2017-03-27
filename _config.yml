@@ -36,7 +36,7 @@ srcset:
   cache: "img/cache/"
 
 prose:
-  siteurl: 'http://blog.justin.kelly.org.au/'
+  siteurl: 'https://blog.justin.kelly.org.au/'
   media: 'img'
   ignore:
     - /_layouts
