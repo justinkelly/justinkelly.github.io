@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Fluent.io - 1 week on"
+title: Fluent.io - 1 week on
 comments: false
 tags: fluent gmail
+published: true
 ---
 
 After using [Fluent.io](http://fluent.io) as my main mail app for the last week. I've a few more thought on it
