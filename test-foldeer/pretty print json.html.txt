@@ -1,7 +1,0 @@
-http://stackoverflow.com/a/1920585
-
-```
-alias prettyjson='python -m json.tool | less'
-```
-
-2nd change
