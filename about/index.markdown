@@ -5,8 +5,6 @@ published: true
 ---
 {% include author.html %} 
 
-If you have an idea for a project, I'd love to talk to you about it.
-
 ## Latest blog posts
 
 <ul>
