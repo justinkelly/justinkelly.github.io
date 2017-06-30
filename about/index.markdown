@@ -35,6 +35,8 @@ If you have an idea for a project, I'd love to talk to you about it.
     </a>
 </p>
 
+## Links
+
 <p class="social-p">
   <a class="social-icons icon-rounded no-margin" href="https://github.com/justinkelly" style="">
 <i class="fa fa-github fa-lg"></i>
