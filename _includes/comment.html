@@ -2,7 +2,7 @@
   
     <input name="options[redirect]" type="hidden" value="https://blog.justin.kelly.org.au/thanks/">
   
-    <input type="hidden" name="options[slug]" value="{{ post_slug }}">
+    <input type="hidden" name="options[slug]" value="{{ post_slug_staticman }} :: {{ post_slug_staticman }}">
     <input type="hidden" name="options[parent]" value="{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}">
     <input type="hidden" name="options[origin]" value="{{ site.url }}{{ page.url }}">
     
