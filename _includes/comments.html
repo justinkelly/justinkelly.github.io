@@ -1,4 +1,5 @@
 {% capture post_slug %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}{% endcapture %}
+{% capture post_slug_staticman %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}{% endcapture %}
 
 <section class="comments">
 	<div class="constrain--body">
@@ -21,6 +22,6 @@
 		</div>
 
 		<h2 class="comments__heading heading-2">Leave a comment</h2>
-		{% include partials/post-new-comment.html %}
+		{% include comment.html %}
 	</div>
 </section>
