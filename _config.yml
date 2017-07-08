@@ -74,3 +74,6 @@ prose:
           element: "textarea"
           label: "Tags"
           value: ''
+
+# Staticman comments
+staticmanUrl: https://api.staticman.net/v2/entry/justinkelly/justinkelly.github.io/master/comments
