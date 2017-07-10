@@ -5,9 +5,9 @@
 			{{ include.name }} 
 			
 				{% if include.date %}
-				{% if include.index %}<i><a href="#comment{{ include.index }}">{% endif %}
+				{% if include.index %}<span class="post-date"><a href="#comment{{ include.index }}">{% endif %}
 				<time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%d %b %Y' }}</time>
-				{% if include.index %}</a></i>{% endif %}
+				{% if include.index %}</a></span>{% endif %}
 			{% endif %}
 		</div>
 		
