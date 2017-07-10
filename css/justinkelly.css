@@ -243,6 +243,11 @@ ul.posts li span {
 .social-icons .fa-youtube,.social-icons .fa-youtube-play,.social-icons .fa-youtube-square{background-color:#C52F30;}
 
 /* Comments */
+
+section.cpmments{
+    border-bottom: 1px solid #eee; 
+     padding-bottom: 15px;
+}
 .comment {
     /*
     position: relative;
