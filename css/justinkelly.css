@@ -244,16 +244,18 @@ ul.posts li span {
 
 /* Comments */
 .comment {
+    /*
     position: relative;
     margin-bottom: 4em;
     padding-left: 4.5em;
     font-size: .8em;
+    */
+}
+.comment_heading 
+{
+    border-bottom: 1px solid #eee;
 }
 
-.comment-avatar {
-    top: 0;
-    left: 0;
-}
 .comment-author-name {
     display: inline-block;
     margin: 0 0 .25em;
@@ -266,10 +268,4 @@ ul.posts li span {
 .comment-timestamp a {
     color: #9a9a9a;
     text-decoration: none;
-}
-.comment-content {
-    margin-top: 1em;
-}
-.comment-content>figure, .comment-content>ol, .comment-content>p, .comment-content>table, .comment-content>ul {
-    margin-bottom: 1.5em;
 }
