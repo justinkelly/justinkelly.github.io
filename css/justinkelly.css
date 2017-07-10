@@ -244,9 +244,9 @@ ul.posts li span {
 
 /* Comments */
 
-section.cpmments{
+section.comments{
     border-bottom: 1px solid #eee; 
-     padding-bottom: 15px;
+    padding-bottom: 15px;
 }
 .comment {
     /*
