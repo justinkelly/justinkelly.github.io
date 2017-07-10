@@ -1,4 +1,4 @@
-<form id="post-new-comment" class="form" role="form" action="{{ site.staticmanUrl }}" method="post">
+<form id="post-new-comment" class="form comment_form" role="form" action="{{ site.staticmanUrl }}" method="post">
   
     <input name="options[redirect]" type="hidden" value="https://blog.justin.kelly.org.au/thanks/">
   
@@ -30,8 +30,8 @@
 
 
     <div class="form-group">
-        <label for="form-subscribe" class="form__field checkbox__label">
-        <input id="form-subscribe" type="checkbox" name="options[subscribe]" value="email" class="checkbox">
+        <label for="form-subscribe" >
+        <input id="form-subscribe" type="checkbox" class="comment_checkbox" name="options[subscribe]" value="email" class="checkbox">
         Notify me of replies by email.
         </label>
     </div>

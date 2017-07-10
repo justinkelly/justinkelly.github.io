@@ -256,6 +256,13 @@ section.comments{
     font-size: .8em;
     */
 }
+
+form.comment_form{
+    padding: 1em;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+    background-color: #f7f7f9;
+}    
 .comment_heading 
 {
     border-bottom: 1px solid #eee;
