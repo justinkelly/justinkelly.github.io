@@ -264,7 +264,7 @@ ul.posts li span {
     font-size: .8em;
 }
 .comment-timestamp a {
-    color: inherit;
+    color: #9a9a9a;
     text-decoration: none;
 }
 .comment-content {
