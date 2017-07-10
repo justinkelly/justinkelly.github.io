@@ -255,12 +255,19 @@ ul.posts li span {
 {
     border-bottom: 1px solid #eee;
 }
-
+.comment-body
+{
+    margin-left: 1.5em;
+    font-size: 0.8em;
+    padding-top:3px;
+}
 .comment-author-name {
+    /*
     display: inline-block;
     margin: 0 0 .25em;
     font-size: 1.25em;
     line-height: 1;
+    */
 }
 .comment-timestamp {
     font-size: .8em;
