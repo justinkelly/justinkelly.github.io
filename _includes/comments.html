@@ -20,7 +20,7 @@
 			{% endif %}
 		</div>
 
-		<h3 class="comment_heading">Leave a comment</h3>
+		<h3 {% if site.data.comments[post_slug] ==null %} class="comment_heading" {% endif %}>Leave a comment</h3>
 		{% include new_comment.html %}
 	</div>
 </section>
