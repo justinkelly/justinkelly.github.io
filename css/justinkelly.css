@@ -241,3 +241,35 @@ ul.posts li span {
 .social-icons .fa-windows{background-color:#12B6F3;}
 .social-icons .fa-xing,.social-icons .fa-xing-square{background-color:#00555C;} 
 .social-icons .fa-youtube,.social-icons .fa-youtube-play,.social-icons .fa-youtube-square{background-color:#C52F30;}
+
+/* Comments */
+.comment {
+    position: relative;
+    margin-bottom: 4em;
+    padding-left: 4.5em;
+    font-size: .8em;
+}
+
+.comment-avatar {
+    top: 0;
+    left: 0;
+}
+.comment-author-name {
+    display: inline-block;
+    margin: 0 0 .25em;
+    font-size: 1.25em;
+    line-height: 1;
+}
+.comment-timestamp {
+    font-size: .8em;
+}
+.comment-timestamp a {
+    color: inherit;
+    text-decoration: none;
+}
+.comment-content {
+    margin-top: 1em;
+}
+.comment-content>figure, .comment-content>ol, .comment-content>p, .comment-content>table, .comment-content>ul {
+    margin-bottom: 1.5em;
+}
