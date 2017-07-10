@@ -266,6 +266,9 @@ section.comments{
     font-size: 0.8em;
     padding-top:3px;
 }
+.comment_checkbox{
+    display:inline;
+}
 .comment-author-name {
     /*
     display: inline-block;
