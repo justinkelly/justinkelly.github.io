@@ -10,7 +10,7 @@ layout: default
   {% include footer.html %}
   {% include author.html %} 
 
-{% if page.comments %}
+{% if page.comments != false %}
   {% include comments.html %} 
 {% endif%}
 
