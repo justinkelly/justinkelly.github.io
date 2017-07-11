@@ -244,11 +244,6 @@ ul.posts li span {
 
 /* Comments */
 
-section.comments{
-    border-bottom: 1px solid #eee; 
-    padding-bottom: 15px;
-}
-
 form.comment_form{
     padding: 1em;
     border: 1px solid #dedede;
