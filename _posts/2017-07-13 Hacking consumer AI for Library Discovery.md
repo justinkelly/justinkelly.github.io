@@ -1,4 +1,9 @@
-Hacking consumer AI for Library Discovery
+---
+layout: post
+title: Hacking consumer AI for Library Discovery
+published: true
+tags: alexa aws lambda
+---
 
 # Build your First Alexa Skill
 
