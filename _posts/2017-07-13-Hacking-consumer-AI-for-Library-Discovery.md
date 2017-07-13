@@ -114,13 +114,15 @@ Open the [Amazon Developer Alexa Skills portal](https://developer.amazon.com/edw
  
 Navigate to Add New Skill and click the yellow “Get Started >” button under “Alexa Skills Kit”, then the yellow “Add a New Skill” button on the next page.
 
-![Step 2c: Name and Invocation Name](https://cdn-images-1.medium.com/max/800/1*7S6kAmf6jLZ7_8RaOZhs4Q.png)
-
-The name of your Amazon Alexa skill must be unique for your account, and the invocation name is what you’ll use to activate the skill. “Alexa, tell <invocation name> to say Hello, World”. You can use “Hello World” if you’re lacking in creativity. Click the yellow “Next” button when you’re ready!
+The name of your Amazon Alexa skill must be unique for your account, and the invocation name is what you’ll use to activate the skill. “Alexa, tell <invocation name> to say Hello, World”. IN this example we'll use "Trove" as the name. Click the yellow “Next” button when you’re ready!
 
 **Interaction Model**
 
 Here is where we’re going to tell the skill which intents we support, and what type of words will trigger each intent. Get ready for some copy and pasting.
+
+Amazon have a new tool available that simplfies this previously complex section - You should be a "Interaction Model Buidler BETA"
+
+Once in the new BETA tool go to the code editor section and copy/paste in the below code - this code tell ALexa what are "intents" are goign to be and what "utterances" are defined for each "intent" 
 
 ``` json
 {
@@ -160,25 +162,37 @@ Here is where we’re going to tell the skill which intents we support, and what
 }
 ```
 
+Once enteren click the Save Model and then Build Model buttons in the top menu and proceded to the enxt section
+
 **Configuration**
 
-Change the radio button from “HTTPS” to “Lambda ARN” and select the “No” radio button under Account Linking. Now we’ll have to go and grab the Lambda Amazon Resource Name (ARN) from our Lambda tab. You still have that open, right?
+Change the radio button from “HTTPS” to “Lambda ARN” and select the “No” radio button under Account Linking. Now we’ll have to go and grab the Lambda Amazon Resource Name (ARN) from our Lambda tab.
 
-**Copy ARN]**
-The ARN is on the top right of the Lambda function page. I have it selected in the image above. You’ll want to copy the selection as I have it above.
+**Copy ARN**
 
-** Paste ARN**
+The ARN is on the top right of the Lambda function page.
+
+**Paste ARN**
+
 Paste the ARN into the text field, and press “Next”.
-
-## Step 2 Done
-
-![Step 2 Done](https://cdn-images-1.medium.com/max/800/1*npQAFDyVe3nr1v8x3MCW7A.gif)
 
 ## Step 3 Testing
 
 After you click “Next” on the “Configuration” tab, you should be on the “Test” tab. Under the “Service Simulator” portion you’ll be able to enter a sample utterance to trigger your skill. For the “Hello, World” example you should type “say hello world”, and on the right you should see the output from the Lambda function you created: “Hello, World!”
 
+![lambda testing]({{site.baseurl}}/img/lambda_testing.png)
 
+**Adding accounts for testing**
+
+One thing that cause be issues when I first created a skill was that the skill wasn;t immediately available for my own account to actual test. The solution of this is to add your amazon account to the list of beta testers for this skill.
+
+Click on the "Skills Beta Testing" seciton and add in the amazon accoutns you want this new skill availble for testing
+
+![lambda manage test]({{site.baseurl}}/img/lambda_manage_test.png)
+
+In the beta testign section there will be an invitation link for each user. For your own user click on the link and then 'Enable' this new skill on your Alexa account.
+
+**Testing on a device**
 
 If you got the correct output using the Service Simulator, try it on the Amazon Echo. We were using “Trove” as the invocation name in this presentation, but you should use the invocation name you set previously.
 
