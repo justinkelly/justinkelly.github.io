@@ -200,7 +200,7 @@ If you got the correct output using the Service Simulator, try it on the Amazon 
 
 If you don't have a device you can use the [Echosim website](https://echosim.io/) to test a virtual Echo. Just login with your Amazon account used earlier and follow the prompts.
 
-## Step 3 Done
+##  Done
 
 Congrats, you just created your first Alexa skill! 👏👏
 
