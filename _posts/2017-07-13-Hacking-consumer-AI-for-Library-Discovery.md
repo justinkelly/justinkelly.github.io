@@ -43,7 +43,7 @@ Requirements:
 
 First up we'll details what an Alexa skill is.
 
-An Alexa skill is a services that adds extra functioanlity to your Amazon Alexa/Echo device.  In this workshop we'll be creating a skill called `Trove Australia`. THe main techincal parts of a `skill` are:
+An Alexa skill is a services that adds extra functioanlity to your Amazon Alexa/Echo device.  In this workshop we'll be creating a skill called `Trove Australia`. The main techincal parts of a `skill` are:
 
 * Invoication Name
 * Intents
