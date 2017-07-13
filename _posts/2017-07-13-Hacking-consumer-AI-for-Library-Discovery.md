@@ -174,42 +174,27 @@ Paste the ARN into the text field, and press “Next”.
 
 ![Step 2 Done](https://cdn-images-1.medium.com/max/800/1*npQAFDyVe3nr1v8x3MCW7A.gif)
 
-## Step 3
-
-![Step 3: Amazon Skill Test](https://cdn-images-1.medium.com/max/800/1*EQPNZwXv_8QO6_cvs3kiXA.png)
-
-![Step 3a: Service Simulator](https://cdn-images-1.medium.com/max/800/1*web80Yh6h15z3Psxa2VL3g.png)
+## Step 3 Testing
 
 After you click “Next” on the “Configuration” tab, you should be on the “Test” tab. Under the “Service Simulator” portion you’ll be able to enter a sample utterance to trigger your skill. For the “Hello, World” example you should type “say hello world”, and on the right you should see the output from the Lambda function you created: “Hello, World!”
 
-![Step 3b: Test on Device](https://cdn-images-1.medium.com/max/800/1*XC3Eqp55G1VIXV5IAx3KBQ.png)
+![lambda test]({{site.baseurl}}/img/lambda_test.png)
 
-If you got the correct output using the Service Simulator, try it on the Amazon Echo. We were using “last name” as the invocation name in this presentation, but you should use the invocation name you set in step 2c.
+If you got the correct output using the Service Simulator, try it on the Amazon Echo. We were using “Trove” as the invocation name in this presentation, but you should use the invocation name you set previously.
 
-> Alexa, tell Hello World to say Hello World
+> Alexa, ask Trove for a random book
+
+If you don't have a device you can use the [Echosim website](https://echosim.io/) to test a virtual Echo. Just login with your Amazon account used earlier and follow the prompts.
 
 ## Step 3 Done
 
-![Step 3 Done](https://cdn-images-1.medium.com/max/800/1*dsYNwEAIA57WXUbAMmYxLQ.gif)
-
 Congrats, you just created your first Alexa skill! 👏👏
 
-## Step 4: Customize
-
-![Step 4: Customize](https://cdn-images-1.medium.com/max/800/1*8tYf2HJDh9k-0F43bn-oLA.png)
-
-![Step 4a: Change Sample Utterances](https://cdn-images-1.medium.com/max/800/1*DWJUFWqGUSxekLk9xOf7BQ.png)
-
-Go back to “Interaction Model” tab in the Alexa Skill Developer portal, and edit the words on the right of “TestIntent” with the words you would like to say to Alexa. An example might be “who is the coolest person on earth”, and you’d say “Alexa, ask <invocation name> who is the coolest person on earth?” Next we’ll customize the output.
-
-![Step 4b: Change Lambda Output](https://cdn-images-1.medium.com/max/800/1*12QfN7P6jHdXpSBo0WEJ1w.png)
-
-* Go to the "Code" tab in Lambda.
-* Scroll to line 104 and replace Hello, World with your output.
-* Keep the quotes around your output.
-* Click "Save".
-* Test in Amazon Developer Portal.
-
-## Step 4 Done
-
 ![Step 4 Done](https://cdn-images-1.medium.com/max/800/1*KdfqphskuVljnRPIgB3q8w.gif)
+
+## Links and credits
+
+* Most of the content of this guide is sourced from [https://www.pluralsight.com/guides/node-js/amazon-alexa-skill-tutoria](https://www.pluralsight.com/guides/node-js/amazon-alexa-skill-tutorial) by Brian Donohue
+  * [https://www.instapaper.com/p/bthdonohue/folder/2910008](https://www.instapaper.com/p/bthdonohue/folder/2910008)
+  * [https://github.com/Donohue/alexa](https://github.com/Donohue/alexa)
+* Soruce code for our Trove skill is on my GitHUb account [https://github.com/justinkelly/alexa/](https://github.com/justinkelly/alexa/)
