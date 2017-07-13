@@ -87,7 +87,44 @@ Download the zip I've already prepared of the full source code for the Trove ski
 
 * [https://github.com/justinkelly/alexa/raw/master/src/lambda_function.zip](https://github.com/justinkelly/alexa/raw/master/src/lambda_function.zip) 
 
-Back in Lambda, you’re going to scroll down a bit and we are going to enter our Traove API key as an environment variable. This allows the Python script to access the API without us having to store it directly in the file.
+For those wondering what this code we are about to upload actual does, below is the main sample. This is a very simple Alexa skill that queries (based on a random word) the Trove API for a book. Very simple but a great intro to shows what Alexa can do.
+
+_[https://github.com/justinkelly/alexa/blob/master/src/lambda_function.py](https://github.com/justinkelly/alexa/blob/master/src/lambda_function.py)
+``` python
+def get_trove_query(intent, session):
+
+    card_title = intent['name']
+    session_attributes = {}
+    should_end_session = True
+ 
+    word_site = "https://raw.githubusercontent.com/paritytech/wordlist/master/res/wordlist.txt"
+
+    response = requests.get(word_site)
+    WORDS = response.content.splitlines()
+    searchquery = random.choice(WORDS)
+
+    trove_api_key = os.environ['TROVE_API_KEY']
+    troveURL = 'http://api.trove.nla.gov.au/'
+
+    r = requests.get(troveURL + 'result/', params = { 
+        'key': trove_api_key, 
+        'zone': 'book', 
+        'encoding': 'json',
+        'q': searchquery
+    } )
+ 
+    #r.encoding = 'ISO-8859-1'
+    results=r.json() 
+
+    trove_book_title = results['response']['zone'][0]['records']['work'][0]['title']
+
+    trove_book_title = trove_book_title.replace(":", " ")
+    trove_book_title = trove_book_title.replace("/", " by the author ")
+
+    final_data = "For the random word " + searchquery + " Trove has found the book " + trove_book_title
+```
+
+Back in Lambda, you’re going to scroll down a bit and we are going to enter our Trove API key as an environment variable. This allows the Python script to access the API without us having to store it directly in the file.
 
 In the `key` section enter `TROVE_API_KEY` and in the field to the right of it paste in your Trove API key
 
