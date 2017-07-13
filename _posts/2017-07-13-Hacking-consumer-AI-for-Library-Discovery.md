@@ -201,7 +201,7 @@ Once in the new BETA tool go to the code editor section and copy/paste in the be
 }
 ```
 
-Once enteren click the Save Model and then Build Model buttons in the top menu and proceded to the enxt section
+Once entered click the `Save Model` and then `Build Model` buttons in the top menu and proceded to the next section
 
 **Configuration**
 
@@ -250,4 +250,4 @@ Congrats, you just created your first Alexa skill! 👏👏
 * Most of the content of this guide is sourced from [https://www.pluralsight.com/guides/node-js/amazon-alexa-skill-tutoria](https://www.pluralsight.com/guides/node-js/amazon-alexa-skill-tutorial) by Brian Donohue
   * [https://www.instapaper.com/p/bthdonohue/folder/2910008](https://www.instapaper.com/p/bthdonohue/folder/2910008)
   * [https://github.com/Donohue/alexa](https://github.com/Donohue/alexa)
-* Soruce code for our Trove skill is on my GitHUb account [https://github.com/justinkelly/alexa/](https://github.com/justinkelly/alexa/)
+* Soorce code for our Trove skill is on my GitHUb account [https://github.com/justinkelly/alexa/](https://github.com/justinkelly/alexa/)
