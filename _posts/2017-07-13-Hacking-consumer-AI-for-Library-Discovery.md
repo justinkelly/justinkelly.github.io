@@ -205,7 +205,7 @@ Once enteren click the Save Model and then Build Model buttons in the top menu a
 
 **Configuration**
 
-Change the radio button from “HTTPS” to “Lambda ARN” and select the “No” radio button under Account Linking. Now we’ll have to go and grab the Lambda Amazon Resource Name (ARN) from our Lambda tab.
+Change the radio button from `HTTPS` to `Lambda ARN` and select the `No` radio button under Account Linking. Now we’ll have to go and grab the Lambda Amazon Resource Name (ARN) from our Lambda tab.
 
 **Copy ARN**
 
@@ -213,19 +213,19 @@ The ARN is on the top right of the Lambda function page.
 
 **Paste ARN**
 
-Paste the ARN into the text field, and press “Next”.
+Paste the ARN into the text field, and press `Next`.
 
 ## Step 3 Testing
 
-After you click “Next” on the “Configuration” tab, you should be on the “Test” tab. Under the “Service Simulator” portion you’ll be able to enter a sample utterance to trigger your skill. For the “Hello, World” example you should type “say hello world”, and on the right you should see the output from the Lambda function you created: “Hello, World!”
+After you click `Next` on the `Configuration` tab, you should be on the `Test` tab. Under the `Service Simulator` portion you’ll be able to enter a sample utterance to trigger your skill. For the `Trove` example you should type `search random book`, and on the right you should see the output from the Lambda function you created: `Hello, World!`
 
 ![lambda testing]({{site.baseurl}}/img/lambda_testing.png)
 
 **Adding accounts for testing**
 
-One thing that cause be issues when I first created a skill was that the skill wasn;t immediately available for my own account to actual test. The solution of this is to add your amazon account to the list of beta testers for this skill.
+One thing that cause be issues when I first created a skill was that the skill wasn't immediately available for my own account to actual test. The solution of this is to add your amazon account to the list of beta testers for this skill.
 
-Click on the "Skills Beta Testing" seciton and add in the amazon accoutns you want this new skill availble for testing
+Click on the `Skills Beta Testing` seciton and add in the amazon accoutns you want this new skill availble for testing
 
 ![lambda manage test]({{site.baseurl}}/img/lambda_manage_test.png)
 
@@ -233,7 +233,7 @@ In the beta testign section there will be an invitation link for each user. For 
 
 **Testing on a device**
 
-If you got the correct output using the Service Simulator, try it on the Amazon Echo. We were using “Trove” as the invocation name in this presentation, but you should use the invocation name you set previously.
+If you got the correct output using the Service Simulator, try it on the Amazon Echo. We were using `Trove` as the invocation name in this presentation, but you should use the invocation name you set previously.
 
 > Alexa, ask Trove for a random book
 
