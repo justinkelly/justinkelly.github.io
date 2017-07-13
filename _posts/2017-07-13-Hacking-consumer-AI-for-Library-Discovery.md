@@ -40,7 +40,7 @@ Requirements:
 		* Create/login to https://developer.amazon.com using the same account as the AWS account
 	* GitHub account is not required but recommended
 
-#### Aleax skills
+## Alexa skills
 
 First up we'll details what an Alexa skill is.
 
@@ -54,12 +54,12 @@ Each Alexa skill is comprised of an “Invocation Name” which you can think of
 
 The skill we’re going to build is going to be an basic enough program that queries Trove for random book.
 
-### Skill Steps
+## Skill Steps
 
 Building your first skill will comprise of four steps. First we’re going to copy the “Hello, World!” code into Amazon Lambda, which will be responsible for running the code. Next we’re going to set up our skill in the Amazon Alexa Skills Developer Portal, and link our lambda account to that skill. Then we’re going to test using the Amazon service simulator and on an Alexa-enabled device. Lastly, we’ll walk through the steps of customizing your skill to your needs.
 
 
-#### Step 1: AWS Lambda
+## Step 1: AWS Lambda
 
 ![Lambda]({{site.baseurl}}/img/lambda.png)
 
@@ -93,26 +93,25 @@ Download the zip I've already prepared of the full source code for the Trove ski
 
 Back in Lambda, you’re going to scroll down a bit and we are going to enter our Traove API key as an environment variable. This allows the Python script to access the API without us having to store it directly in the file.
 
-IN the `key` section enter `TROVE_API_KEY` and in the field to the right of it paste in your Trove API key
+In the `key` section enter `TROVE_API_KEY` and in the field to the right of it paste in your Trove API key
 
-#### Set Execution Role
+The next step not to miss that is very **important** is the `Handler` section. Enter `lambda_function.lambda_handler` in this field. This field tells Lambda the file_name and function to run.
 
 Scroll down a bit further to the “Lambda function handler and role” section. You’re going to want to set the role to “lambda\_basic\_execution”. It’s important to note that if this is your first time using Lambda, you’ll have to create the “lambda\_basic\_execution” role. You can do that by selecting the first option “* Basic Execution” and clicking the blue button on the next page. After you take that step, you should be able to select “lambda\_basic\_execution”.
 
+Next expand the 'Advanced settings' section and increase the timeout from 3 seconds to 10 (or more). This is if the Trove API is slow to respond the Lambda function wont auto timeout.
 
-![Step 1d: Finish Creating Lambda Function](https://cdn-images-1.medium.com/max/1200/1*C36HxbtFT3lF9pFmv3JmDQ.png)
+Cleck `Next` to review the function. If the Triggers section is empty make sure to add the "Alexa Skills Kit" and then click `Create function`
 
-Once you’ve created the function, click on the “Event Sources” tab, then click the blue “Add event source” link, then select “Alexa Skills Kit” from the modal dropdown.
+Please note if you’ve never signed up for the [Amazon Developer Portal](https://developer.amazon.com/edw/home.html#/skills/list), you’ll have to do that first before the “Alexa Skills Kit” will appear. Please also make sure you use the same Amazon account as the one you’re using for AWS and your Echo.
 
-Please note if you’ve never signed up for the [Amazon Developer Portal](https://developer.amazon.com/edw/home.html#/skills/list), you’ll have to do that first before the “Alexa Skills Kit” will appear from the Event Sources dropdown. Please also make sure you use the same Amazon account as the one you’re using for AWS and your Echo.
+### Step 1 Done
 
-## Step 1 Done
-
-![Step 1 Done](https://cdn-images-1.medium.com/max/800/1*WXBkb3sWDvcw6ifyzvrItQ.gif)
+Your first Lambda function is now complete :)
 
 Keep the Amazon Lambda tab open though, we’ll need to come back to it!
 
-## Step 2
+### Step 2
 
 ![Step 2: Amazon Skills Portal](https://cdn-images-1.medium.com/max/800/1*fLVUygy4wQszmxRPS5PWHA.png)
 
