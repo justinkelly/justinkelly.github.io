@@ -118,36 +118,56 @@ Navigate to Add New Skill and click the yellow “Get Started >” button under 
 
 The name of your Amazon Alexa skill must be unique for your account, and the invocation name is what you’ll use to activate the skill. “Alexa, tell <invocation name> to say Hello, World”. You can use “Hello World” if you’re lacking in creativity. Click the yellow “Next” button when you’re ready!
 
-![Step 2d: Interaction Model](https://cdn-images-1.medium.com/max/1200/1*iXt3o6KxIZ-wdrRfi4aHpA.png)
+**Interaction Model**
 
 Here is where we’re going to tell the skill which intents we support, and what type of words will trigger each intent. Get ready for some copy and pasting.
 
-![Step 2e: Copy Intent Schema](https://cdn-images-1.medium.com/max/800/1*Di-Zf3m1N0AWiHKXIpuqPg.png)
+``` json
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.PauseIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.ResumeIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "queryTrove",
+      "samples": [
+        "search",
+        "random search",
+        "search random book",
+        "search book",
+        "random"
+      ],
+      "slots": []
+    }
+  ]
+}
+```
 
-Open the [Hello World intent schema](https://github.com/Donohue/alexa/blob/master/speechAssets/IntentSchema.json) and copy all of the text in the box.
-
-![Step 2f: Paste Intent Schema](https://cdn-images-1.medium.com/max/1200/1*eBNZPWCWbasqh7H64sAGWQ.png)
-
-Back in the Amazon Skills portal, paste the intent schema you copied into the Intent Schema field.
-
-![Step 2g: Copy Sample Utterances](https://cdn-images-1.medium.com/max/800/1*ob0OlUPBdm8svBKhUFCdnA.png)
-
-Open the [Hello World sample utterances](https://github.com/Donohue/alexa/blob/master/speechAssets/SampleUtterances.txt) and copy all of the text in the box.
-
-![Step 2h: Paste Sample Utterances](https://cdn-images-1.medium.com/max/1200/1*DFmTpNRTDYFaox3JqVGnQw.png)
-
-Back in the Amazon Skills portal, paste the sample utterances you copied into the Sample Utterances field. Click the yellow “Next” button after you’ve pasted the Sample Utterances.
-
-![Step 2i: Configuration](https://cdn-images-1.medium.com/max/1200/1*HKEFi0ievrGYBnoG0jBNMA.png)
+**Configuration**
 
 Change the radio button from “HTTPS” to “Lambda ARN” and select the “No” radio button under Account Linking. Now we’ll have to go and grab the Lambda Amazon Resource Name (ARN) from our Lambda tab. You still have that open, right?
 
-![Step 2j: Copy ARN](https://cdn-images-1.medium.com/max/800/1*yodxeQKrYjxxh26txdKtKg.png)
-
+**Copy ARN]**
 The ARN is on the top right of the Lambda function page. I have it selected in the image above. You’ll want to copy the selection as I have it above.
 
-![Step 2k: Paste ARN](https://cdn-images-1.medium.com/max/800/1*iJHo8qnBQb__hbQL0ro7lA.png)
-
+** Paste ARN**
 Paste the ARN into the text field, and press “Next”.
 
 ## Step 2 Done
