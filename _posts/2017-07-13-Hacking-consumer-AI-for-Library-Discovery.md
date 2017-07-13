@@ -3,13 +3,14 @@ layout: post
 title: Hacking consumer AI for Library Discovery
 published: true
 tags: alexa aws lambda
+comments: true
 ---
 
 # Build your First Alexa Skill
 
 ![VALA TEch Camp 2017](https://www.vala.org.au/images/stories/VALAlogos/VTC-Square_Logo.jpg)
 
-For the [VALA Tech Camp 2017](https://portal.vala.org.au/camp_speakers#Justin) I've been asked to do workshop on 'Hacking consumer AI for Library Discovery'. In this blog post and the workshop I'll run through how to utilise consumer AI (in this example Amazon Alexa) to work with a library discovery server (Trove) 
+For the [VALA Tech Camp 2017](https://portal.vala.org.au/camp_speakers#Justin) I've been asked to do workshop on 'Hacking consumer AI for Library Discovery'. In this blog post and the workshop I'll run through how to utilise consumer AI (in this example Amazon Alexa) to work with a library discovery service (Trove) 
 
 _Note: Trove is the National Library of Australia's discovery service and more. You can read more about Trove at [http://trove.nla.gov.au/general/about](http://trove.nla.gov.au/general/about)_
 
@@ -39,45 +40,62 @@ Requirements:
 		* Create/login to https://developer.amazon.com using the same account as the AWS account
 	* GitHub account is not required but recommended
 
+#### Aleax skills
 
-![Alexa Skill Terminology](https://cdn-images-1.medium.com/max/1200/1*E3155-o18xfC9hVHCriTbQ.png)
+First up we'll details what an Alexa skill is.
 
-Each Alexa skill is comprised of an “Invocation Name” which you can think of as your app name, a set of “Intents” and the phrases that map to each intent, and the software that can detect the intent and return an appropriate result.
+An Alexa skill is a services that adds extra functioanlity to your Amazon Alexa/Echo device.  In this workshop we'll be creating a skill called `Trove Australia`. THe main techincal parts of a `skill` are:
 
-![Hello World Skill](https://cdn-images-1.medium.com/max/1200/1*BzP-MbBpdiNouIdHIL02Cg.png)
+* Invoication Name
+* Intents
+* Utterances
 
-The skill we’re going to build is going to be an adaptation of the classic “Hello, World!” program.
+Each Alexa skill is comprised of an “Invocation Name” which you can think of as your app name, a set of “Intents” and the phrases that map to each intent, and the software that can detect the intent and return an appropriate result. These "Intents" are are executed by ALexa when a user says a specific "Utterance". We'll dive deeper into each of these later
 
-![Skill Steps](https://cdn-images-1.medium.com/max/1200/1*24YIKOd6a88tep2No3j2bA.png)
+The skill we’re going to build is going to be an basic enough program that queries Trove for random book.
+
+### Skill Steps
 
 Building your first skill will comprise of four steps. First we’re going to copy the “Hello, World!” code into Amazon Lambda, which will be responsible for running the code. Next we’re going to set up our skill in the Amazon Alexa Skills Developer Portal, and link our lambda account to that skill. Then we’re going to test using the Amazon service simulator and on an Alexa-enabled device. Lastly, we’ll walk through the steps of customizing your skill to your needs.
 
-![Alexa Skill Links](https://cdn-images-1.medium.com/max/1200/1*yfcCpuXFFdiZN35T5CLP5g.png)
 
-I put together a list of resources at [https://bit.ly/alexaskill](https://bit.ly/alexaskill), which is a public Instapaper folder I set up to make sharing the list of links easy. The slides will refer to each of these links. I’d recommend having this open in a tab so you can refer back to the links easily.
+#### Step 1: AWS Lambda
 
-## Step 1
-
-![Step 1: Lambda](https://cdn-images-1.medium.com/max/1200/1*xp0LoXq9DA80M2jQDZwkEA.png)
-
-![Step 1a: AWS Login](https://cdn-images-1.medium.com/max/1200/1*_FESNc05l3WFlfdrPwa3Cw.png)
+![Lambda]({{site.baseurl}}/img/lambda.png)
 
 * Open the [AWS Lambda console](https://console.aws.amazon.com/lambda/home?region=us-east-1#/create?step=2)
 * Login or create an account with the same Amazon account that your Alexa device is linked to.
 
-![Step 1b: Amazon Lambda Function](https://cdn-images-1.medium.com/max/800/1*JVW4EmIx2xKnx6aYXqoJMg.png)
+Next we'll create a Lambda function that weill talk to the Trove API
 
-Enter the name of your Lambda function. It’s not very important what the name is but it needs to be unique, you can just use “HelloWorld”. In the top right it should say “N. Virginia”. If that’s not the case please select “US-East (N. Virginia)” from the dropdown.
+![lambda function]({{site.baseurl}}/img/lambda_function.png)
 
-![Step 1c: Copy Source Code](https://cdn-images-1.medium.com/max/800/1*TCQhZoLBJtDKdrpMBLxyUA.png)
+In the AWS Lambda console click `Create a Lambda function`, then in the Slect blueporint screen - select `Pytign 3.6` from the Runtime dropdown and click the `Blank function`. In the 'Configure triggers' screen click on the dotted grey box and select `Alexa Skills Kit`. This setups the basic lambda function ready for Alexa.
 
-Copy the [Hello World application source code](https://github.com/Donohue/alexa/blob/master/src/index.js)
+In `Configure function`
 
-![Step 1d: Paste Source Code](https://cdn-images-1.medium.com/max/1200/1*tVBGkuBWAk-wis-PAk07rg.png)
+Enter the name and description of your Lambda function. It’s not very important what the name is but it needs to be unique, you can just use “Trove”. In the top right it should say “N. Virginia”. If that’s not the case please select “US-East (N. Virginia)” from the dropdown.
 
-Back in Lambda, you’re going to scroll down a bit and paste the code you copied from GitHub into the large text box under “Lambda function code”.
+_Why North Virginia?_ As of the time of this writing, the [Alexa Skills Kit is only hosted in East US (N. Virginia.)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function)
 
-![Step 1e: Set Execution Role](https://cdn-images-1.medium.com/max/1200/1*gXwTF9sNj_7L-45d8haE8A.png)
+Remember to set Python 3.5 as the Runtime
+
+#### Source code
+
+![lambda_source_code]({{site.baseurl}}/img/lambda_source_code.png)
+
+In the code section you get the option to either enter the code inline or upload a zip file. As the code we are using requires a few extra Python modules we'll chouse the zip option.
+
+
+Download the zip I've already prepared of the full source code for the Trove skill and upload it in to the `Function Package` section of the page 
+
+* [https://github.com/justinkelly/alexa/raw/master/src/lambda_function.zip](https://github.com/justinkelly/alexa/raw/master/src/lambda_function.zip) 
+
+Back in Lambda, you’re going to scroll down a bit and we are going to enter our Traove API key as an environment variable. This allows the Python script to access the API without us having to store it directly in the file.
+
+IN the `key` section enter `TROVE_API_KEY` and in the field to the right of it paste in your Trove API key
+
+#### Set Execution Role
 
 Scroll down a bit further to the “Lambda function handler and role” section. You’re going to want to set the role to “lambda\_basic\_execution”. It’s important to note that if this is your first time using Lambda, you’ll have to create the “lambda\_basic\_execution” role. You can do that by selecting the first option “* Basic Execution” and clicking the blue button on the next page. After you take that step, you should be able to select “lambda\_basic\_execution”.
 
@@ -185,4 +203,3 @@ Go back to “Interaction Model” tab in the Alexa Skill Developer portal, and 
 ## Step 4 Done
 
 ![Step 4 Done](https://cdn-images-1.medium.com/max/800/1*KdfqphskuVljnRPIgB3q8w.gif)
-
