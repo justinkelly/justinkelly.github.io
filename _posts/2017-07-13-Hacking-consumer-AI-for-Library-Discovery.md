@@ -68,7 +68,7 @@ Next we'll create a Lambda function that weill talk to the Trove API
 
 ![lambda function]({{site.baseurl}}/img/lambda_function.png)
 
-In the AWS Lambda console click `Create a Lambda function`, then in the Slect blueporint screen - select `Pytign 3.6` from the Runtime dropdown and click the `Blank function`. In the 'Configure triggers' screen click on the dotted grey box and select `Alexa Skills Kit`. This setups the basic lambda function ready for Alexa.
+In the AWS Lambda console click `Create a Lambda function`, then in the Slect blueporint screen - select `Python 3.6` from the Runtime dropdown and click the `Blank function`. In the 'Configure triggers' screen click on the dotted grey box and select `Alexa Skills Kit`. This setups the basic lambda function ready for Alexa.
 
 In `Configure function`
 
