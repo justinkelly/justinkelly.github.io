@@ -178,7 +178,7 @@ Paste the ARN into the text field, and press “Next”.
 
 After you click “Next” on the “Configuration” tab, you should be on the “Test” tab. Under the “Service Simulator” portion you’ll be able to enter a sample utterance to trigger your skill. For the “Hello, World” example you should type “say hello world”, and on the right you should see the output from the Lambda function you created: “Hello, World!”
 
-![lambda test]({{site.baseurl}}/img/lambda_test.png)
+
 
 If you got the correct output using the Service Simulator, try it on the Amazon Echo. We were using “Trove” as the invocation name in this presentation, but you should use the invocation name you set previously.
 
