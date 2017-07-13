@@ -5,12 +5,9 @@ published: true
 tags: alexa aws lambda
 comments: true
 ---
-
-# Build your First Alexa Skill
+For the [VALA Tech Camp 2017](https://portal.vala.org.au/camp_speakers#Justin) I've been asked to do workshop on 'Hacking consumer AI for Library Discovery'. In this blog post and the workshop I'll run through how to utilise consumer AI (in this example Amazon Alexa) to work with a library discovery service (Trove) 
 
 ![VALA TEch Camp 2017](https://www.vala.org.au/images/stories/VALAlogos/VTC-Square_Logo.jpg)
-
-For the [VALA Tech Camp 2017](https://portal.vala.org.au/camp_speakers#Justin) I've been asked to do workshop on 'Hacking consumer AI for Library Discovery'. In this blog post and the workshop I'll run through how to utilise consumer AI (in this example Amazon Alexa) to work with a library discovery service (Trove) 
 
 _Note: Trove is the National Library of Australia's discovery service and more. You can read more about Trove at [http://trove.nla.gov.au/general/about](http://trove.nla.gov.au/general/about)_
 
@@ -58,7 +55,6 @@ The skill we’re going to build is going to be an basic enough program that que
 
 Building your first skill will comprise of four steps. First we’re going to copy the “Hello, World!” code into Amazon Lambda, which will be responsible for running the code. Next we’re going to set up our skill in the Amazon Alexa Skills Developer Portal, and link our lambda account to that skill. Then we’re going to test using the Amazon service simulator and on an Alexa-enabled device. Lastly, we’ll walk through the steps of customizing your skill to your needs.
 
-
 ## Step 1: AWS Lambda
 
 ![Lambda]({{site.baseurl}}/img/lambda.png)
@@ -80,12 +76,11 @@ _Why North Virginia?_ As of the time of this writing, the [Alexa Skills Kit is o
 
 Remember to set Python 3.5 as the Runtime
 
-#### Source code
+**Source code**
 
 ![lambda_source_code]({{site.baseurl}}/img/lambda_source_code.png)
 
 In the code section you get the option to either enter the code inline or upload a zip file. As the code we are using requires a few extra Python modules we'll chouse the zip option.
-
 
 Download the zip I've already prepared of the full source code for the Trove skill and upload it in to the `Function Package` section of the page 
 
@@ -101,27 +96,23 @@ Scroll down a bit further to the “Lambda function handler and role” section.
 
 Next expand the 'Advanced settings' section and increase the timeout from 3 seconds to 10 (or more). This is if the Trove API is slow to respond the Lambda function wont auto timeout.
 
-Cleck `Next` to review the function. If the Triggers section is empty make sure to add the "Alexa Skills Kit" and then click `Create function`
+Click `Next` to review the function. If the Triggers section is empty make sure to add the "Alexa Skills Kit" and then click `Create function`
 
 Please note if you’ve never signed up for the [Amazon Developer Portal](https://developer.amazon.com/edw/home.html#/skills/list), you’ll have to do that first before the “Alexa Skills Kit” will appear. Please also make sure you use the same Amazon account as the one you’re using for AWS and your Echo.
 
-### Step 1 Done
+**Step 1 Done**
 
 Your first Lambda function is now complete :)
 
 Keep the Amazon Lambda tab open though, we’ll need to come back to it!
 
-### Step 2
+## Step 2: AWS Developer skills
 
-![Step 2: Amazon Skills Portal](https://cdn-images-1.medium.com/max/800/1*fLVUygy4wQszmxRPS5PWHA.png)
+![lambda aws developer]({{site.baseurl}}/img/lambda_aws_developer.png)
 
-![Step 2a: Amazon Developer Login](https://cdn-images-1.medium.com/max/800/1*hGmDXfH3F2mKH6gIkCPZXA.png)
-
-Open the [Amazon Developer Skills portal](https://developer.amazon.com/edw/home.html#/skills/list) and login with the same Amazon account that your Alexa device is linked with.
-
-![Step 2b: Navigate to Add New Skill](https://cdn-images-1.medium.com/max/800/1*MqUtpDDSsBTUuysjBier_A.png)
-
-Click the yellow “Get Started >” button under “Alexa Skills Kit”, then the yellow “Add a New Skill” button on the next page.
+Open the [Amazon Developer Alexa Skills portal](https://developer.amazon.com/edw/home.html#/skills/list) and login with the same Amazon account that your Alexa device is linked with.
+ 
+Navigate to Add New Skill and click the yellow “Get Started >” button under “Alexa Skills Kit”, then the yellow “Add a New Skill” button on the next page.
 
 ![Step 2c: Name and Invocation Name](https://cdn-images-1.medium.com/max/800/1*7S6kAmf6jLZ7_8RaOZhs4Q.png)
 
