@@ -49,7 +49,7 @@ An Alexa skill is a services that adds extra functioanlity to your Amazon Alexa/
 * Intents
 * Utterances
 
-Each Alexa skill is comprised of an “Invocation Name” which you can think of as your app name, a set of “Intents” and the phrases that map to each intent, and the software that can detect the intent and return an appropriate result. These "Intents" are are executed by ALexa when a user says a specific "Utterance". We'll dive deeper into each of these later
+Each Alexa skill is comprised of an `Invocation Name` which you can think of as your app name, a set of `Intents` and the phrases that map to each intent, and the software that can detect the intent and return an appropriate result. These `Intents` are are executed by Alexa when a user says a specific `Utterance`. We'll dive deeper into each of these later
 
 The skill we’re going to build is going to be an basic enough program that queries Trove for random book.
 
@@ -135,7 +135,7 @@ Scroll down a bit further to the “Lambda function handler and role” section.
 
 Next expand the 'Advanced settings' section and increase the timeout from 3 seconds to 10 (or more). This is if the Trove API is slow to respond the Lambda function wont auto timeout.
 
-Click `Next` to review the function. If the Triggers section is empty make sure to add the "Alexa Skills Kit" and then click `Create function`
+Click `Next` to review the function. If the Triggers section is empty make sure to add the `Alexa Skills Kit` and then click `Create function`
 
 Please note if you’ve never signed up for the [Amazon Developer Portal](https://developer.amazon.com/edw/home.html#/skills/list), you’ll have to do that first before the “Alexa Skills Kit” will appear. Please also make sure you use the same Amazon account as the one you’re using for AWS and your Echo.
 
@@ -153,15 +153,15 @@ Open the [Amazon Developer Alexa Skills portal](https://developer.amazon.com/edw
  
 Navigate to Add New Skill and click the yellow “Get Started >” button under “Alexa Skills Kit”, then the yellow “Add a New Skill” button on the next page.
 
-The name of your Amazon Alexa skill must be unique for your account, and the invocation name is what you’ll use to activate the skill. “Alexa, tell <invocation name> to say Hello, World”. IN this example we'll use "Trove" as the name. Click the yellow “Next” button when you’re ready!
+The name of your Amazon Alexa skill must be unique for your account, and the invocation name is what you’ll use to activate the skill. “Alexa, tell <invocation name> to say Hello, World”. In this example we'll use `Trove` as the name. Click the yellow “Next” button when you’re ready!
 
 **Interaction Model**
 
 Here is where we’re going to tell the skill which intents we support, and what type of words will trigger each intent. Get ready for some copy and pasting.
 
-Amazon have a new tool available that simplfies this previously complex section - You should be a "Interaction Model Buidler BETA"
+Amazon have a new tool available that simplfies this previously complex section - You should be a `Interaction Model Buidler BETA`
 
-Once in the new BETA tool go to the code editor section and copy/paste in the below code - this code tell ALexa what are "intents" are goign to be and what "utterances" are defined for each "intent" 
+Once in the new BETA tool go to the code editor section and copy/paste in the below code - this code tell ALexa what are `intents` are goign to be and what `utterances` are defined for each `intent` 
 
 ``` json
 {
