@@ -250,4 +250,4 @@ Congrats, you just created your first Alexa skill! 👏👏
 * Most of the content of this guide is sourced from [https://www.pluralsight.com/guides/node-js/amazon-alexa-skill-tutoria](https://www.pluralsight.com/guides/node-js/amazon-alexa-skill-tutorial) by Brian Donohue
   * [https://www.instapaper.com/p/bthdonohue/folder/2910008](https://www.instapaper.com/p/bthdonohue/folder/2910008)
   * [https://github.com/Donohue/alexa](https://github.com/Donohue/alexa)
-* Source code for our Trove skill is on my GitHUb account [https://github.com/justinkelly/alexa/](https://github.com/justinkelly/alexa/)
+* Source code for our Trove skill is on my GitHub account [https://github.com/justinkelly/alexa/](https://github.com/justinkelly/alexa/)
