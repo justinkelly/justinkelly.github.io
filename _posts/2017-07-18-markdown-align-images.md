@@ -21,4 +21,4 @@ _CSS_
 img[src*='#right']{ float: right; }
 ```
 
-This way with a few lines of css you can use valid markdown to control layout
+This way with a few lines of css you can use valid markdown to control layout.
