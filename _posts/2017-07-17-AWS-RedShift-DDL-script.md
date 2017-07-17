@@ -39,4 +39,4 @@ ORDER BY A.ATTNUM
 ;
 ```
 
-{% image_tag src="/img/2017-07-17-RedShift-DDL.PNG" width="100" %}
+{% image_tag src="/img/2017-07-17-RedShift-DDL.PNG" width="400" %}
