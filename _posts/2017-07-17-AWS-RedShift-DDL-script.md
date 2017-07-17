@@ -5,10 +5,10 @@ title: AWS RedShift DDL SQL script
 comments: true
 tags: aws redshift postgres
 ---
+
 If you are using AWS RedShift and a sql client that doesn't auto show table details/description you can use the below script and output the full metdata for a table
 
 Just replace `INSERT_TABLENAME_HERE` and `INSERT_SCHEMA_NAME_HERE` with the scheme and table name
-
 
 ``` sql
 SELECT DISTINCT n.nspname AS schemaname
