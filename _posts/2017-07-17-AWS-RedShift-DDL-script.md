@@ -41,4 +41,4 @@ ORDER BY A.ATTNUM
 
 {% image_tag src="/img/2017-07-17-RedShift-DDL.PNG" width="400" %}
 
-{% picture /img/2017-07-17-RedShift-DDL.PNG alt="RedShift DDL" %}
+![RedShift DDL SQL](/img/2017-07-17-RedShift-DDL.PNG)
