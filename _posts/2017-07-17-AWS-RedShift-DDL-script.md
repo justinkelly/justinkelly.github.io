@@ -10,7 +10,7 @@ If you are using AWS RedShift and a sql client that doesn't auto show table deta
 
 Just replace `INSERT_TABLENAME_HERE` and `INSERT_SCHEMA_NAME_HERE` with the scheme and table name
 
-``` sql
+{% highlight sql linenos %}
 SELECT DISTINCT n.nspname AS schemaname
  ,c.relname AS tablename
  ,a.attname AS COLUMN
@@ -37,7 +37,7 @@ WHERE n.oid = c.relnamespace
  AND c.oid = con.conrelid(+)
 ORDER BY A.ATTNUM
 ;
-```
+{% endhighlight %}
 
 Here is an example of the output
 
