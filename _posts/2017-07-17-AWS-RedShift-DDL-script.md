@@ -10,7 +10,7 @@ If you are using AWS RedShift and a sql client that doesn't auto show table deta
 
 Just replace `INSERT_TABLENAME_HERE` and `INSERT_SCHEMA_NAME_HERE` with the scheme and table name
 
-``` postgres
+``` sql
 SELECT DISTINCT n.nspname AS schemaname
  ,c.relname AS tablename
  ,a.attname AS COLUMN
@@ -38,5 +38,7 @@ WHERE n.oid = c.relnamespace
 ORDER BY A.ATTNUM
 ;
 ```
+
+Here is an example of the output
 
 ![RedShift DDL SQL](/img/2017-07-17-RedShift-DDL.PNG)
