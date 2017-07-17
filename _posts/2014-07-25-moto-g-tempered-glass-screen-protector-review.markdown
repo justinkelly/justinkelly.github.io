@@ -1,11 +1,10 @@
 ---
-published: true
 layout: post
-title: "Moto G tempered glass screen protector review"
+published: true
+title: Moto G tempered glass screen protector review
 tags: review motorola
+comments: false
 ---
-
-{% image_tag src="/img/Moto-G-screen-small.jpg" width="400" %}
 
 After scratching and smashing a few screens on my last couple of phones I was determined to find a solution to save my new Motorola G from the same fate.
 
@@ -15,6 +14,7 @@ In the last year a new breed of phone screen protectors has launched onto the ma
 
 The nice guys over at [MobileZap](http://www.mobilezap.com.au/35014/motorola/moto-g/screen-protectors.htm) sent over a Orzly premium tempered glass 0.3mm screen protector for review.
 
+{% image_tag src="/img/Moto-G-screen-small.jpg" width="400" %}
 
 The Good
 ===
