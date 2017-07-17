@@ -39,6 +39,6 @@ ORDER BY A.ATTNUM
 ;
 ```
 
-{% picture /img/2017-07-17-RedShift-DDL.PNG %}
+{% picture img/2017-07-17-RedShift-DDL.PNG %}
 
 ![RedShift DDL SQL](/img/2017-07-17-RedShift-DDL.PNG)
