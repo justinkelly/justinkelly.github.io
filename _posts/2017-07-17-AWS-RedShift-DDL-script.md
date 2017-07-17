@@ -39,6 +39,6 @@ ORDER BY A.ATTNUM
 ;
 ```
 
-{% image_tag src="/img/2017-07-17-RedShift-DDL.PNG" width="400" %}
+{% image_tag src="/img/2017-07-17-RedShift-DDL.PNG" width="600" %}
 
 ![RedShift DDL SQL](/img/2017-07-17-RedShift-DDL.PNG)
