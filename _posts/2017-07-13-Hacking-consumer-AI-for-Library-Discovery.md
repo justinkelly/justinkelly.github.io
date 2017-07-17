@@ -24,6 +24,8 @@ Services we are going to use:
  * AWS Alexa/Echo
  * Echosim.com
 
+<!--more-->
+
 Requirements:
 
 * Trove API key (recommended)
