@@ -1,0 +1,10 @@
+_id: 05eed310-6afc-11e7-bb65-cdc47459c118
+_parent: 2017-07-17-aws-redshift-ddl-sql-script
+message: >-
+  You can also use `v_generate_tbl_ddl` from our Admin Views to generate full
+  DDL (with DIST and SORT keys and column encodings) for Redshift tables:
+  https://github.com/awslabs/amazon-redshift-utils/tree/master/src/AdminViews
+name: Joe Harris
+email: f3f808947f68fe8dd3e6662ec1e1e4bf
+address: ''
+date: '2017-07-17T14:27:12.601Z'
