@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Veho bluetooth speakers for Nexus 7"
-comments: true
+title: Veho bluetooth speakers for Nexus 7
+comments: false
 tags: nexus-7 speakers bluetooth
+published: true
 ---
-
-{% image_tag src="/img/2013-09-03-veho-300.jpg" width="300" %}
 
 The original Nexus 7 (2012 model) is a fantastic tablet but has the constant criticism of its limited mono back facing speakers.  Though the audio output level is decent,
 compared to the iPhone 5 or Nexus 10 (with front facing speakers) it's quite lacking
@@ -13,6 +12,9 @@ compared to the iPhone 5 or Nexus 10 (with front facing speakers) it's quite lac
 Enter the [Veho bluetooth speakers][Veho] from the nice guys at [MobileZap][Zap].  These device has 2 speakers and dramatically increases the audio output volume of the Nexus. 
 
 <!--more-->
+
+{% image_tag src="/img/2013-09-03-veho-300.jpg" width="300" %}
+
 ## The Good
 
 Straight forward to pair and connect vie bluetooth, the Veho just works and with 2 decent speakers gives output similar to a small portable CD player. 
