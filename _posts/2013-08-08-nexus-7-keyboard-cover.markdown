@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Nexus 7 keyboard cover"
-comments: true
+title: Nexus 7 keyboard cover
+comments: false
 tags: nexus-7 keyboard
+published: true
 ---
-{% image_tag src="/img/IMG_3075_small.jpg" width="400" %}
-
 The good folks at [MobileZap][2](AU version of MobileFun.co.uk) sent over a bluetooth [keyboard case][1] for my Nexus 7(2012) to review. 
 
 Currently this is the only hard cover aluminium - clip on - case for the Nexus 7 on the market
@@ -15,6 +14,9 @@ This is a mini keyboard to match the size of the Nexus 7, its pretty much the sa
 [Asus Eee 701 PC](https://www.google.com.au/search?q=eeepc+701) keyboard
 
 <!--more-->
+
+{% image_tag src="/img/IMG_3075_small.jpg" width="400" %}
+
 ### The Good
 
 Works perfect with the Nexus 7 (2012 version), all normal keys, media, and Android specific keys 'just work'.  The Nexus 7 fits in perfectly in portrait
