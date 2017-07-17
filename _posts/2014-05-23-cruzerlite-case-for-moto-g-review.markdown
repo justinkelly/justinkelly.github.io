@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Cruzerlite case for Moto G review"
-comments: true
-tags:  review
+title: Cruzerlite case for Moto G review
+comments: false
+tags: review
+published: true
 ---
-
-{% image_tag src="/img/cruzerlite_moto_g.jpg" width="250" %}
-
 After picking up a couple of [Motorola Moto G](http://wikipedia.org/wiki/Moto_G) phones on the weekend
 I set about looking for a couple of different covers for them so as to not destroy yet another phone. 
 The good guys over at [MozileZap](http://www.mobilezap.com.au/35004/motorola/moto-g/covers.htm) set over a couple of cases to review.
@@ -14,6 +12,8 @@ The good guys over at [MozileZap](http://www.mobilezap.com.au/35004/motorola/mot
 The first up is the Cruzerlite Bugdroid case.
 
 <!--more-->
+
+{% image_tag src="/img/cruzerlite_moto_g.jpg" width="250" %}
 
 ## The Good
 
