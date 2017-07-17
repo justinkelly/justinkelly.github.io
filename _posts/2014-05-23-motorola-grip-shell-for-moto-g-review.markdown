@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Motorola grip shell for Moto G review"
-comments: true
-tags:  review
+title: Motorola grip shell for Moto G review
+comments: false
+tags: review
+published: true
 ---
-
-{% image_tag src="/img/moto_g_grip_side.jpg" width="400" %}
 
 Following on from my review of the [Cruzerlite case for the Moto G](cruzerlite-case-for-moto-g-review/) the second case 
 from [MobileZap](http://www.mobilezap.com.au/35004/motorola/moto-g/covers.htm) is the Motorola Grip Shell.
 
 <!--more-->
+
+{% image_tag src="/img/moto_g_grip_side.jpg" width="400" %}
+
 The Grip Shell has semi-hard back and rubberised frame. It covers the side buttons, 
 which does takes away from the tactile feedback of pressing the buttons, 
 however they do make the buttons easier to press
@@ -46,4 +48,3 @@ Links:
 
  * [MozileZap covers for Moto G](http://www.mobilezap.com.au/35004/motorola/moto-g/covers.htm)
  * [Cruzerlite](http://www.cruzerlite.com/cases/motorola/moto-g/cruzerlite-bugdroid-circuit-case-for-moto-g)
-
