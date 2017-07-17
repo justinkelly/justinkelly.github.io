@@ -10,7 +10,7 @@ If you are using AWS RedShift and a sql client that doesn't auto show table deta
 
 Just replace `INSERT_TABLENAME_HERE` and `INSERT_SCHEMA_NAME_HERE` with the scheme and table name
 
-{% highlight sql linenos %}
+{% highlight sql %}
 SELECT DISTINCT n.nspname AS schemaname
  ,c.relname AS tablename
  ,a.attname AS COLUMN
