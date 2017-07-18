@@ -4,3 +4,8 @@ rvm:
 sudo: false
 script:
 - bundle exec jekyll build
+
+# deploy to netlify
+after_success: 
+   - chmod +x ./deploy.sh
+   - ./deploy.sh
