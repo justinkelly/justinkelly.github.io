@@ -6,7 +6,8 @@ comments: true
 tags: ubuntu linux bash
 ---
 
-Install the latest version of `youtube-dl`. Even if this is available in your distros repositoreis it's best to grab the latest version from the yt-dl site.
+Install the latest version of `youtube-dl`. 
+Even if this is available in your version of linux it's best to grab the latest version from the yt-dl site.
 
 ``` bash
 sudo apt-get install ffmpeg
@@ -26,7 +27,7 @@ To converting a YouTube video to MP3 files jsut use the below command and add th
 youtube-dl -x --audio-format mp3 https://www.youtube.com/wat..
 ```
 
-If you can;t download `youtube-dl` from their site for the repository you can try using Python pip
+If you can't download `youtube-dl` from their site for the repository you can try using Python pip
 
 ``` bash
 $ pip install youtube_dl
