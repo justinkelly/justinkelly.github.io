@@ -2,29 +2,6 @@
 layout: page
 title: Tags
 ---
-<!--
-{% for tag in site.tags %}
-  <h2 class='tag-header' id="{{ tag[0]| slugify }}-ref">{{ tag[0]  | replace: '-', ' ' }}</h2>
-  <ul>
-    {% assign pages_list = tag[1] %}
-
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if group == null or group == node.group %}
-          {% if page.url == node.url %}
-          <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
-          {% else %}
-          <li><a href="{{node.url}}">{{node.title}}</a></li>
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
-{% endfor %}
--->
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_tags: {{ site_tags }} -->
