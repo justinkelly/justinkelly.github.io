@@ -12,11 +12,11 @@ After much testing I've finally got a solution working as required.
 
 List of tags with a count of posts
 
-{% image_tag src="/img/2017-07-jekyll-tags.png" width="400" %}
+{% image_tag src="/img/2017-07-jekyll-tags.png" width="600" %}
 
 List of posts in each tag ordered by date newest
 
-{% image_tag src="/img/2017-07-jekyll-archive.png" width="400" %}
+{% image_tag src="/img/2017-07-jekyll-archive.png" width="600" %}
 
 In the footer of the post to list the tags and linking to the correct section of the new tags page
 
@@ -43,6 +43,7 @@ Create a folder `tags` and add a file `index.md` in it with the following conten
 _tags/index.md_
 
 ``` html
+{% raw  %}
 ---
 layout: page
 title: Tags
@@ -77,6 +78,7 @@ title: Tags
   </ul>
   {% endunless %}{% endfor %}
 </div>
+{% endraw  %}
 ```
 
 If you `post` layout files put the below code in the footer section
@@ -84,6 +86,7 @@ If you `post` layout files put the below code in the footer section
 _layouts/post.html_
 
 ``` html
+{% raw  %}
 <div class="related">
   {% if page.tags != null %}
   <div class="tags">
@@ -98,6 +101,7 @@ _layouts/post.html_
   </div>
 </div>
   {% endif %}
+{% endraw  %}
 ```
 
 Add the CSS for the tags
