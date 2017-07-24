@@ -42,7 +42,7 @@ Create a folder `tags` and add a file `index.md` in it with the following conten
 
 _tags/index.md_
 
-``` markdown
+``` html
 ---
 layout: page
 title: Tags
@@ -83,7 +83,7 @@ If you `post` layout files put the below code in the footer section
 
 _layouts/post.html_
 
-```
+``` html
 <div class="related">
   {% if page.tags != null %}
   <div class="tags">
