@@ -43,8 +43,7 @@ Create a folder `tags` and add a file `index.md` in it with the following conten
 _tags/index.md_
 
 ``` html
-{% raw  %}
----
+{% raw  %}---
 layout: page
 title: Tags
 ---
@@ -77,17 +76,16 @@ title: Tags
     {% endif %}{% endfor %}
   </ul>
   {% endunless %}{% endfor %}
-</div>
-{% endraw  %}
+</div>{% endraw  %}
+
 ```
 
-If you `post` layout files put the below code in the footer section
+In you `post` layout files put the below code in the footer section
 
 _layouts/post.html_
 
 ``` html
-{% raw  %}
-<div class="related">
+{% raw  %}<div class="related">
   {% if page.tags != null %}
   <div class="tags">
     <h4>
@@ -100,8 +98,7 @@ _layouts/post.html_
     </h4>
   </div>
 </div>
-  {% endif %}
-{% endraw  %}
+  {% endif %}{% endraw  %}
 ```
 
 Add the CSS for the tags
