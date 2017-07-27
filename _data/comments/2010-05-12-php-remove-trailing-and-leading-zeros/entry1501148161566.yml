@@ -1,0 +1,7 @@
+_id: 007f5e80-72af-11e7-b937-93d5b769f7da
+_parent: 2010-05-12-php-remove-trailing-and-leading-zeros
+message: "thx !\r\nI added to mine :\r\n\r\nif (empty($clean))\r\n    return '0';\r\nif ($clean[0]==='.')\r\n    return '0' . $clean;"
+name: elplouk
+email: 293749328ef1715df019aafaf57181f7
+address: ''
+date: '2017-07-27T09:36:01.562Z'
