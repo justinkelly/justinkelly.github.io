@@ -28,7 +28,8 @@ gems:
 
 markdown: kramdown
 
-include: "_headers"
+include: 
+   - "_headers"
 
 kramdown:
   input: GFM
