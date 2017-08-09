@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include zh-head.html %}
+
+  <body class="avenir helvetica bg-white">
+    <div class="absolute top-1 left">
+      <a href="/" class="bg-white ph3 pt3 pb2 ba0 b">JK</a>
+    </div>
+    
+          <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+    
+
+<article class="f4 lh-copy pr6-l pl6-l">
+      <div class="fl w-70-l pa4 mb6">
+        <div class="content">
+
+        {{ content }}
+      </div>
+    </div>
+
+    {% include zh-sidebar.html %}
+
+</article>
+
+
+
+
+  </body>
+</html>
