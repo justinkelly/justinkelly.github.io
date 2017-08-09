@@ -3,7 +3,8 @@ layout: zh
 title: Home
 ---
   
-{% assign postsByYear site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear =
+  site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h3>{{ year.name }}</h1>
   <ul class="list pa0">
