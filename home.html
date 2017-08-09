@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: zh
 title: Home
 ---
-<ul>
+<ul class="list pa0">
 {% for post in site.posts %}	
-  <li>
-    <span class="date">{{ "post.date | date_to_long_string  }}</span>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+  <li class="mb4-l mb3">
+    <span class="ttu f7 b mr2 tracked grey db-l dn">{{ "post.date | date_to_long_string  }}</span>
+    <a class="f4" href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>
