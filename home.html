@@ -5,14 +5,18 @@ title: Home
   
 {% assign postsByYear =
   site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
 {% for year in postsByYear %}
-<h3>{{ year.name }}</h1>
-  <ul class="list pa0">
+
+<ul class="list pa0">
+    <h3>{{ year.name }}</h1>
+
   {% for post in year.items %}  
     <li class="mb4-l mb3">
       <span class="ttu f7 b mr2 tracked grey db-l dn">{{ post.date | date_to_long_string  }}</span>
       <a class="f4" href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-  </ul>
+ 
+</ul>
 {% endfor %}
