@@ -5,7 +5,7 @@ title: Home
 <ul class="list pa0">
 {% for post in site.posts %}	
   <li class="mb4-l mb3">
-    <span class="ttu f7 b mr2 tracked grey db-l dn">{{ "post.date | date_to_long_string  }}</span>
+    <span class="ttu f7 b mr2 tracked grey db-l dn">{{ post.date | date_to_long_string  }}</span>
     <a class="f4" href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
