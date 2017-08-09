@@ -21,12 +21,8 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   https://plus.google.com/u/0/+JustinKelly0
   
-gems:
-   - jekyll-paginate
-   - jekyll-gist
-   - jekyll-srcset
-   - jekyll-minifier
-  
+plugins: [ jekyll-paginate, jekyll-gist, jekyll-srcset, jekyll-minifier]
+
 markdown: kramdown
 
 include: 
