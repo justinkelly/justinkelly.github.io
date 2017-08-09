@@ -41,6 +41,9 @@ reCaptcha:
     siteKey: "6LeMoygUAAAAAEo97WDnpKdmp1jLdgQ6aIG41gs0"
     secret: "edDZoWzS/wjuiP4fnRZDU7OQXLrUN5HbNVG5tJ/VJ8Xp+xsY6xM44+i2z/4fHKIvfnVD3ZheobZx0+gOFptxBwYnAj6SqwHgNOUpGyFBZYBFKGDfcwHBD8i6gmP7fOrCwQ7FmbVrRuWIpHIJbqCYXM2BM4IjQbx0rZB09WB4QcU="
 
+sass:
+    style: compressed
+
 prose:
   siteurl: 'https://blog.justin.kelly.org.au/'
   media: 'img'
@@ -93,7 +96,7 @@ jekyll-minifier:
   remove_comments: true             # Default: true
   remove_intertag_spaces: true      # Default: false
   remove_quotes: false              # Default: false
-  compress_css: true                # Default: true
+  compress_css: false               # Default: true
   compress_javascript: true         # Default: true
   simple_doctype: false             # Default: false
   remove_script_attributes: false   # Default: false
