@@ -16,7 +16,7 @@
         <div class="content">
 <h3> Latest blog posts         </h3> 
 <ul>
-	{% for post in site.posts limit:25 %}
+	{% for post in site.posts limit:15 %}
 
 	    <li class="">
       <span class="ttu f7 b mr2 tracked grey db-l dn">{{ post.date | date_to_long_string  }}</span>
