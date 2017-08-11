@@ -16,6 +16,15 @@ h3 {
 .bg-primary {
     background-color: #0151ba;
 }
+/*code*/
+code {
+    overflow: auto;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+    word-wrap: normal;
+    margin-bottom: 0;
+    word-break: normal;
+}
 /*card*/
 .ba {
     border-style: solid;
