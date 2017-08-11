@@ -16,15 +16,9 @@
         <div class="content">
 <h2> Latest blog posts   </h2> 
 		
-{% assign postsByYear =
-  site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-
-{% for year in postsByYear limit:15 %}
-
 <ul class="list pa0">
-    <h3>{{ year.name }}</h1>
 
-  {% for post in year.items %}  
+  {% for post in year.items limit:12 %}  
     <li class="mb4-l mb3">
       <span class="ttu f7 b mr2 tracked grey db-l dn">{{ post.date | date_to_long_string  }}</span>
       <a class="f4" href="{{ post.url }}">{{ post.title }}</a>
