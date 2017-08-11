@@ -4,7 +4,7 @@
   {% include head.html %}
 
 <article class="f4 lh-copy pr6-l pl6-l">
-      <div class="fl w-50-l pa4 mb6">
+      <div class="fl w-50-l pl4 pr4">
         <div class="content">
           
         {{ content }}
@@ -12,10 +12,10 @@
       </div>
     </div>
 
-      <div class="fl w-50-l pa4 mb6">
+      <div class="fl w-50-l pl4 pr4">
         <div class="content">
 <h2> Latest blog posts   </h2> 
-<ul>
+<ul class="list pa0">
 	{% for post in site.posts limit:15 %}
 
 	    <li class="">
