@@ -1,0 +1,83 @@
+---
+layout: page-no-title
+title: About me
+published: true
+---
+{% include author.html %} 
+
+## Latest blog posts
+
+<ul>
+	{% for post in site.posts limit:5 %}
+	<li>
+		<a href="{{ post.url }}">{{ post.title }}</a>
+    	</li>
+  	{% endfor %}  
+  	<li>
+  		<a href="https://blog.justin.kelly.org.au">More posts <i class="fa fa-long-arrow-right"></i></a>
+	</li>
+</ul>
+
+## Contact details
+
+<p class="social-p">
+  <a id="contact_details"></a>
+  <a class="social-icons icon-rounded no-margin " href="mailto:justin@kelly.org.au" style="">
+	<i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
+    </a>
+</p>
+
+<p class="social-p">
+  <a class="social-icons icon-rounded no-margin " href="https://twitter.com/_justin_kelly" style="">
+<i class="fa icon-twitter fa-lg"></i><span>_justin_kelly</span>
+    </a>
+</p>
+
+## Links
+
+<p class="social-p">
+  <a class="social-icons icon-rounded no-margin" href="https://github.com/justinkelly" style="">
+<i class="fa icon-github fa-lg"></i>
+    </a>
+    
+      <a class="social-icons icon-rounded no-margin" href="https://au.linkedin.com/in/justinkellyau" style="">
+<i class="fa icon-linkedin fa-lg"></i>
+    </a>
+  
+  <a class=" social-icons icon-rounded no-margin" href="http://justin.kelly.org.au/+" style="">
+<i class="fa icon-google-plus fa-lg"></i>
+    </a>
+    
+<a class=" social-icons icon-rounded no-margin" href="http://feeds.feedburner.com/justinkelly" style="">
+	<i class="fa icon-rss fa-lg"></i>
+	</a>
+
+</p>
+
+<br />
+<a name="contact"></a>
+
+## Contact me
+
+<form action="//formspree.io/justin@kelly.org.au" role="form" method="POST">
+    <div class="form-group">
+      <label for="name">What's your name?</label>
+      <input type="text" name="name" class="form-control" required="">
+    </div>
+
+    <div class="form-group">
+      <label for="_replyto">And email address, please?</label>
+      <input type="email" name="_replyto" class="form-control" required="">
+    </div>
+
+    <div class="form-group">
+      <label for="message">How can I help you?</label>
+      <textarea name="body" class="form-control" rows="4" width="100%" required=""></textarea>
+    </div>
+
+    <div>
+      <input type="hidden" name="_next" value="//blog.justin.kelly.org.au/thanks">
+      <input type="hidden" name="_subject" value="Justin Kelly website - contact form" />
+      <input type="submit" class="btn btn-lg" value="Send">
+    </div>
+  </form>
