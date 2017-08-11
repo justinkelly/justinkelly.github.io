@@ -1,5 +1,5 @@
 ---
-layout: page-no-title
+layout: home
 title: About me
 published: true
 ---
