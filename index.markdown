@@ -6,19 +6,6 @@ published: true
 
 {% include author.html %}
 
-## Latest blog posts
-
-<ul>
-	{% for post in site.posts limit:5 %}
-	<li>
-		<a href="{{ post.url }}">{{ post.title }}</a>
-    	</li>
-  	{% endfor %}  
-  	<li>
-  		<a href="/blog">More posts <i class="fa fa-long-arrow-right"></i></a>
-	</li>
-</ul>
-
 ## Contact details
 
 <p class="social-p">
