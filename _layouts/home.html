@@ -19,8 +19,9 @@
 	{% for post in site.posts limit:15 %}
 
 	    <li class="">
-      <span class="ttu f7 b mr2 tracked grey db-l dn">{{ post.date | date_to_long_string  }}</span>
+    
       <a class="f4" href="{{ post.url }}">{{ post.title }}</a>
+	<span class="ttu f7 b mr2 tracked grey dn">{{ post.date | date_to_long_string  }}</span>
     </li>
 	
   	{% endfor %}  
