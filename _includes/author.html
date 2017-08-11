@@ -1,16 +1,11 @@
-<div class="card">
-  <div class="card-block">
-    <div class="media">
-        <img class="d-flex align-self-center mr-3" src="/img/{{ site.owner.avatar }}" alt="Justin Kelly">
-        <div class="media-body">
-          {% if page.layout == 'post' %}
-            <h6 class="card-subtitle mb-2 text-muted">Author</h6>
-          {% endif %} 
-            <h3 class="card-title">{{ site.owner.name }}</h3>
-            <p>{{ site.owner.description }}</p>
+<article class="center mw5 mw6-ns br3 hidden ba b--black-10 mv4">
+  <h1 class="f4 bg-near-white br3 br--top black-60 mv0 pv2 ph3">{{ site.owner.name }}</h1>
+  <div class="pa3 bt b--black-10">
+     <img class="d-flex align-self-center mr-3" src="/img/{{ site.owner.avatar }}" alt="Justin Kelly">
+    <p class="f6 f5-ns lh-copy measure">
+    {{ site.owner.description }}
             <a href="{{site.url}}/about/#contact" class="card-link">Contact me</a>
             <a href="https://twitter.com/intent/follow?screen_name=_justin_kelly" class="card-link">Follow on Twitter</a>
-         </div>
-     </div>
+    </p>
   </div>
-</div>
+</article>
