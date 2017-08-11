@@ -14,7 +14,7 @@ published: true
     	</li>
   	{% endfor %}  
   	<li>
-  		<a href="https://blog.justin.kelly.org.au">More posts <i class="fa fa-long-arrow-right"></i></a>
+  		<a href="/blog">More posts <i class="fa fa-long-arrow-right"></i></a>
 	</li>
 </ul>
 
