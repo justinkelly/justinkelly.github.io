@@ -1,8 +1,8 @@
 title: Justin Kelly
 tagline: various ramblings
 description: Justin Kelly - various ramblings
-url: https://blog.justin.kelly.org.au
-enforce_ssl: https://blog.justin.kelly.org.au
+url: https://justin.kelly.org.au
+enforce_ssl: https://justin.kelly.org.au
 permalink: /:title/
 excerpt_separator: <!--more-->
 timezone: Australia/Melbourne
@@ -45,7 +45,7 @@ sass:
     style: compressed
 
 prose:
-  siteurl: 'https://blog.justin.kelly.org.au/'
+  siteurl: 'https://justin.kelly.org.au/'
   media: 'img'
   ignore:
     - /_layouts
