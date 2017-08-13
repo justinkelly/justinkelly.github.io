@@ -34,7 +34,7 @@ published: true
     <li itemscope>
         <a href="{{ post.url }}">{{ post.title }}</a>
            <span class="entry-date">
-              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date |  date_to_long_string  }}</time>
+              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date |  date_to_string  }}</time>
           </span>     
     </li>
   {% endfor %}
