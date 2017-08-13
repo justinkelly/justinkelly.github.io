@@ -125,8 +125,18 @@ ul.posts li span {
   background-color: #f9f9f9;
   border-bottom: 1px solid #dedede;
   width:100%;
+    padding: 63; 
 }
-.car-details
+.card-header h2{
+    padding: 0; 
+    margin: 0; 
+}
+.card-details
 {
   width:100%;
+  padding:9px;
+}
+.card-image{
+  float:left;
+  padding-right:10px;
 }
