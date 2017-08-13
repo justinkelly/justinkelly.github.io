@@ -108,10 +108,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 .masthead-title small {
-  font-size: 75%;
+  font-size: 50%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
+  float:right;
 }
 
 @media (max-width: 48rem) {
