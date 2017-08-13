@@ -16,3 +16,32 @@ h3 {
 .bg-primary {
     background-color: #0151ba;
 }
+/* Comments */
+
+form.comment_form{
+    padding: 1em;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+    background-color: #f7f7f9;
+}    
+.comment_heading 
+{
+    border-bottom: 1px solid #eee;
+}
+.comment_body
+{
+    margin-left: 1.5em;
+    font-size: 0.8em;
+    padding-top:3px;
+}
+.comment_checkbox{
+    display:inline;
+}
+.comment-timestamp {
+    font-size: .8em;
+    color: #9a9a9a;
+}
+.comment-timestamp a {
+    color: #9a9a9a;
+    text-decoration: none;
+}
