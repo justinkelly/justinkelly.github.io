@@ -125,18 +125,19 @@ ul.posts li span {
   background-color: #f9f9f9;
   border-bottom: 1px solid #dedede;
   width:100%;
-    padding: 63; 
+  padding: 63; 
 }
-.card-header h2{
-    padding: 0; 
-    margin: 0; 
+.card-header h3{
+  padding: 0; 
+  margin: 0; 
+  padding-left:13px;
 }
 .card-details
 {
   width:100%;
-  padding:9px;
+  padding:16px;
 }
 .card-image{
   float:left;
-  padding-right:10px;
+  padding-right:14px;
 }
