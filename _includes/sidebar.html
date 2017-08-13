@@ -1,15 +1,20 @@
-<div class="sidebar fl w-30-l f5 pa4 mt4">
-        <h2 class="mt4 tracked-tight primary mb0">
-          <a href="https://justin.kelly.org.au"" class="bn no-slide">Justin Kelly</a>
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+        <h2>
+          <a href="https://justin.kelly.org.au">Justin Kelly</a>
         </h2>
+    <p>
 								    
-<div class="f6">
-           <p>
         <img style="display:inline;" class="left" src="/img/hire.jpg">
         <img style="display:inline;" class="left" src="/img/jk.png">
 								   </p>
 								   
-   <p class="mt0">
+   <p class=>
        Web Developer | Data Engineer | Business Analytics | Library Technology based in Melbourne, Australia</p>
     </p>
 	<p>	 
@@ -21,18 +26,25 @@
 <i class="fa icon-twitter fa-lg"></i><span>_justin_kelly</span>
 				</a></p>									  
 </div>
-   
-        <nav class="b mt5">
-	  <a class="db bn bg-primary white mb1 pl2 no-slide" href="/">About</a>
-	  <a class="db bn bg-primary white mb1 pl2 no-slide" href="/blog">Blog</a>
-        </nav>
-        
-<div class="f6">
+    </p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+	  <a class="sidebar-nav-item" href="/">About</a>
+	  <a class="sidebar-nav-item" href="/blog">Blog</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
 <p class="socialimg-icons icon-rounded no-margin inline">
   <a class="" href="https://github.com/justinkelly" style=""><i class="fa icon-github"></i></a>					     
   <a class="" href="https://au.linkedin.com/in/justinkellyau" style=""><i class="fa icon-linkedin"></i></a>
   <a class="" href="http://justin.kelly.org.au/+" style=""><i class="fa icon-google-plus"></i></a>
   <a class="" href="http://feeds.feedburner.com/justinkelly" style=""><i class="fa icon-rss"></i></a>
 </p>
-											    </div>
-      </div>
+    </p>
+  </div>
