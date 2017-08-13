@@ -1,23 +1,21 @@
 /*Change icons size here*/
-.socialimg-icons .fa {
+.socialimg-icons .fa , .header-icons{
 	font-size: 1.6em;
 }
 .socialimg-p .socialimg-icons .fa {
 	font-size: 1.2em;
 }
+.header-icons{
+ color: #c0c0c0;
+}
 /*Change icons circle size and color here*/
-.socialimg-icons .fa {
+.socialimg-icons .fa , .header-icons{
 	width: 36px;
 	height: 36px;
 	line-height: 36px;
 	text-align: center;
 	color: #FFF;
 	color: rgba(255, 255, 255, 0.8);
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
 }
 
 .socialimg-icons.icon-circle .fa{ 
@@ -33,23 +31,6 @@
 
 .socialimg-icons .fa:hover, .socialimg-icons .fa:active {
 	color: #FFF;
-	-webkit-box-shadow: 1px 1px 3px #333;
-	-moz-box-shadow: 1px 1px 3px #333;
-	box-shadow: 1px 1px 3px #333; 
-}
-.socialimg-icons.icon-zoom .fa:hover, .socialimg-icons.icon-zoom .fa:active { 
- 	-webkit-transform: scale(1.1);
-	-moz-transform: scale(1.1);
-	-ms-transform: scale(1.1);
-	-o-transform: scale(1.1);
-	transform: scale(1.1); 
-}
-.socialimg-icons.icon-rotate .fa:hover, .socialimg-icons.icon-rotate .fa:active { 
-	-webkit-transform: scale(1.1) rotate(360deg);
-	-moz-transform: scale(1.1) rotate(360deg);
-	-ms-transform: scale(1.1) rotate(360deg);
-	-o-transform: scale(1.1) rotate(360deg);
-	transform: scale(1.1) rotate(360deg);
 }
  
 .socialimg-icons .fa-openid{background-color:#A5C63B;}  
