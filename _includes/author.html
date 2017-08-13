@@ -1,13 +1,15 @@
-<h2 class="">{{ site.owner.name }}</h2>
-
-<div class="fl w-20-l pl4 pr4">
-<img class="d-flex align-self-center mr-3" src="/img/{{ site.owner.avatar }}" alt="Justin Kelly" />
+<div class='card'>
+  <div class='card-header'>
+    <h2 class="">{{ site.owner.name }}</h2>
+  </div>
+  <div class="card-details">
+    <div class="card-image">
+      <img src="/img/{{ site.owner.avatar }}" alt="Justin Kelly" />
+</div>
+    <div class="card-image">
+      <p class="">
+       {{ site.owner.description }}
+      </p>
+    </div>
 </div>
 
-<div class="fl w-80-l pl4 pr4">
-    
-<p class="f6 f5-ns lh-copy measure">
-{{ site.owner.description }}
-</p>
-    
-</div>
