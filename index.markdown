@@ -28,13 +28,16 @@ published: true
 </p>
 
 ## Latest blog posts
-		
-<ul class="list pa0">
+<ul class="posts">
 
   {% for post in site.posts limit:15 %}  
-    <li class="mb3">
-      <span class="ttu f7 b mr2 tracked grey db-l dn">{{ post.date | date_to_long_string  }}</span>
-      <a class="f4" href="{{ post.url }}">{{ post.title }}</a>
+    <li itemscope>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+           <span class="entry-date">
+              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ post.date |  date_to_long_string  }}
+              </time>
+          </span>     
     </li>
   {% endfor %}
  <li class="mb2">		
