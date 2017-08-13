@@ -1,12 +1,14 @@
 /*Change icons size here*/
-.socialimg-icons .fa , .header-icons{
+.socialimg-icons .fa {
 	font-size: 1.6em;
 }
-.socialimg-p .socialimg-icons .fa {
+.socialimg-p .socialimg-icons .fa ,.header-icons{
 	font-size: 1.2em;
 }
-.header-icons{
- color: #c0c0c0;
+a.header-icons {
+  color: #c0c0c0;
+  font-size: 1.2em;
+	margin-right:5px;
 }
 /*Change icons circle size and color here*/
 .socialimg-icons .fa , .header-icons{
