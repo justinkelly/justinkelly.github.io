@@ -6,21 +6,6 @@ published: true
 
 {% include author.html %}
 
-## Contact details
-
-<p class="socialimg-p">
-  <a id="contact_details"></a>
-  <a class="socialimg-icons icon-rounded no-margin " href="mailto:justin@kelly.org.au" style="">
-	<i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
-    </a>
-</p>
-
-<p class="socialimg-p">
-  <a class="socialimg-icons icon-rounded no-margin " href="https://twitter.com/_justin_kelly" style="">
-<i class="fa icon-twitter fa-lg"></i><span>_justin_kelly</span>
-    </a>
-</p>
-
 ## Links
 
 <p class="socialimg-p">
