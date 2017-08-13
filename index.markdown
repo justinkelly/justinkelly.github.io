@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About me
+layout: page-no-title
+title: Home
 published: true
 ---
 
@@ -41,3 +41,18 @@ published: true
 	</a>
 
 </p>
+
+## Latest blog posts
+		
+<ul class="list pa0">
+
+  {% for post in site.posts limit:15 %}  
+    <li class="mb3">
+      <span class="ttu f7 b mr2 tracked grey db-l dn">{{ post.date | date_to_long_string  }}</span>
+      <a class="f4" href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+ <li class="mb2">		
+  		<a href="/blog">More posts <i class="fa fa-long-arrow-right"></i></a>		
+   </li>
+</ul>
