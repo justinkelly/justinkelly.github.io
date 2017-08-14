@@ -21,14 +21,10 @@ input, select, textarea {
 	border-style: solid;
 	border-color: lightgray;
 	background-color: white;
+}
 
-	&:focus {
+.inout:focus {
 		border-color: gray;
-	}
-
-	&::placeholder {
-		color: gray;
-	}
 }
 
 // Checkbox
@@ -44,6 +40,7 @@ input, select, textarea {
 	min-height: 100px;
 	resize: vertical;
 }
+
 .input {
 	margin-bottom: 1em;
 }
