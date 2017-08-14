@@ -21,8 +21,7 @@ input, select, textarea {
 	border-color: lightgray;
 	background-color: white;
 }
-
-.inout:focus {
+.input:focus {
 		border-color: gray;
 }
 
@@ -31,6 +30,7 @@ input, select, textarea {
   width:auto;
   display:inline;
 }
+
 //Button
 .button
 {
