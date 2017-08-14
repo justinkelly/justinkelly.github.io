@@ -39,6 +39,6 @@ published: true
     </li>
   {% endfor %}
  <li class="mb2">		
-  		<a href="/blog">More posts <i class="fa fa-long-arrow-right"></i></a>		
+  		<a href="/blog">More posts <i class="fa icon-long-arrow-right"></i></a>		
    </li>
 </ul>
