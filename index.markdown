@@ -14,11 +14,11 @@ published: true
     </a>
     
       <a class="socialimg-icons icon-rounded no-margin" href="https://au.linkedin.com/in/justinkellyau" style="">
-<i class="fa icon-linkedin fa-lg"></i>
+<i class="fa icon-link-in fa-lg"></i>
     </a>
   
   <a class=" socialimg-icons icon-rounded no-margin" href="http://justin.kelly.org.au/+" style="">
-<i class="fa icon-google-plus fa-lg"></i>
+<i class="fa icon-g-plus fa-lg"></i>
     </a>
     
 <a class=" socialimg-icons icon-rounded no-margin" href="http://feeds.feedburner.com/justinkelly" style="">
