@@ -4,7 +4,6 @@ input, select, textarea {
 	box-sizing: border-box;
 	width: 100%;
 	outline: none;
-	border: none;
 	border-radius: 0;
 }
 
@@ -32,7 +31,13 @@ input, select, textarea {
   width:auto;
   display:inline;
 }
-
+//Button
+.button
+{
+    width: auto;
+    font-size: inherit;
+    margin-top: 8px;
+}
 // Textarea
 .textarea {
 	@extend .input;
