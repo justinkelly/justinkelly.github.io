@@ -8,13 +8,15 @@ title: Blog
 
 {% for year in postsByYear %}
 
-<ul class="list pa0">
+<ul class="posts">
     <h3>{{ year.name }}</h1>
 
   {% for post in year.items %}  
-    <li class="mb4-l mb3">
-      <span class="ttu f7 b mr2 tracked grey db-l dn">{{ post.date | date_to_long_string  }}</span>
-      <a class="f4" href="{{ post.url }}">{{ post.title }}</a>
+    <li itemscope>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+           <span class="entry-date">
+              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date |  date_to_string  }}</time>
+          </span>     
     </li>
   {% endfor %}
  
