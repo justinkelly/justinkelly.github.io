@@ -1,0 +1,47 @@
+// Minimal Form Generic: Resets
+input, select, textarea {
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	outline: none;
+	border: none;
+	border-radius: 0;
+	-webkit-appearance: none;
+	   -moz-appearance: none;
+	        appearance: none;
+}
+
+// Label
+.label {
+	display: block;
+	margin-bottom: 0.25em;
+}
+
+// Input
+.input {
+	padding: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightgray;
+	background-color: white;
+
+	&:focus {
+		border-color: gray;
+	}
+
+	&::placeholder {
+		color: gray;
+	}
+}
+
+// Textarea
+.textarea {
+	@extend .input;
+
+	min-height: 100px;
+	resize: vertical;
+}
+// Useless Demo Styles
+.input {
+	margin-bottom: 1em;
+}
