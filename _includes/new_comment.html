@@ -17,16 +17,14 @@
 
     <input class="form__field text-field" type="address" name="fields[address]" placeholder="Address (do not fill!)" style="display: none"/>
 
-    <label for="form-subscribe" class="label" >
-      <input id="form-subscribe" type="checkbox" class="comment_checkbox" name="options[subscribe]" value="email" class="checkbox">
+      <input id="form-subscribe" type="checkbox" class="comment_checkbox" name="options[subscribe]" value="email" class="">
       Notify me of replies by email.
-    </label>
 
       <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
 
       <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
       <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
 
-      <input type="submit" class="btn" value="Send">  
+      <input type="submit" class="" value="Send">  
 
 </form>
