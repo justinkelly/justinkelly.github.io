@@ -6,9 +6,6 @@ input, select, textarea {
 	outline: none;
 	border: none;
 	border-radius: 0;
-	-webkit-appearance: none;
-	   -moz-appearance: none;
-	        appearance: none;
 }
 
 // Label
@@ -33,7 +30,11 @@ input, select, textarea {
 		color: gray;
 	}
 }
-
+// Checkbox
+.checkbox{
+  width:auto;
+  display:inline;
+}
 // Textarea
 .textarea {
 	@extend .input;
@@ -41,7 +42,6 @@ input, select, textarea {
 	min-height: 100px;
 	resize: vertical;
 }
-// Useless Demo Styles
 .input {
 	margin-bottom: 1em;
 }
