@@ -30,11 +30,13 @@ input, select, textarea {
 		color: gray;
 	}
 }
+
 // Checkbox
-.checkbox{
+.checkbox {
   width:auto;
   display:inline;
 }
+
 // Textarea
 .textarea {
 	@extend .input;
