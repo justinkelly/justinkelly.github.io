@@ -6,6 +6,22 @@ published: true
 
 {% include author.html %}
 
+## Latest blog posts
+<ul class="posts">
+
+  {% for post in site.posts limit:12 %}  
+    <li itemscope>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+           <span class="entry-date">
+              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date |  date_to_string  }}</time>
+          </span>     
+    </li>
+  {% endfor %}
+ <li class="mb2">		
+  		<a href="/blog">More posts <i class="fa icon-long-arrow-right"></i></a>		
+   </li>
+</ul>
+
 ## Links
 
 <p class="socialimg-p">
@@ -26,19 +42,3 @@ published: true
 	</a>
 
 </p>
-
-## Latest blog posts
-<ul class="posts">
-
-  {% for post in site.posts limit:15 %}  
-    <li itemscope>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-           <span class="entry-date">
-              <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date |  date_to_string  }}</time>
-          </span>     
-    </li>
-  {% endfor %}
- <li class="mb2">		
-  		<a href="/blog">More posts <i class="fa icon-long-arrow-right"></i></a>		
-   </li>
-</ul>
