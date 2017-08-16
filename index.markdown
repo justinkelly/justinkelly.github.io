@@ -9,7 +9,7 @@ published: true
 ## Latest blog posts
 <ul class="posts">
 
-  {% for post in site.posts limit:12 %}  
+  {% for post in site.posts limit:10 %}  
     <li itemscope>
         <a href="{{ post.url }}">{{ post.title }}</a>
            <span class="entry-date">
