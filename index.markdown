@@ -22,8 +22,6 @@ published: true
    </li>
 </ul>
 
-## Links
-
 <p class="socialimg-p">
   <a class="socialimg-icons icon-rounded no-margin" href="https://github.com/justinkelly" style="">
 <i class="fa icon-github fa-lg"></i>
