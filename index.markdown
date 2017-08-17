@@ -11,7 +11,13 @@ published: true
     </div>
     <div class="card-body">
       <p class="">
-       {{ site.owner.description }}
+       Web Developer (PHP/ReactJS)
+       <br />
+       Business Analytics (Tableau)
+       <br />
+       Data Engineer (AWS RedShift/Matillion ETL)
+       <br />
+       based in Melbourne, Australia
       </p>
       <p class="socialimg-p">
         <a class="" href="mailto:justin@kelly.org.au" style="">
