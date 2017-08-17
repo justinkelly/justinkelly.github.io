@@ -5,7 +5,11 @@ published: true
 ---
 
 <div class='home-card'>
-
+  
+    <div class="home-card-image">
+      <img src="/img/{{ site.owner.avatar }}" alt="Justin Kelly" />
+    </div>
+    
    <div class="home-card-body">
       <p class="">
        Web Developer (PHP/ReactJS)
@@ -26,10 +30,7 @@ published: true
         </a>
     </p>
     </div>
-    
-    <div class="home-card-image">
-      <img src="/img/{{ site.owner.avatar }}" alt="Justin Kelly" />
-    </div>
+
     
 </div>
 
