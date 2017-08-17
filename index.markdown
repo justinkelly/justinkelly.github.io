@@ -4,7 +4,25 @@ title: Home
 published: true
 ---
 
-{% include author.html %}
+<div class='home-card'>
+
+    <div class="card-image">
+      <img src="/img/{{ site.owner.avatar }}" alt="Justin Kelly" />
+    </div>
+    <div class="card-body">
+      <p class="">
+       {{ site.owner.description }}
+      </p>
+      <p class="socialimg-p">
+        <a class="socialimg-icons icon-rounded no-margin " href="mailto:justin@kelly.org.au" style="">
+	          <i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
+        </a>
+        <a class="socialimg-icons icon-rounded no-margin " href="https://twitter.com/_justin_kelly" style="">
+          <i class="fa icon-twit fa-lg"></i><span>_justin_kelly</span>
+        </a>
+    </p>
+
+</div>
 
 ## Latest blog posts
 <ul class="posts">
