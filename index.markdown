@@ -21,8 +21,9 @@ published: true
           <i class="fa icon-twit fa-lg"></i><span>_justin_kelly</span>
         </a>
     </p>
-
+    </div>
 </div>
+
 
 ## Latest blog posts
 <ul class="posts">
