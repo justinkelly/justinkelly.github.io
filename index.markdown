@@ -13,13 +13,14 @@ published: true
        Business Analytics (Tableau)
        <br />
        Data Engineer (AWS RedShift/Matillion ETL)
-       <br />
-       based in Melbourne, Australia
+       <br /> <br />
+       Based in Melbourne, Australia
       </p>
       <p class="socialimg-p">
+      Contact me on email
         <a class="" href="mailto:justin@kelly.org.au" style="">
 	          <i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
-        </a>
+        </a> or on Twitter 
         <a class="" href="https://twitter.com/_justin_kelly" style="">
           <i class="fa icon-twit fa-lg"></i><span>_justin_kelly</span>
         </a>
