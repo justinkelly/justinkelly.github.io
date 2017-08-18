@@ -12,11 +12,11 @@ published: true
     
    <div class="home-card-body">
       <p class="">
-       Web Developer, Business Analytics, Data Engineer specialising in PHP, ReactJS, Tableau, AWS RedShift amd Matillion ETL
+       {{ site.owner.description }}
        <br /> <br />
        Based in Melbourne, Australia
       </p>
-      <p class="socialimg-p">
+      <p class="">
       Feel free to contact me 
         <a class="" href="mailto:justin@kelly.org.au" style="">
 	          <i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
@@ -24,7 +24,7 @@ published: true
         <a class="" href="https://twitter.com/_justin_kelly" style="">
           <i class="fa icon-twit fa-lg"></i><span>_justin_kelly</span>
         </a>
-    </p>
+      </p>
     </div>
 
     
