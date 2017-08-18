@@ -12,15 +12,15 @@ published: true
     
    <div class="home-card-body">
       <p class="">
-       Web Developer, Business Analytics, Data Engineer spcialising in PHP, REactJS Tableau, AWS REdSHift amd Matillion ETL
+       Web Developer, Business Analytics, Data Engineer specialising in PHP, ReactJS, Tableau, AWS RedShift amd Matillion ETL
        <br /> <br />
        Based in Melbourne, Australia
       </p>
       <p class="socialimg-p">
-      Feel free to contact me on email
+      Feel free to contact me: 
         <a class="" href="mailto:justin@kelly.org.au" style="">
 	          <i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
-        </a> or Twitter 
+        </a> or 
         <a class="" href="https://twitter.com/_justin_kelly" style="">
           <i class="fa icon-twit fa-lg"></i><span>_justin_kelly</span>
         </a>
