@@ -17,7 +17,7 @@ published: true
        Based in Melbourne, Australia
       </p>
       <p class="socialimg-p">
-      Feel free to contact me: 
+      Feel free to contact me 
         <a class="" href="mailto:justin@kelly.org.au" style="">
 	          <i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
         </a> or 
