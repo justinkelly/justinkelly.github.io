@@ -90,7 +90,7 @@ staticmanUrl: https://api.staticman.net/v2/entry/justinkelly/justinkelly.github.
 
 
 jekyll-minifier:
-  exclude: 'atom.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob pattern
+  exclude: '*.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob pattern
   preserve_php: false               # Default: false
   remove_spaces_inside_tags: true   # Default: true
   remove_multi_spaces: true         # Default: true
