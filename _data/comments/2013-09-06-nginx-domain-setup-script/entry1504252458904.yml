@@ -1,0 +1,7 @@
+_id: c1d32060-8eea-11e7-aead-6535dc6ea368
+_parent: 2013-09-06-nginx-domain-setup-script
+message: "`$uri` is suppose to stay as it is but when I execute the script it converted to empty value I guess script is taking it as a variable and replacing it empty value. Any Idea how to fix?\r\n\r\nFor example:\r\n\r\n`location / {try_files $uri $uri/ @forum;}` becomes `location / {try_files / @forum;}`"
+name: sisir
+email: dd7c6d743ffc9499adfe4adb23f2f9f3
+address: ''
+date: '2017-09-01T07:54:18.902Z'
