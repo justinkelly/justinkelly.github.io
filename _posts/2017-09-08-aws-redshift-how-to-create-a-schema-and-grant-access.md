@@ -24,7 +24,7 @@ If you need to adjust the ownership of the schema to another user - such as a sp
 ALTER SCHEMA my_schema_name OWNER TO my_user_name;
 ```
 
-Now to allow access to the new `my_schema_name` scheme to the user `my_user_name` run the below SQL and replace
+Now to allow access to the new `my_schema_name` schema to the user `my_user_name` run the below SQL and replace
 
 * `my_schema_name` with your schema name
 * `my_user_name` with the name of the user that needs access
