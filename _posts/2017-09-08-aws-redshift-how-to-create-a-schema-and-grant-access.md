@@ -34,7 +34,7 @@ GRANT USAGE ON SCHEMA my_schema_name TO my_user_name;
 GRANT SELECT ON ALL TABLES IN SCHEMA my_schema_name TO my_user_name;
 GRANT SELECT ON ALL SEQUENCES IN SCHEMA my_schema_name TO my_user_name;
 ALTER DEFAULT PRIVILEGES IN SCHEMA my_schema_name GRANT SELECT ON TABLES TO my_user_name;
-ALTER DEFAULT PRIVILEGES IN SCHEMA my_schema_name GRANT SELECT ON SEQUENCES TO my_user_name;"
+ALTER DEFAULT PRIVILEGES IN SCHEMA my_schema_name GRANT SELECT ON SEQUENCES TO my_user_name;
 ```
 
 If the user `my_user_name` does not already have access rights to the database that the schema belongs to run the below SQL and replace
