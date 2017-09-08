@@ -3,7 +3,7 @@ layout: post
 published: true
 comments: true
 title: AWS RedShift - How to create a schema and grant access
-tags: aws redshidt
+tags: aws redshift postgres
 ---
 If you are new to the AWS RedShift database and need to create schemas and grant access you can use the below SQL to manage this process
 
