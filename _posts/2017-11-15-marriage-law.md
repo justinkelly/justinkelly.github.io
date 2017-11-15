@@ -31,6 +31,6 @@ Here is the Australia wide view - you can zoom in to a specifc area to get more 
 * AEC map file for Tableau
   * [https://justin.kelly.org.au/assets/national-midmif-09052016.zip](https://justin.kelly.org.au/assets/national-midmif-09052016.zip)
 * Tableau Public files
-  * [https://public.tableau.com/profile/justin.kelly#!/vizhome/2017AustralianMarriageLawvote/YES](https://public.tableau.com/profile/justin.kelly#!/vizhome/2017AustralianMarriageLawvote/YES)
+  * [https://public.tableau.com/profile/justin.kelly#!/vizhome/2017AustralianMarriageLawvote/Australia](https://public.tableau.com/profile/justin.kelly#!/vizhome/2017AustralianMarriageLawvote/Australia)
 
 In my next post I'll got into the details of how to create these maps in Tableau with ABS and AEC data
