@@ -12,7 +12,7 @@ So far I've only seen the results of this election by State. Personally I find t
 
 Thankfully importing ABS data and Australian Electoral Commision(AEC) map files into Tableau is straight forward so we can easily analysis the YES vote per federal electoral
 
-Here is the Australia wide view - you can zoom in to a specifc area to get more details, further below are the zoomed in Melbourne and Sydney maps for comparasion.
+Here is the Australia wide view - you can zoom in to a specifc area to get more details, further below are the zoomed in Melbourne and Sydney maps for comparison.
 
 <div class='tableauPlaceholder' id='viz1510709030958' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2017AustralianMarriageLawvote&#47;Australia&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;2017AustralianMarriageLawvote&#47;Australia?:embed=y&amp;:display_count=y&amp;publish=yes' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2017AustralianMarriageLawvote&#47;Australia&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1510709030958'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1000px';vizElement.style.height='850px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
@@ -33,3 +33,4 @@ Here is the Australia wide view - you can zoom in to a specifc area to get more 
 * Tableau Public files
   * [https://public.tableau.com/profile/justin.kelly#!/vizhome/2017AustralianMarriageLawvote/YES](https://public.tableau.com/profile/justin.kelly#!/vizhome/2017AustralianMarriageLawvote/YES)
 
+In my next post I'll got into the details of how to create these maps in Tableau with ABS and AEC data
