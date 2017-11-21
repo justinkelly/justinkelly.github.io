@@ -1,0 +1,10 @@
+_id: 1058c7c0-ceac-11e7-b48e-b93cae05b573
+_parent: 2012-11-09-how-to-create-self-signed-wildcard-ssl-certificates-for-apache
+message: "Hi Justin,\r\nJust followed you post and it was really heplful. One consideration: SHA1 is not considered anymore secure from modern browsers (e.g. Chrome), so you should change the command to use SHA256.\r\n\r\nopenssl req -new -x509 -nodes -sha1 -days 3650 -key host.key > host.cert\r\n\r\nto \r\n\r\nopenssl req -new -x509 -nodes -sha256 -days 3650 -key host.key > host.cert\r\n\r\nBest Regards"
+name: Tommaso
+email: 8294d845bcb9c6afaa99bb5cb6500cf2
+address: ''
+date: '2017-11-21T11:06:46.553Z'
+layout: verslag
+excerpt_separator: <!--more-->
+draft: true
