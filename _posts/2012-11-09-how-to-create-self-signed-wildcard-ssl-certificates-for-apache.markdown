@@ -14,7 +14,7 @@ Open up your terminal and execute the below commands, replacing `yourdomain.com`
 mkdir /etc/ssl/wildcard.yourdomain.com
 cd /etc/ssl/wildcard.yourdomain.com/
 openssl genrsa 2048 > host.key
-openssl req -new -x509 -nodes -sha1 -days 3650 -key host.key > host.cert
+openssl req -new -x509 -nodes -sha256 -days 3650 -key host.key > host.cert
 ```
 
 For a wildcard cert enter *.yourdomain.com for Common Name. It's the 6th option in the dialog.
