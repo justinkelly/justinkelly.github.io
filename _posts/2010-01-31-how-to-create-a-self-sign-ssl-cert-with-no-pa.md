@@ -22,7 +22,7 @@ Generating RSA private key, 1024 bit long modulus
 e is 65537 (0x10001)
 ```
 
-Use your kep to create your 'Certificate Signing Request' - and leave the passwords blank to create a testing 'no password' certificate
+Use your key to create your 'Certificate Signing Request' - and leave the passwords blank to create a testing 'no password' certificate
 
 ``` shell
 openssl req -new -key server.key -out server.csr
