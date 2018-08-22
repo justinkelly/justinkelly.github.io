@@ -80,8 +80,10 @@ form.comment_form{
 }
 /*Comment spam*/
 .label-url, .input-url{
-    height:0px;
-    wodth:0px;
+    height: 0px;
+    visibility: collapse;
+    padding: 0;
+    margin: 0;
 }	
 
 /*tags page*/
