@@ -4,9 +4,9 @@
   {% include head.html %}
 
   <body>
-
+    {% comment %}
     {% include sidebar.html %}
-
+    {% endcomment %}
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
@@ -15,12 +15,21 @@
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small>
-  <a class="header-icons" href="mailto:justin@kelly.org.au" style="">
-      <i class="fa icon-envelope-o fa-lg"></i>
-			 </a>
-  <a class="header-icons" href="https://twitter.com/_justin_kelly" style="">
-<i class="fa icon-twit fa-lg"></i>
-				</a>
+  		<a class="header-icons" href="mailto:justin@kelly.org.au" style="">
+      			<i class="fa icon-envelope-o fa-lg"></i>
+	 	</a>
+  		<a class="header-icons" href="https://twitter.com/_justin_kelly" style="">
+			<i class="fa icon-twit fa-lg"></i>
+		</a>
+		<a class="header-icons" href="https://feeds.feedburner.com/justinkelly" style="">
+			<i class="fa icon-rss fa-lg"></i>
+		</a>
+		<a class="header-icons" href="https://au.linkedin.com/in/justinkellyau" style="">
+			 <i class="fa icon-link-in fa-lg"></i>
+		</a>
+		<a class="header-icons" href="https://github.com/justinkelly" style="">
+			<i class="fa icon-github fa-lg"></i>
+		</a>
             </small>									  
           </h3>
         </div>
@@ -30,7 +39,7 @@
         {{ content }}
       </div>
     </div>
-
+    {% comment %}
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
@@ -47,3 +56,4 @@
         }, false);
       })(document);
     </script>
+    {% endcomment %}
