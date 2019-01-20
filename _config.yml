@@ -85,8 +85,6 @@ prose:
           label: "Tags"
           value: ''
 
-feed:
-  path: atom.xml
 
 # Staticman comments
 staticmanUrl: https://api.staticman.net/v2/entry/justinkelly/justinkelly.github.io/master/comments
