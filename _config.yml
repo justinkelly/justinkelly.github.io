@@ -86,7 +86,7 @@ prose:
           value: ''
 
 # Staticman comments
-staticmanUrl: https://dev.staticman.net/v3/entry/justinkelly/justinkelly.github.io/master/comments
+staticmanUrl: https://api.staticman.net/v2/entry/justinkelly/justinkelly.github.io/master/comments
 
 
 jekyll-minifier:
