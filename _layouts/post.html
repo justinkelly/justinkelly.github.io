@@ -9,11 +9,11 @@ layout: default
 </div>	
   {% include author.html %}
 
-{% comment %}
+{% comment %}{% endcomment %}
 {% if page.comments != false %}
   {% include comments.html %} 
 {% endif%}
-{% endcomment %}
+{% comment %}{% endcomment %}
 
 <div class="related">
   {% if page.tags != null %}
