@@ -1,7 +1,7 @@
 [build]
-  command = "yarn build"
+  command = "yarn run"
   functions = "functions"
-  publish = "dist"
+  publish = "build"
 [build.environment]
   NODE_VERSION = "10.11.0"
   YARN_VERSION = "1.10.1"
