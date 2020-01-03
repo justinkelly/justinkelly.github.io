@@ -1,4 +1,4 @@
-staticman:
+comments:
   allowedFields          : ['name', 'email', 'message']
   allowedOrigins         : ["kelly.org.au","justin.kelly.org.au","blog.justin.kelly.org.au"]
   branch                 : "master"
