@@ -4,7 +4,7 @@ title: "URL rewriting with Nginx and Vanilla forum"
 comments: true
 tags: nginx apache
 ---
-![](http://nginx.org/nginx.gif)
+![](/img/nginx_200.png)
 
 Having just migrated a number of sites from Apache to the Nginx webserver here's the below Nginx config to get URL rewriting working correctly with Vallia Forums
 
