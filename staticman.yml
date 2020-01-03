@@ -15,7 +15,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601"
-  endpoint               : "https://staticman-justinkelly.herokuapp.com/v2/entry/" # URL of your own deployment with trailing slash, will fallback to the public instance
   notifications:
     enabled: true
     apiKey: "k46QkftfbtuAtgNcUWdQ8Sr1Wd/ccpR2qWPjjOfKsfxA7DlDxIIJyEeewlrJyfgNVcgstlq+NNmhby7JI8pPwapZGQWMkTS0eECpnfWRXsH5dB3naaty6xb7DgC3pzdmobJIootrHjiMWuzOwwR0lMbrwk1z1OyPBSv8mXr99/s="
