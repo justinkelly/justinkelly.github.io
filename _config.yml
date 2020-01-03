@@ -87,7 +87,7 @@ prose:
 
 
 # Staticman comments
-staticmanUrl: https://staticman-justinkelly.herokuapp.com/v3/entry/github/justinkelly/justinkelly.github.io/master/comments
+staticmanUrl: https://staticman-justinkelly.herokuapp.com/v2/entry/justinkelly/justinkelly.github.io/master/comments
 
 jekyll-minifier:
   exclude: '*.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob pattern
