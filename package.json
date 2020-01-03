@@ -1,6 +1,5 @@
 {
     "scripts": {
-        //  existing scripts
         "postinstall": "cd functions/staticman && yarn"
     }
 }
