@@ -6,6 +6,7 @@ comments:
   filename               : entry{@timestamp}
   format                 : "yaml"
   moderation             : false
+  name                   : jusitn.kelly.org.au"
   path                   : "/_data/comments/{options.slug}" # (default)
   requiredFields         : ['name', 'message']
   transforms:
