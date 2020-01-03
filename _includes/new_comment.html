@@ -1,6 +1,6 @@
 <form id="post-new-comment" class="form comment_form" role="form" action="{{ site.staticmanUrl }}" method="post">
 
-  <input name="options[redirect]" type="hidden" value="https://blog.justin.kelly.org.au/thanks/">
+  <input name="options[redirect]" type="hidden" value="https://justin.kelly.org.au/thanks/">
 
   <input type="hidden" name="options[slug]" value="{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}">
   <input type="hidden" name="options[parent]" value="{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}">
