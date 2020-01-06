@@ -85,7 +85,9 @@ prose:
           label: "Tags"
           value: ''
 
-
+plugins:
+  - jekyll-spaceship
+  
 # Staticman comments
 staticmanUrl: https://staticman-justinkelly.herokuapp.com/v2/entry/justinkelly/justinkelly.github.io/master/comments
 
