@@ -254,6 +254,63 @@ serafla
 
 14 words correct =7%
 
+### SLV postcoard
+
+Age: 132 years
+Perceived difficulty: Easy (not cursive script)
+
+http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1671890
+
+Trascript (guessed words mark in "")
+
+```
+Christmas. 1888. A page from "my" illustrated diary. Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Christopher Fry.
+With every good wish for a h"app"y and prosperous future.
+Out party from S"t. Mary's Fie"lds passing through Belgrave. Leicestershire to a meet of the Pychley "Hound"s.
+```
+
+Word cout of translatable words: 39
+
+Notes:
+* https://en.wikipedia.org/wiki/Church_of_St_Mary_de_Castro,_Leicester
+* https://www.st-marysfields.leicester.sch.uk/
+* https://en.wikipedia.org/wiki/Pytchley_Hunt
+
+
+#### Azure:
+
+```
+Christmas. 1888. A page from T illustrated diary. Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Chridapher Fry.
+With every good wish for a har y and prosperous future.
+Our Party from Sri Lids passing Through Betgrave. Leicestershire to a meet of the Pychley
+```
+Words correct
+* Total: 37/39 = 95%
+
+
+#### Google:
+
+```
+Christmas. 1888. A page from illustrated diary.   7
+Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Chruida pher Fry,  9
+With every good wish for a har y and prosperous fuhre,  8
+Our Party from Sm i ds passing through Belgrave Leicestershire to a meet of the Py chley  12
+```
+
+36 words correct = 92%
+
+### AWS Rekognition:
+
+```
+Chrishmas. 1888. pace from illustrated diary. Drawn by uincle Chaplie. Belgrave. Victoria Australia. for Chridlapher Fry.
+With every dood wish and prosperous fuhre.      
+Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay     
+```
+
+39 words correct = 49%
+
+
+
 
 [slv-diary]: http://handle.slv.vic.gov.au/10381/236326
 [slv-postcard]: http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1671890
