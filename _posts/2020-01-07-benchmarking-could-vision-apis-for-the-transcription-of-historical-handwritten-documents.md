@@ -155,7 +155,8 @@ Iill fe bpe me
 Age: 138 years
 Perceived difficulty: Hard (cursive, clear writing on clean paper)
 
-https://i.imgur.com/YkqQZfB.png
+{% image_tag src="/img/george_swinburne_diary.png" width="100" %}
+
 https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/
 
 
