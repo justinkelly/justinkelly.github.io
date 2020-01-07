@@ -50,7 +50,7 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 
 ## Benchmark results
 
-<div class="table-responsive">
+<div class="table-responsive" markdown="1">
 {:.table .table-striped .table-sm}
 | Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
