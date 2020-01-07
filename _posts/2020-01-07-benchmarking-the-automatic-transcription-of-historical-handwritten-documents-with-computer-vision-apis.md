@@ -9,7 +9,7 @@ tags: biblio.ai
 ---
 ## Summary
 
-For automatic transcription of most historical hand written cursive script documents Microsoft Azure is the most accurate - except for very hard to read documents where Google Cloud leads
+For automatic transcription of most historical hand written cursive script documents, Microsoft Azure is the most accurate - except for very hard to read documents where Google Cloud leads
 
 Scaled scores: 
 
@@ -19,9 +19,7 @@ Scaled scores:
 
 ## Details
 
-Thanks to the generous funding of the State Library of Victoria's (SLV) [Digital Fellowship program](digital-fellowship), 
-I have been able to start work on the development of an open source service ( [biblio.ai](biblio.ai) ) for institutional libraries to use 
-the latest in computer vision technologies to automatically enrich the metadata of their image collections.
+Thanks to the generous funding of the State Library of Victoria's (SLV) [Digital Fellowship program](digital-fellowship), I have been able to start work on the development of an open source service ( [biblio.ai](biblio.ai) ) for institutional libraries to use the latest in computer vision technologies to automatically enrich the metadata of their image collections.
 
 The 3 main areas of automatic metadata enrichment will be:
 
@@ -51,10 +49,10 @@ For conversion of scanned handwritten documents to text there are currently (Jan
 Notes: unfortunately ABBYY is suitable only for form style block letter handwriting conversion and the leading open source OCR solution [Tesseract](https://github.com/tesseract-ocr/tesseract) is currently [not easily suitable for general handwriting recognition](tesseract). Both of these options have been excluded in the following tests.
 
 {:.table .table-striped}
-| Source |  Doc                 | Age | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
+| Source |  Doc                 | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
-| Swinburne | Swin letter       | 100  | Med         |  78%         |  66%               |  4%                 |
-| George Swinburne diary page       | 138  | Hard         |  79%         |  62%               |  7%                 |
+| [Swinburne|Letter from aboard S.S. Shropshire](swin-letter)     | 100  | Med         |  78%     |  66%      |  4%          |
+| [George Swinburne's diary, 1882 to 1886 page 4](swin-diary)     | 138  | Hard         |  79%         |  62%               |  7%                 |
 | SLV diary         | 167  | Very Hard |  60%         |  75%               |  3%                 |
 | SLV postcard   | 132  | Easy          |  95%         |  92%               |  49%               | 
 
@@ -68,7 +66,7 @@ MS Azure: 91
 Google Cloud: 89
 Amazon AWS: 11
 
-
+[swin-letter]: https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/
 [digital-fellowship]: https://www.slv.vic.gov.au/about-us/fellowships/digital-fellowship/current-fellow-justin-kelly
 [biblio.ai]: https://biblio.ai
 [tesseract]: https://github.com/tesseract-ocr/tesseract/wiki/FAQ#can-i-use-tesseract-for-handwriting-recognition
