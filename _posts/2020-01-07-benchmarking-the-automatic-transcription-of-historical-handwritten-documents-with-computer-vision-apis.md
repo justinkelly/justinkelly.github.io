@@ -54,13 +54,14 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 | Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
 | [Swinburne: Letter from aboard S.S. Shropshire][swin-letter]     | 100  | Med         |  78%     |  66%      |  4%          |
-| [Swinbunre: George Swinburne's diary, 1882 page 4][swin-diary]     | 138  | Hard         |  79%         |  62%               |  7%                 |
+| [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary]     | 138  | Hard         |  79%         |  62%               |  7%                 |
 | [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]        | 132  | Very Hard |  60%         |  75%               |  3%                 |
 | [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]   | 167 | Easy          |  95%         |  92%               |  49%               | 
 | Average ||| 78% | 74% | 16%|
 
+Percentage score is based on number of words in the documents correctly transcriped.
 
-Scaled for difficulty: ( Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2)
+Scaled for difficulty: Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2
 
 * MS Azure: 91
 * Google Cloud: 89
@@ -408,6 +409,7 @@ uf hy Hh om
 [slv-diary]: http://handle.slv.vic.gov.au/10381/236326
 [slv-postcard]: http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1671890
 [swin-letter]: https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/
+[swin-diary]: https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/
 [digital-fellowship]: https://www.slv.vic.gov.au/about-us/fellowships/digital-fellowship/current-fellow-justin-kelly
 [biblio.ai]: https://biblio.ai
 [tesseract]: https://github.com/tesseract-ocr/tesseract/wiki/FAQ#can-i-use-tesseract-for-handwriting-recognition
