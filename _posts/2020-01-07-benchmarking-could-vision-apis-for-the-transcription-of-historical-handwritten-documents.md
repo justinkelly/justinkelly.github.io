@@ -73,7 +73,7 @@ Age: 138 years
 Perceived difficulty: Hard (cursive, clear writing on clean paper)
 URL: [https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/](https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/)
 
-{% image_tag src="/img/george_swinburne_diary.png" width="100" %}
+{% image_tag src="/img/george_swinburne_diary.png" width="400" %}
 
 
 #### Transcript
