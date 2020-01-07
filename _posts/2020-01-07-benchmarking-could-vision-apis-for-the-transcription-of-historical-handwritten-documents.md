@@ -50,7 +50,8 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 
 ## Benchmark results
 
-<div class="table-responsive" markdown="1">
+<span class="table-responsive">
+  
 {:.table .table-striped .table-sm}
 | Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
@@ -59,7 +60,8 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 | [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]  | 167 | Very Hard |60% | 75% | 3% |
 | [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]| 132|Easy|95%|92%|49%| 
 | Average ||| 78% | 74% | 16%|
-</div>
+  
+</span>
 
 Percentage score is based on number of words in the documents correctly transcriped.
 
