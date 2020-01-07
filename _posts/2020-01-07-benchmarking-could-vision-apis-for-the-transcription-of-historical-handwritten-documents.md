@@ -50,7 +50,7 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 
 ## Benchmark results
 
-{:.table .table-striped}
+{:.table .table-striped .table-sm .table-responsive}
 | Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
 | [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary] | 138 | Hard | 79% |  62% | 7% |
