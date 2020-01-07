@@ -53,9 +53,9 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 {:.table .table-striped}
 | Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
-| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter] | 100 | Medium  |  78% | 66% | 4% |
-| [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary] | 138  | Hard |  79% |  62% |  7% | 
-| [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]  | 167 | Very Hard |60% | 75%  |  3%  |
+| [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary] | 138 | Hard | 79% |  62% | 7% |
+| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter] | 100 | Medium  | 78% | 66% | 4% |
+| [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]  | 167 | Very Hard |60% | 75% | 3% |
 | [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]| 132|Easy|95%|92%|49%| 
 | Average ||| 78% | 74% | 16%|
 
@@ -67,97 +67,13 @@ Scaled for difficulty: Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2
 * Google Cloud: 89
 * Amazon AWS: 11
 
-### Swinburne : Letter from aboard S.S. Shropshire
-
-Age: 100 years
-Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
-
-#### Transcript
-```
-S.S. Shropshire
-At Sea
-4th March 19120
-
-Mr F.W. Green.
-Dear Sir,
-
-We are off to Freemantle for another 40,000 Boxes of apples after loading 110,00 at Hobart. We did not call at Melbourne again. We will land 6,000 Boxes of Butter at Freemantle from Sydney.
-
-Will you please remember me to Mr Waters & to my fiends at My College and with best wishes to yourself I remain
-
-Yours faithfully
-John Duncan
-```
-Word count: 77
-
-#### MS Azure
-```
-S.S.  
-Shropshire
-my. N. Green.  
-Aff March. 19120, 
-Dear Dien We are off- to Freemantle 
-for another 40.000 Boxes of apples after 
-loading 1 10.000, at Nobrash, wel did not call at 
-Melbourne, again. We will land 6.000. Boxes 
-of Butter atfreemantle from Sydney . 
-Will you please remember me 
-to Mr Waters & bol my friends at Me  
-College. and with best wishes to 
-yourself 
-I pemain
-yours faithfully 
-John. Duncan 
-```
-
-60 words correct = 78%
-
-#### Google Cloud
-```
-S.s. Ohropshire   2
-lat sea   1
-4 Wareh. 19120,  1
-Mr J. W. Green.  3
-Dear Sire We are off to freemantle  6
-for another 40,000 Bosces of apples after  6
-Loading 110000, at Hobart, wobel did not eallah  6
-Melbfturne, again. He will land 6.000. Boces  4
-of Buter and Freemande from Sydney.  3
-Will you fleebe femember me  3
-to Me Waters e to my friends at the  6
-College and with Post wishes to :  4
-yourself  1
-Yours faithfully  2
-seman
-can
-```
-
-51 words correct = 66%
-
-### AWS Rekognition
-```
-S.S. ehrefiuhi ea
-Woes areh. 191 20.
-Greeen
-We al f b Freemanl
-or anothe 40:0 Noba: Boeis
-ples olidl plo aplen oallo
-Hoarding Melo frne 1/10000, al
-gain. Me u'llland 6.00D. Bocoo
-BBuMer a antle ylny.
-Iill fe bpe me
-```
-3 words correct = 4%
-
-
 ### George Swinburne's diary, 1882 to 1886 page 4]
 
 Age: 138 years
 Perceived difficulty: Hard (cursive, clear writing on clean paper)
+URL: [https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/](https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/)
 
 {% image_tag src="/img/george_swinburne_diary.png" width="100" %}
-
-https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/
 
 
 #### Transcript
@@ -241,8 +157,91 @@ LuLh ighleos soher e L Itisa aime
 ever l Le ttod mspey althhughe aohe times
 serafla
 ```
-
 14 words correct = 7%
+
+### Swinburne : Letter from aboard S.S. Shropshire
+
+Age: 100 years
+Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
+
+#### Transcript
+```
+S.S. Shropshire
+At Sea
+4th March 19120
+
+Mr F.W. Green.
+Dear Sir,
+
+We are off to Freemantle for another 40,000 Boxes of apples after loading 110,00 at Hobart. We did not call at Melbourne again. We will land 6,000 Boxes of Butter at Freemantle from Sydney.
+
+Will you please remember me to Mr Waters & to my fiends at My College and with best wishes to yourself I remain
+
+Yours faithfully
+John Duncan
+```
+Word count: 77
+
+#### MS Azure
+```
+S.S.  
+Shropshire
+my. N. Green.  
+Aff March. 19120, 
+Dear Dien We are off- to Freemantle 
+for another 40.000 Boxes of apples after 
+loading 1 10.000, at Nobrash, wel did not call at 
+Melbourne, again. We will land 6.000. Boxes 
+of Butter atfreemantle from Sydney . 
+Will you please remember me 
+to Mr Waters & bol my friends at Me  
+College. and with best wishes to 
+yourself 
+I pemain
+yours faithfully 
+John. Duncan 
+```
+
+60 words correct = 78%
+
+#### Google Cloud
+```
+S.s. Ohropshire   2
+lat sea   1
+4 Wareh. 19120,  1
+Mr J. W. Green.  3
+Dear Sire We are off to freemantle  6
+for another 40,000 Bosces of apples after  6
+Loading 110000, at Hobart, wobel did not eallah  6
+Melbfturne, again. He will land 6.000. Boces  4
+of Buter and Freemande from Sydney.  3
+Will you fleebe femember me  3
+to Me Waters e to my friends at the  6
+College and with Post wishes to :  4
+yourself  1
+Yours faithfully  2
+seman
+can
+```
+
+51 words correct = 66%
+
+#### AWS Rekognition
+```
+S.S. ehrefiuhi ea
+Woes areh. 191 20.
+Greeen
+We al f b Freemanl
+or anothe 40:0 Noba: Boeis
+ples olidl plo aplen oallo
+Hoarding Melo frne 1/10000, al
+gain. Me u'llland 6.00D. Bocoo
+BBuMer a antle ylny.
+Iill fe bpe me
+```
+3 words correct = 4%
+
+
 
 ### SLV postcoard
 
