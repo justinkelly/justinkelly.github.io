@@ -3,8 +3,8 @@ layout: post
 published: true
 comments: true
 title: >-
-  Benchmarking the automatic transcription of historical handwritten documents
-  with computer vision APIs
+  Benchmarking cloud vision APIS for the transcription of historical handwritten
+  documents
 tags: biblio.ai
 ---
 ## Summary
