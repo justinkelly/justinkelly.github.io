@@ -9,7 +9,7 @@ tags: biblio.ai
 ---
 ## Summary
 
-For most historical hand written cursive script documents Microsoft Azure is the most accurate - except for very hard to read documents where Google Cloud leads
+For automatic transcription of most historical hand written cursive script documents Microsoft Azure is the most accurate - except for very hard to read documents where Google Cloud leads
 
 Scaled scores: 
 
@@ -19,8 +19,8 @@ Scaled scores:
 
 ## Details
 
-Thanks to the generous funding of the State Library of Victoria's (SLV) ![Digital Fellowship program](digital-fellowship), 
-I have been able to start work on the development of an open source service ( ![biblio.ai](biblio.ai) ) for institutional libraries to use 
+Thanks to the generous funding of the State Library of Victoria's (SLV) [Digital Fellowship program](digital-fellowship), 
+I have been able to start work on the development of an open source service ( [biblio.ai](biblio.ai) ) for institutional libraries to use 
 the latest in computer vision technologies to automatically enrich the metadata of their image collections.
 
 The 3 main areas of automatic metadata enrichment will be:
@@ -43,12 +43,12 @@ Even though the automatic transcription of typed text documents via standard OCR
 
 For conversion of scanned handwritten documents to text there are currently (Jan 2020) 4 main providers. 
 
-- ![Microsoft Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/) 
-- ![Amazon AWS Rekognition](https://aws.amazon.com/rekognition/)
-- ![Google Cloud Vision](https://cloud.google.com/vision/)
-- ![ABBYY Cloud OCR](https://www.abbyy.com/en-au/cloud-ocr-sdk/)
+- [Microsoft Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/) 
+- [Amazon AWS Rekognition](https://aws.amazon.com/rekognition/)
+- [Google Cloud Vision](https://cloud.google.com/vision/)
+- [ABBYY Cloud OCR](https://www.abbyy.com/en-au/cloud-ocr-sdk/)
 
-Notes: unfortunately ABBYY is suitable only for form style block letter handwriting conversion and the leading open source OCR solution ![Tesseract](https://github.com/tesseract-ocr/tesseract) is currently ![not easily suitable for general handwriting recognition](tesseract). Both of these options have been excluded in the following tests.
+Notes: unfortunately ABBYY is suitable only for form style block letter handwriting conversion and the leading open source OCR solution [Tesseract](https://github.com/tesseract-ocr/tesseract) is currently [not easily suitable for general handwriting recognition](tesseract). Both of these options have been excluded in the following tests.
 
 {:.table .table-striped}
 | Source |  Doc                 | Age | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
