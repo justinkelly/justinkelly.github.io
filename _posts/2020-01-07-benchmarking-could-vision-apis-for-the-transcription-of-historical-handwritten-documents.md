@@ -75,10 +75,11 @@ Age: 138 years
 Perceived difficulty: Hard (cursive, clear writing on clean paper)
 URL: [https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/](https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/)
 
+Preview:
 {% image_tag src="/img/george_swinburne_diary.png" width="400" %}
 
 
-#### Transcript
+#### Human transcription
 ```
 3rd Feb 1882
 
@@ -89,7 +90,7 @@ I have been a Sunday School Teacher for about 7 years, that has done me a power 
 
 193 Words
 
-#### MS Azure
+#### MS Azure transcription
 ```
 god Feb 1882   
 This is my bit birthday! I'm aman   
@@ -118,7 +119,7 @@ The best way to conquer edit thoughts is to work hard, at least,
 ```
 152 words correct = 79%
 
-#### Google Cloud
+#### Google Cloud transcription
 ```
 grd Feb. 1982   
 This is my 214 birthday! So am   
@@ -147,7 +148,7 @@ to conquer evil thought in to work hard, at least,
 
 119 words correct = 62%
 
-#### AWS Rekognition
+#### AWS Rekognition transcription
 ```
 grd Hef 1882
 This 2/2 Lirthday! Sim
@@ -166,7 +167,7 @@ serafla
 Age: 100 years
 Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
 
-#### Transcript
+#### Human transcription
 ```
 S.S. Shropshire
 At Sea
@@ -184,7 +185,7 @@ John Duncan
 ```
 Word count: 77
 
-#### MS Azure
+#### MS Azure transcription
 ```
 S.S.  
 Shropshire
@@ -206,29 +207,29 @@ John. Duncan
 
 60 words correct = 78%
 
-#### Google Cloud
+#### Google Cloud transcription
 ```
-S.s. Ohropshire   2
-lat sea   1
-4 Wareh. 19120,  1
-Mr J. W. Green.  3
-Dear Sire We are off to freemantle  6
-for another 40,000 Bosces of apples after  6
-Loading 110000, at Hobart, wobel did not eallah  6
-Melbfturne, again. He will land 6.000. Boces  4
-of Buter and Freemande from Sydney.  3
-Will you fleebe femember me  3
-to Me Waters e to my friends at the  6
-College and with Post wishes to :  4
-yourself  1
-Yours faithfully  2
+S.s. Ohropshire  
+lat sea  
+4 Wareh. 19120, 
+Mr J. W. Green. 
+Dear Sire We are off to freemantle 
+for another 40,000 Bosces of apples after 
+Loading 110000, at Hobart, wobel did not eallah 
+Melbfturne, again. He will land 6.000. Boces 
+of Buter and Freemande from Sydney. 
+Will you fleebe femember me 
+to Me Waters e to my friends at the 
+College and with Post wishes to : 
+yourself 
+Yours faithfully 
 seman
 can
 ```
 
 51 words correct = 66%
 
-#### AWS Rekognition
+#### AWS Rekognition transcription
 ```
 S.S. ehrefiuhi ea
 Woes areh. 191 20.
@@ -252,7 +253,7 @@ Iill fe bpe me
 
 http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1671890
 
-#### Transcript (guessed words mark in ""):
+#### Human transcript (guessed words mark in ""):
 ```
 Christmas. 1888. A page from "my" illustrated diary. Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Christopher Fry.
 With every good wish for a h"app"y and prosperous future.
@@ -267,7 +268,7 @@ Notes:
 * https://en.wikipedia.org/wiki/Pytchley_Hunt
 
 
-#### MS Azure
+#### MS Azure transcription
 ```
 Christmas. 1888. A page from T illustrated diary. Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Chridapher Fry.
 With every good wish for a har y and prosperous future.
@@ -275,7 +276,7 @@ Our Party from Sri Lids passing Through Betgrave. Leicestershire to a meet of th
 ```
 37 words correct = 95%
 
-#### Google Cloud
+#### Google Cloud transcription
 ```
 Christmas. 1888. A page from illustrated diary.   7
 Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Chruida pher Fry,  9
@@ -285,7 +286,7 @@ Our Party from Sm i ds passing through Belgrave Leicestershire to a meet of the 
 
 36 words correct = 92%
 
-#### AWS Rekognition:
+#### AWS Rekognition transcription
 ```
 Chrishmas. 1888. pace from illustrated diary. Drawn by uincle Chaplie. Belgrave. Victoria Australia. for Chridlapher Fry.
 With every dood wish and prosperous fuhre.      
@@ -337,60 +338,59 @@ Sunday Sep 25th
 
 153 words
 
-#### Azure
+#### MS Azure transcription
 ```
-I wesday defy Saturday def 14-     1
+I wesday defy Saturday def 14- 
 the 185 3
-very busy all day prepare our bolablinds   6
-two young new who will probably make   7
-more of it than we have, as they are quite  10
-conversant with the bushup. they carne  5
-chop in the evening aunt took badsession  4
-after paying u. 108 I in Cash and 3 month.  7
-will for fot for the Mock teats good    5
-will to - he for the good well" they   5
-has that and far and i am concernis   4
-In every devise of he term, for Aam heart   5
-sick of the farmer of the oven and disforcing   7
-lolly- sticks and coutilt to the & colonial  6
-small fry.. We celebrates the event with  6
-a glass and a song, and moises the might   7
-It our cartry with the ots tent at Marry  4
-hair us a visit.  3
+very busy all day prepare our bolablinds 
+two young new who will probably make
+more of it than we have, as they are quite
+conversant with the bushup. they carne 
+chop in the evening aunt took badsession 
+after paying u. 108 I in Cash and 3 month. 
+will for fot for the Mock teats good 
+will to - he for the good well" they 
+has that and far and i am concernis 
+In every devise of he term, for Aam heart  
+sick of the farmer of the oven and disforcing  
+lolly- sticks and coutilt to the & colonial 
+small fry.. We celebrates the event with 
+a glass and a song, and moises the might  
+It our cartry with the ots tent at Marry 
+hair us a visit. 
 ```
 
 92 words correct = 60%
 
-#### Google Cloud
+#### Google Cloud transcription
 ```
-Tuesday Sess Saturday Ach 24th 1853   3
+Tuesday Sess Saturday Ach 24th 1853 
 
-Veg betyr all day prepare our bestabbits   3
-Mente previous t ih beung transferred to  3
-two young men who will prosrably make  6
-Mone of it than we have, as they are quite  9
-conversant with the basiese – They came  5
-ich in the evening and took possession  6
-after payung us 100 L in Cash And 3 month,  8
-fill for 50th for the slock that good  5
-will fe. – Act for the good well\" They  5
-Lind that as far as I am concerned a  7
-in every sense of the teren, for all am hearts  8
-sick of the frames of the oven and dispersing 7
-lolly-sticks and confit to the & colonial 6
-small fry.. We celebrated he event with 6
-a glass and a song, and made the night 9
-of our partag with the old tent at Merry 7
-a one as aug me had passed in it  7
+Veg betyr all day prepare our bestabbits 
+Mente previous t ih beung transferred to 
+two young men who will prosrably make 
+Mone of it than we have, as they are quite 
+conversant with the basiese – They came 
+ich in the evening and took possession 
+after payung us 100 L in Cash And 3 month, 
+fill for 50th for the slock that good 
+will fe. – Act for the good well\" They 
+Lind that as far as I am concerned a 
+in every sense of the teren, for all am hearts 
+sick of the frames of the oven and dispersing
+lolly-sticks and confit to the & colonial
+small fry.. We celebrated he event with
+a glass and a song, and made the night
+of our partag with the old tent at Merry
+a one as aug me had passed in it
 
-Andrew Martin and two de le friend  4
+Andrew Martin and two de le friend 
 paid usa vitit.  1
 ```
 
 115 words correct = 75%
 
-AWS:
-
+#### AWS Rekognition transcription
 ```
 K 1833
 Lasblay sf Satu' ay ode! 24- bsabhlk
