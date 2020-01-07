@@ -37,7 +37,7 @@ The first step in this project is to benchmark the available computer vision tec
 
 By far, the most useful thing computer vision can do for institutions libraries with image collections is the transcription of words (specifically cursive handwriting) in images to text. Making huge collections of images and documents searchable and accessible.
 
-Even though the automatic transcription of typed text documents via standard OCR software has been available for years. It is only very recent that transcription of cursive handwritten images has started to move from purely academic to being generally available from leading cloud providers.
+Automatic transcription of typed text documents via standard OCR software has been available for years. It is only very recent that transcription of cursive handwritten images has started to move from purely academic space to being generally available from leading cloud providers.
 
 For conversion of scanned handwritten documents to text there are currently (Jan 2020) 4 main providers. 
 
@@ -53,7 +53,7 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 {:.table .table-striped}
 | Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
-| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter]     | 100  | Med         |  78%     |  66%      |  4%          |
+| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter]     | 100  | Medium         |  78%     |  66%      |  4%          |
 | [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary]     | 138  | Hard         |  79%         |  62%               |  7%                 |
 | [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]        | 132  | Very Hard |  60%         |  75%               |  3%                 |
 | [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]   | 167 | Easy          |  95%         |  92%               |  49%               | 
