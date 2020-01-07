@@ -68,8 +68,7 @@ MS Azure: 91
 Google Cloud: 89
 Amazon AWS: 11
 
-
-## Swinburne | Letter from aboard S.S. Shropshire
+### Swinburne | Letter from aboard S.S. Shropshire
 
 Age: 100 years
 Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
@@ -261,7 +260,7 @@ Perceived difficulty: Easy (not cursive script)
 
 http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1671890
 
-Trascript (guessed words mark in "")
+Transcript (guessed words mark in "")
 
 ```
 Christmas. 1888. A page from "my" illustrated diary. Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Christopher Fry.
@@ -299,7 +298,7 @@ Our Party from Sm i ds passing through Belgrave Leicestershire to a meet of the 
 
 36 words correct = 92%
 
-### AWS Rekognition:
+#### AWS Rekognition:
 
 ```
 Chrishmas. 1888. pace from illustrated diary. Drawn by uincle Chaplie. Belgrave. Victoria Australia. for Chridlapher Fry.
@@ -308,6 +307,118 @@ Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay
 ```
 
 39 words correct = 49%
+
+### SLV : Diary of Charles Evans, 1853 September 24 -1855 January 21 - page 7
+
+Age: 167 years
+Perceived difficulty: Very hard cursive, messy on paper with background 'noise')
+
+https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/
+
+
+http://handle.slv.vic.gov.au/10381/236326
+Diary of Charles Evans, 1853 September 24 -1855 January 21 [manuscript].
+http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1640743
+
+https://i.imgur.com/i41tezf.jpg
+
+Transcript:
+```
+Saturday Sep 24th 1853
+
+         Very busy all day preparing our establish-
+         ment previous to it being transferred to
+         two young men who will probably make
+         more of it than we have as they are quite
+         conversant with the business. They came
+         up in the evening and took possession
+         after paying us 100£ in Cash and 3 months
+         bill for 50£ for the stock tents good
+         will &c - As for the "good will" they
+         have that as far as I am concerned
+         in every sense of the term, for am heartily
+         sick of the fumes of the oven and dispensing
+         lolly-sticks and comfits to the colonial
+         small fry. We celebrated the event with
+         a glass and a song, and made the night
+         of our parting with the old tent as merry
+         a one as any we had passed in it.
+
+Sunday Sep 25th
+         Andrew Martin and two of his friends
+         paid us a visit.
+```
+
+153 words
+
+Azure:
+
+```
+I wesday defy Saturday def 14-     1
+the 185 3
+very busy all day prepare our bolablinds   6
+two young new who will probably make   7
+more of it than we have, as they are quite  10
+conversant with the bushup. they carne  5
+chop in the evening aunt took badsession  4
+after paying u. 108 I in Cash and 3 month.  7
+will for fot for the Mock teats good    5
+will to - he for the good well" they   5
+has that and far and i am concernis   4
+In every devise of he term, for Aam heart   5
+sick of the farmer of the oven and disforcing   7
+lolly- sticks and coutilt to the & colonial  6
+small fry.. We celebrates the event with  6
+a glass and a song, and moises the might   7
+It our cartry with the ots tent at Marry  4
+hair us a visit.  3
+```
+
+92 words correct = 60%
+
+GCP:
+
+```
+Tuesday Sess Saturday Ach 24th 1853   3
+
+Veg betyr all day prepare our bestabbits   3
+Mente previous t ih beung transferred to  3
+two young men who will prosrably make  6
+Mone of it than we have, as they are quite  9
+conversant with the basiese – They came  5
+ich in the evening and took possession  6
+after payung us 100 L in Cash And 3 month,  8
+fill for 50th for the slock that good  5
+will fe. – Act for the good well\" They  5
+Lind that as far as I am concerned a  7
+in every sense of the teren, for all am hearts  8
+sick of the frames of the oven and dispersing 7
+lolly-sticks and confit to the & colonial 6
+small fry.. We celebrated he event with 6
+a glass and a song, and made the night 9
+of our partag with the old tent at Merry 7
+a one as aug me had passed in it  7
+
+Andrew Martin and two de le friend  4
+paid usa vitit.  1
+```
+
+115 correct = 75%
+
+AWS:
+
+```
+K 1833
+Lasblay sf Satu' ay ode! 24- bsabhlk
+rry ndy ale Pay bhef ary houfere our
+arut pnevrro! eny prake,
+Fur men wl toll rfrohl
+Mo Y 1 Han wve Lave bs a Haey one ga
+cone nsan wl e looN hub. dbussion Hy cone
+uf hy Hh om
+```
+
+4 words  correct out of 153 = 3% 
 
 
 
