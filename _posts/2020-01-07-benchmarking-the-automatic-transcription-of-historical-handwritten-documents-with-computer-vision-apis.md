@@ -110,7 +110,7 @@ yours faithfully
 John. Duncan 
 ```
 
-Words correct: 60 = 78%
+60 words correct = 78%
 
 #### Google Cloud
 ```
@@ -132,7 +132,7 @@ seman
 can
 ```
 
-Words correct:51 = 66%
+51 words correct = 66%
 
 ### AWS Rekognition
 ```
@@ -147,7 +147,7 @@ gain. Me u'llland 6.00D. Bocoo
 BBuMer a antle ylny.
 Iill fe bpe me
 ```
-Words correct: 3 = 4%
+3 words correct = 4%
 
 
 ### George Swinburne's diary, 1882 to 1886 page 4]
@@ -241,7 +241,7 @@ ever l Le ttod mspey althhughe aohe times
 serafla
 ```
 
-14 words correct =7%
+14 words correct = 7%
 
 ### SLV postcoard
 
@@ -271,8 +271,7 @@ Christmas. 1888. A page from T illustrated diary. Drawn by Uncle Charlie. Belgra
 With every good wish for a har y and prosperous future.
 Our Party from Sri Lids passing Through Betgrave. Leicestershire to a meet of the Pychley
 ```
-Words correct
-* Total: 37/39 = 95%
+37 words correct = 95%
 
 #### Google Cloud
 ```
@@ -386,7 +385,7 @@ Andrew Martin and two de le friend  4
 paid usa vitit.  1
 ```
 
-115 correct = 75%
+115 words correct = 75%
 
 AWS:
 
@@ -401,7 +400,7 @@ cone nsan wl e looN hub. dbussion Hy cone
 uf hy Hh om
 ```
 
-4 words  correct out of 153 = 3% 
+4 words correct = 3% 
 
 
 
