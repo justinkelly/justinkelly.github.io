@@ -50,55 +50,6 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 
 ## Benchmark results
 
-
-<span class="table-responsive" markdown="span">
-  
-{:.table .table-striped .table-sm}
-| Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
-|:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
-| [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary] | 138 | Hard | 79% |  62% | 7% |
-| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter] | 100 | Medium  | 78% | 66% | 4% |
-| [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]  | 167 | Very Hard |60% | 75% | 3% |
-| [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]| 132|Easy|95%|92%|49%| 
-| Average ||| 78% | 74% | 16%|
-  
-</span>
-
-
-<span class="table-responsive" markdown="span">
-{:.table .table-striped .table-sm}
-| Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
-|:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
-| [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary] | 138 | Hard | 79% |  62% | 7% |
-| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter] | 100 | Medium  | 78% | 66% | 4% |
-| [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]  | 167 | Very Hard |60% | 75% | 3% |
-| [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]| 132|Easy|95%|92%|49%| 
-| Average ||| 78% | 74% | 16%| 
-</span>
-
-
-<div class="table-responsive" markdown="span">
-{:.table .table-striped .table-sm}
-| Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
-|:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
-| [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary] | 138 | Hard | 79% |  62% | 7% |
-| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter] | 100 | Medium  | 78% | 66% | 4% |
-| [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]  | 167 | Very Hard |60% | 75% | 3% |
-| [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]| 132|Easy|95%|92%|49%| 
-| Average ||| 78% | 74% | 16%| 
-</div>
-
-<div class="table-responsive" markdown="1">
-{:.table .table-striped .table-sm}
-| Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
-|:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
-| [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary] | 138 | Hard | 79% |  62% | 7% |
-| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter] | 100 | Medium  | 78% | 66% | 4% |
-| [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]  | 167 | Very Hard |60% | 75% | 3% |
-| [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]| 132|Easy|95%|92%|49%| 
-| Average ||| 78% | 74% | 16%| 
-</div>
-
 <div class="table-responsive" markdown="1">
 
 {:.table .table-striped .table-sm}
