@@ -55,26 +55,23 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
 | [Swinburne: Letter from aboard S.S. Shropshire][swin-letter]     | 100  | Med         |  78%     |  66%      |  4%          |
 | [Swinbunre: George Swinburne's diary, 1882 page 4][swin-diary]     | 138  | Hard         |  79%         |  62%               |  7%                 |
-| [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]        | 167  | Very Hard |  60%         |  75%               |  3%                 |
-| [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]   | 132  | Easy          |  95%         |  92%               |  49%               | 
+| [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]        | 132  | Very Hard |  60%         |  75%               |  3%                 |
+| [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]   | 167 | Easy          |  95%         |  92%               |  49%               | 
+| Average ||| 78% | 74% | 16%|
 
-MS Azure: 78%
-Google Cloud: 74%
-Amazon AWS: 16%
 
 Scaled for difficulty: ( Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2)
 
-MS Azure: 91
-Google Cloud: 89
-Amazon AWS: 11
+* MS Azure: 91
+* Google Cloud: 89
+* Amazon AWS: 11
 
-### Swinburne | Letter from aboard S.S. Shropshire
+### Swinburne : Letter from aboard S.S. Shropshire
 
 Age: 100 years
 Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
 
-Transcript:
-
+#### Transcript
 ```
 S.S. Shropshire
 At Sea
@@ -92,8 +89,7 @@ John Duncan
 ```
 Word count: 77
 
-Azure:
-
+#### MS Azure
 ```
 S.S.  
 Shropshire
@@ -115,8 +111,7 @@ John. Duncan
 
 Words correct: 60 = 78%
 
-Google:
-
+#### Google Cloud
 ```
 S.s. Ohropshire   2
 lat sea   1
@@ -138,8 +133,7 @@ can
 
 Words correct:51 = 66%
 
-AWS:
-
+### AWS Rekognition
 ```
 S.S. ehrefiuhi ea
 Woes areh. 191 20.
@@ -152,7 +146,6 @@ gain. Me u'llland 6.00D. Bocoo
 BBuMer a antle ylny.
 Iill fe bpe me
 ```
-
 Words correct: 3 = 4%
 
 
@@ -165,8 +158,7 @@ https://i.imgur.com/YkqQZfB.png
 https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/
 
 
-Transcript:
-
+#### Transcript
 ```
 3rd Feb 1882
 
@@ -177,8 +169,7 @@ I have been a Sunday School Teacher for about 7 years, that has done me a power 
 
 193 Words
 
-Azure:
-
+#### MS Azure
 ```
 god Feb 1882   
 This is my bit birthday! I'm aman   
@@ -207,8 +198,7 @@ The best way to conquer edit thoughts is to work hard, at least,
 ```
 152 words correct = 79%
 
-GCP:
-
+#### Google Cloud
 ```
 grd Feb. 1982   
 This is my 214 birthday! So am   
@@ -237,8 +227,7 @@ to conquer evil thought in to work hard, at least,
 
 119 words correct = 62%
 
-AWS:
-
+#### AWS Rekognition
 ```
 grd Hef 1882
 This 2/2 Lirthday! Sim
@@ -255,13 +244,12 @@ serafla
 
 ### SLV postcoard
 
-Age: 132 years
-Perceived difficulty: Easy (not cursive script)
+* Age: 132 years
+* Perceived difficulty: Easy - not cursive script
 
 http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1671890
 
-Transcript (guessed words mark in "")
-
+#### Transcript (guessed words mark in ""):
 ```
 Christmas. 1888. A page from "my" illustrated diary. Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Christopher Fry.
 With every good wish for a h"app"y and prosperous future.
@@ -276,8 +264,7 @@ Notes:
 * https://en.wikipedia.org/wiki/Pytchley_Hunt
 
 
-#### Azure:
-
+#### MS Azure
 ```
 Christmas. 1888. A page from T illustrated diary. Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Chridapher Fry.
 With every good wish for a har y and prosperous future.
@@ -286,9 +273,7 @@ Our Party from Sri Lids passing Through Betgrave. Leicestershire to a meet of th
 Words correct
 * Total: 37/39 = 95%
 
-
-#### Google:
-
+#### Google Cloud
 ```
 Christmas. 1888. A page from illustrated diary.   7
 Drawn by Uncle Charlie. Belgrave. Victoria. Australia. for Chruida pher Fry,  9
@@ -299,7 +284,6 @@ Our Party from Sm i ds passing through Belgrave Leicestershire to a meet of the 
 36 words correct = 92%
 
 #### AWS Rekognition:
-
 ```
 Chrishmas. 1888. pace from illustrated diary. Drawn by uincle Chaplie. Belgrave. Victoria Australia. for Chridlapher Fry.
 With every dood wish and prosperous fuhre.      
@@ -310,8 +294,8 @@ Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay
 
 ### SLV : Diary of Charles Evans, 1853 September 24 -1855 January 21 - page 7
 
-Age: 167 years
-Perceived difficulty: Very hard cursive, messy on paper with background 'noise')
+* Age: 167 years
+* Perceived difficulty: Very hard cursive, messy on paper with background 'noise'
 
 https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/
 
@@ -322,7 +306,7 @@ http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1640743
 
 https://i.imgur.com/i41tezf.jpg
 
-Transcript:
+#### Transcript
 ```
 Saturday Sep 24th 1853
 
@@ -351,8 +335,7 @@ Sunday Sep 25th
 
 153 words
 
-Azure:
-
+#### Azure
 ```
 I wesday defy Saturday def 14-     1
 the 185 3
@@ -376,8 +359,7 @@ hair us a visit.  3
 
 92 words correct = 60%
 
-GCP:
-
+#### Google Cloud
 ```
 Tuesday Sess Saturday Ach 24th 1853   3
 
