@@ -49,8 +49,9 @@ For conversion of scanned handwritten documents to text there are currently (Jan
 Notes: unfortunately ABBYY is suitable only for form style block letter handwriting conversion and the leading open source OCR solution [Tesseract](https://github.com/tesseract-ocr/tesseract) is currently [not easily suitable for general handwriting recognition][tesseract]. Both of these options have been excluded in the following tests.
 
 ## Benchmark results
-
+{% raw %}
 <span class="table-responsive">
+{% endraw %}
   
 {:.table .table-striped .table-sm}
 | Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
