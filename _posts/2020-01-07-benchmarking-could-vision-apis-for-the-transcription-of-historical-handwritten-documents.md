@@ -3,13 +3,13 @@ layout: post
 published: true
 comments: true
 title: >-
-  Benchmarking cloud vision APIs for the transcription of historical handwritten
+  Benchmarking computer vision for the transcription of historical handwritten
   documents
 tags: biblio.ai
 ---
 ## Summary
 
-For automatic transcription of most historical hand written cursive script documents, Microsoft Azure is the most accurate with the exception for very hard to read documents where Google Cloud leads. 
+For automatic transcription of most historical handwritten cursive script documents, Microsoft Azure is the most accurate computer vision provider, with the exception for very hard to read documents where Google Cloud leads. 
 
 Scaled scores: 
 
