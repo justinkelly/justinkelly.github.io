@@ -9,13 +9,11 @@ tags: biblio.ai
 
 For automatic transcription of most historical handwritten cursive script documents, Microsoft Azure is the most accurate computer vision provider, with the exception for very hard to read documents where Google Cloud leads. 
 
-Scaled scores: 
+[Scaled scores](#benchmark-results): 
 
 - MS Azure: 91 
 - Google Cloud: 89
 - Amazon AWS: 11
-
-[refer detailed results for more information](#benchmark-results)
 
 {% image_tag src="/img/george_swinburne_transcript.png" width="600" %}
 _Sample of the MS Azure transcription of the George Swinburne diary_
