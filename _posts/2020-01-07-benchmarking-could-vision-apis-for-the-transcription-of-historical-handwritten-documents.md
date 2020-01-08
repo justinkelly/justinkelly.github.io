@@ -19,6 +19,8 @@ Scaled scores:
 
 [refer detailed results for more information](#benchmark-results)
 
+{% image_tag src="/img/george_swinburne_transcript.png" width="600" %}
+
 ## Introduction
 
 Thanks to the generous funding of the State Library of Victoria's (SLV) [Digital Fellowship program][digital-fellowship], I have been able to start work on the development of an open source service ( [biblio.ai][biblio.ai] ) for institutional libraries to use the latest in computer vision technologies to automatically enrich the metadata of their image collections.
