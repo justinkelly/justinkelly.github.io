@@ -9,13 +9,15 @@ tags: biblio.ai
 ---
 ## Summary
 
-For automatic transcription of most historical hand written cursive script documents, Microsoft Azure is the most accurate with the exception for very hard to read documents where Google Cloud leads
+For automatic transcription of most historical hand written cursive script documents, Microsoft Azure is the most accurate with the exception for very hard to read documents where Google Cloud leads. 
 
 Scaled scores: 
 
 - MS Azure: 91 
 - Google Cloud: 89
 - Amazon AWS: 11
+
+[link to detailed results](#benchmark-results)
 
 ## Introduction
 
@@ -48,7 +50,13 @@ For conversion of scanned handwritten documents to text there are currently (Jan
 
 Notes: unfortunately ABBYY is suitable only for form style block letter handwriting conversion and the leading open source OCR solution [Tesseract](https://github.com/tesseract-ocr/tesseract) is currently [not easily suitable for general handwriting recognition][tesseract]. Both of these options have been excluded in the following tests.
 
-## Benchmark results
+## Benchmarking
+
+4 images of various degrees of difficulty to read/transribe were selected from SLVs and Swinburne Universities image collections
+
+Percentage score is based on number of words in the documents correctly transcribed.
+
+## <a id="benchmark-results"></a>Benchmark results
 
 <div class="table-responsive" markdown="1">
 
@@ -62,8 +70,6 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 | Average ||| 78% | 74% | 16%| 
 
 </div>
-
-Percentage score is based on number of words in the documents correctly transcriped.
 
 Scaled for difficulty: Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2
 
