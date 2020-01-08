@@ -20,6 +20,7 @@ Scaled scores:
 [refer detailed results for more information](#benchmark-results)
 
 {% image_tag src="/img/george_swinburne_transcript.png" width="600" %}
+_Sample of the MS Azure transcription of the George Swinburne diary_
 
 ## Introduction
 
