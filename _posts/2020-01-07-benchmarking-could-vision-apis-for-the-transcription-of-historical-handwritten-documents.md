@@ -79,9 +79,9 @@ Scaled for difficulty: Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2
 
 ### <a id="swin-diary-a"></a>George Swinburne's diary, 1882 to 1886 page 4
 
-Age: 138 years
-Perceived difficulty: Hard (cursive, clear writing on clean paper)
-URL: [https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/][swin-diary]
+* Age: 138 years
+* Perceived difficulty: Hard (cursive, clear writing on clean paper)
+* URL: [https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/][swin-diary]
 
 Preview:
 {% image_tag src="/img/george_swinburne_diary.png" width="400" %}
@@ -172,9 +172,9 @@ serafla
 
 ### <a id="swin-letter-a"></a>Swinburne : Letter from aboard S.S. Shropshire
 
-Age: 100 years
-Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
-Image URL: [https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/][swin-letter]
+* Age: 100 years
+* Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
+* Image URL: [https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/][swin-letter]
 
 Preview:
 {% image_tag src="/img/swinburne-letter.jpg" width="400" %}
