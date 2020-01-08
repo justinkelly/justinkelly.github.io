@@ -26,6 +26,7 @@ _Sample of the MS Azure transcription of the George Swinburne diary_
 - [Images](#images)
 - [Conclusion](#conclusion)
 - [Next steps](#next-steps)
+- [Notes and acknowledgements](#notes)
 
 <a id="introduction"></a>
 ## Introduction
@@ -437,6 +438,12 @@ For automatic transcription of most historical handwritten cursive script docume
 
 <a id="next-steps"></a>
 ## Next steps
+
+Given how well Google Cloud performed with the very hard to read Charles Evans diary I'll take some samples from the super hard Jenkins diaries for analysis. Anything above 0% accuracy for alot of these pages would be an amzaing result.
+
+<a id="notes"></a>
+## Notes and acknowledgements
+
 
 
 [slv-diary]: http://handle.slv.vic.gov.au/10381/236326
