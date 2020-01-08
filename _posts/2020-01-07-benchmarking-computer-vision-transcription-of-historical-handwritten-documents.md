@@ -331,7 +331,8 @@ Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay
 * Perceived difficulty: Very hard cursive, messy on paper with background 'noise'
 * URL: [http://handle.slv.vic.gov.au/10381/236326][slv-diary] 
 
-https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/
+For more information of the UNESCO listed Charles Evans diary:
+[https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/](https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/)
 
 Preview:
 {% image_tag src="/img/slv_diary.jpg" width="400" %}
