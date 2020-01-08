@@ -22,12 +22,12 @@ _Sample of the MS Azure transcription of the George Swinburne diary_
 
 ### Table of contents
 
-#### [Introduction](#introduciton)
-#### [Benchmarking](#benchmarking)
-#### [Results](#benchmark-results)
-#### [Images](#images)
-#### [Conclusion](#conclusion)
-#### [Next steps](#next-steps)
+- [Introduction](#introduciton)
+- [Benchmarking](#benchmarking)
+- [Results](#benchmark-results)
+- [Images](#images)
+- [Conclusion](#conclusion)
+- [Next steps](#next-steps)
 
 <a id="introduction"></a>
 ## Introduction
