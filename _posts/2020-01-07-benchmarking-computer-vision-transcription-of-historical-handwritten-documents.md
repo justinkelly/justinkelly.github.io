@@ -44,6 +44,10 @@ The purpose of metadata enrichment with computer vision is:
 - Accessibility. Without rich metadata a libraries image collection is inaccessible to vision impaired users. 
 - Automate the hard stuff for libraries. Institutional libraries such as the SLV have millions of scanned images, but only a small fraction of these (the really important works) get transcribed (it's expensive and very time consuming)
 
+An example of how time consuimg transciption can be. The SLV's volunteer run project to transcribe the 25 volumes of the diaries of Joseph Jenkins _(an itinerant labourer in gold rush era Central Victoria)_, has so far taken 10 years to get through 15 volumes. The [YouTube video](https://www.youtube.com/watch?v=Olil-MGljA0) and document have some great details on this transcription project.
+* https://www.youtube.com/watch?v=Olil-MGljA0
+* http://handle.slv.vic.gov.au/10381/32073
+
 The first step in this project is to benchmark the available computer vision technologies to identify which the most suitable for the various types of collections and institutions.
 
 By far, the most useful thing computer vision can do for institutions libraries with image collections is the transcription of words (specifically cursive handwriting) in images to text. Making huge collections of images and documents searchable and accessible.
