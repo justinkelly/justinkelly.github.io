@@ -17,7 +17,7 @@ Scaled scores:
 - Google Cloud: 89
 - Amazon AWS: 11
 
-[link to detailed results](#benchmark-results)
+[refer detailed results for more information](#benchmark-results)
 
 ## Introduction
 
