@@ -176,6 +176,11 @@ Age: 100 years
 Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
 Image URL: [https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/][swin-letter]
 
+Preview:
+{% image_tag src="/img/swinburne-letter.jpg" width="400" %}
+
+_Note: Image is of undetermined copyright status and is provided here for educational purposes_
+
 #### Human transcription
 ```
 S.S. Shropshire
@@ -261,6 +266,8 @@ Iill fe bpe me
 * Perceived difficulty: Easy - not cursive script
 * URL: [http://handle.slv.vic.gov.au/10381/119196][slv-postcard]
 
+Preview:
+{% image_tag src="/img/slv_postcard.jpg" width="400" %}
 
 #### Human transcript (guessed words mark in ""):
 ```
@@ -305,8 +312,9 @@ Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay
 
 https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/
 
+Preview:
+{% image_tag src="/img/slv_diary.jpg" width="400" %}
 
-https://i.imgur.com/i41tezf.jpg
 
 #### Transcript
 ```
