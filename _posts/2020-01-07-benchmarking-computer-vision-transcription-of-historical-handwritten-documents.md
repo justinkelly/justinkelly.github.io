@@ -20,6 +20,16 @@ Scaled scores:
 {% image_tag src="/img/george_swinburne_transcript.png" width="600" %}
 _Sample of the MS Azure transcription of the George Swinburne diary_
 
+### Table of contents
+
+#### [Introduction](#introduciton)
+#### [Benchmarking](#benchmarking)
+#### [Results](#benchmark-results)
+#### [Images](#images)
+#### [Conclusion](#conclusion)
+#### [Next steps](#next-steps)
+
+<a id="introduction"></a>
 ## Introduction
 
 Thanks to the generous funding of the State Library of Victoria's (SLV) [Digital Fellowship program][digital-fellowship], I have been able to start work on the development of an open source service ( [biblio.ai][biblio.ai] ) for institutional libraries to use the latest in computer vision technologies to automatically enrich the metadata of their image collections.
@@ -51,13 +61,15 @@ For conversion of scanned handwritten documents to text there are currently (Jan
 
 Notes: unfortunately ABBYY is suitable only for form style block letter handwriting conversion and the leading open source OCR solution [Tesseract](https://github.com/tesseract-ocr/tesseract) is currently [not easily suitable for general handwriting recognition][tesseract]. Both of these options have been excluded in the following tests.
 
+<a id="benchmarking"></a>
 ## Benchmarking
 
 4 images of various degrees of difficulty to read/transribe were selected from SLVs and Swinburne Universities image collections
 
 Percentage score is based on number of words in the documents correctly transcribed.
 
-## <a id="benchmark-results"></a>Benchmark results
+<a id="benchmark-results"></a>
+## Benchmark results
 
 <div class="table-responsive" markdown="1">
 
@@ -78,7 +90,8 @@ Scaled for difficulty: Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2
 * Google Cloud: 89
 * Amazon AWS: 11
 
-### <a id="swin-diary-a"></a>George Swinburne's diary, 1882 to 1886 page 4
+<a id="swin-diary-a"></a><a id="images"></a>
+### George Swinburne's diary, 1882 to 1886 page 4
 
 * Age: 138 years
 * Perceived difficulty: Hard (cursive, clear writing on clean paper)
@@ -171,7 +184,8 @@ serafla
 ```
 14 words correct = 7%
 
-### <a id="swin-letter-a"></a>Swinburne : Letter from aboard S.S. Shropshire
+<a id="swin-letter-a"></a>
+### Swinburne : Letter from aboard S.S. Shropshire
 
 * Age: 100 years
 * Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
@@ -259,9 +273,8 @@ Iill fe bpe me
 ```
 3 words correct = 4%
 
-
-
-### <a id="slv-postcard-a"></a> SLV: Christmas 1888. A page from an illustrated diary
+<a id="slv-postcard-a"></a> 
+### SLV: Christmas 1888. A page from an illustrated diary
 
 * Age: 132 years
 * Perceived difficulty: Easy - not cursive script
@@ -305,7 +318,8 @@ Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay
 
 39 words correct = 49%
 
-### <a id="slv-diary-a"></a> SLV : Diary of Charles Evans, 1853 September 24 -1855 January 21 - page 7
+<a id="slv-diary-a"></a>
+### SLV : Diary of Charles Evans, 1853 September 24 -1855 January 21 - page 7
 
 * Age: 167 years
 * Perceived difficulty: Very hard cursive, messy on paper with background 'noise'
@@ -315,7 +329,6 @@ https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-me
 
 Preview:
 {% image_tag src="/img/slv_diary.jpg" width="400" %}
-
 
 #### Transcript
 ```
@@ -412,7 +425,11 @@ uf hy Hh om
 
 4 words correct = 3% 
 
+<a id="conclusion"></a>
+## Conclusion
 
+<a id="next-steps"></a>
+## Next steps
 
 
 [slv-diary]: http://handle.slv.vic.gov.au/10381/236326
