@@ -64,9 +64,11 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 <a id="benchmarking"></a>
 ## Benchmarking
 
-4 images of various degrees of difficulty to read/transribe were selected from SLVs and Swinburne Universities image collections
+Images of various degrees of difficulty to read/transribe were selected from SLVs and Swinburne Universities image collections. If the image had an existing transcription - this was used as the base to compare the computer vision transcriptions against. If a transcription didn't exist I manually transcribe the image to use as a base.
 
-Percentage score is based on number of words in the documents correctly transcribed.
+Each automated transciption was analysed for the number of words there were correctly transcribed. Correctly being defined as all letters in a word matching the base transcription.
+
+The number of words correct per transciption was then converted to a percentage and then scaled based on the perceived difficulty of the text.
 
 <a id="benchmark-results"></a>
 ## Benchmark results
