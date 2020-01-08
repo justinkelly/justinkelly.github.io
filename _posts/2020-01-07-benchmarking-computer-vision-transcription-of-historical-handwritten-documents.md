@@ -428,6 +428,8 @@ uf hy Hh om
 <a id="conclusion"></a>
 ## Conclusion
 
+For automatic transcription of most historical handwritten cursive script documents, Microsoft Azure is the most accurate computer vision provider, with the exception for very hard to read documents where Google Cloud leads. 
+
 <a id="next-steps"></a>
 ## Next steps
 
