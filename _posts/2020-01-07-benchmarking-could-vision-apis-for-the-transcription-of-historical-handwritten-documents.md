@@ -305,8 +305,11 @@ Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay
 
 ### SLV : Diary of Charles Evans, 1853 September 24 -1855 January 21 - page 7
 
+<a id="slv-diary-a"></a>
+
 * Age: 167 years
 * Perceived difficulty: Very hard cursive, messy on paper with background 'noise'
+* URL: [slv-diary] 
 
 https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/
 
