@@ -441,6 +441,8 @@ For automatic transcription of most historical handwritten cursive script docume
 
 Given how well Google Cloud performed with the very hard to read Charles Evans diary I'll take some samples from the super hard Jenkins diaries for analysis. Anything above 0% accuracy for alot of these pages would be an amzaing result.
 
+Text extraction from historical maps the SLV have will then be the next area for benchmarking.
+
 <a id="notes"></a>
 ## Notes and acknowledgements
 
