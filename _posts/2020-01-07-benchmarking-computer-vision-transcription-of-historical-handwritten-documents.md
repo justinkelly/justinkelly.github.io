@@ -444,6 +444,13 @@ Given how well Google Cloud performed with the very hard to read Charles Evans d
 <a id="notes"></a>
 ## Notes and acknowledgements
 
+Thanks to the team at the State Library of Victoria and Swinburne University Library for sourcing and assitance with the images!
+
+Note that the copyright of some of these images may be undetermined status and is provided here for educational purposes.
+
+Source code of this page is available on [GitHub](https://github.com/justinkelly/justinkelly.github.io/blob/master/_posts/2020-01-07-benchmarking-computer-vision-transcription-of-historical-handwritten-documents.md). If you spot any issues with this post either post in the comments or in GitHub.
+
+Sourse code used to do the transcriptions for the various cloud providers will be available:  [https://github.com/justinkelly/biblio.ai](https://github.com/justinkelly/biblio.ai)
 
 
 [slv-diary]: http://handle.slv.vic.gov.au/10381/236326
