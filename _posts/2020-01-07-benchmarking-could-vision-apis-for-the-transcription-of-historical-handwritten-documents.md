@@ -260,8 +260,8 @@ Iill fe bpe me
 
 * Age: 132 years
 * Perceived difficulty: Easy - not cursive script
+* URL: [http://handle.slv.vic.gov.au/10381/119196][slv-postcard]
 
-http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1671890
 
 #### Human transcript (guessed words mark in ""):
 ```
@@ -269,14 +269,7 @@ Christmas. 1888. A page from "my" illustrated diary. Drawn by Uncle Charlie. Bel
 With every good wish for a h"app"y and prosperous future.
 Out party from S"t. Mary's Fie"lds passing through Belgrave. Leicestershire to a meet of the Pychley "Hound"s.
 ```
-
 Word cout of translatable words: 39
-
-Notes:
-* https://en.wikipedia.org/wiki/Church_of_St_Mary_de_Castro,_Leicester
-* https://www.st-marysfields.leicester.sch.uk/
-* https://en.wikipedia.org/wiki/Pytchley_Hunt
-
 
 #### MS Azure transcription
 ```
@@ -311,14 +304,10 @@ Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay
 
 * Age: 167 years
 * Perceived difficulty: Very hard cursive, messy on paper with background 'noise'
-* URL: [slv-diary] 
+* URL: [http://handle.slv.vic.gov.au/10381/236326][slv-diary] 
 
 https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/
 
-
-http://handle.slv.vic.gov.au/10381/236326
-Diary of Charles Evans, 1853 September 24 -1855 January 21 [manuscript].
-http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1640743
 
 https://i.imgur.com/i41tezf.jpg
 
@@ -421,7 +410,7 @@ uf hy Hh om
 
 
 [slv-diary]: http://handle.slv.vic.gov.au/10381/236326
-[slv-postcard]: http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1671890
+[slv-postcard]: http://handle.slv.vic.gov.au/10381/119196
 [swin-letter]: https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/
 [swin-diary]: https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/
 [digital-fellowship]: https://www.slv.vic.gov.au/about-us/fellowships/digital-fellowship/current-fellow-justin-kelly
