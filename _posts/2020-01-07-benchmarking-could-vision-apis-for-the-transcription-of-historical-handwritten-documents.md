@@ -71,9 +71,7 @@ Scaled for difficulty: Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2
 * Google Cloud: 89
 * Amazon AWS: 11
 
-### George Swinburne's diary, 1882 to 1886 page 4
-
-<a id="swin-diary-a"></a>
+### <a id="swin-diary-a"></a>George Swinburne's diary, 1882 to 1886 page 4
 
 Age: 138 years
 Perceived difficulty: Hard (cursive, clear writing on clean paper)
@@ -166,14 +164,11 @@ serafla
 ```
 14 words correct = 7%
 
-### Swinburne : Letter from aboard S.S. Shropshire
-
-<a id="swin-letter-a"></a>
+### <a id="swin-letter-a"></a>Swinburne : Letter from aboard S.S. Shropshire
 
 Age: 100 years
 Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
 Image URL: [https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/][swin-letter]
-
 
 #### Human transcription
 ```
@@ -254,9 +249,7 @@ Iill fe bpe me
 
 
 
-### SLV postcoard
-
-<a id="slv-postcard-a"></a>
+### <a id="slv-postcard-a"></a> SLV: Christmas 1888. A page from an illustrated diary
 
 * Age: 132 years
 * Perceived difficulty: Easy - not cursive script
@@ -298,9 +291,7 @@ Our parly jrom passing Through graveleiceshershire te mectof Hhe Pychlay
 
 39 words correct = 49%
 
-### SLV : Diary of Charles Evans, 1853 September 24 -1855 January 21 - page 7
-
-<a id="slv-diary-a"></a>
+### <a id="slv-diary-a"></a> SLV : Diary of Charles Evans, 1853 September 24 -1855 January 21 - page 7
 
 * Age: 167 years
 * Perceived difficulty: Very hard cursive, messy on paper with background 'noise'
