@@ -2,9 +2,7 @@
 layout: post
 published: true
 comments: true
-title: >-
-  Benchmarking computer vision for the transcription of historical handwritten
-  documents
+title: Benchmarking computer vision transcription of historical handwritten documents
 tags: biblio.ai
 ---
 ## Summary
