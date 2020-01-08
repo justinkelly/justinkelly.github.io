@@ -55,8 +55,8 @@ Notes: unfortunately ABBYY is suitable only for form style block letter handwrit
 {:.table .table-striped .table-sm}
 | Document                | Age (years) | Difficulty   | MS Azure  | Google Cloud | Amazon AWS |
 |:------ |:------ |:------ |:-------- |:------ |:------ |:-------- |
-| [Swinburne: George Swinburne's diary, 1882 page 4][swin-diary] | 138 | Hard | 79% |  62% | 7% |
-| [Swinburne: Letter from aboard S.S. Shropshire][swin-letter] | 100 | Medium  | 78% | 66% | 4% |
+| [Swinburne: George Swinburne's diary, 1882 page 4](#swin-diary-a) | 138 | Hard | 79% |  62% | 7% |
+| [Swinburne: Letter from aboard S.S. Shropshire](#swin-letter-a) | 100 | Medium  | 78% | 66% | 4% |
 | [SLV: Diary of Charles Evans, 1853 - page 7][slv-diary]  | 167 | Very Hard |60% | 75% | 3% |
 | [SLV: Christmas 1888. A page from an illustrated diary][slv-postcard]| 132|Easy|95%|92%|49%| 
 | Average ||| 78% | 74% | 16%| 
@@ -71,11 +71,13 @@ Scaled for difficulty: Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2
 * Google Cloud: 89
 * Amazon AWS: 11
 
-### George Swinburne's diary, 1882 to 1886 page 4]
+### George Swinburne's diary, 1882 to 1886 page 4
+
+<a id="swin-diary-a"></a>
 
 Age: 138 years
 Perceived difficulty: Hard (cursive, clear writing on clean paper)
-URL: [https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/](https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/)
+URL: [https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/][swin-diary]
 
 Preview:
 {% image_tag src="/img/george_swinburne_diary.png" width="400" %}
@@ -166,8 +168,12 @@ serafla
 
 ### Swinburne : Letter from aboard S.S. Shropshire
 
+<a id="swin-letter-a"></a>
+
 Age: 100 years
 Perceived difficulty: Medium (cursive script, well spaced, pretty clear)
+Image URL: [https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/][swin-letter]
+
 
 #### Human transcription
 ```
