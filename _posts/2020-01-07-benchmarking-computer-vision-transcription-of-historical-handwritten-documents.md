@@ -47,8 +47,8 @@ The purpose of metadata enrichment with computer vision is:
 
 An example of how time consuimg transciption can be. The SLV's volunteer run project to transcribe the 25 volumes of the diaries of Joseph Jenkins _(an itinerant labourer in gold rush era Central Victoria)_, has so far taken 10 years to get through 15 volumes. The [YouTube video](https://www.youtube.com/watch?v=Olil-MGljA0) and document linked below have some great details on this transcription project.
 
-* https://www.youtube.com/watch?v=Olil-MGljA0
-* http://handle.slv.vic.gov.au/10381/32073
+* [https://www.youtube.com/watch?v=Olil-MGljA0](https://www.youtube.com/watch?v=Olil-MGljA0)
+* [http://handle.slv.vic.gov.au/10381/32073](http://handle.slv.vic.gov.au/10381/32073)
 
 The first step in this project is to benchmark the available computer vision technologies to identify which the most suitable for the various types of collections and institutions.
 
