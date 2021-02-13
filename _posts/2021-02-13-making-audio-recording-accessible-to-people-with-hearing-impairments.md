@@ -94,4 +94,4 @@ Does a Library still need do run a crowdsourced editing project for audio record
 
 If 100% perfect transcription is required with audio comments and speaker splitting etc. and their is funding available - then yes an editing project will still be required.
 
-If a library wants to make as much digital content as accessible as possible to as wide an audience as possible for minimal expenditure - then No - just use Azure transripts as in with ntoes added into any interface to highlight they these are auto generated and it'll be a huge accessibility improvement for audio recordings.
+If a library wants to make as much digital content as accessible as possible to as wide an audience as possible for minimal expenditure - then No - just use Azure transcripts as in with notes added into any interface to highlight they these are auto generated and it'll be a huge accessibility improvement for audio recordings.
