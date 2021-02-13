@@ -22,8 +22,8 @@ My current focus is how to make audio recordings (such as historical recordings 
 
 The original NYPL project started from a grant in 2015 from the [Knight Foundation](https://knightfoundation.org/grants/together-we-listen). Given that even in the last year there has been big improvements in live audio to text (such as MS Teams and Zoom automated live captions) it's as great time to:
 
-* 1. review the accuracy of the current best audio to text services
-* 2. if they are accurate enough, can libraries not run crowdsourced editing projects - as just use the automated transcripts as is. 
+1. Review the accuracy of the current best audio to text services
+1. If they are accurate enough, can libraries not run crowdsourced editing projects - as just use the automated transcripts as is. 
 
 The current leaders in audio to text are:
 
