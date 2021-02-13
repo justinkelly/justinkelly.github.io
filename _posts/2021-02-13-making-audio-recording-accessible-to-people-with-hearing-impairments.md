@@ -11,6 +11,8 @@ tags: ''
 
 For automated transcription of audio recordings to text, with the focusing on accessibility and historical recording - Azure from Microsoft currently is the best performing cloud service.
 
+For state and national libraies - automated transcriptions are now accurate enough that they can be used as is (for search results and in the user interface)
+
 ## Introduction
 
 As part of my State Library of Victoria Digital Fellowship - [https://biblio.ai](https://biblio.ai) I've been working on using the latest cloud based AI technologies to make to a libraries digital items (images, scanned historical documents, video, etc) accessible to people with various disabilities - such as automated transcription of historical handwritten documents to text - to enable visually impaired people to use/understand/access documents that were previously stored as images and currently transcribed - thus totally unusable for anyone with a visual impairment. 
@@ -19,7 +21,10 @@ My previous blog post goes into details to compare various handwriting o text se
 
 My current focus is how to make audio recordings (such as historical recordings or oral histories - that state and national libraries collect) accessible to people with hearing impairments. Prior work in this area by the [New Your Public Library](http://transcribe.oralhistory.nypl.org) uses speech-to-text software software to convert audio to text, and provide an interface for a user to updated transcription. 
 
-The original NYPL project started from a grant in 2015 from the [Knight Foundation](https://knightfoundation.org/grants/together-we-listen). Given that even in the last year there has been big improvements in live audio to text (such as MS Teams and Zoom automated live captions) it's as great time to 1. review the accuracy of the current best audio to text services and 2. if they are accurate enough, can libraries not run crowdsourced editing projects - as just use the automated transcripts as is. 
+The original NYPL project started from a grant in 2015 from the [Knight Foundation](https://knightfoundation.org/grants/together-we-listen). Given that even in the last year there has been big improvements in live audio to text (such as MS Teams and Zoom automated live captions) it's as great time to:
+
+* 1. review the accuracy of the current best audio to text services
+* 2. if they are accurate enough, can libraries not run crowdsourced editing projects - as just use the automated transcripts as is. 
 
 The current leaders in audio to text are:
 
@@ -32,7 +37,7 @@ Taking a randomly selected audio recording from the State Library of South Austr
 - "Interview with Leonard Cohen [sound recording] Interviewer: Nigel Russell [Excerpt]"
 - [https://digital.collections.slsa.sa.gov.au/nodes/view/6368?keywords=](https://digital.collections.slsa.sa.gov.au/nodes/view/6368?keywords=)
 
-![SLSA]({{site.baseurl}}/img/2021-SLSA.png)
+[![SLSA]({{site.baseurl}}/img/2021-SLSA.png)](https://digital.collections.slsa.sa.gov.au/nodes/view/6368?keywords=)
 
 Lets see how accuirate each service is (as of 1 Feb 2021) in automatically transcibign the above audio recording to text
 
@@ -76,9 +81,22 @@ and although she goes grazing a minute away he tracks her all night and he track
 Ah, this is a lyric that is based on an old Chinese text, ah worked on the translation with a with a oriental scholar. It's originally a training manual for monks and the metaphor that's used is an ox herder who has lost his ox and I translated into a western cowboy style ah it goes like this. Say a prayer for the cowboy his mirrors run away and he'll walk till he find her, his darling, his stray, but the rivers in flood and the roads are awash and the bridges break up and the panic of loss  and there's nothing to follow, there's nowhere to go, she's gone like the summer, shes gone like the snow, and crickets are breaking his heart with their song, as the day caves in and the night is all wrong. Did he dream? was it she who went galloping past and bent down the fern and broke open the grass and printed the mud with the iron and the gold, that he nailed to her feet when he was the lord. And although she goes grazing a minute away, he tracks her all night and he tracks her all day. Oh, blind to her presence except to compare his injury here with her punishment there.
 ```
 
-It took me about 30 minuets to go through the audio a number of times on super slow speed to transcribe the audio manually to text :( and I actually had to refer the the MS Azure transcription  to check a few words I had difficulties with
+It took me about 30 minuets to go through the audio a number of times on super slow speed to transcribe the audio manually to text :( and I actually had to refer the the MS Azure transcription  to check a few words I had difficulties with.
 
 ## Conclusion
 
-All 3 services can do real-time transcriptions - meaning its took them about 1:30 minutes to transcribe(including grammar) the 1:30 of audio reording
+All 3 services can do real-time transcriptions - meaning its took them about 1:30 minutes to transcribe(including grammar) the 1:30 of audio reording and each performed at above 90% accuracy. 
+
+Given that we are looking to see if these can be used as is (with no or minimal human review) Azure from Microsoft performed amazingly well at 98% correct words and most of the grammar correct.
+
+These results are done on a single recording, in clear spoken American English - and are not representive of a full audio collection of a Library - even with this limitation I would happily recommend imperfect Azure transcription compared to having none transcripted audio records.
+
+Does a Library still need do run a crowdsourced editing project for audio recordings? 
+
+Depends - If 100% perfect transcription is required with audio comments and speaker splitting etc. and their is funding available - then yes an editing project will still be required
+
+If a library wants to make as much didgital content as accessible as possible to as wide an audience, as quickly as possible for minimal expenditure - then No - 
+
+
+
 
