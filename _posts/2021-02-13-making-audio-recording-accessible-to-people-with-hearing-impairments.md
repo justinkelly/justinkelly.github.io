@@ -5,27 +5,36 @@ comments: true
 title: Making audio recording accessible to people with hearing impairments.
 tags: ''
 ---
+![NYPL]({{site.baseurl}}/img/2021-NYPL.png)
+
 ##  Summary
 
-For automated transcription of audio recordings to text, with the focusing on accessibility and historical recording - Azure from Microsoft currently is the best performing cloud service
+For automated transcription of audio recordings to text, with the focusing on accessibility and historical recording - Azure from Microsoft currently is the best performing cloud service.
 
 ## Introduction
 
-As part of my State Library of Victoria Digital Fellowship - [https://biblio.ai](https://biblio.ai) I've been working on using the latest cloud  based AI technologies to make to a libraries digital items (images, scanned historical documents, video, etc) accessible to people with various disabilities - such as automated transcription of historical handwritten documents to text - to enable visually impaired people to use/understand/access documents that were previously stored as images and currently transcribed - thus totally unusable for anyone with a visual impairment. 
+As part of my State Library of Victoria Digital Fellowship - [https://biblio.ai](https://biblio.ai) I've been working on using the latest cloud based AI technologies to make to a libraries digital items (images, scanned historical documents, video, etc) accessible to people with various disabilities - such as automated transcription of historical handwritten documents to text - to enable visually impaired people to use/understand/access documents that were previously stored as images and currently transcribed - thus totally unusable for anyone with a visual impairment. 
 
 My previous blog post goes into details to compare various handwriting o text services available: [https://justin.kelly.org.au/benchmarking-computer-vision-transcription-of-historical-handwritten-documents/](https://justin.kelly.org.au/benchmarking-computer-vision-transcription-of-historical-handwritten-documents/)
+
 My current focus is how to make audio recordings (such as historical recordings or oral histories - that state and national libraries collect) accessible to people with hearing impairments. Prior work in this area by the [New Your Public Library](http://transcribe.oralhistory.nypl.org) uses speech-to-text software software to convert audio to text, and provide an interface for a user to updated transcription. 
-
-![NYPL]({{site.baseurl}}/img/2021-NYPL.png)
-
 
 The original NYPL project started from a grant in 2015 from the [Knight Foundation](https://knightfoundation.org/grants/together-we-listen). Given that even in the last year there has been big improvements in live audio to text (such as MS Teams and Zoom automated live captions) it's as great time to 1. review the accuracy of the current best audio to text services and 2. if they are accurate enough, can libraries not run crowdsourced editing projects - as just use the automated transcripts as is. 
 
-The current leaders in audio to text are Azure from Microsoft (which powers the MS Team living caption feature, [Otter.ai](http://otter.ai) (heavily used and integrated with Zoom) and Google Cloud Platform (GCP). Taking a randomly selected audio recording from the State Library of South Australia - Oral History collection - which happened to be an interview with Leonard Cohen - details below:
+The current leaders in audio to text are:
+
+* Azure from Microsoft (which powers the MS Team living caption feature
+* [Otter.ai](http://otter.ai) (heavily used and integrated with Zoom)
+* and Google Cloud Platform (GCP). 
+
+Taking a randomly selected audio recording from the State Library of South Australia - Oral History collection - which happened to be an interview with Leonard Cohen - details below:
 
 - "Interview with Leonard Cohen [sound recording] Interviewer: Nigel Russell [Excerpt]"
 - [https://digital.collections.slsa.sa.gov.au/nodes/view/6368?keywords=](https://digital.collections.slsa.sa.gov.au/nodes/view/6368?keywords=)
 
+![SLSA]({{site.baseurl}}/img/2021-SLSA.png)
+
+Lets see how accuirate each service is (as of 1 Feb 2021) in automatically transcibign the above audio recording to text
 
 
 ## Azure
