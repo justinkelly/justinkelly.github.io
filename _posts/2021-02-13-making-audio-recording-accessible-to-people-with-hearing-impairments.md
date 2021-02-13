@@ -3,7 +3,6 @@ layout: post
 published: true
 comments: true
 title: Making audio recording accessible to people with hearing impairments.
-tags: ''
 ---
 ![NYPL]({{site.baseurl}}/img/2021-NYPL.png)
 
@@ -39,7 +38,7 @@ Taking a randomly selected audio recording from the State Library of South Austr
 
 [![SLSA]({{site.baseurl}}/img/2021-SLSA.png)](https://digital.collections.slsa.sa.gov.au/nodes/view/6368?keywords=)
 
-Lets see how accuirate each service is (as of 1 Feb 2021) in automatically transcibign the above audio recording to text
+Lets see how accurate each service is (as of 1 Feb 2021) in automatically transcribing the above audio recording to text
 
 
 ## Azure
@@ -81,7 +80,7 @@ and although she goes grazing a minute away he tracks her all night and he track
 Ah, this is a lyric that is based on an old Chinese text, ah worked on the translation with a with a oriental scholar. It's originally a training manual for monks and the metaphor that's used is an ox herder who has lost his ox and I translated into a western cowboy style ah it goes like this. Say a prayer for the cowboy his mirrors run away and he'll walk till he find her, his darling, his stray, but the rivers in flood and the roads are awash and the bridges break up and the panic of loss  and there's nothing to follow, there's nowhere to go, she's gone like the summer, shes gone like the snow, and crickets are breaking his heart with their song, as the day caves in and the night is all wrong. Did he dream? was it she who went galloping past and bent down the fern and broke open the grass and printed the mud with the iron and the gold, that he nailed to her feet when he was the lord. And although she goes grazing a minute away, he tracks her all night and he tracks her all day. Oh, blind to her presence except to compare his injury here with her punishment there.
 ```
 
-It took me about 30 minuets to go through the audio a number of times on super slow speed to transcribe the audio manually to text :( and I actually had to refer the the MS Azure transcription  to check a few words I had difficulties with.
+It took me about 30 minutes to go through the audio a number of times on super slow speed to transcribe the audio manually to text :( and I actually had to refer the the MS Azure transcription  to check a few words I had difficulties with.
 
 ## Conclusion
 
@@ -96,7 +95,3 @@ Does a Library still need do run a crowdsourced editing project for audio record
 If 100% perfect transcription is required with audio comments and speaker splitting etc. and their is funding available - then yes an editing project will still be required.
 
 If a library wants to make as much digital content as accessible as possible to as wide an audience as possible for minimal expenditure - then No - just use Azure transripts as in with ntoes added into any interface to highlight they these are auto generated and it'll be a huge accessibility improvement for audio recordings.
-
-
-
-
