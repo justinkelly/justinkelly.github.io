@@ -196,20 +196,16 @@ We need a way to link the 1st dewey file and this one
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![2021-powerbi-8-section1-2.png]({{site.baseurl}}/img/2021-powerbi-8-section1-2.png)
 
-
-![alt_text](images/image8.png "image_tooltip")
 
 
 Now we need a way to link the 2nd dewey file to the 3rd one
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![2021-powerbi-9-section1-3.png]({{site.baseurl}}/img/2021-powerbi-9-section1-3.png)
 
-
-![alt_text](images/image9.png "image_tooltip")
 
 
 Rename the columns
@@ -218,18 +214,12 @@ Import the 3rd dewey file
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
+![2021-powerbi-10-section1-4.png]({{site.baseurl}}/img/2021-powerbi-10-section1-4.png)
 
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
+![2021-powerbi-11-section1-5.png]({{site.baseurl}}/img/2021-powerbi-11-section1-5.png)
 
 
 Rename the columns
