@@ -7,6 +7,11 @@ tags: 'vala, powerbi, power_bi'
 ---
 ## VALA21 TechCamp PowerBI Workshop
 
+_This document is the notes for the VALA21 TechCamp PowerBI Workshop_
+
+All files are available on GutHub at: 
+* [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
+
 **Timing**
 
 *   Intro and section 1 - 1 hour
