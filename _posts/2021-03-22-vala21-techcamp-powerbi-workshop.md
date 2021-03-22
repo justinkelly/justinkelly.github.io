@@ -112,20 +112,23 @@ Turn a bunch of excel files into a maintainable, sharable and accurate dashboard
 
  The important aspects are not PowerBI and dashboards - 90q% of what we will cover today is data related and used with other tools and environments
 
-Branch librarian for the Baillieu LIbrary
+Branch librarian for the Baillieu Library
+
 _want to see the change in collection use for my branch_
 
 ![2021-powerbi-1-branch.png]({{site.baseurl}}/img/2021-powerbi-1-branch.png)
 
 
 University Librarian
+
 _I want to look at collection mix over all locations_
 
 
 ![2021-powerbi-2-unilib.png]({{site.baseurl}}/img/2021-powerbi-2-unilib.png)
 
 
-Subject Librarian for Physics at Melbourne University 
+Subject Librarian for Physics at Melbourne University
+
 _I want to see the detailed analysis within Physics for each branch_
 
 ![2021-powerbi-3-subject.png]({{site.baseurl}}/img/2021-powerbi-3-subject.png)
