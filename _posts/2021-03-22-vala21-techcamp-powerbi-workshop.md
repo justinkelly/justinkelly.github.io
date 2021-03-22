@@ -13,15 +13,13 @@ All files are available on GitHub at:
 
 ### Introduction
 
-- Thank you VALA, Melissa etc.
 - About me
 - What is PowerBI
   - [https://bit.ly/vala21_powerbi_pres](https://bit.ly/vala21_powerbi_pres)
 - What the focus is today
-
-* 80% will be about data, data formats and data structure
-    * Thinking about what’s in the files, how do we connect them, and if there is no current way to join them - how to we make a way, and what are the limitations
-* Why?
+  - 80% will be about data, data formats and data structure
+  - Thinking about what’s in the files, how do we connect them, and if there is no current way to join them - how to we make a way, and what are the limitations
+- Why?
 
 Why are we doing this?
 
