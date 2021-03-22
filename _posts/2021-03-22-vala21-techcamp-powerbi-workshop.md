@@ -112,35 +112,23 @@ Turn a bunch of excel files into a maintainable, sharable and accurate dashboard
 
  The important aspects are not PowerBI and dashboards - 90q% of what we will cover today is data related and used with other tools and environments
 
-Branch librarian for the Baillieu LIbrary - I want to see the change in collection use for my branch
-
-
+Branch librarian for the Baillieu LIbrary
+_want to see the change in collection use for my branch_
 
 ![2021-powerbi-1-branch.png]({{site.baseurl}}/img/2021-powerbi-1-branch.png)
 
 
-
-
 University Librarian
-
-
-
-*   I want to look at collection mix over all locations
-
+_I want to look at collection mix over all locations_
 
 
 ![2021-powerbi-2-unilib.png]({{site.baseurl}}/img/2021-powerbi-2-unilib.png)
 
 
-
-
-Subject Librarian for Physics at Melbourne University - I want to see the detailed analysis within Physics for each branch
-
-
+Subject Librarian for Physics at Melbourne University 
+_I want to see the detailed analysis within Physics for each branch_
 
 ![2021-powerbi-3-subject.png]({{site.baseurl}}/img/2021-powerbi-3-subject.png)
-
-
 
 
 **Files we have**
@@ -149,43 +137,36 @@ Subject Librarian for Physics at Melbourne University - I want to see the detail
 
 This this example we are using the 3 level of Dewey - but you can also think of similar internal structure that your organisation may use to define collections, parent collections and sub-collection
 
-LIst of branch locations
+List of branch locations
 
-2 files that list loans, purchase cost ,a holding quantity, per year for each location - 1 file per year
+2 files that list loans, purchase cost, a holding quantity, per year for each location - 1 file per year
 
-Section 1 - Create the library data hierarchy using the Dewey system is now done
+## Section 1
+_Create the library data hierarchy using the Dewey system is now done_
 
 3 files
 
 1st Level (10 lines)
 
-
 ![2021-powerbi-4-dd1.png]({{site.baseurl}}/img/2021-powerbi-4-dd1.png)
-
 
 
 2nd Level (100 lines)
 
 
-
 ![2021-powerbi-5-dd2.png]({{site.baseurl}}/img/2021-powerbi-5-dd2.png)
 
-
-
 3rd level (1000 lines)
-
 
 ![2021-powerbi-6-dd3.png]({{site.baseurl}}/img/2021-powerbi-6-dd3.png)
 
 
-
-**Section 1**
+### Import the data
 
 Import the first Dewey file and create a new column that extracts the first character of the code column. Name this new column “L1”
 
 
-
-*   Why and how?
+**Why and how?**
 
 Import the second Dewey file
 
@@ -387,7 +368,7 @@ Questions
 - How can we fix the problems
 
 
-**Section 3**
+## Section 3
 _Data structure_
 
 
@@ -414,16 +395,16 @@ Remove loans from books table
 ![2021-powerbi-33-section3-3.png]({{site.baseurl}}/img/2021-powerbi-33-section3-3.png)
 
 
-**Section 4**
+## Section 4
+_Add library locations_
 
-Add library locations
+Import the libraries.csv file
 
-Create correct link between books and loans
-
+Create a new column that we will use to linnk locations to loans
 
 ![2021-powerbi-34-section4-1.png]({{site.baseurl}}/img/2021-powerbi-34-section4-1.png)
 
-
+In the model view link the libraries to the loans
 
 ![2021-powerbi-35-section4-2.png]({{site.baseurl}}/img/2021-powerbi-35-section4-2.png)
 
