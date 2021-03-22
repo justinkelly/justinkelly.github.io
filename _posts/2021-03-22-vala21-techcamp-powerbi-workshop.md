@@ -1,9 +1,8 @@
 ---
 layout: post
-published: true
+published: false
 comments: true
 title: VALA21 TechCamp PowerBI Workshop
-tags: ''
 ---
 ## VALA21 TechCamp PowerBI Workshop
 
@@ -159,31 +158,23 @@ Section 1 - Create the library data hierarchy using the Dewey system is now done
 1st Level (10 lines)
 
 
+![2021-powerbi-4-dd1.png]({{site.baseurl}}/img/2021-powerbi-4-dd1.png)
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
 
 
 2nd Level (100 lines)
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![2021-powerbi-5-dd2.png]({{site.baseurl}}/img/2021-powerbi-5-dd2.png)
 
-
-![alt_text](images/image5.png "image_tooltip")
 
 
 3rd level (1000 lines)
 
 
+![2021-powerbi-6-dd3.png]({{site.baseurl}}/img/2021-powerbi-6-dd3.png)
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
 
 
 **Section 1**
@@ -199,11 +190,8 @@ Import the second Dewey file
 We need a way to link the 1st dewey file and this one
 
 
+![2021-powerbi-7-section1-1.png]({{site.baseurl}}/img/2021-powerbi-7-section1-1.png)
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
 
 
 
