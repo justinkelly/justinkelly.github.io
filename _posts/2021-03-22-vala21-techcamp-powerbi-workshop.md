@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 title: VALA21 TechCamp PowerBI Workshop
+tags: 'vala, powerbi, power_bi'
 ---
 ## VALA21 TechCamp PowerBI Workshop
 
