@@ -4,13 +4,9 @@ published: true
 comments: true
 title: VALA21 TechCamp PowerBI Workshop
 ---
-## A New Post
-
-**VALA PowerBI Workshop**
+## VALA21 TechCamp PowerBI Workshop
 
 **Timing**
-
-
 
 *   Intro and section 1 - 1 hour
     *   VALA Intro - 10 mins
