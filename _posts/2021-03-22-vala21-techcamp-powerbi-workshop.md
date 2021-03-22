@@ -16,18 +16,18 @@ All files are available on GutHub at:
 - Thank you VALA, Melissa etc.
 - About me
 - What is PowerBI
--- [https://bit.ly/vala21_powerbi_pres](https://bit.ly/vala21_powerbi_pres)
+  - [https://bit.ly/vala21_powerbi_pres](https://bit.ly/vala21_powerbi_pres)
 - What the focus is today
 
-*   80% will be about data, data formats and data structure
-    *   Thinking about what’s in the files, how do we connect them, and if there is no current way to join them - how to we make a way, and what are the limitations
-*   Why?
+* 80% will be about data, data formats and data structure
+    * Thinking about what’s in the files, how do we connect them, and if there is no current way to join them - how to we make a way, and what are the limitations
+* Why?
 
 Why are we doing this?
 
-*   Librarians know the stories of how your libraries are operating and evolving
-*   But if we can’t present data to support our stories and feelings we can’t have useful discussions with senior management etc. about the future of your libraries
-*   Give you tools and knowledge so you can have a positive impact for your libraries
+* Librarians know the stories of how your libraries are operating and evolving
+* But if we can’t present data to support our stories and feelings we can’t have useful discussions with senior management etc. about the future of your libraries
+* Give you tools and knowledge so you can have a positive impact for your libraries
 
 How today will run	
 
