@@ -7,7 +7,7 @@ tags: 'vala, powerbi, power_bi'
 ---
 _Notes for the VALA21 TechCamp PowerBI Workshop_
 
-All files are available on GutHub at: 
+All files are available on GitHub at: 
 * [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
 
 
@@ -64,13 +64,13 @@ How today will run
 
 ### Problem:
 
-In many cases we in libraries want to do some data analysis on our library data but for 1 of many reasons we can’t - such as
+In many cases we in libraries want to do some data analysis on our library data but for 1 of many reasons we can’t - such as:
 
 *   The LMS has a limited reporting functionality
 *   Only specific people allowed to use the LMS admin or reporting functionality
 *   LMS reporting/data is siloed - where you can analyses data separately - but not linked
     *   ie - can view all the bibliographic data - but not join this with the loans or the purchase info
-    *   So can;t get a full view of whats happening in your library
+    *   So can't get a full view of whats happening in your library
 *   LMS admins/system people have said that to do reporting you need to do SQL and need permission from IT
     *   SQL is to hard and you have to know to much about that data
     *   IT says you can’t get permission for SQL access and should talk to the LMS admins/reporting - going round in circles not getting anywhere
@@ -107,23 +107,19 @@ Turn a bunch of excel files into a maintainable, sharable and accurate dashboard
 
  The important aspects are not PowerBI and dashboards - 90q% of what we will cover today is data related and used with other tools and environments
 
-Branch librarian for the Baillieu Library
-
+**Branch librarian for the Baillieu Library**
 _want to see the change in collection use for my branch_
 
 ![2021-powerbi-1-branch.png]({{site.baseurl}}/img/2021-powerbi-1-branch.png)
 
 
-University Librarian
-
+**University Librarian**
 _I want to look at collection mix over all locations_
-
 
 ![2021-powerbi-2-unilib.png]({{site.baseurl}}/img/2021-powerbi-2-unilib.png)
 
 
-Subject Librarian for Physics at Melbourne University
-
+**Subject Librarian for Physics at Melbourne University**
 _I want to see the detailed analysis within Physics for each branch_
 
 ![2021-powerbi-3-subject.png]({{site.baseurl}}/img/2021-powerbi-3-subject.png)
@@ -161,7 +157,7 @@ _Create the library data hierarchy using the Dewey system is now done_
 
 ### Import the data
 
-Import the first Dewey file and create a new column that extracts the first character of the code column. Name this new column “L1”
+Import the first Dewey file and create a new column that extracts the first character of the code column. Name this new column `L1`
 
 
 **Why and how?**
@@ -170,30 +166,18 @@ Import the second Dewey file
 
 We need a way to link the 1st dewey file and this one
 
-
 ![2021-powerbi-7-section1-1.png]({{site.baseurl}}/img/2021-powerbi-7-section1-1.png)
-
-
-
 
 
 ![2021-powerbi-8-section1-2.png]({{site.baseurl}}/img/2021-powerbi-8-section1-2.png)
 
-
-
 Now we need a way to link the 2nd dewey file to the 3rd one
 
-
-
 ![2021-powerbi-9-section1-3.png]({{site.baseurl}}/img/2021-powerbi-9-section1-3.png)
-
-
 
 Rename the columns
 
 Import the 3rd dewey file
-
-
 
 ![2021-powerbi-10-section1-4.png]({{site.baseurl}}/img/2021-powerbi-10-section1-4.png)
 
@@ -212,40 +196,30 @@ Then Close & Apply
 ![2021-powerbi-11-section1-6.png]({{site.baseurl}}/img/2021-powerbi-11-section1-6.png)
 
 
-
-
 ![2021-powerbi-12-section1-7.png]({{site.baseurl}}/img/2021-powerbi-12-section1-7.png)
-
-
 
 
 ![2021-powerbi-13-section1-8.png]({{site.baseurl}}/img/2021-powerbi-13-section1-8.png)
 
-
-
 Save file
 
-Go into Report view
+Go into `Report` view
 
 ![2021-powerbi-14-section1-9.png]({{site.baseurl}}/img/2021-powerbi-14-section1-9.png)
 
 
-From the Visualizations section select Table
+From the Visualizations section select `Table`
 
 
 ![2021-powerbi-15-section1-10.png]({{site.baseurl}}/img/2021-powerbi-15-section1-10.png)
 
 
-
 We will now drag into the Table the columns codes and names from the dd1,dd2 and dd3 tables
-
 
 ![2021-powerbi-16-section1-11.png]({{site.baseurl}}/img/2021-powerbi-16-section1-11.png)
 
 
-
 ![2021-powerbi-17-section1-12.png]({{site.baseurl}}/img/2021-powerbi-17-section1-12.png)
-
 
 
 Section 1 - Create the library data hierarchy using the Dewey system is now done
@@ -266,20 +240,12 @@ Merge the 2 loans files together using Append Queries as New
 
 ![2021-powerbi-19-section2-1.png]({{site.baseurl}}/img/2021-powerbi-19-section2-1.png)
 
-
 Add a new column to format the call number to 3 digit Dewey format
-
-
 
 ![2021-powerbi-20-section2-2.png]({{site.baseurl}}/img/2021-powerbi-20-section2-2.png)
 
 
-
-
-
 ![2021-powerbi-21-section2-3.png]({{site.baseurl}}/img/2021-powerbi-21-section2-3.png)
-
-
 
 Rename the columns and change year to Date format
 
@@ -287,39 +253,27 @@ Save
 
 Close and Apply
 
-Go into the Model view
+Go into the `Model` view
 
 ![2021-powerbi-22-section2-4.png]({{site.baseurl}}/img/2021-powerbi-22-section2-4.png)
 
-
-
 And link the loans table to the dd3 table using L3_code in loans with L3_3 in dd3
 
-Go into Report view
+Go into `Report` view
 
 ![2021-powerbi-23-section2-5.png]({{site.baseurl}}/img/2021-powerbi-23-section2-5.png)
 
-
-
-From the Visualizations section select Table
-
+From the `Visualizations` section select `Table`
 
 ![2021-powerbi-24-section2-6.png]({{site.baseurl}}/img/2021-powerbi-24-section2-6.png)
 
-
-
 Drag into the table columns from the loans and dd tables
-
 
 ![2021-powerbi-25-section2-7.png]({{site.baseurl}}/img/2021-powerbi-25-section2-7.png)
 
-
 ![2021-powerbi-26-section2-8.png]({{site.baseurl}}/img/2021-powerbi-26-section2-8.png)
 
-
 ![2021-powerbi-27-section2-9.png]({{site.baseurl}}/img/2021-powerbi-27-section2-9.png)
-
-
 
 Discuss filters
 
@@ -330,7 +284,6 @@ Can append as many year files as you want
 Create	loans by subject and create table
 
 ![2021-powerbi-28-section2-10.png]({{site.baseurl}}/img/2021-powerbi-28-section2-10.png)
-
 
 And Ribbon tables at different Dewey levels
 
@@ -364,32 +317,34 @@ Questions
 - What's wrong about this
 - What's the problems 
 - How can we fix the problems
+- Delete calculations
 
 
 ## Section 3
 _Data structure_
-
 
 Go the the Transform data section - which is within Model
 
 ![2021-powerbi-31-section3-1.png]({{site.baseurl}}/img/2021-powerbi-31-section3-1.png)
 
 
-
-Unpivot locations
-
+Unpivot locations - why?
 
 ![2021-powerbi-32-section3-2.png]({{site.baseurl}}/img/2021-powerbi-32-section3-2.png)
 
 
-
 Duplicate loans as books table with unique data
 
-Remove price,quantity from loans table
+![2021-powerbi-35-section3-unpivot.png]({{site.baseurl}}/img/2021-powerbi-35-section3-unpivot.png)
 
-Remove loans from books table
+
+Remove price,quantity from `loans` table
+
+Remove loans from `books` table
 
 ![2021-powerbi-33-section3-3.png]({{site.baseurl}}/img/2021-powerbi-33-section3-3.png)
+
+Add calculations for turnover and cost per use
 
 ```
 Turnover = sum(loans[Loans])/sum(book_unique[Copies])
@@ -398,6 +353,8 @@ Turnover = sum(loans[Loans])/sum(book_unique[Copies])
 ```
 CostPU = sum(book_unique[price])/sum(loans[Loans])
 ```
+
+Do data visualistation and discuss limitation of CostPU and Turnover given underlying data issues
 
 ## Section 4
 _Add library locations_
@@ -411,4 +368,3 @@ Create a new column that we will use to linnk locations to loans
 In the model view link the libraries to the loans
 
 ![2021-powerbi-35-section4-2.png]({{site.baseurl}}/img/2021-powerbi-35-section4-2.png)
-
