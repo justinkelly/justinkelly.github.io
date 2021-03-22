@@ -392,22 +392,15 @@ _Data structure_
 
 Go the the Transform data section - which is within Model
 
+![2021-powerbi-31-section3-1.png]({{site.baseurl}}/img/2021-powerbi-31-section3-1.png)
 
-
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image32.png "image_tooltip")
 
 
 Unpivot locations
 
 
+![2021-powerbi-32-section3-2.png]({{site.baseurl}}/img/2021-powerbi-32-section3-2.png)
 
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image33.png "image_tooltip")
 
 
 Duplicate loans as books table with unique data
@@ -417,12 +410,7 @@ Remove price,quantity from loans table
 Remove loans from books table
 
 
-
-
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image34.png "image_tooltip")
+![2021-powerbi-33-section3-3.png]({{site.baseurl}}/img/2021-powerbi-33-section3-3.png)
 
 
 **Section 4**
@@ -432,17 +420,9 @@ Add library locations
 Create correct link between books and loans
 
 
-
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image35.png "image_tooltip")
+![2021-powerbi-34-section4-1.png]({{site.baseurl}}/img/2021-powerbi-34-section4-1.png)
 
 
 
+![2021-powerbi-35-section4-2.png]({{site.baseurl}}/img/2021-powerbi-35-section4-2.png)
 
-
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image36.png "image_tooltip")
