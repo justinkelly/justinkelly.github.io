@@ -275,7 +275,8 @@ Talk about filters, and level of fitlers
 ![2021-powerbi-18-section1-fitlers-13.png]({{site.baseurl}}/img/2021-powerbi-18-section1-fitlers-13.png)
 
 
-**Section 2  - Import the loans files and link them to the dewey hierarchy**
+## Section 2  
+_Import the loans files and link them to the dewey hierarchy_
 
 Import the 2020 loans CSV file
 
@@ -348,61 +349,46 @@ Can append as many year files as you want
 
 Create	loans by subject and create table
 
-
-
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image29.png "image_tooltip")
+![2021-powerbi-28-section2-10.png]({{site.baseurl}}/img/2021-powerbi-28-section2-10.png)
 
 
 And Ribbon tables at different Dewey levels
 
 Save
 
-Section 2.5
+## Section 2.5
 
 Create calculations for Total Loans, Loan Ration and Price Per Use
 
+![2021-powerbi-29-section2-11.png]({{site.baseurl}}/img/2021-powerbi-29-section2-11.png)
 
 
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image30.png "image_tooltip")
-
-
-
-
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image31.png "image_tooltip")
-
+![2021-powerbi-30-section2-12.png]({{site.baseurl}}/img/2021-powerbi-30-section2-12.png)
 
 
 ```
 LoanRatio = sum(loans[TotalLoans])/SUM(loans[Copies])
+```
 
+```
 PricePerUse = sum(loans[price])/sum(loans[TotalLoans])
+```
 
+```
 TotalLoans = loans[Location1]+loans[Location2]+loans[Location3]+loans[Location4]+loans[Location5]
 ```
 
+Questions
 
-What right about this
+- What right about this
+- What's wrong about this
+- What's the problems 
+- How can we fix the problems
 
-What's wrong about this
-
-What's the problems 
-
-How can we fix the problems
-
-
-
-*   Data structure
 
 **Section 3**
+_Data structure_
+
 
 Go the the Transform data section - which is within Model
 
