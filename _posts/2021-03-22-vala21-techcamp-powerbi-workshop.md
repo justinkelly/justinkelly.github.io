@@ -53,9 +53,7 @@ How today will run
     *   Recap 20 min
 * Wrap up - 5 minutes
 
-
 ### Links
-
 
 * This document: [https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/](https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/)
 * Presentation: [https://bit.ly/vala21_powerbi_pres](https://bit.ly/vala21_powerbi_pres)
@@ -67,7 +65,6 @@ How today will run
 ### Problem:
 
 In many cases we in libraries want to do some data analysis on our library data but for 1 of many reasons we can’t - such as
-
 
 *   The LMS has a limited reporting functionality
 *   Only specific people allowed to use the LMS admin or reporting functionality
@@ -96,13 +93,13 @@ When we do the analysis we’ll do some examples using possible roles within a l
 
 The data we are going to use today is a mix of
 
-*   Real bibliographic info based on Newcastle (UK) Libraries catalogue titles
-    *   [https://data.world/datagov-uk/364b7c8f-3917-49bb-aae2-8e504a6fde11](https://data.world/datagov-uk/364b7c8f-3917-49bb-aae2-8e504a6fde11)
-*   Dewey Decimal System
-    *   [https://github.com/Alacritous/DDS_directory_structure](https://github.com/Alacritous/DDS_directory_structure)
-*   Randomised loans, prices and quantity data
-*   Selected Melbourne University library locations
-*   This data has some limitations that can’t be solved - what do we do in this case?
+* Real bibliographic info based on Newcastle (UK) Libraries catalogue titles
+    * [https://data.world/datagov-uk/364b7c8f-3917-49bb-aae2-8e504a6fde11](https://data.world/datagov-uk/364b7c8f-3917-49bb-aae2-8e504a6fde11)
+* Dewey Decimal System
+    * [https://github.com/Alacritous/DDS_directory_structure](https://github.com/Alacritous/DDS_directory_structure)
+* Randomised loans, prices and quantity data
+* Selected Melbourne University library locations
+* This data has some limitations that can’t be solved - what do we do in this case?
 
 **What we are going to do:**
 
