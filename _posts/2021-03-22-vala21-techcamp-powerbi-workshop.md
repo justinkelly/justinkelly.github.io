@@ -3,6 +3,7 @@ layout: post
 published: true
 comments: true
 title: VALA21 TechCamp PowerBI Workshop
+tags: ''
 ---
 ## VALA21 TechCamp PowerBI Workshop
 
@@ -114,11 +115,8 @@ Branch librarian for the Baillieu LIbrary - I want to see the change in collecti
 
 
 
+![2021-powerbi-1-branch.png]({{site.baseurl}}/img/2021-powerbi-1-branch.png)
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
 
 
 
@@ -130,10 +128,8 @@ University Librarian
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![2021-powerbi-2-unilib.png]({{site.baseurl}}/img/2021-powerbi-2-unilib.png)
 
-
-![alt_text](images/image2.png "image_tooltip")
 
 
 
@@ -141,11 +137,8 @@ Subject Librarian for Physics at Melbourne University - I want to see the detail
 
 
 
+![2021-powerbi-3-subject.png]({{site.baseurl}}/img/2021-powerbi-3-subject.png)
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
 
 
 
@@ -552,4 +545,3 @@ Create correct link between books and loans
 
 
 ![alt_text](images/image36.png "image_tooltip")
-
