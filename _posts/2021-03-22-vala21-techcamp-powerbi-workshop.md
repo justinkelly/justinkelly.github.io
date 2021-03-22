@@ -5,7 +5,7 @@ comments: true
 title: VALA21 TechCamp PowerBI Workshop
 tags: 'vala, powerbi, power_bi'
 ---
-_This document is the notes for the VALA21 TechCamp PowerBI Workshop_
+_Notes for the VALA21 TechCamp PowerBI Workshop_
 
 All files are available on GutHub at: 
 * [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
@@ -95,8 +95,6 @@ How do we unscramble the mess of data we’ve been given and turn it into a syst
 When we do the analysis we’ll do some examples using possible roles within a library such as subject librarian, branch librarian and university librarian.
 
 The data we are going to use today is a mix of
-
-
 
 *   Real bibliographic info based on Newcastle (UK) Libraries catalogue titles
     *   [https://data.world/datagov-uk/364b7c8f-3917-49bb-aae2-8e504a6fde11](https://data.world/datagov-uk/364b7c8f-3917-49bb-aae2-8e504a6fde11)
@@ -394,9 +392,15 @@ Remove price,quantity from loans table
 
 Remove loans from books table
 
-
 ![2021-powerbi-33-section3-3.png]({{site.baseurl}}/img/2021-powerbi-33-section3-3.png)
 
+```
+Turnover = sum(loans[Loans])/sum(book_unique[Copies])
+```
+
+```
+CostPU = sum(book_unique[price])/sum(loans[Loans])
+```
 
 ## Section 4
 _Add library locations_
