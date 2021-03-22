@@ -5,44 +5,40 @@ comments: true
 title: VALA21 TechCamp PowerBI Workshop
 tags: 'vala, powerbi, power_bi'
 ---
-## VALA21 TechCamp PowerBI Workshop
-
 _This document is the notes for the VALA21 TechCamp PowerBI Workshop_
 
 All files are available on GutHub at: 
 * [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
 
-**Timing**
+### Timing
 
-*   Intro and section 1 - 1 hour
+*   Intro and section 1 - 55 minuets
     *   VALA Intro - 10 mins
     *   JK intro slide 5 min
     *   JK into 10 min
     *   Section 1 - 15 min
     *   Pause 5 min
     *   Recap 5
-    *   Break 5 mins
-    *   _-- 60 minutes_
-*   Section 2
-    *   Section 2 55 min
-    *   Break 5 min
-    *   _-- 60 minutes_
-*   Section 3 - 55 min
-    *   Break 5 min
-    *   _-- 60 minutes_
-*   Section 4 
+* Break for 5 minuets
+* Section 2 - 45 minuets
+    * Section 2 35 min
+    * Catch-up 5 mine
+    * Recap 5 minuets
+* Break for 30 minutes
+* Section 3 - 45 min
+* Break for 5 minuets
+* Section 4 - 50 minutes
     *   40 minutes
     *   Recap 20 min
-*   End
+* Wrap up - 5 minutes
 
-Thank you VALA, Melissa etc.
 
-About me
+### Introduction
 
-What is PowerBI
-
-What the focus is today
-
+- Thank you VALA, Melissa etc.
+- About me
+- What is PowerBI
+- What the focus is today
 
 
 *   80% will be about data, data formats and data structure
@@ -51,26 +47,25 @@ What the focus is today
 
 Why are we doing this?
 
-
 *   Librarians know the stories of how your libraries are operating and evolving
 *   But if we can’t present data to support our stories and feelings we can’t have useful discussions with senior management etc. about the future of your libraries
 *   Give you tools and knowledge so you can have a positive impact for your libraries
 
 How today will run	
 
-Links
+### Links
 
 
+* This document: [https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/](https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/)
+* Presentation: [https://bit.ly/vala21_powerbi_pres](https://bit.ly/vala21_powerbi_pres)
+* Files
+  * [https://bit.ly/vala21_powerbi](https://bit.ly/vala21_powerbi)
+  * [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
+* Timer [https://countingdownto.com/countdown-pages/z6-VJBBJ](https://countingdownto.com/countdown-pages/z6-VJBBJ)
 
-*   This document: [https://docs.google.com/document/d/1dm9svZVBQHFKcHEomfFCYZxu2oxx5gyaMWoMbCyfgAg/edit?usp=sharing](https://docs.google.com/document/d/1dm9svZVBQHFKcHEomfFCYZxu2oxx5gyaMWoMbCyfgAg/edit?usp=sharing)
-*   Presentation: [https://docs.google.com/presentation/d/1xuzN9Y5mIuyJHhIb0eRZ7SD4qvVUDYKq0zrezU--xcc/edit?usp=sharing](https://docs.google.com/presentation/d/1xuzN9Y5mIuyJHhIb0eRZ7SD4qvVUDYKq0zrezU--xcc/edit?usp=sharing)
-*   Files [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
-*   Timer [https://countingdownto.com/countdown-pages/z6-VJBBJ](https://countingdownto.com/countdown-pages/z6-VJBBJ)
-
-**Problem:**
+### Problem:
 
 In many cases we in libraries want to do some data analysis on our library data but for 1 of many reasons we can’t - such as
-
 
 
 *   The LMS has a limited reporting functionality
@@ -84,11 +79,11 @@ In many cases we in libraries want to do some data analysis on our library data 
 
 In many cases we resort to using the only tool we have available (MS Excel) and trying to stitch together lots of different files together (or copy and paste large xls file contents to manual append data)  into one big hot mess 
 
-**Purpose: **
+### Purpose:
 
 We can overcome the obstacles that are in the way of a librarian from doing the data work required in their role. 
 
-**Scenario**
+### Scenario
 
 Can’t get access to useful library reporting systems - but the LMS admins have been nice enough to give you a bunch of seemly random data extracts covering catalogue structure, bibliographic info, loans and purchase data
 
