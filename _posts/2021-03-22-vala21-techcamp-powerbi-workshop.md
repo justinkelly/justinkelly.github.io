@@ -135,23 +135,41 @@ Import the Dewey file `dewey.csv`
 
 ![2021-powerbi2-1-import_csv.png]({{site.baseurl}}/img/2021-powerbi2-1-import_csv.png)
 
-and create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey_code`
+Review contents and select `Load`
 
+This will load into PowerBI the contents of the `dewey.csv` file, and will create a table in PowerBI called `dewey`
+
+![2021-powerbi2-1-dewey_table.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey_table.png)
+
+Intro to Transform Data
+
+Within the Model view in PowerBI select the `Transform Data` menu from the top ribbon menu
+
+![2021-powerbi-31-section3-1.png]({{site.baseurl}}/img/2021-powerbi-31-section3-1.png)
+
+_Discuss issue with the dewey column, and how and why will be fix this. Note that the change is done once but is now automated and repeatable_
+
+
+We now need to create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey_code`
+
+From the `Add columns` menu select `Column From Examples`
+![2021-powerbi2-2-add_example.png]({{site.baseurl}}/img/2021-powerbi2-2-add_example.png)
+
+_discuss what this is, and why is usefull and how is alternative to programming_
+
+Go through steps to format into 3 character dewet
 
 **Why and how?**
-
 
 We need a way to link the dwey file 
 
 ![2021-powerbi2-1-dewey.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)
-
 
 Save the file
 
 Then Close & Apply
 
 ![2021-powerbi-11-section1-6.png]({{site.baseurl}}/img/2021-powerbi-11-section1-6.png)
-
 
 Save file
 
