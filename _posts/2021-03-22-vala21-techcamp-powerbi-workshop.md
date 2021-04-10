@@ -178,22 +178,26 @@ Section 1 - Create the library data hierarchy using the Dewey system is now done
 ## Section 2  
 _Import the loans files and link them to the dewey hierarchy_
 
-Import the 2020 loans CSV file
+Import the 2020 loans xlsx file
 
-Repeat the process and import the loans 2021 CSV file
+![2021-powerbi2-2-import-2020.png]({{site.baseurl}}/img/2021-powerbi2-2-import-2020.png)
+
+
+Repeat the process and import the loans 2021 xlsx file
 
 Merge the 2 loans files together using Append Queries as New
 
 ![2021-powerbi-19-section2-1.png]({{site.baseurl}}/img/2021-powerbi-19-section2-1.png)
 
-Add a new column to format the call number to 3 digit Dewey format
+Add a new column to format the call number to 3 digit Dewey format, using `Add Column` and then `Columns from examples`
 
-![2021-powerbi-20-section2-2.png]({{site.baseurl}}/img/2021-powerbi-20-section2-2.png)
+![2021-powerbi2-2-add_example.png]({{site.baseurl}}/img/2021-powerbi2-2-add_example.png)
 
 
-![2021-powerbi-21-section2-3.png]({{site.baseurl}}/img/2021-powerbi-21-section2-3.png)
+![2021-powerbi2-2-loan_fields.png]({{site.baseurl}}/img/2021-powerbi2-2-loan_fields.png)
 
 Rename the columns and change year to Date format
+* _Date needs to be changed from a Number to Text and then to Date_
 
 Save
 
