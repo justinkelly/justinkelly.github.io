@@ -253,16 +253,6 @@ Save
 
 Close and Apply
 
-Go into the `Model` view and discuss
-
-Make the 2020 and 2021 tables hidden in the reports
-
-_discuss how and why_
-
-![2021-powerbi2-2-hides.png]({{site.baseurl}}/img/2021-powerbi2-2-hides.png)
-
-_Discuss what just happened and again why it's important_
-
 
 ## Section 5
 _Link the files_
@@ -277,6 +267,13 @@ And link the `loans` table to the `dewey` table using `dewey_code` field in both
 
 ![2021-powerbi2-3-loans-link.png]({{site.baseurl}}/img/2021-powerbi2-3-loans-link.png)
 
+Make the `2020` and `2021` tables hidden in the reports
+
+_discuss how and why_
+
+![2021-powerbi2-2-hides.png]({{site.baseurl}}/img/2021-powerbi2-2-hides.png)
+
+_Discuss what just happened and again why it's important_
 
 Save
 
