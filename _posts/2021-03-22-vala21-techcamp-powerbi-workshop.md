@@ -182,12 +182,30 @@ Import the 2020 loans xlsx file
 
 ![2021-powerbi2-2-import-2020.png]({{site.baseurl}}/img/2021-powerbi2-2-import-2020.png)
 
+Name the new table `2020`
 
 Repeat the process and import the loans 2021 xlsx file
 
-Merge the 2 loans files together using Append Queries as New
+Name the new table `2021`
+
+
+## Section 3
+_Merging files - one of the higlight featuers of PowerBI 
+
+Discuss why this is key and very important
+
+Merge the 2 loans files together using `Append Queries as New`
 
 ![2021-powerbi-19-section2-1.png]({{site.baseurl}}/img/2021-powerbi-19-section2-1.png)
+
+![2021-powerbi2-2-append.png]({{site.baseurl}}/img/2021-powerbi2-2-append.png)
+
+Name the new table `loans` and go into the Transforn Data section
+_Discuss what just happened and again why it's important_
+
+
+## Section 4
+_Data programming_
 
 Add a new column to format the call number to 3 digit Dewey format, using `Add Column` and then `Columns from examples`
 
@@ -195,6 +213,8 @@ Add a new column to format the call number to 3 digit Dewey format, using `Add C
 
 
 ![2021-powerbi2-2-loan_fields.png]({{site.baseurl}}/img/2021-powerbi2-2-loan_fields.png)
+
+_Discuss what happened and why this is important!_
 
 Rename the columns and change year to Date format
 * _Date needs to be changed from a Number to Text and then to Date_
@@ -205,7 +225,7 @@ Close and Apply
 
 Go into the `Model` view and discuss
 
-## Section 2  
+## Section 5
 _Link the files_
 
 
@@ -246,8 +266,11 @@ And Ribbon tables at different Dewey levels
 
 Save
 
+## Section 6
 
-## Section 3
+Replicate each of the 3 graphs from the intro/presentation
+
+## Section 7
 _Calculations_
 
 _This step is optional - can be ignored if taking to long or to hard_
@@ -290,7 +313,7 @@ Questions
 
 Do data visualistation and discuss limitation of CostPU and Turnover given underlying data issues
 
-## Section 4
+## Section 7
 _Add library locations_
 
 Import the libraries.csv file
