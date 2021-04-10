@@ -2,7 +2,7 @@
 layout: post
 published: true
 comments: true
-title: VALA21 TechCamp PowerBI Workshop
+title: Introduction to PowerBI for librarians
 tags: 'vala, powerbi, power_bi'
 ---
 _Notes for the VALA21 TechCamp PowerBI Workshop_
@@ -28,28 +28,6 @@ Why are we doing this?
 * Give you tools and knowledge so you can have a positive impact for your libraries
 
 How today will run	
-
-### Timing
-
-*   Intro and section 1 - 55 minuets
-    *   VALA Intro - 10 mins
-    *   JK intro slide 5 min
-    *   JK into 10 min
-    *   Section 1 - 15 min
-    *   Pause 5 min
-    *   Recap 5
-* Break for 5 minuets
-* Section 2 - 45 minuets
-    * Section 2 35 min
-    * Catch-up 5 mine
-    * Recap 5 minuets
-* Break for 30 minutes
-* Section 3 - 45 min
-* Break for 5 minuets
-* Section 4 - 50 minutes
-    *   40 minutes
-    *   Recap 20 min
-* Wrap up - 5 minutes
 
 ### Links
 
