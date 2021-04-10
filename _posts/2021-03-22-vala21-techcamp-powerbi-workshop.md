@@ -294,6 +294,11 @@ Discuss filters and level of fitlers
 
 ![2021-powerbi-18-section1-fitlers-13.png]({{site.baseurl}}/img/2021-powerbi-18-section1-fitlers-13.png)
 
+Discuss grouping, what and why and possible better solution in step 8
+
+Right click on Location in the fields section and select New Grouping
+
+![2021-powerbi-2-section-6-grouping.png]({{site.baseurl}}/img/2021-powerbi-2-section-6-grouping.png)
 
 
 ## Section 7
