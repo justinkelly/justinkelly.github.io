@@ -131,7 +131,11 @@ _Create the library data hierarchy using the Dewey system_
 
 ### Import the data
 
-Import the Dewey file `dewey.csv` and create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey_code`
+Import the Dewey file `dewey.csv` 
+
+![2021-powerbi2-1-import_csv.png]({{site.baseurl}}/img/2021-powerbi2-1-import_csv.png)
+
+and create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey_code`
 
 
 **Why and how?**
