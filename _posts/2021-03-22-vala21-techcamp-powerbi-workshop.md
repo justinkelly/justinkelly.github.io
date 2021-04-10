@@ -137,24 +137,12 @@ We need a way to link the 1st dewey file and this one
 ![]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)![2021-powerbi2-1-dewey.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)
 
 
-
-
-![2021-powerbi-11-section1-5.png]({{site.baseurl}}/img/2021-powerbi-11-section1-5.png)
-
-
-Rename the columns
-
 Save the file
 
 Then Close & Apply
 
 ![2021-powerbi-11-section1-6.png]({{site.baseurl}}/img/2021-powerbi-11-section1-6.png)
 
-
-![2021-powerbi-12-section1-7.png]({{site.baseurl}}/img/2021-powerbi-12-section1-7.png)
-
-
-![2021-powerbi-13-section1-8.png]({{site.baseurl}}/img/2021-powerbi-13-section1-8.png)
 
 Save file
 
@@ -175,6 +163,7 @@ We will now drag into the Table the columns codes and names from the dd1,dd2 and
 
 
 ![2021-powerbi-17-section1-12.png]({{site.baseurl}}/img/2021-powerbi-17-section1-12.png)
+
 
 
 Section 1 - Create the library data hierarchy using the Dewey system is now done
