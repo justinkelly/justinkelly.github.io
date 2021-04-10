@@ -203,7 +203,11 @@ Save
 
 Close and Apply
 
-Go into the `Model` view
+Go into the `Model` view and discuss
+
+## Section 2  
+_Link the files_
+
 
 ![2021-powerbi-22-section2-4.png]({{site.baseurl}}/img/2021-powerbi-22-section2-4.png)
 
