@@ -162,17 +162,12 @@ From the Visualizations section select `Table`
 ![2021-powerbi-15-section1-10.png]({{site.baseurl}}/img/2021-powerbi-15-section1-10.png)
 
 
-We will now drag into the Table the columns codes and names from the dd1,dd2 and dd3 tables
-
-![2021-powerbi-16-section1-11.png]({{site.baseurl}}/img/2021-powerbi-16-section1-11.png)
-
+We will now drag into the Table the columns codes and names from the dewey table
 
 ![2021-powerbi-17-section1-12.png]({{site.baseurl}}/img/2021-powerbi-17-section1-12.png)
 
 
-
 Section 1 - Create the library data hierarchy using the Dewey system is now done
-
 
 
 ## Section 2  
@@ -187,6 +182,10 @@ Name the new table `2020`
 Repeat the process and import the loans 2021 xlsx file
 
 Name the new table `2021`
+
+![2021-powerbi2-3-loan_tables.png]({{site.baseurl}}/img/2021-powerbi2-3-loan_tables.png)
+
+_Discuss what happened, file content not changed, what will happen next and why_
 
 
 ## Section 3
