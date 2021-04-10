@@ -223,14 +223,6 @@ Merge the 2 loans files together using `Append Queries as New`
 
 Name the new table `loans` and go into the Transforn Data section
 
-Make the 2020 and 2021 tables hidden in the reports
-
-_discuss how and why_
-
-![2021-powerbi2-2-hides.png]({{site.baseurl}}/img/2021-powerbi2-2-hides.png)
-
-_Discuss what just happened and again why it's important_
-
 
 ## Section 4
 _Data programming_
@@ -243,7 +235,9 @@ Add a new column to format the call number to 3 digit Dewey format, using `Add C
 
 _Discuss what happened and why this is important!_
 
-Rename the new columns `dewey_code`. _Discuss why_
+Rename the new columns `dewey_code`
+
+_Discuss why_
 
 Rename any other columns and change `year` to Date format
 * _Date needs to be changed from a Number to Text and then to Date_
@@ -259,6 +253,15 @@ Save
 Close and Apply
 
 Go into the `Model` view and discuss
+
+Make the 2020 and 2021 tables hidden in the reports
+
+_discuss how and why_
+
+![2021-powerbi2-2-hides.png]({{site.baseurl}}/img/2021-powerbi2-2-hides.png)
+
+_Discuss what just happened and again why it's important_
+
 
 ## Section 5
 _Link the files_
