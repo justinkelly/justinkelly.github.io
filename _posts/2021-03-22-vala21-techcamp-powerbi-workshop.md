@@ -304,11 +304,11 @@ _This step is optional - can be ignored if taking to long or to hard_
 Add calculations for turnover and cost per use
 
 ```
-Turnover = sum(loans[Loans])/sum(book_unique[Copies])
+Turnover = sum(loans[Loans])/sum(loans[Copies])
 ```
 
 ```
-CostPU = sum(book_unique[price])/sum(loans[Loans])
+CostPU = sum(loans[price])/sum(loans[Loans])
 ```
 
 Create calculations for Total Loans, Loan Ration and Price Per Use
@@ -348,8 +348,11 @@ Import the `libraries.csv` file
 
 Create a new column that we will use to link locations to loans
 
-
+![2021-powerbi-2-section-8-location.png]({{site.baseurl}}/img/2021-powerbi-2-section-8-location.png)
 
 In the model view link the libraries to the loans
+
+![2021-powerbi2-3-libraries_model.png]({{site.baseurl}}/img/2021-powerbi2-3-libraries_model.png)
+
 
 
