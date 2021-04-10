@@ -339,15 +339,17 @@ Questions
 
 Do data visualistation and discuss limitation of CostPU and Turnover given underlying data issues
 
-## Section 7
+## Section 8
 _Add library locations_
 
-Import the libraries.csv file
+_This step is optional - can be ignored if taking to long or to hard_
 
-Create a new column that we will use to linnk locations to loans
+Import the `libraries.csv` file
 
-![2021-powerbi-34-section4-1.png]({{site.baseurl}}/img/2021-powerbi-34-section4-1.png)
+Create a new column that we will use to link locations to loans
+
+
 
 In the model view link the libraries to the loans
 
-![2021-powerbi-35-section4-2.png]({{site.baseurl}}/img/2021-powerbi-35-section4-2.png)
+
