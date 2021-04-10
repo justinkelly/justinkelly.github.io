@@ -226,6 +226,12 @@ Rename the new columns `dewey_code`. _Discuss why_
 Rename any other columns and change `year` to Date format
 * _Date needs to be changed from a Number to Text and then to Date_
 
+Right click on `year` and slect `Date` from the `Change Type` menu
+
+![2021-powerbi2-2-date_fields.png]({{site.baseurl}}/img/2021-powerbi2-2-date_fields.png)
+
+_Discuss why_
+
 Save
 
 Close and Apply
