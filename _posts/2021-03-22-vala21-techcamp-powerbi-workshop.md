@@ -211,7 +211,7 @@ _Discuss what happened, file content not changed, what will happen next and why_
 
 
 ## Section 3
-_Merging files - one of the higlight featuers of PowerBI 
+_Merging files - one of the higlight featuers of PowerBI_
 
 Discuss why this is key and very important
 
