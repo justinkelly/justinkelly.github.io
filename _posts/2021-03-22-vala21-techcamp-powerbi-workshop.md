@@ -246,7 +246,21 @@ And Ribbon tables at different Dewey levels
 
 Save
 
-## Section 2.5
+
+## Section 3
+_Calculations_
+
+_This step is optional - can be ignored if taking to long or to hard_
+
+Add calculations for turnover and cost per use
+
+```
+Turnover = sum(loans[Loans])/sum(book_unique[Copies])
+```
+
+```
+CostPU = sum(book_unique[price])/sum(loans[Loans])
+```
 
 Create calculations for Total Loans, Loan Ration and Price Per Use
 
@@ -264,9 +278,6 @@ LoanRatio = sum(loans[TotalLoans])/SUM(loans[Copies])
 PricePerUse = sum(loans[price])/sum(loans[TotalLoans])
 ```
 
-```
-TotalLoans = loans[Location1]+loans[Location2]+loans[Location3]+loans[Location4]+loans[Location5]
-```
 
 Questions
 
@@ -276,40 +287,6 @@ Questions
 - How can we fix the problems
 - Delete calculations
 
-
-## Section 3
-_Data structure_
-
-Go the the Transform data section - which is within Model
-
-![2021-powerbi-31-section3-1.png]({{site.baseurl}}/img/2021-powerbi-31-section3-1.png)
-
-
-Unpivot locations - why?
-
-![2021-powerbi-32-section3-2.png]({{site.baseurl}}/img/2021-powerbi-32-section3-2.png)
-
-
-Duplicate loans as books table with unique data
-
-![2021-powerbi-35-section3-unpivot.png]({{site.baseurl}}/img/2021-powerbi-35-section3-unpivot.png)
-
-
-Remove price,quantity from `loans` table
-
-Remove loans from `books` table
-
-![2021-powerbi-33-section3-3.png]({{site.baseurl}}/img/2021-powerbi-33-section3-3.png)
-
-Add calculations for turnover and cost per use
-
-```
-Turnover = sum(loans[Loans])/sum(book_unique[Copies])
-```
-
-```
-CostPU = sum(book_unique[price])/sum(loans[Loans])
-```
 
 Do data visualistation and discuss limitation of CostPU and Turnover given underlying data issues
 
