@@ -221,7 +221,9 @@ Add a new column to format the call number to 3 digit Dewey format, using `Add C
 
 _Discuss what happened and why this is important!_
 
-Rename the columns and change year to Date format
+Rename the new columns `dewey_code`. _Discuss why_
+
+Rename any other columns and change `year` to Date format
 * _Date needs to be changed from a Number to Text and then to Date_
 
 Save
