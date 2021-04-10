@@ -266,10 +266,23 @@ _Discuss what just happened and again why it's important_
 ## Section 5
 _Link the files_
 
+_Discuss what we are about to do and why, and how this is diffrerent from Excel_
+
+Go into the `Model` section
 
 ![2021-powerbi-22-section2-4.png]({{site.baseurl}}/img/2021-powerbi-22-section2-4.png)
 
-And link the loans table to the dd3 table using L3_code in loans with L3_3 in dd3
+And link the `loans` table to the `dewey` table using `dewey_code` field in both tables. Noting that if we have namesd the fielkds correctly PowerBI may have already done this for us.
+
+![2021-powerbi2-3-loans-link.png]({{site.baseurl}}/img/2021-powerbi2-3-loans-link.png)
+
+
+Save
+
+## Section 6
+_Visualisation_
+
+Replicate each of the 3 graphs from the intro/presentation
 
 Go into `Report` view
 
@@ -277,36 +290,11 @@ Go into `Report` view
 
 From the `Visualizations` section select `Table`
 
-![2021-powerbi-24-section2-6.png]({{site.baseurl}}/img/2021-powerbi-24-section2-6.png)
-
-Drag into the table columns from the loans and dd tables
-
-![2021-powerbi-25-section2-7.png]({{site.baseurl}}/img/2021-powerbi-25-section2-7.png)
-
-![2021-powerbi-26-section2-8.png]({{site.baseurl}}/img/2021-powerbi-26-section2-8.png)
-
-![2021-powerbi-27-section2-9.png]({{site.baseurl}}/img/2021-powerbi-27-section2-9.png)
-
 Discuss filters and level of fitlers 
 
 ![2021-powerbi-18-section1-fitlers-13.png]({{site.baseurl}}/img/2021-powerbi-18-section1-fitlers-13.png)
 
 
-Why what we are seeing is important
-
-Can append as many year files as you want
-
-Create	loans by subject and create table
-
-![2021-powerbi-28-section2-10.png]({{site.baseurl}}/img/2021-powerbi-28-section2-10.png)
-
-And Ribbon tables at different Dewey levels
-
-Save
-
-## Section 6
-
-Replicate each of the 3 graphs from the intro/presentation
 
 ## Section 7
 _Calculations_
