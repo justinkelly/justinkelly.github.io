@@ -5,7 +5,7 @@ comments: true
 title: Introduction to PowerBI for librarians
 tags: 'vala, powerbi, power_bi'
 ---
-_Notes for the VALA21 TechCamp PowerBI Workshop_
+_This page details the notes for the VALA21 TechCamp PowerBI Workshop_
 
 All files are available on GitHub at: 
 * [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
@@ -27,8 +27,6 @@ Why are we doing this?
 * But if we can’t present data to support our stories and feelings we can’t have useful discussions with senior management etc. about the future of your libraries
 * Give you tools and knowledge so you can have a positive impact for your libraries
 
-How today will run	
-
 ### Links
 
 * This document: [https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/](https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/)
@@ -36,7 +34,6 @@ How today will run
 * Files
   * [https://bit.ly/vala21_powerbi](https://bit.ly/vala21_powerbi)
   * [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
-* Timer [https://countingdownto.com/countdown-pages/z6-VJBBJ](https://countingdownto.com/countdown-pages/z6-VJBBJ)
 
 ### Problem:
 
@@ -79,9 +76,9 @@ The data we are going to use today is a mix of
 
 **What we are going to do:**
 
-Turn a bunch of excel files into a maintainable, sharable and accurate dashboard, that allows you to answer complex queries simply using Power BI.
+Turn a bunch of excel and csv files into a maintainable, share-able and accurate dashboard, that allows you to answer complex queries simply using Power BI.
 
- The important aspects are not PowerBI and dashboards - 90q% of what we will cover today is data related and used with other tools and environments
+The important aspects are not PowerBI and dashboards - 80% of what we will cover today is data related and can be used with other tools and environments
 
 **Branch librarian for the Baillieu Library**
 _want to see the change in collection use for my branch_
@@ -103,7 +100,7 @@ _I want to see the detailed analysis within Physics for each branch_
 
 **Files we have**
 
-3 files that describe the structure/hierarchy of the collection
+1 file that describe the structure/hierarchy of the collection
 
 This this example we are using the 3 level of Dewey - but you can also think of similar internal structure that your organisation may use to define collections, parent collections and sub-collection
 
@@ -112,28 +109,23 @@ List of branch locations
 2 files that list loans, purchase cost, a holding quantity, per year for each location - 1 file per year
 
 ## Section 1
-_Create the library data hierarchy using the Dewey system is now done_
 
-3 files
+_What is PowerBI and intro to it's interface_
 
-1st Level (10 lines)
-
-![2021-powerbi-4-dd1.png]({{site.baseurl}}/img/2021-powerbi-4-dd1.png)
+![2021-powerbi2-1-home.png]({{site.baseurl}}/img/2021-powerbi2-1-home.png)
 
 
-2nd Level (100 lines)
+_Create the library data hierarchy using the Dewey system_
 
+1 files `dewey.csv`
 
-![2021-powerbi-5-dd2.png]({{site.baseurl}}/img/2021-powerbi-5-dd2.png)
+![2021-powerbi2-1-dewey_file.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey_file.png)
 
-3rd level (1000 lines)
-
-![2021-powerbi-6-dd3.png]({{site.baseurl}}/img/2021-powerbi-6-dd3.png)
 
 
 ### Import the data
 
-Import the first Dewey file and create a new column that extracts the first character of the code column. Name this new column `L1`
+Import the Dewey file `dewey.csv` and create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey`
 
 
 **Why and how?**
@@ -142,20 +134,7 @@ Import the second Dewey file
 
 We need a way to link the 1st dewey file and this one
 
-![2021-powerbi-7-section1-1.png]({{site.baseurl}}/img/2021-powerbi-7-section1-1.png)
-
-
-![2021-powerbi-8-section1-2.png]({{site.baseurl}}/img/2021-powerbi-8-section1-2.png)
-
-Now we need a way to link the 2nd dewey file to the 3rd one
-
-![2021-powerbi-9-section1-3.png]({{site.baseurl}}/img/2021-powerbi-9-section1-3.png)
-
-Rename the columns
-
-Import the 3rd dewey file
-
-![2021-powerbi-10-section1-4.png]({{site.baseurl}}/img/2021-powerbi-10-section1-4.png)
+![]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)![2021-powerbi2-1-dewey.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)
 
 
 
