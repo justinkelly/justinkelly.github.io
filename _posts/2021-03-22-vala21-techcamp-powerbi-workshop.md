@@ -4,7 +4,7 @@ published: true
 comments: true
 title: Introduction to PowerBI for librarians
 tags: 'vala, powerbi, power_bi'
-permalink: /introduction-to-powerbi-for-libraians/
+permalink: /introduction-to-powerbi-for-librarians/
 ---
 _This page details the notes for the VALA21 TechCamp PowerBI Workshop_
 
