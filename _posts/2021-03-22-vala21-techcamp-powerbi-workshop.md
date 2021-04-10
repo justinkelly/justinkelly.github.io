@@ -125,7 +125,7 @@ _Create the library data hierarchy using the Dewey system_
 
 ### Import the data
 
-Import the Dewey file `dewey.csv` and create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey`
+Import the Dewey file `dewey.csv` and create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey_code`
 
 
 **Why and how?**
@@ -168,9 +168,6 @@ We will now drag into the Table the columns codes and names from the dd1,dd2 and
 
 Section 1 - Create the library data hierarchy using the Dewey system is now done
 
-Talk about filters, and level of fitlers 
-
-![2021-powerbi-18-section1-fitlers-13.png]({{site.baseurl}}/img/2021-powerbi-18-section1-fitlers-13.png)
 
 
 ## Section 2  
@@ -219,7 +216,10 @@ Drag into the table columns from the loans and dd tables
 
 ![2021-powerbi-27-section2-9.png]({{site.baseurl}}/img/2021-powerbi-27-section2-9.png)
 
-Discuss filters
+Discuss filters and level of fitlers 
+
+![2021-powerbi-18-section1-fitlers-13.png]({{site.baseurl}}/img/2021-powerbi-18-section1-fitlers-13.png)
+
 
 Why what we are seeing is important
 
