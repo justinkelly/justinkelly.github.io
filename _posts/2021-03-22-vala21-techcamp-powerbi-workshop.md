@@ -19,9 +19,15 @@ All files are available on GitHub at:
 - What the focus is today
   - 80% will be about data, data formats and data structure
   - Thinking about what’s in the files, how do we connect them, and if there is no current way to join them - how to we make a way, and what are the limitations
-- Why?
+  
+### What is PowerBI and why would I use it?
 
-Why are we doing this?
+![2021-powerbi2-0-why.png]({{site.baseurl}}/img/2021-powerbi2-0-why.png)
+
+Discuss difference between Excel and PowerBi and why use 1 or the other
+
+
+### Why are we doing this?
 
 * Librarians know the stories of how your libraries are operating and evolving
 * But if we can’t present data to support our stories and feelings we can’t have useful discussions with senior management etc. about the future of your libraries
@@ -130,11 +136,10 @@ Import the Dewey file `dewey.csv` and create a new column that correctly formats
 
 **Why and how?**
 
-Import the second Dewey file
 
-We need a way to link the 1st dewey file and this one
+We need a way to link the dwey file 
 
-![]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)![2021-powerbi2-1-dewey.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)
+![2021-powerbi2-1-dewey.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)
 
 
 Save the file
