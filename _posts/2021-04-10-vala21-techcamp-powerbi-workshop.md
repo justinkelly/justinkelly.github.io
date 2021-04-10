@@ -1,7 +1,0 @@
----
-layout: post
-published: true
-comments: true
-title: vala21 techcamp powerbi workshop
----
-<meta http-equiv="refresh" content="0; URL=https://justin.kelly.org.au/introduction-to-powerbi-for-libraians/" />
