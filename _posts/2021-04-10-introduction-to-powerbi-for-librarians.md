@@ -23,7 +23,13 @@ All files are available on GitHub at:
   
 ### What is PowerBI and why would I use it?
 
+So we can go from a disparate bunch of Excel and CSV files, to a connected system/database
+
 ![2021-powerbi2-0-why.png]({{site.baseurl}}/img/2021-powerbi2-0-why.png)
+
+That can produce meaningfull reports and dashboards
+
+![2021-powerbi-1-branch.png]({{site.baseurl}}/img/2021-powerbi-1-branch.png)
 
 Discuss difference between Excel and PowerBi and why use 1 or the other
 
