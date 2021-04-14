@@ -312,14 +312,6 @@ _This step is optional - can be ignored if taking to long or to hard_
 
 Add calculations for turnover and cost per use
 
-```
-Turnover = sum(loans[Loans])/sum(loans[Copies])
-```
-
-```
-CostPU = sum(loans[price])/sum(loans[Loans])
-```
-
 Create calculations for Total Loans, Loan Ration and Price Per Use
 
 ![2021-powerbi-29-section2-11.png]({{site.baseurl}}/img/2021-powerbi-29-section2-11.png)
@@ -329,11 +321,11 @@ Create calculations for Total Loans, Loan Ration and Price Per Use
 
 
 ```
-LoanRatio = sum(loans[TotalLoans])/SUM(loans[Copies])
+Turnover = sum(loans[Loans])/SUM(loans[Copies])
 ```
 
 ```
-PricePerUse = sum(loans[price])/sum(loans[TotalLoans])
+PricePerUse = sum(loans[Price])/sum(loans[Loans])
 ```
 
 
