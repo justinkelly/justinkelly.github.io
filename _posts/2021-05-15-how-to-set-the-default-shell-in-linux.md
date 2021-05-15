@@ -7,7 +7,7 @@ tags: linux
 ---
 One thing I always forget when logging into a new Linux server is is how to set the default shell.
 
-THe below command sets the default to bash
+The below command sets the default to bash
 
 ```chsh -s /bin/bash```
 
