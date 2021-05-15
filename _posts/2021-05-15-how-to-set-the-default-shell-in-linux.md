@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 title: How to set the default shell in Linux
 tags: linux
