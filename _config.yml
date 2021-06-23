@@ -6,7 +6,7 @@ enforce_ssl: https://justin.kelly.org.au
 permalink: /:title/
 excerpt_separator: <!--more-->
 timezone: Australia/Melbourne
-
+comments: false
 # Owner/author
 owner:
   name:           Justin Kelly
