@@ -9,8 +9,10 @@ layout: default
 </div>	
   {% include author.html %}
 
-{% if page.comments != false %}
-  {% include comments.html %} 
+{% if site.comments != false %}
+	{% if page.comments != false %}
+	  {% include comments.html %} 
+	{% endif%}
 {% endif%}
 
 <div class="related">
