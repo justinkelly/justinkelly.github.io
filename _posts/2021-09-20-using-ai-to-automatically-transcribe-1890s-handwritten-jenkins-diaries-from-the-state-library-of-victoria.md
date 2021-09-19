@@ -25,7 +25,7 @@ In 2019, I received the SLV Digital Fellowship ( [https://www.slv.vic.gov.au/int
 
 The result of this fellowship is [Biblio.ai](http://biblio.ai) - an open source web service that connects to libraries digital repositories, extracts the available digital objects and uses AI and computer vision to automatically enhance the metadata of the records - with the primary focus on accessilibity.
 
-One of the many features of [Biblio.a](http://biblio.au)i is the ability to convert handwriting to text, using Microsoft Azure Cognitive Services. Given the importance of the Jenkins diaries to this history of Victoria - I though these diaries would be a prefect test subject to document, analyse and measure the affectiveness of AI based transcriptions of historical handwritten doucments.
+One of the many features of [Biblio.a](http://biblio.ai) is the ability to convert handwriting to text, using Microsoft Azure Cognitive Services. Given the importance of the Jenkins diaries to this history of Victoria - I though these diaries would be a prefect test subject to document, analyse and measure the affectiveness of AI based transcriptions of historical handwritten doucments.
 
 4 pages of handwritting where chosen as test records, ranging from easy (cursive, historical and clear) to very hard to read (cursive, historical, words joined together, and squashed)
 
@@ -177,11 +177,11 @@ an I came homeEarly and Inade myself Ready for hash
 
 [Biblio.ai](https://biblio.ai) - Open source web service create by me to connect libraries, APIs, and AI services: $0
 
-[Micrsoft Azure Congitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/#overview) to do a number of different requests per image. $8.11
+[Micrsoft Azure Congitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/#overview) to do a number of different requests per image: $8.11 Australian Dollars
 
 ![2021-09-jenkins-cost.png]({{site.baseurl}}/img/2021-09-jenkins-cost.png)
 
-Database and API services provided the open source web server [Supabase.io](https://supabase.io/) : $0
+Database and API services provided the open source web server [Supabase.io](https://supabase.io/): $0
 
 Serverless functions - the Biblio.ai API results - from [Netlify](https://www.netlify.com/): $0
 
