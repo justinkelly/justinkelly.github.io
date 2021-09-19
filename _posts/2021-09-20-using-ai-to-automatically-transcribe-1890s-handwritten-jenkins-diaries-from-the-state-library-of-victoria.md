@@ -68,7 +68,7 @@ long it would cost Ignore to get it
   - Words: 102
 - AI transcription:  
   - Words correct: 85
-  - Percentage correct: 83%
+  - Percent correct: 83%
 
 
 ## Medium
@@ -79,15 +79,7 @@ Next up are letters and diary entries by Joseph with increasing level of difficu
 
 ![2021-09-jenkins-page2.png]({{site.baseurl}}/img/2021-09-jenkins-page2.png)
 
-Original
-
-word: 94
-
-transcription
-
-words correct 49
-
-percentage correct:  52%
+### API results
 
 ```
 The Parapet have now been build higher than ever 
@@ -101,22 +93,23 @@ Blades are very backward.
 The Diary I send two papers off with the 
 ```
 
+### Results
+
+- Original document:
+  - Words: 94
+- AI transcription:
+  - Words correct: 49
+  - Percent correct: 52%
+
+
 ## Hard
 
 [https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371576&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371576&mode=browse)
 
 ![2021-09-jenkins-page3.png]({{site.baseurl}}/img/2021-09-jenkins-page3.png)
 
-Original
 
-words: 127
-
-Translation
-
-correct words: 58
-
-correct percentage: 46%
-
+### AI transcrtiption
 ```
 Sie, Inving on the b the of fuly last year  
 ligh a certain quorumcript in your 
@@ -136,13 +129,25 @@ take the lashole hace in the seadue
 It would fill nearly 3' columns 
 ```
 
-Very hard
+### Results
 
-worrds 110:
+
+- Original document:
+  - Words: 127
+- AI transcription:
+  - Correct words: 58
+  - Percent correct: 46%
+
+
+
+## Very hard
+
 
 [https://viewer.slv.vic.gov.au/?entity=IE20353400&file=FL20371855&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20353400&file=FL20371855&mode=browse)
 
 ![2021-09-jenkins-page4.png]({{site.baseurl}}/img/2021-09-jenkins-page4.png)
+
+### AI transcription
 
 ```
 I have to get oh to attend to onature. I slapher gain lentils b a - one five 
@@ -155,17 +160,21 @@ an I came homeEarly and Inade myself Ready for hash
 
 ```
 
-Words correct: 58
+### Results
 
-Percentage correct : 53%
+- original document:
+  - Words: 110
+AI transcription:  
+  - Words correct: 58
+  - Percent correct : 53%
 
-Cost:
+## Cost
 
 3 full volumes of the Jenkins diaries plus two thousand other SLV images were processed at a total cost of $8.11 Australian Dollars. This is the actual cost of Micrsoft Azure Congitive Services to do a number of different requests per image.
 
 ![2021-09-jenkins-cost.png]({{site.baseurl}}/img/2021-09-jenkins-cost.png)
 
-Quantity or Quality?
+## Quantity or Quality?
 
 My main focus of my SLV Digital Fellowship is how increase the accessiblity of digital items and collections - particulary focused on people with visual, hearing or learning difficultities - using AI and realted technologies.
 
@@ -177,6 +186,6 @@ For people with visual or learning difficulttiues, a Library having historical h
 
 Many Librarians are hesitant to make public something that is not perfect, when focused around items of limited quantity - this makes sense, but when a library such as SLV has hundres of thousands of items undescribed, a more pragmatic is recommended.
 
-Conclusion
+## Conclusion
 
 AI based transctiptsion does not replace the need for manual human based transcriptions of historical doucments - it complements it, and enables an institution to base transcriptions for previously unimaginable quantioty of items.
