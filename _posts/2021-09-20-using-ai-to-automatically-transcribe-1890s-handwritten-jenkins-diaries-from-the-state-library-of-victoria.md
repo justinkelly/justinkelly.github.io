@@ -23,7 +23,7 @@ In 1997, the State Library of Victoria (SLV) acquired 25 volumes of the handwrit
 
 In 2019, I received the SLV Digital Fellowship ( [https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly](https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly) ) to look at using computer vision and related AI technologists to automatically enrich the metadata for SLV digital records.
 
-The result of this fellowship is [Biblio.ai](http://biblio.ai) - an open source web service that connects to libraries digital repositories, extracts the available digital objects and uses AI and computer vision to automatically enhance the metadata of the records.
+The result of this fellowship is [Biblio.ai](http://biblio.ai) - an open source web service that connects to libraries digital repositories, extracts the available digital objects and uses AI and computer vision to automatically enhance the metadata of the records - with the primary focus on accessilibity.
 
 One of the many features of [Biblio.a](http://biblio.au)i is the ability to convert handwriting to text, using Microsoft Azure Cognitive Services. Given the importance of the Jenkins diaries to this history of Victoria - I though these diaries would be a prefect test subject to document, analyse and measure the affectiveness of AI based transcriptions of historical handwritten doucments.
 
@@ -173,9 +173,17 @@ AI transcription:
 
 ## Cost
 
-3 full volumes of the Jenkins diaries plus two thousand other SLV images were processed at a total cost of $8.11 Australian Dollars. This is the actual cost of Micrsoft Azure Congitive Services to do a number of different requests per image.
+3 full volumes of the Jenkins diaries plus two thousand other SLV images were processed at a total cost of $8.11 Australian Dollars.
+
+[Biblio.ai](https://biblio.ai) - Open source web service create by me to connect libraries, APIs, and AI services: $0
+
+[Micrsoft Azure Congitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/#overview) to do a number of different requests per image. $8.11
 
 ![2021-09-jenkins-cost.png]({{site.baseurl}}/img/2021-09-jenkins-cost.png)
+
+Database and API services provided the open source web server [Supabase.io](https://supabase.io/) : $0
+
+Serverless functions - the Biblio.ai API results - from [Netlify](https://www.netlify.com/): $0
 
 ## Quantity or Quality?
 
