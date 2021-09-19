@@ -5,6 +5,7 @@ comments: true
 title: >-
   Using AI to automatically transcribe 1890s handwritten Jenkins Diaries from
   the State Library of Victoria
+tags: ''
 ---
 ## Summary
 
@@ -42,7 +43,7 @@ First up is a letter from Volume 1 - to Joseph Jenkins
 
 ### API results
 
-```jsx
+```
 Pheola Victoria
 Aug 184 1592
 just a few lines to 
@@ -61,17 +62,14 @@ a will lift but being concealed so
 long it would cost Ignore to get it 
 ```
 
-Results
+### Results
 
-Original document
+- Original document - 
+  - Words: 102
+- AI transcription:  
+  - Words correct: 85
+  - Percentage correct: 83%
 
-words: 102
-
-Translation
-
-correct works: 85
-
-correct  percent: 83%
 
 ## Medium
 
@@ -91,7 +89,7 @@ words correct 49
 
 percentage correct:  52%
 
-```jsx
+```
 The Parapet have now been build higher than ever 
 War young flock. for this year tourists of to lamb. 
 10 paluss of colts and another wheely to come 
@@ -119,7 +117,7 @@ correct words: 58
 
 correct percentage: 46%
 
-```jsx
+```
 Sie, Inving on the b the of fuly last year  
 ligh a certain quorumcript in your 
 Care whoon the consider ation than ! 
@@ -146,7 +144,7 @@ worrds 110:
 
 ![2021-09-jenkins-page4.png]({{site.baseurl}}/img/2021-09-jenkins-page4.png)
 
-```jsx
+```
 I have to get oh to attend to onature. I slapher gain lentils b a - one five 
 fell and gloomy. we had a towerat T so I had an Excuse feetbe late  
 She wh work the became live and pleasant before croon ) came home 
