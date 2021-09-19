@@ -19,15 +19,15 @@ Investigation of the purpose, speed, cost and accuracy of using AI to automatica
 
 ## Introduction
 
-In 1997 State Library of Victoria (SLV) acquired 25 volumes of the handwritten diaries of Joseph Jenkins - itinerant labourer in gold rush era Central Victoria. Around 2010 a internal SLV project was staff by staff and volunteers to manually transcribe the Jenkins diaries. In the last 10 years, 16 of the 25 volumes have been transcribed - with an accuracy of around 99% of words being transcribed.
+In 1997, the State Library of Victoria (SLV) acquired 25 volumes of the handwritten diaries of Joseph Jenkins - itinerant labourer in gold rush era Central Victoria. Around 2010 an internal SLV project was started by staff and volunteers to manually transcribe the Jenkins diaries. In the last 10 years, 16 of the 25 volumes have been transcribed - with an accuracy of around 99% of words being transcribed.
 
-In 2019 I received the SLV Digital Fellowship ( [https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly](https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly) ) to look at using computer vision and related AI technologists to automatically enrich the metadata for SLV digital records.
+In 2019, I received the SLV Digital Fellowship ( [https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly](https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly) ) to look at using computer vision and related AI technologists to automatically enrich the metadata for SLV digital records.
 
 The result of this fellowship is [Biblio.ai](http://biblio.ai) - an open source web service that connects to libraries digital repositories, extracts the available digital objects and uses AI and computer vision to automatically enhance the metadata of the records.
 
 One of the many features of [Biblio.a](http://biblio.au)i is the ability to convert handwriting to text, using Microsoft Azure Cognitive Services. Given the importance of the Jenkins diaries to this history of Victoria - I though these diaries would be a prefect test subject to document, analyse and measure the affectiveness of AI based transcriptions of historical handwritten doucments.
 
-4 pages of handwriting where chosen as test records, ranging from easy ( cursice, historical and clear) to very hard to read (cusrive, historical, words joined together, and squashed)
+4 pages of handwritting where chosen as test records, ranging from easy (cursive, historical and clear) to very hard to read (cursive, historical, words joined together, and squashed)
 
 ## Easy
 
@@ -185,10 +185,10 @@ As a result of my reaserch in this area and the development of [biblio.ai](http:
 
 For people with visual or learning difficulttiues, a Library having historical handwritten documents with no transcriptions, is the same is having no documents at atll.
 
- Any transcription - with approblie cavests/notices - is better than none.
+Any transcription - with appropriate caveats/notices - is better than none.
 
-Many Librarians are hesitant to make public something that is not perfect, when focused around items of limited quantity - this makes sense, but when a library such as SLV has hundres of thousands of items undescribed, a more pragmatic is recommended.
+Many Librarians are hesitant to make public something that is not perfect, when focused around items of limited quantity - this makes sense, but when a library such as SLV has hundreds of thousands of items undescribed, a more pragmatic is recommended.
 
 ## Conclusion
 
-AI based transctiptsion does not replace the need for manual human based transcriptions of historical doucments - it complements it, and enables an institution to base transcriptions for previously unimaginable quantioty of items.
+For the purpose of accessibility and quantity rather than accuracy and quality, AI based handwriting to text presents a new solutions to complement manual transcriptions of historical documents. 
