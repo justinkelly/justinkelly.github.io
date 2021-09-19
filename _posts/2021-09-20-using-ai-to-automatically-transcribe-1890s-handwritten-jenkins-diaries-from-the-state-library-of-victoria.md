@@ -165,9 +165,9 @@ an I came homeEarly and Inade myself Ready for hash
 
 ### Results
 
-- original document:
+- Original document:
   - Words: 110
-AI transcription:  
+- AI transcription:  
   - Words correct: 58
   - Percent correct : 53%
 
