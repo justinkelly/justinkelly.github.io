@@ -9,11 +9,9 @@ tags: ''
 ---
 ## Summary
 
-16 of the 25 volumes of the Jenkins diaries have been transcribed at near perfect level of accuracy over an approximate **10 years** by State Library of Victoria (SLV) staff and volunteers.
-
-3 volumes where transcribes by the AI based web service [Biblio.ai](https://biblio.ai) in approximately **5 hours** at a level of accuracy of between 40% and 83% (excluding impossible to read, totally damaged or extremely hard to read pages) - at a cost of under $10 Australian Dollars.
-
-For the purpose of accessibility and quantity rather than accuracy and quality, AI based handwriting to text presents a new solutions to complement manual transcriptions of historical documents.
+- 16 of the 25 volumes of the Jenkins diaries have been transcribed at near perfect level of accuracy over an approximate **10 years** by State Library of Victoria (SLV) staff and volunteers.
+- 3 volumes where transcribes by the AI based web service [Biblio.ai](https://biblio.ai) in approximately **5 hours** at a level of accuracy of between 40% and 83% (excluding impossible to read, totally damaged or extremely hard to read pages) - at a cost of under $10 Australian Dollars.
+- For the purpose of accessibility and quantity rather than accuracy and quality, AI based handwriting to text presents a new solutions to complement manual transcriptions of historical documents.
 
 ## Abstract
 
@@ -35,13 +33,13 @@ One of the many features of [Biblio.a](http://biblio.au)i is the ability to conv
 
 First up is a letter from Volume 1 - to Joseph Jenkins
 
-[https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371699&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371699&mode=browse)
+Original document: [https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371699&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371699&mode=browse)
 
 ![2021-09-jenkins-page1.png]({{site.baseurl}}/img/2021-09-jenkins-page1.png)
 
-[https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371699](https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371699)
+AI API result: [https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371699](https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371699)
 
-### API results
+### AI transcription
 
 ```
 Pheola Victoria
@@ -75,9 +73,11 @@ long it would cost Ignore to get it
 
 Next up are letters and diary entries by Joseph with increasing level of difficulty to read
 
-[https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371649&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371649&mode=browse)
+Original document: [https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371649&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371649&mode=browse)
 
 ![2021-09-jenkins-page2.png]({{site.baseurl}}/img/2021-09-jenkins-page2.png)
+
+AI API result: [https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371649](https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371649)
 
 ### API results
 
@@ -104,10 +104,11 @@ The Diary I send two papers off with the
 
 ## Hard
 
-[https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371576&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371576&mode=browse)
+Original document: [https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371576&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20347212&file=FL20371576&mode=browse)
 
 ![2021-09-jenkins-page3.png]({{site.baseurl}}/img/2021-09-jenkins-page3.png)
 
+AI API result: [https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371576](https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371576)
 
 ### AI transcrtiption
 ```
@@ -146,6 +147,8 @@ It would fill nearly 3' columns
 [https://viewer.slv.vic.gov.au/?entity=IE20353400&file=FL20371855&mode=browse](https://viewer.slv.vic.gov.au/?entity=IE20353400&file=FL20371855&mode=browse)
 
 ![2021-09-jenkins-page4.png]({{site.baseurl}}/img/2021-09-jenkins-page4.png)
+
+AI API result: [https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371855](https://api.biblio.ai/.netlify/functions/data-html?metadata_key=metadata_identifier_file_id&metadata_value=FL20371855)
 
 ### AI transcription
 
