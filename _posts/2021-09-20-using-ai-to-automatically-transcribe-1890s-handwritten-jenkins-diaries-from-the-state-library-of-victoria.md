@@ -9,7 +9,7 @@ tags: ''
 ---
 ## Summary
 
-- 16 of the 25 volumes of the Jenkins diaries have been transcribed at near perfect level of accuracy over an approximate **10 years** by State Library of Victoria (SLV) staff and volunteers.
+- 21 of the 25 volumes of the Jenkins diaries have been transcribed at near perfect level of accuracy over an approximate **13 years** by State Library of Victoria (SLV) staff and volunteers.
 - 3 volumes where transcribes by the AI based web service [Biblio.ai](https://biblio.ai) in approximately **5 hours** at a level of accuracy of between 40% and 83% (excluding impossible to read, totally damaged or extremely hard to read pages) - at a cost of under $10 Australian Dollars.
 - For the purpose of accessibility and quantity rather than accuracy and quality, AI based handwriting to text presents a new solutions to complement manual transcriptions of historical documents.
 
@@ -19,7 +19,7 @@ Investigation of the purpose, speed, cost and accuracy of using AI to automatica
 
 ## Introduction
 
-In 1997, the State Library of Victoria (SLV) acquired 25 volumes of the handwritten diaries of Joseph Jenkins - itinerant labourer in gold rush era Central Victoria. Around 2010 an internal SLV project was started by staff and volunteers to manually transcribe the Jenkins diaries. In the last 10 years, 16 of the 25 volumes have been transcribed - with an accuracy of around 99% of words being transcribed.
+In 1997, the State Library of Victoria (SLV) acquired 25 volumes of the handwritten diaries of Joseph Jenkins - itinerant labourer in gold rush era Central Victoria. In 2018, an internal SLV project was started by staff and volunteers to manually transcribe the Jenkins diaries. In the last 13 years, 21 of the 25 volumes have been transcribed - with an accuracy of around 99% of words being transcribed.
 
 In 2019, I received the SLV Digital Fellowship ( [https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly](https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly) ) to look at using computer vision and related AI technologists to automatically enrich the metadata for SLV digital records.
 
