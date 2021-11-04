@@ -12,7 +12,7 @@ tags: 'biblo.ai, slv'
 - For legible pages from World War 1 handwritten diaries held at the State Library of Victoria, AI services are able to correctly transcribe them at an level between 10% to 49% accuracy.
 - For pages with a low level of accuracy, sections transcribed correctly add to the narrative of the diaries and further our understanding of the authors experience.
 - Furthermore, even with a low level of accuracy, text analysis AI is able to enrich the transcription with very useful geographic location and entity recognition information.
-- At a little of 1 cent (AUD) per page, AI based transcription and enrichment is a very cost efficient way to improve the accessibility of a library's digital collection.
+- At a little over 1 cent (AUD) per page, AI based transcription and enrichment is a very cost efficient way to improve the accessibility of a library's digital collection.
 
 ## Abstract
 
