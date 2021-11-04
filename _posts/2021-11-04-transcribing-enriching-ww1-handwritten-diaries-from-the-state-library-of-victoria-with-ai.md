@@ -27,7 +27,7 @@ computer vision to automatically enhance the metadata of the records - with the 
 
 ## Introduction
 
-State Library of Victoria has collection of scanned handwritten diaries from Australian soldiers in World War 1. These records all have detailed bibliographic summaries - but none have been transcribed. In this blog post we'll detail 3 selected pages from the 80 page diary and review and score the AI transcribe and enrichment.
+State Library of Victoria has a collection of scanned handwritten diaries from Australian soldiers in World War 1. These records all have detailed bibliographic summaries - but none have been transcribed. In this blog post we'll detail 3 selected pages from the 80 page diary and review and score the AI transcribe and enrichment.
 
 Thanks to [Shona Dewar](https://www.linkedin.com/in/shona-dewar-47b65074) from SLV for sending through a selection of diaries! In this blog post the diary to be analysed is of Private Edgar Atheling Davis, who served in two periods between 1915 and 1919. Available online at [http://handle.slv.vic.gov.au/10381/311907](http://handle.slv.vic.gov.au/10381/311907)
 
