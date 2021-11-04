@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: false
 title: >-
   Transcribing & enriching WW1 handwritten diaries from the State Library of
