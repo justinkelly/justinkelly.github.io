@@ -5,6 +5,7 @@ comments: false
 title: >-
   Transcribing & enriching WW1 handwritten diaries from the State Library of
   Victoria with AI
+tags: ''
 ---
 ## Summary
 
@@ -19,7 +20,7 @@ Investigate the cost and accuracy of using AI to automatically transcribe and en
 
 ## Background
 
-In 2019, I received the SLV Digital Fellowship ( [https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly](https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly) ) to investigate computer vision and related AI technologists to automatically enrich the metadata for SLV digital records.
+In 2019, I received the [SLV Digital Fellowship](https://www.slv.vic.gov.au/interact-with-us/fellowships/digital-fellowship/2019-fellow-justin-kelly) to investigate computer vision and related AI technologists to automatically enrich the metadata for SLV digital records.
 
 The result of this fellowship is [Biblio.ai](http://biblio.ai/) - an open source web service that connects to libraries digital repositories, extracts the available digital objects and uses AI and 
 computer vision to automatically enhance the metadata of the records - with the primary focus on accessibility.
