@@ -143,3 +143,11 @@ Using [Biblio.ai](http://Biblio.ai) and the underlying MS Azure services the cos
 
 
 ## Conclusion
+
+With the focus on improving the accessiblity of a libraries digital collection and enriching metdata automatically (and not on 100% perfect word-for-word transcription) -  AI services enabled by Biblio.AI can play an important role in transforming
+
+
+The diary analysised in this blog post, most likely would never be manually transcribed. Manual transcription of historical documents such as this diary is a very time consuiming and expensive process - and normally limited to historical important documents - or works by important public figures. 
+
+By using AI services like Biblio.AI a library can automatically transcrobe (at less than perfect levels of accuracy) their entire digital collection for just over 1 cent AUD per page. From the examples provided above I hope to present the clear picture that when focused on acessibility - any automated transcription and enrichment - no matter the level of accuracy - is better than none.
+
