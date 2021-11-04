@@ -33,8 +33,7 @@ Thanks to [Shona Dewar](https://www.linkedin.com/in/shona-dewar-47b65074) from S
 
 ## First selected page - file 25 of 83
 
-
-![]({{site.baseurl}}/img/2021-11-file-1.png)![2021-11-file-1.png]({{site.baseurl}}/img/2021-11-file-1.png)
+![2021-11-file-1.png]({{site.baseurl}}/img/2021-11-file-1.png)
 
 Source record: 
 
