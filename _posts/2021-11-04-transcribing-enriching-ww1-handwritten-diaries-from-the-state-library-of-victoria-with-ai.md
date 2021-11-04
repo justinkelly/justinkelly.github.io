@@ -136,7 +136,7 @@ While this page had a high level of accuracy of 49% - for me the most important 
 
 ## Cost
 
-Using [Biblio.ai](http://Biblio.ai) and the underlying MS Azure services the cost to automatiicaly transribe and enrich the entire 83 pages of Private Edgar Atheling Davis WW1 diary is 86 cents AUD. A little over 1 cent AUD per page.
+Using [Biblio.ai](http://Biblio.ai) and the underlying MS Azure services the cost to automatically transribe and enrich the entire 83 pages of Private Edgar Atheling Davis WW1 diary is 86 cents AUD. A little over 1 cent AUD per page.
 
 ![2021-11-cost.png]({{site.baseurl}}/img/2021-11-cost.png)
 
