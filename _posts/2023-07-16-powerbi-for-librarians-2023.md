@@ -124,8 +124,52 @@ Waterfall
 
 ![2023-vala-waterfall.png]({{site.baseurl}}/img/2023-vala-waterfall.png)
 
+Decomposition Tree
+
+![2023-vala-decomposition-tree.png]({{site.baseurl}}/img/2023-vala-decomposition-tree.png)
+
+
+Card
+
+![2023-vala-card.png]({{site.baseurl}}/img/2023-vala-card.png)
+
+Multi card
+
+![2023-vala-multi-card-row.png]({{site.baseurl}}/img/2023-vala-multi-card-row.png)
+
 
 Save the file
+
+
+## Section 3
+
+
+
+
+
+## Section 4
+_Dashboard and slicers_
+
+
+
+## Section 5
+_Data manipulation_
+
+Review data and notice the pattern in the Item Category names, how can we make all these categories simpler and easier to read 
+
+![2023-vala-dashboard-parent.png]({{site.baseurl}}/img/2023-vala-dashboard-parent.png)
+
+![2023-vala-duplicate-column.png]({{site.baseurl}}/img/2023-vala-duplicate-column.png)
+
+
+![2023-vala-split-delim.png]({{site.baseurl}}/img/2023-vala-split-delim.png)
+
+![2023-vala-split-delim-space.png]({{site.baseurl}}/img/2023-vala-split-delim-space.png)
+
+![2023-vala-split-delim-space-remove.png]({{site.baseurl}}/img/2023-vala-split-delim-space-remove.png)
+
+![2023-vala-split-delim-space-save.png]({{site.baseurl}}/img/2023-vala-split-delim-space-save.png)
+
 
 Then Close & Apply
 
