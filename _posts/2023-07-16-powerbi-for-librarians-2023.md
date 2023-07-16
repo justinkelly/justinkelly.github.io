@@ -79,15 +79,11 @@ The data we are going to use today is a mix of
 
 * Real bibliographic info based on Newcastle (UK) Libraries catalogue titles
     * [https://data.world/datagov-uk/364b7c8f-3917-49bb-aae2-8e504a6fde11](https://data.world/datagov-uk/364b7c8f-3917-49bb-aae2-8e504a6fde11)
-* Dewey Decimal System
-    * [https://github.com/Alacritous/DDS_directory_structure](https://github.com/Alacritous/DDS_directory_structure)
-* Randomised loans, prices and quantity data
-* Selected Melbourne University library locations
-* This data has some limitations that can’t be solved - what do we do in this case?
+
 
 **What we are going to do:**
 
-Turn a bunch of excel and csv files into a maintainable, share-able and accurate dashboard, that allows you to answer complex queries simply using Power BI.
+Turn an excel/csv file into a maintainable, share-able and accurate dashboard, that allows you to answer complex queries simply using Power BI.
 
 The important aspects are not PowerBI and dashboards - 80% of what we will cover today is data related and can be used with other tools and environments
 
@@ -126,19 +122,17 @@ _What is PowerBI and intro to it's interface_
 ![2021-powerbi2-1-home.png]({{site.baseurl}}/img/2021-powerbi2-1-home.png)
 
 
-_Create the library data hierarchy using the Dewey system_
-
-1 files `dewey.csv`
-
-![2021-powerbi2-1-dewey_file.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey_file.png)
-
-
-
 ### Import the data
 
-Import the Dewey file `dewey.csv` 
+Import a CSV file using the `Text/CSV` option from the `Get Data` menu
 
-![2021-powerbi2-1-import_csv.png]({{site.baseurl}}/img/2021-powerbi2-1-import_csv.png)
+![2023-vala-import-csv-menu.png]({{site.baseurl}}/img/2023-vala-import-csv-menu.png)
+
+
+Import the Dewey file `libraries-ni-annual-loans-summary-2021-2022.csv` 
+
+![2023-vala-import-csv.png]({{site.baseurl}}/img/2023-vala-import-csv.png)
+
 
 Review contents and select `Load`
 
