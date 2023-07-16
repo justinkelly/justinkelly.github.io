@@ -144,6 +144,13 @@ Save the file
 ## Section 3
 
 
+![2023-vala-step1-title.png]({{site.baseurl}}/img/2023-vala-step1-title.png)
+
+![2023-vala-step1-filter-top5.png]({{site.baseurl}}/img/2023-vala-step1-filter-top5.png)
+
+![2023-vala-dashboard-filter-cat.png]({{site.baseurl}}/img/2023-vala-dashboard-filter-cat.png)
+
+
 
 
 
