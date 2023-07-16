@@ -136,26 +136,29 @@ Import the Loans file `libraries-ni-annual-loans-summary-2021-2022.csv`
 
 Review contents and select `Load`
 
-This will load into PowerBI the contents of the `dewey.csv` file, and will create a table in PowerBI called `dewey`
+This will load into PowerBI the contents of the `libraries-ni-annual-loans-summary-2021-2022.csv` file, and will create a table in PowerBI called `libraries-ni-annual-loans-summary-2021-2022`
 
 ![2023-vala-import-csv-load.png]({{site.baseurl}}/img/2023-vala-import-csv-load.png)
 
+Save the file
+
+If you've managed to get this far - congratualtions - you've jjust completed one of the hardest probably - jsut getting the data and imported into PowerBI
+
+## Section 2  
+_Create some reports_
 
 
-We now need to create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey_code`
+Go into `Report` view
 
-From the `Add columns` menu select `Column From Examples`
-![2021-powerbi2-2-add_example.png]({{site.baseurl}}/img/2021-powerbi2-2-add_example.png)
+![2021-powerbi-14-section1-9.png]({{site.baseurl}}/img/2021-powerbi-14-section1-9.png)
 
-_discuss what this is, and why is usefull and how is alternative to programming_
 
-Go through steps to format into 3 character dewet
 
-**Why and how?**
 
-We need a way to link the dwey file 
 
-![2021-powerbi2-1-dewey.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey.png)
+![2023-power-bi-visualizations.png]({{site.baseurl}}/img/2023-power-bi-visualizations.png)
+
+
 
 Save the file
 
@@ -163,11 +166,7 @@ Then Close & Apply
 
 ![2021-powerbi-11-section1-6.png]({{site.baseurl}}/img/2021-powerbi-11-section1-6.png)
 
-Save file
 
-Go into `Report` view
-
-![2021-powerbi-14-section1-9.png]({{site.baseurl}}/img/2021-powerbi-14-section1-9.png)
 
 
 From the Visualizations section select `Table`
