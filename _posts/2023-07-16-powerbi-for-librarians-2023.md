@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 title: PowerBI for Librarians 2023
 tags: 'vala, powerbi'
