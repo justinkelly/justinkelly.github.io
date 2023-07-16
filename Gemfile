@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rmagick'
+gem "rmagick", "~>2.13.2", :require => 'RMagick'
 gem 'jekyll'
 gem 'github-pages'
 gem 'jekyll-srcset'
