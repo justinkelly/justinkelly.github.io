@@ -22,11 +22,11 @@ All files are available on GitHub at:
   
 ### What is PowerBI and why would I use it?
 
-So we can go from a disparate bunch of Excel and CSV files, to a connected system/database
+So we can go from a disparate bunch of Excel and CSV files, to a system that can produce meaningfull dashboards
 
-![2021-powerbi2-0-why.png]({{site.baseurl}}/img/2021-powerbi2-0-why.png)
+![2023-vala-dashboard.png]({{site.baseurl}}/img/2023-vala-dashboard.png)
 
-That can produce meaningfull reports and dashboards
+and reports
 
 ![2021-powerbi-1-branch.png]({{site.baseurl}}/img/2021-powerbi-1-branch.png)
 
