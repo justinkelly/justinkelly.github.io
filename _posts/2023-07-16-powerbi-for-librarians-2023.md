@@ -129,7 +129,7 @@ Import a CSV file using the `Text/CSV` option from the `Get Data` menu
 ![2023-vala-import-csv-menu.png]({{site.baseurl}}/img/2023-vala-import-csv-menu.png)
 
 
-Import the Dewey file `libraries-ni-annual-loans-summary-2021-2022.csv` 
+Import the Loans file `libraries-ni-annual-loans-summary-2021-2022.csv` 
 
 ![2023-vala-import-csv.png]({{site.baseurl}}/img/2023-vala-import-csv.png)
 
@@ -138,15 +138,8 @@ Review contents and select `Load`
 
 This will load into PowerBI the contents of the `dewey.csv` file, and will create a table in PowerBI called `dewey`
 
-![2021-powerbi2-1-dewey_table.png]({{site.baseurl}}/img/2021-powerbi2-1-dewey_table.png)
+![2023-vala-import-csv-load.png]({{site.baseurl}}/img/2023-vala-import-csv-load.png)
 
-Intro to Transform Data
-
-Within the Model view in PowerBI select the `Transform Data` menu from the top ribbon menu
-
-![2021-powerbi-31-section3-1.png]({{site.baseurl}}/img/2021-powerbi-31-section3-1.png)
-
-_Discuss issue with the dewey column, and how and why will be fix this. Note that the change is done once but is now automated and repeatable_
 
 
 We now need to create a new column that correctly formats the dewey code to 3 characters. Name this new column `dewey_code`
