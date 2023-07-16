@@ -17,8 +17,7 @@ All files are available on GitHub at:
 - What is PowerBI
 - [https://bit.ly/vala23_powerbi](https://bit.ly/vala23_powerbi)
 - What the focus is today
-  - 80% will be about data, data formats and data structure
-  - Thinking about what’s in the files, how do we connect them, and if there is no current way to join them - how to we make a way, and what are the limitations
+  - 80% will be about visualistaion and dashboard creation
   
 ### What is PowerBI and why would I use it?
 
@@ -42,10 +41,10 @@ Discuss difference between Excel and PowerBi and why use 1 or the other
 ### Links
 
 * This document: [https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/](https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/)
-* Presentation: [https://bit.ly/vala21_powerbi_pres](https://bit.ly/vala21_powerbi_pres)
+* Presentation: [https://bit.ly/vala23_powerbi_pres](https://bit.ly/vala213_powerbi_pres)
 * Files
   * [https://bit.ly/vala21_powerbi](https://bit.ly/vala21_powerbi)
-  * [https://github.com/justinkelly/vala_2021_techcamp_powerbi](https://github.com/justinkelly/vala_2021_techcamp_powerbi)
+  * [https://github.com/justinkelly/vala_2023_techcamp_powerbi](https://github.com/justinkelly/vala_2023_techcamp_powerbi)
 
 ### Problem:
 
