@@ -19,7 +19,10 @@ owner:
   github:         justinkelly
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   https://plus.google.com/u/0/+JustinKelly0
-  
+
+gems:
+  - jekyll-srcset
+
 plugins: [ jekyll-gist, jekyll-srcset, jekyll-minifier, jekyll-sitemap, jekyll-feed]
 
 markdown: kramdown
