@@ -147,17 +147,37 @@ If you've managed to get this far - congratualtions - you've jjust completed one
 ## Section 2  
 _Create some reports_
 
-
 Go into `Report` view
 
 ![2021-powerbi-14-section1-9.png]({{site.baseurl}}/img/2021-powerbi-14-section1-9.png)
 
-
-
-
+And now we'll cover the most use PowerBI visualistaions
 
 ![2023-power-bi-visualizations.png]({{site.baseurl}}/img/2023-power-bi-visualizations.png)
 
+
+Pie charts
+
+![2023-vala-pie.png]({{site.baseurl}}/img/2023-vala-pie.png)
+
+Donut charts
+
+![2023-vala-donut.png]({{site.baseurl}}/img/2023-vala-donut.png)
+
+
+Ribbon
+
+![2023-vala-ribbon.png]({{site.baseurl}}/img/2023-vala-ribbon.png)
+
+
+Treemap
+
+![2023-vala-treemap.png]({{site.baseurl}}/img/2023-vala-treemap.png)
+
+
+Waterfall
+
+![2023-vala-waterfall.png]({{site.baseurl}}/img/2023-vala-waterfall.png)
 
 
 Save the file
@@ -183,94 +203,12 @@ We will now drag into the Table the columns codes and names from the dewey table
 Section 1 - Create the library data hierarchy using the Dewey system is now done
 
 
-## Section 2  
-_Import the loans files and link them to the dewey hierarchy_
 
-Import the 2020 loans xlsx file
-
-![2021-powerbi2-2-import-2020.png]({{site.baseurl}}/img/2021-powerbi2-2-import-2020.png)
-
-Name the new table `2020`
-
-Repeat the process and import the loans 2021 xlsx file
-
-Name the new table `2021`
-
-![2021-powerbi2-3-loan_tables.png]({{site.baseurl}}/img/2021-powerbi2-3-loan_tables.png)
-
-_Discuss what happened, file content not changed, what will happen next and why_
-
-
-## Section 3
-_Merging files - one of the higlight featuers of PowerBI_
-
-Discuss why this is key and very important
-
-Merge the 2 loans files together using `Append Queries as New`
-
-![2021-powerbi-19-section2-1.png]({{site.baseurl}}/img/2021-powerbi-19-section2-1.png)
-
-![2021-powerbi2-2-append.png]({{site.baseurl}}/img/2021-powerbi2-2-append.png)
-
-Name the new table `loans` and go into the Transforn Data section
-
-
-## Section 4
-_Data programming_
-
-Add a new column to format the call number to 3 digit Dewey format, using `Add Column` and then `Columns from examples`
-
-![2021-powerbi2-2-add_example.png]({{site.baseurl}}/img/2021-powerbi2-2-add_example.png)
-
-![2021-powerbi2-2-loan_fields.png]({{site.baseurl}}/img/2021-powerbi2-2-loan_fields.png)
-
-_Discuss what happened and why this is important!_
-
-Rename the new columns `dewey_code`
-
-_Discuss why_
-
-Rename any other columns and change `year` to Date format
-* _Date needs to be changed from a Number to Text and then to Date_
-
-Right click on `year` and slect `Date` from the `Change Type` menu
-
-![2021-powerbi2-2-date_fields.png]({{site.baseurl}}/img/2021-powerbi2-2-date_fields.png)
-
-_Discuss why_
-
-Save
-
-Close and Apply
-
-
-## Section 5
-_Link the files_
-
-_Discuss what we are about to do and why, and how this is diffrerent from Excel_
 
 Go into the `Model` section
 
 ![2021-powerbi-22-section2-4.png]({{site.baseurl}}/img/2021-powerbi-22-section2-4.png)
 
-And link the `loans` table to the `dewey` table using `dewey_code` field in both tables. Noting that if we have namesd the fielkds correctly PowerBI may have already done this for us.
-
-![2021-powerbi2-3-loans-link.png]({{site.baseurl}}/img/2021-powerbi2-3-loans-link.png)
-
-Make the `2020` and `2021` tables hidden in the reports
-
-_discuss how and why_
-
-![2021-powerbi2-2-hides.png]({{site.baseurl}}/img/2021-powerbi2-2-hides.png)
-
-_Discuss what just happened and again why it's important_
-
-Save
-
-## Section 6
-_Visualisation_
-
-Replicate each of the 3 graphs from the intro/presentation
 
 Go into `Report` view
 
@@ -282,59 +220,3 @@ Discuss filters and level of fitlers
 
 ![2021-powerbi-18-section1-fitlers-13.png]({{site.baseurl}}/img/2021-powerbi-18-section1-fitlers-13.png)
 
-Discuss grouping, what and why and possible better solution in step 8
-
-Right click on Location in the fields section and select New Grouping
-
-![2021-powerbi-2-section-6-grouping.png]({{site.baseurl}}/img/2021-powerbi-2-section-6-grouping.png)
-
-
-## Section 7
-_Calculations_
-
-_This step is optional - can be ignored if taking to long or to hard_
-
-Add calculations for turnover and cost per use
-
-Create calculations for Total Loans, Loan Ration and Price Per Use
-
-![2021-powerbi-29-section2-11.png]({{site.baseurl}}/img/2021-powerbi-29-section2-11.png)
-
-
-![2021-powerbi-30-section2-12.png]({{site.baseurl}}/img/2021-powerbi-30-section2-12.png)
-
-
-```
-Turnover = sum(loans[Loans])/SUM(loans[Copies])
-```
-
-```
-PricePerUse = sum(loans[Price])/sum(loans[Loans])
-```
-
-
-Questions
-
-- What right about this
-- What's wrong about this
-- What's the problems 
-- How can we fix the problems
-- Delete calculations
-
-
-Do data visualistation and discuss limitation of CostPU and Turnover given underlying data issues
-
-## Section 8
-_Add library locations_
-
-_This step is optional - can be ignored if taking to long or to hard_
-
-Import the `libraries.csv` file
-
-Create a new column that we will use to link locations to loans
-
-![2021-powerbi-2-section-8-location.png]({{site.baseurl}}/img/2021-powerbi-2-section-8-location.png)
-
-In the model view link the libraries to the loans
-
-![2021-powerbi2-3-libraries_model.png]({{site.baseurl}}/img/2021-powerbi2-3-libraries_model.png)
