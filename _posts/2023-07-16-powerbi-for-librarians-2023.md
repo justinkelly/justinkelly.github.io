@@ -185,17 +185,26 @@ _Dashboard creation_
 
 We have covered the most used visualisations in PowerBI, now we'll start to use them to create dashboards.
 
-Dashboards are pages in PowerBI that can contain 1 or more visualistaion
-
-
-
+Dashboards are pages in PowerBI that can contain 1 or more visualistaion - such as in the image below
 
 ![2023-vala-dashboard-filter-cat.png]({{site.baseurl}}/img/2023-vala-dashboard-filter-cat.png)
 
+To make a new dashbard, click on the + icon at the bottom of the page - refer image below
+
+![2023-vala-dashboard-new.png]({{site.baseurl}}/img/2023-vala-dashboard-new.png)
+
+And we'll bring in 3 different visuals into the 1 page
+
+![2023-vala-dashboard-visual-1.png]({{site.baseurl}}/img/2023-vala-dashboard-visual-1.png)
+
+![2023-vala-dashboard-visual-2.png]({{site.baseurl}}/img/2023-vala-dashboard-visual-2.png)
+
+
+![2023-vala-dashboard-visual-3.png]({{site.baseurl}}/img/2023-vala-dashboard-visual-3.png)
 
 
 ## Section 4
-_Make it pretty and add slicers_
+_Make it pretty and add filters and slicers_
 
 Now we have the base dashboard created, the next step is to format the dashboard to improve the usability and visuals
 
