@@ -195,13 +195,19 @@ To make a new dashbard, click on the + icon at the bottom of the page - refer im
 
 And we'll bring in 3 different visuals into the 1 page
 
+For the first visual, click the `Stacked column chart` icon and put `Year` in the `X-axis` and `Total` in the `Y-axis`.
+
 ![2023-vala-dashboard-visual-1.png]({{site.baseurl}}/img/2023-vala-dashboard-visual-1.png)
+
+Next click the `Stacked bar chart` icon and drag it below (or anywhere you prefer) the first visual and put `Static_Library_Name` in the `Y-axis`, `Total` in the `Y-axis`, and `Static_Library_Name` in the `Legend`.
 
 ![2023-vala-dashboard-visual-2.png]({{site.baseurl}}/img/2023-vala-dashboard-visual-2.png)
 
+Next click the `Stacked bar chart` icon again and drag it to th left (or anywhere you prefer) of the first visual and expand the hieght to the full length of the dashboard. Put `Item_Category` in the `Y-axis`, `Total` in the `Y-axis`, and `Item_Category` in the `Legend`.
 
 ![2023-vala-dashboard-visual-3.png]({{site.baseurl}}/img/2023-vala-dashboard-visual-3.png)
 
+Done, you've created your first dashbaord!
 
 ## Section 4
 _Make it pretty and add filters and slicers_
