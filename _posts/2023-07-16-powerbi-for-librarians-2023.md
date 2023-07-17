@@ -256,7 +256,7 @@ Review data and notice the pattern in the Item Category names. How can we make a
 
 To automatically group the item categories into groups of similar items, we can take the first word from each item category to create.
 
-Such as group `Youth Fiction`, `Youth Fiction Spoken Word` and `Youth Non-Ficton` under a parent cateogry of `Youth`.
+Such as group `Junior Fiction`, `Junior Fiction Spoken Word` and `Junior Non-Ficton` under a parent cateogry of `Junior`.
 
 To do this, from the `Home` menu, select `Transform data` and then `Transform data` from the sub-menu.
 
@@ -316,4 +316,3 @@ Refer below for steps on how to do this
 ![2023-vala-emily-split.png]({{site.baseurl}}/img/2023-vala-emily-split.png)
 
 ![2023-vala-emily-count.png]({{site.baseurl}}/img/2023-vala-emily-count.png)
-
