@@ -251,6 +251,8 @@ Click on an empty space in your dashboard, select the `Visualizations` pane, the
 
 **Add rounded borders to the reports**
 
+Click on a visualisation in your dashboard, then click `Format visual` from the `Visualizations` pane. Next select the `General` tab, and expand the `Effects` section. Here, expand `Visual board` drag the slider below `Rounded corners` to adjust the size of the visuals rounded borders.
+
 ![2023-vala-insert-rounded-borders.png]({{site.baseurl}}/img/2023-vala-insert-rounded-borders.png)
 
 
@@ -259,6 +261,10 @@ Click on an empty space in your dashboard, select the `Visualizations` pane, the
 ![2023-vala-slicer.png]({{site.baseurl}}/img/2023-vala-slicer.png)
 
 Slicers are very simialr to filters, except they have a much easier to use and look much better in you dashboard.
+
+To add a slicer to your dashboard, click on the `Slicer` icon in the visualisations list, then drag the data element you want to filter all reports on intop the `Field` section. In our example we'll drag `Year` into the `Field` section.
+
+![2023-vala-insert-slicer.png]({{site.baseurl}}/img/2023-vala-insert-slicer.png)
 
 **Bring it all together**
 
@@ -289,7 +295,7 @@ Then Close & Apply
 ![2021-powerbi-11-section1-6.png]({{site.baseurl}}/img/2021-powerbi-11-section1-6.png)
 
 ## Section 6
-_Simplfy the data in the dashboards_
+_Final changes_
 
 Review data and notice the pattern in the Item Category names, how can we make all these categories simpler and easier to read 
 
@@ -301,7 +307,7 @@ Review data and notice the pattern in the Item Category names, how can we make a
 ## Section 7
 _Extra_
 
-
+To
 ![2023-vala-emily-isbn.png]({{site.baseurl}}/img/2023-vala-emily-isbn.png)
 
 ![2023-vala-emily-split.png]({{site.baseurl}}/img/2023-vala-emily-split.png)
