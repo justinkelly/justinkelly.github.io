@@ -35,12 +35,12 @@ Discuss difference between Excel and PowerBi and why use 1 or the other
 ### Why are we doing this?
 
 * Why PowerBI?
-** Desktop is free, and its 
-** Microsoft makes available the professional and enterprise verions of PowerBI very cheapely to public institutions - meaning most universities will already have PowerBI available for library staff to use - or atleast request access to
+  * Desktop is free, and its 
+  * Microsoft makes available the professional and enterprise verions of PowerBI very cheapely to public institutions - meaning most universities will already have PowerBI available for library staff to use - or atleast request access to
 * Why visualisation?
-** Librarians know the stories of how your libraries are operating and evolving
-** But if we can’t present data to support our stories and feelings we can’t have useful discussions with senior management etc. about the future of your libraries
-** Give you tools and knowledge so you can have a positive impact for your libraries
+  * Librarians know the stories of how your libraries are operating and evolving
+  * But if we can’t present data to support our stories and feelings we can’t have useful discussions with senior management etc. about the future of your libraries
+  * Give you tools and knowledge so you can have a positive impact for your libraries
 * Access to data is the main problem
 
 ### Links
