@@ -141,10 +141,26 @@ Save the file
 
 
 ## Section 3
-_Dashbaord creation_
+_Dashboard creation_
 
+We have covered teh most used visualisations in PowerBI, now we'll start to use them to create dashboards.
+
+Dashboards are pages in PowerBI that can contain 1 or more visualistaion
+
+
+Change the title of a visualisation:
+
+* Click the visualisation
+* In the `Visualizations` pane select the `format` section
+* Open the `Title` section and change the `Text` to the desired title you want
 ![2023-vala-step1-title.png]({{site.baseurl}}/img/2023-vala-step1-title.png)
 
+Filter a visualisation to top 5 items
+* Click on the visualistaion
+* In the `Fitlers` pane select `Filters on this visual`
+* Change `Filter type` to `Top N`
+* Enter `5` in the `Show items` section
+* In `By value` drag in `Total` from the data pane
 ![2023-vala-step1-filter-top5.png]({{site.baseurl}}/img/2023-vala-step1-filter-top5.png)
 
 ![2023-vala-dashboard-filter-cat.png]({{site.baseurl}}/img/2023-vala-dashboard-filter-cat.png)
