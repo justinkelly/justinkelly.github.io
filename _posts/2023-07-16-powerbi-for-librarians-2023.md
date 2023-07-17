@@ -99,6 +99,17 @@ And now we'll cover the most use PowerBI visualistaions
 
 ![2023-power-bi-visualizations.png]({{site.baseurl}}/img/2023-power-bi-visualizations.png)
 
+Click on the first visualisation in the top left of the `Visualizations` pane. This will add a blank `stacked bar chart` to the page
+
+![2023-vala-blank.png]({{site.baseurl}}/img/2023-vala-blank.png)
+
+Now click some data elements from the `Data` pane, such as `Item Category`, `Total`, and `Year`.
+
+PowerBI will automatically place the different elements into the `Y-axis`, `X-axis` and `Legend` section of the `Visualizations` pane.
+
+Try moving the different data elements into the different axis and legend sections to test the results
+
+
 Stacked bar chart
 
 ![2023-vala-stacked-bar-chart.png]({{site.baseurl}}/img/2023-vala-stacked-bar-chart.png)
