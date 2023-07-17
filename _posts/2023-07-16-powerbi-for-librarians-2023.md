@@ -238,9 +238,21 @@ Download the logo if you don't have it from [https://github.com/justinkelly/vala
 
 ![vala-logo-.png]({{site.baseurl}}/img/vala-logo-.png)
 
-Change the background of the dashboard
+And from the `Insert` menu, select `Image` refer image below
+![2023-vala-insert-image.png]({{site.baseurl}}/img/2023-vala-insert-image.png)
 
-Add rounded borders to the reports
+Select your logo, then resize and drag it to your preferred location
+
+**Change the background of the dashboard**
+
+Click on an empty space in your dashboard, select the `Visualizations` pane, then the `Format page` tab, then expand the `Wallpaper` section. Here you can select a colour, or image and the dashboard backgroud.
+
+![2023-vala-insert-wallpaper.png]({{site.baseurl}}/img/2023-vala-insert-wallpaper.png)
+
+**Add rounded borders to the reports**
+
+![2023-vala-insert-rounded-borders.png]({{site.baseurl}}/img/2023-vala-insert-rounded-borders.png)
+
 
 **Add slicers**
 
