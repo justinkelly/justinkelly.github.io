@@ -250,10 +250,19 @@ Review data and notice the pattern in the Item Category names, how can we make a
 
 ![2023-vala-split-delim-space-save.png]({{site.baseurl}}/img/2023-vala-split-delim-space-save.png)
 
-
 Then Close & Apply
 
 ![2021-powerbi-11-section1-6.png]({{site.baseurl}}/img/2021-powerbi-11-section1-6.png)
+
+## Section 6
+_Simplfy the data in the dashboards_
+
+Review data and notice the pattern in the Item Category names, how can we make all these categories simpler and easier to read 
+
+![2023-vala-dashboard-parent.png]({{site.baseurl}}/img/2023-vala-dashboard-parent.png)
+
+![2023-vala-dashboard-parent-item.png]({{site.baseurl}}/img/2023-vala-dashboard-parent-item.png)
+
 
 
 
