@@ -112,73 +112,51 @@ Try moving the different data elements into the different axis and legend sectio
 Once you have data displaying in your visual go through each of the visualisation options and adjust the data elements to experiement. 
 
 Stacked bar chart
-
 ![2023-vala-stacked-bar-chart.png]({{site.baseurl}}/img/2023-vala-stacked-bar-chart.png)
 
 Stacked column chart
-
 ![2023-vala-stacked-column-chart.png]({{site.baseurl}}/img/2023-vala-stacked-column-chart.png)
 
 Clustered bar chart
-
 ![2023-vala-clustered-bar-chart.png]({{site.baseurl}}/img/2023-vala-clustered-bar-chart.png)
 
 Clustered column chart
-
 ![2023-vala-clustered-column-chart.png]({{site.baseurl}}/img/2023-vala-clustered-column-chart.png)
 
 100% Stacked bar chart
-
 ![2023-vala-100-percent-stacked-bar-chart.png]({{site.baseurl}}/img/2023-vala-100-percent-stacked-bar-chart.png)
 
 100% Stacked column chart
-
 ![2023-vala-100-percent-stacked-column-chart.png]({{site.baseurl}}/img/2023-vala-100-percent-stacked-column-chart.png)
 
 Line chart
-
 ![2023-vala-line-chart.png]({{site.baseurl}}/img/2023-vala-line-chart.png)
 
-
 Pie charts
-
 ![2023-vala-pie.png]({{site.baseurl}}/img/2023-vala-pie.png)
 
 Donut charts
-
 ![2023-vala-donut.png]({{site.baseurl}}/img/2023-vala-donut.png)
 
-
 Ribbon
-
 ![2023-vala-ribbon.png]({{site.baseurl}}/img/2023-vala-ribbon.png)
 
-
 Treemap
-
 ![2023-vala-treemap.png]({{site.baseurl}}/img/2023-vala-treemap.png)
 
-
 Waterfall
-
 ![2023-vala-waterfall.png]({{site.baseurl}}/img/2023-vala-waterfall.png)
 
 Decomposition Tree
-
 ![2023-vala-decomposition-tree.png]({{site.baseurl}}/img/2023-vala-decomposition-tree.png)
 
-
 Card
-
 ![2023-vala-card.png]({{site.baseurl}}/img/2023-vala-card.png)
 
 Multi card
-
 ![2023-vala-multi-card-row.png]({{site.baseurl}}/img/2023-vala-multi-card-row.png)
 
-
 Save the file
-
 
 ## Section 3
 _Dashboard creation_
@@ -322,11 +300,17 @@ Then test adding item category and the parent item cateogry into the same visual
 
 ![2023-vala-dashboard-parent-item.png]({{site.baseurl}}/img/2023-vala-dashboard-parent-item.png)
 
+Congratulations - You have finised creating and customising a dashbaord in PowerBI!!
 
 ## Section 7
 _Extra_
 
-To
+If you want to test yoruself further try and import the `emily-bronte-records-british-library.csv` file from  [https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/emily-bronte-records-british-library.csv](https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/emily-bronte-records-british-library.csv) into PowerBI and see if you can figure out how to count the distinct number of ISBNs in this dataset.
+
+Noting that there can be multiple ISBNs in a single fields
+
+Refer below for steps on how to do this
+
 ![2023-vala-emily-isbn.png]({{site.baseurl}}/img/2023-vala-emily-isbn.png)
 
 ![2023-vala-emily-split.png]({{site.baseurl}}/img/2023-vala-emily-split.png)
