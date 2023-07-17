@@ -99,6 +99,34 @@ And now we'll cover the most use PowerBI visualistaions
 
 ![2023-power-bi-visualizations.png]({{site.baseurl}}/img/2023-power-bi-visualizations.png)
 
+Stacked bar chart
+
+![2023-vala-stacked-bar-chart.png]({{site.baseurl}}/img/2023-vala-stacked-bar-chart.png)
+
+Stacked column chart
+
+![2023-vala-stacked-column-chart.png]({{site.baseurl}}/img/2023-vala-stacked-column-chart.png)
+
+Clustered bar chart
+
+![2023-vala-clustered-bar-chart.png]({{site.baseurl}}/img/2023-vala-clustered-bar-chart.png)
+
+Clustered column chart
+
+![2023-vala-clustered-column-chart.png]({{site.baseurl}}/img/2023-vala-clustered-column-chart.png)
+
+100% Stacked bar chart
+
+![2023-vala-100-percent-stacked-bar-chart.png]({{site.baseurl}}/img/2023-vala-100-percent-stacked-bar-chart.png)
+
+100% Stacked column chart
+
+![2023-vala-100-percent-stacked-column-chart.png]({{site.baseurl}}/img/2023-vala-100-percent-stacked-column-chart.png)
+
+Line chart
+
+![2023-vala-line-chart.png]({{site.baseurl}}/img/2023-vala-line-chart.png)
+
 
 Pie charts
 
