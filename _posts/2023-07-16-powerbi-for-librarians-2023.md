@@ -255,7 +255,6 @@ Click on a visualisation in your dashboard, then click `Format visual` from the 
 
 ![2023-vala-insert-rounded-borders.png]({{site.baseurl}}/img/2023-vala-insert-rounded-borders.png)
 
-
 **Add slicers**
 
 ![2023-vala-slicer.png]({{site.baseurl}}/img/2023-vala-slicer.png)
@@ -275,31 +274,51 @@ Once these formatting updates have been done, the dashboard should be easier to 
 ## Section 5
 _Data manipulation_
 
-Review data and notice the pattern in the Item Category names, how can we make all these categories simpler and easier to read 
+Review data and notice the pattern in the Item Category names. How can we make all these categories simpler and easier to read?
 
-![2023-vala-dashboard-parent.png]({{site.baseurl}}/img/2023-vala-dashboard-parent.png)
+To automatically group the item categories into groups of similar items, we can take the first word from each item category to create.
+
+Such as group `Youth Fiction`, `Youth Fiction Spoken Word` and `Youth Non-Ficton` under a parent cateogry of `Youth`.
+
+To do this, from the `Home` menu, select `Transform data` and then `Transform data` from the sub-menu.
+
+![2023-vala-transform.png]({{site.baseurl}}/img/2023-vala-transform.png)
+
+Right click on `Item_Category` and sleect `Duplicate Column`. This will enable us to edit a copy of this column to create the new parent group.
 
 ![2023-vala-duplicate-column.png]({{site.baseurl}}/img/2023-vala-duplicate-column.png)
 
+To grad just the first word of the item category, select `Split Column` from the menu, and then `By Delimiter`
 
 ![2023-vala-split-delim.png]({{site.baseurl}}/img/2023-vala-split-delim.png)
 
+Choose `Space` as the delimiter and select `Left-most delimiter` in the `Split at` section, then click OK
+
 ![2023-vala-split-delim-space.png]({{site.baseurl}}/img/2023-vala-split-delim-space.png)
+
+THis will create a new column whihc has only the first work of then Item Category. TO clean up the data, delete the duplicate item cateogry which has the full item category
 
 ![2023-vala-split-delim-space-remove.png]({{site.baseurl}}/img/2023-vala-split-delim-space-remove.png)
 
+The result will be a new field with a parent category automatically created, with the original field - now as a child category
+
 ![2023-vala-split-delim-space-save.png]({{site.baseurl}}/img/2023-vala-split-delim-space-save.png)
 
-Then Close & Apply
+Then Close & Apply, and Save the file.
 
 ![2021-powerbi-11-section1-6.png]({{site.baseurl}}/img/2021-powerbi-11-section1-6.png)
 
 ## Section 6
 _Final changes_
 
-Review data and notice the pattern in the Item Category names, how can we make all these categories simpler and easier to read 
+To use the new Parent Item Category - review the visual in the dashboard and adjust the `Item Categories` visual to use the new parent item cateogry.
 
 ![2023-vala-dashboard-parent.png]({{site.baseurl}}/img/2023-vala-dashboard-parent.png)
+
+Then test adding item category and the parent item cateogry into the same visual to further analyse the results.
+
+![2023-vala-dashboard-parent-item-visual.png]({{site.baseurl}}/img/2023-vala-dashboard-parent-item-visual.png)
+
 
 ![2023-vala-dashboard-parent-item.png]({{site.baseurl}}/img/2023-vala-dashboard-parent-item.png)
 
