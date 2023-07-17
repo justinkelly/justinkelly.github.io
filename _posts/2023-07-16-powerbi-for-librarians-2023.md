@@ -188,23 +188,7 @@ We have covered the most used visualisations in PowerBI, now we'll start to use 
 Dashboards are pages in PowerBI that can contain 1 or more visualistaion
 
 
-Change the title of a visualisation:
 
-* Click the visualisation
-* In the `Visualizations` pane select the `format` section
-* Open the `Title` section and change the `Text` to the desired title you want
-
-![2023-vala-step1-title.png]({{site.baseurl}}/img/2023-vala-step1-title.png)
-
-Filter a visualisation to top 5 items:
-
-* Click on the visualistaion
-* In the `Fitlers` pane select `Filters on this visual`
-* Change `Filter type` to `Top N`
-* Enter `5` in the `Show items` section
-* In `By value` drag in `Total` from the data pane
-
-![2023-vala-step1-filter-top5.png]({{site.baseurl}}/img/2023-vala-step1-filter-top5.png)
 
 ![2023-vala-dashboard-filter-cat.png]({{site.baseurl}}/img/2023-vala-dashboard-filter-cat.png)
 
@@ -215,9 +199,25 @@ _Make it pretty and add slicers_
 
 Now we have the base dashboard created, the next step is to format the dashboard to improve the usability and visuals
 
-![2023-vala-dashboard.png]({{site.baseurl}}/img/2023-vala-dashboard.png)
+**Change the title of a visualisation:**
 
-Add the VALA logo to the top of the page
+* Click the visualisation
+* In the `Visualizations` pane select the `format` section
+* Open the `Title` section and change the `Text` to the desired title you want
+
+![2023-vala-step1-title.png]({{site.baseurl}}/img/2023-vala-step1-title.png)
+
+**Filter a visualisation to top 5 items:**
+
+* Click on the visualistaion
+* In the `Fitlers` pane select `Filters on this visual`
+* Change `Filter type` to `Top N`
+* Enter `5` in the `Show items` section
+* In `By value` drag in `Total` from the data pane
+
+![2023-vala-step1-filter-top5.png]({{site.baseurl}}/img/2023-vala-step1-filter-top5.png)
+
+**Add the your logo to the top of the page**
 
 Download the logo if you don't have it from [https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/vala-logo.png](https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/vala-logo.png)
 
@@ -232,6 +232,12 @@ Add rounded borders to the reports
 ![2023-vala-slicer.png]({{site.baseurl}}/img/2023-vala-slicer.png)
 
 Slicers are very simialr to filters, except they have a much easier to use and look much better in you dashboard.
+
+**Bring it all together**
+
+Once these formatting updates have been done, the dashboard should be easier to understand, nicer looking, and easier to use.
+
+![2023-vala-dashboard.png]({{site.baseurl}}/img/2023-vala-dashboard.png)
 
 ## Section 5
 _Data manipulation_
