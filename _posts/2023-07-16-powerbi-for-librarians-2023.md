@@ -107,8 +107,9 @@ Now click some data elements from the `Data` pane, such as `Item Category`, `Tot
 
 PowerBI will automatically place the different elements into the `Y-axis`, `X-axis` and `Legend` section of the `Visualizations` pane.
 
-Try moving the different data elements into the different axis and legend sections to test the results
+Try moving the different data elements into the different axis and legend sections to test the results.
 
+Once you have data displaying in your visual go through each of the visualisation options and adjust the data elements to experiement. 
 
 Stacked bar chart
 
@@ -182,7 +183,7 @@ Save the file
 ## Section 3
 _Dashboard creation_
 
-We have covered teh most used visualisations in PowerBI, now we'll start to use them to create dashboards.
+We have covered the most used visualisations in PowerBI, now we'll start to use them to create dashboards.
 
 Dashboards are pages in PowerBI that can contain 1 or more visualistaion
 
