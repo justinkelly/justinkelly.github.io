@@ -298,6 +298,13 @@ Review data and notice the pattern in the Item Category names, how can we make a
 ![2023-vala-dashboard-parent-item.png]({{site.baseurl}}/img/2023-vala-dashboard-parent-item.png)
 
 
+## Section 7
+_Extra_
 
 
-_Discuss filters and level of fitlers_
+![2023-vala-emily-isbn.png]({{site.baseurl}}/img/2023-vala-emily-isbn.png)
+
+![2023-vala-emily-split.png]({{site.baseurl}}/img/2023-vala-emily-split.png)
+
+![2023-vala-emily-count.png]({{site.baseurl}}/img/2023-vala-emily-count.png)
+
