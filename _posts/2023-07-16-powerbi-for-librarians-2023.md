@@ -10,22 +10,22 @@ _This page details the notes for the VALA 2023 TechCamp PowerBI Workshop_
 All files are available on GitHub at: 
 * [https://github.com/justinkelly/vala_2023_techcamp_powerbi](https://github.com/justinkelly/vala_2023_techcamp_powerbi)
 
-
 ### Introduction
 
 - About me
 - What is PowerBI
-- [https://bit.ly/vala23_powerbi](https://bit.ly/vala23_powerbi)
 - What the focus is today
   - 80% will be about visualistaion and dashboard creation
+- Links
+  - Files that will be used in the workshop: bit.ly/vala23-powerbi-files
+  - Detailed notes for the workshop: bit.ly/vala23-powerbi-notes
+  - Slides: bit.ly/vala23-powerbi-slides
   
 ### What is PowerBI and why would I use it?
 
-So we can go from Excel and CSV files, to a system that can produce meaningfull dashboards
+So we can go from Excel and CSV files, to a system that can produce meaningfull dashboards and reports, can used to to analyse data, create insights and are easily shareable.
 
 ![2023-vala-dashboard.png]({{site.baseurl}}/img/2023-vala-dashboard.png)
-
-and reports
 
 ![2021-powerbi-1-branch.png]({{site.baseurl}}/img/2021-powerbi-1-branch.png)
 
@@ -41,14 +41,13 @@ Discuss difference between Excel and PowerBi and why use 1 or the other
 ** Librarians know the stories of how your libraries are operating and evolving
 ** But if we can’t present data to support our stories and feelings we can’t have useful discussions with senior management etc. about the future of your libraries
 ** Give you tools and knowledge so you can have a positive impact for your libraries
-
+* Access to data is the main problem
 
 ### Links
 
 * This document: [https://justin.kelly.org.au/powerbi-for-librarians-2023/](https://justin.kelly.org.au/powerbi-for-librarians-2023/)
-* Presentation: [https://bit.ly/vala23_powerbi_pres](https://bit.ly/vala213_powerbi_pres)
+* Presentation: [https://bit.ly/vala23-powerbi-slides](https://bit.ly/vala23-powerbi-slides)
 * Files
-  * [https://bit.ly/vala21_powerbi](https://bit.ly/vala21_powerbi)
   * [https://github.com/justinkelly/vala_2023_techcamp_powerbi](https://github.com/justinkelly/vala_2023_techcamp_powerbi)
 
 
@@ -62,7 +61,7 @@ We'll use the loans data that data.gov.uk has made available. In this case, loan
 
 ## Section 1
 
-_What is PowerBI and intro to it's interface_
+_What is PowerBI, intro to it's interface, and import a CSV_
 
 ![2021-powerbi2-1-home.png]({{site.baseurl}}/img/2021-powerbi2-1-home.png)
 
@@ -87,7 +86,7 @@ This will load into PowerBI the contents of the `libraries-ni-annual-loans-summa
 
 Save the file
 
-If you've managed to get this far - congratualtions - you've jjust completed one of the hardest probably - jsut getting the data and imported into PowerBI
+If you've managed to get this far - congratualtions - you've just completed one of the hardest probably - jsut getting the data and imported into PowerBI
 
 ## Section 2  
 _Create some reports_
@@ -185,5 +184,3 @@ Then Close & Apply
 
 
 _Discuss filters and level of fitlers_
-
-
