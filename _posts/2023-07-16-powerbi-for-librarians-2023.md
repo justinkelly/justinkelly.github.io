@@ -141,7 +141,7 @@ Save the file
 
 
 ## Section 3
-
+_Dashbaord creation_
 
 ![2023-vala-step1-title.png]({{site.baseurl}}/img/2023-vala-step1-title.png)
 
@@ -151,12 +151,28 @@ Save the file
 
 
 
-
-
 ## Section 4
-_Dashboard and slicers_
+_Make it pretty and add slicers_
 
+Now we have the base dashboard created, the next step is to format the dashboard to improve the usability and visuals
 
+![2023-vala-dashboard.png]({{site.baseurl}}/img/2023-vala-dashboard.png)
+
+Add the VALA logo to the top of the page
+
+Download the logo if you don't have it from [https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/vala-logo.png](https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/vala-logo.png)
+
+![vala-logo-.png]({{site.baseurl}}/img/vala-logo-.png)
+
+Change the background of the dashboard
+
+Add rounded borders to the reports
+
+**Add slicers**
+
+![2023-vala-slicer.png]({{site.baseurl}}/img/2023-vala-slicer.png)
+
+Slicers are very simialr to filters, except they have a much easier to use and look much better in you dashboard.
 
 ## Section 5
 _Data manipulation_
