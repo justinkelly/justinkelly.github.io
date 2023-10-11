@@ -5,7 +5,7 @@ comments: false
 title: >-
   Transcribing & enriching WW1 handwritten diaries from the State Library of
   Victoria with AI
-tags: 'biblo.ai, slv'
+tags: 'biblo.ai, slv, AI'
 ---
 ## Summary
 
