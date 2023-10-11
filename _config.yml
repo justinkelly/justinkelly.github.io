@@ -36,6 +36,9 @@ srcset:
   optipng: true
   cache: "img/cache/"
 
+compress_images:
+  images_path: "img/**/*.{gif,png,jpg,jpeg,svg}"
+
 # reCaptcha
 reCaptcha:
     siteKey: "6LeMoygUAAAAAEo97WDnpKdmp1jLdgQ6aIG41gs0"
