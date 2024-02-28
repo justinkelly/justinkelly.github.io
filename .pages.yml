@@ -4,6 +4,6 @@ media:
 
 content:
   - name: posts
-    label: Posts
-    path: _posts
-    type: collection
+      label: Posts
+      path: _posts
+      type: collection
