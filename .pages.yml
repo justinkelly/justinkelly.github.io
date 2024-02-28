@@ -8,4 +8,4 @@ content:
     label: Posts
     path: src/_posts
     type: collection
-    fields: [ "title", date, published ]
+    fields: [ Title, date, published ]
