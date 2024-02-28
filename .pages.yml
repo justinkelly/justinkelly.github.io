@@ -1,6 +1,6 @@
 media:
-  input: img
-  output: img
+  input: img/
+  output: img/
   
 content:
   - name: posts
