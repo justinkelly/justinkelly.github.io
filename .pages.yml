@@ -7,4 +7,3 @@ content:
     label: Posts
     path: _posts
     type: collection
-    fields: [ 'title', 'date', 'published' ]
