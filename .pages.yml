@@ -1,6 +1,6 @@
 media:
-  input: files/media
-  output: /files/media
+  input: img
+  output: img
   
 content:
   - name: posts
