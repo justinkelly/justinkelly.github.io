@@ -3,7 +3,7 @@ media:
   output: /files/media
 
 content:
-  - name: posts
-    label: Posts
-    path: _posts
-    type: collection
+  name: posts
+  label: Posts
+  path: _posts
+  type: collection
