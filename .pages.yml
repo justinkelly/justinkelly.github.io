@@ -1,11 +1,22 @@
-media:
-  input: img
-  output: img
-
-
+media: img
 content:
   - name: posts
     label: Posts
-    path: src/_posts
+    path: _posts
     type: collection
-    fields: [ Title, date, published ]
+    view:
+      fields: [ title, published, date ]
+    fields:
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
