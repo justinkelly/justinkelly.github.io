@@ -6,6 +6,6 @@ media:
 content:
   - name: posts
     label: Posts
-    path: _posts
+    path: src/_posts
     type: collection
     fields: [ "title", date, published ]
