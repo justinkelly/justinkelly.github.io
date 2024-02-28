@@ -1,3 +1,10 @@
 media:
   input: img
   output: img
+
+content:
+  - name: posts
+    label: Posts
+    path: _posts
+    type: collection
+    fields: [ title, date, published ]
