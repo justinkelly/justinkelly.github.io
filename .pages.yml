@@ -1,0 +1,8 @@
+media:
+  input: files/media
+  output: /files/media
+content:
+  - name: posts
+    label: Posts
+    path: src/_posts
+    type: collection
