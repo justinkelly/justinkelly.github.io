@@ -32,10 +32,16 @@ _* There are open source alternatives to Claude Code - such as Aider - but this 
 
 ### Introduction
 
-
+For Cloaude
 Claude init
 
 <script src="https://asciinema.org/a/nCWHgw7FgNt7xztiMorhElq8Q.js" id="asciicast-nCWHgw7FgNt7xztiMorhElq8Q" async="true"></script>
+
+
+```
+
+
+```
 
 Claude - find a new maintained version of the main library (ZZend Framework v1) that is now long unspported)
 
