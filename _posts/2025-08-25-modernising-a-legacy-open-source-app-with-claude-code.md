@@ -20,9 +20,11 @@ In a few hours over the weekend, using Claude Code to do at least 95% of the wor
 * Merged in all the old branches from GitHub that had extra features or changes done ahead of the current main branch
 * Created a working Docker setup for SimpleInvoices, it understood the code and documentaion and automated the install process of SimpleInvoices settings and data in Docker 
 
-Whatever your option on AI assisted coded or vibe coding and its roles in open source development - or development in general. There's no way I would of got around to manually upgrading an open source app that hasn't been maintained for 10 year.
+Whatever your option on AI assisted coded or vibe coding and its roles in open source development - or development in general. There's no way I would of got around to manually upgrading an open source app that hasn't been maintained for 10 year. 
 
-Below goes through the details on how I did this with Claude
+What would of taken me days, was done in hours, can't rave about Claude Code and other tools enough. They defintely have a place in the open source development landscape, they have limitations, are not repalcements but
+
+Below goes through the details on how I did this with Claude and the found limitations
 
 _Note:_ 
 _* Claude Code requires a paid $20USD per month subscription
