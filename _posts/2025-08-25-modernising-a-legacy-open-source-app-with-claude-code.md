@@ -2,14 +2,41 @@
 layout: post
 published: false
 comments: true
-title: Modernising a legacy open source app with Claude Code
-tags: ''
+title: Modernising a legacy open source app using Claude Code
 ---
-## A New Post
+### Exec Summary
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+For the last 10 years I had put off upgrading and modernising the open source PHP web application [SimpleInvoices](https://github.com/simpleinvoices/simpleinvoices) that I started way back in 2005 and maintained till around 2015.
 
+With all the buzz around agentic coding I wanted to test this out. 
+
+In a few hours over the weekend, using Claude Code to do at least 95% of the work, Claude Code fully modernised SimpleInvoices.
+
+* Migrating it from a PHP5 to a PHP8 application
+* Upgrading all libraries used, 
+  * where the used libraries are no longer maintained, Claude found replacements and auto rewrote all affected code to use the new libraries
+* Installed and implemented Composer, and migration the old libraries to Composer format
+* Security reviewed all SimpleInvoices code and fix up old 
+* Merged in all the old branches from GitHub that had extra features or changes done ahead of the current main branch
+* Created a Docker
+
+ons
+
+Below goes through the details
+
+### Introduction
+
+
+Claude init
 
 <script src="https://asciinema.org/a/nCWHgw7FgNt7xztiMorhElq8Q.js" id="asciicast-nCWHgw7FgNt7xztiMorhElq8Q" async="true"></script>
 
+Claude - find a new maintained version of the main library (ZZend Framework v1) that is now long unspported)
 
+
+```
+replace /library/Zend with latest version of Zend Framework v1 that is maintained and compat with php8 and install
+  and manage this using composer and adjust any existing code that uses zend
+    framework with compatible code for the new version - also replace the usage of Zend_Mail with latest PHPMailer
+  library - also installed via composer and check the changes work
+  ```
