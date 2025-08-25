@@ -22,7 +22,7 @@ In a few hours over the weekend, using Claude Code to do at least 95% of the wor
 
 Whatever your option on AI assisted coded or vibe coding and its roles in open source development - or development in general. There's no way I would of got around to manually upgrading an open source app that hasn't been maintained for 10 year. 
 
-What would of taken me days, was done in hours, can't rave about Claude Code and other tools enough. They defintely have a place in the open source development landscape, they have limitations, are not repalcements but
+What would of taken me days, was done in hours, can't rave about Claude Code and other tools enough. They defintely have a place in the open source development landscape, they have limitations, are not repalcements for developers - but enablers.
 
 Below goes through the details on how I did this with Claude and the found limitations
 
