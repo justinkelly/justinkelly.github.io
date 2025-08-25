@@ -12,17 +12,19 @@ With all the buzz around agentic coding I wanted to test this out.
 
 In a few hours over the weekend, using Claude Code to do at least 95% of the work, Claude Code fully modernised SimpleInvoices.
 
-* Migrating it from a PHP5 to a PHP8 application
-* Upgrading all libraries used, 
+* Migrating it from a PHP 5 to a PHP 8 application
+* Upgrading all libraries used
   * where the used libraries are no longer maintained, Claude found replacements and auto rewrote all affected code to use the new libraries
 * Installed and implemented Composer, and migration the old libraries to Composer format
-* Security reviewed all SimpleInvoices code and fix up old 
+* Security reviewed all SimpleInvoices code and fix up old vunerabilities
 * Merged in all the old branches from GitHub that had extra features or changes done ahead of the current main branch
-* Created a Docker
+* Created a working Docker setup for SimpleInvoices, it understood the code and documentaion and automated the install process of SimpleInvoices settings and data in Docker 
 
-ons
+Whatever your option on AI assisted coded or vibe coding and its roles in open source development - or development in general.
 
-Below goes through the details
+Below goes through the details on how I did this with Claude
+
+_Note: Claude Code requires a paid $20USD per month subscription to use_
 
 ### Introduction
 
