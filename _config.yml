@@ -48,6 +48,7 @@ compress_images:
 sass:
     sass_dir: _sass
     style: compressed
+    quiet_deps: true
 
 prose:
   siteurl: 'https://justin.kelly.org.au/'
