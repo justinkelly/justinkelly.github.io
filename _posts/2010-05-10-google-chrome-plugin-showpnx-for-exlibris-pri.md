@@ -11,9 +11,9 @@ This plugin allows you to easily display the ExLibris Primo PNX record when in a
 
 See the images below for example of this plugin in action
 
-{% image_tag src="/img/pnx1.png" width="400" %}
+<img src="/img/pnx1.png" width="400" alt="">
 
-{% image_tag src="/img/pnx2.png" width="400" %}
+<img src="/img/pnx2.png" width="400" alt="">
 
 ### To install
 

@@ -13,7 +13,7 @@ The first up is the Cruzerlite Bugdroid case.
 
 <!--more-->
 
-{% image_tag src="/img/cruzerlite_moto_g.jpg" width="250" %}
+<img src="/img/cruzerlite_moto_g.jpg" width="250" alt="">
 
 ## The Good
 

@@ -23,7 +23,7 @@ You'll be asked for:
 * Username: enter your google code svn username
 * Password: enter your google code svn password
 
-{% image_tag src="/img/bespin2.png" width="400" %}
+<img src="/img/bespin2.png" width="400" alt="">
 
 * to commit the code to the local version control user execute
 

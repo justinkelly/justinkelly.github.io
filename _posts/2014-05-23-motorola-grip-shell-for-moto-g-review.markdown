@@ -11,7 +11,7 @@ from [MobileZap](http://www.mobilezap.com.au/35004/motorola/moto-g/covers.htm) i
 
 <!--more-->
 
-{% image_tag src="/img/moto_g_grip_side.jpg" width="400" %}
+<img src="/img/moto_g_grip_side.jpg" width="400" alt="">
 
 The Grip Shell has semi-hard back and rubberised frame. It covers the side buttons, 
 which does takes away from the tactile feedback of pressing the buttons, 

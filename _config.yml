@@ -18,9 +18,10 @@ owner:
   facebook:       justin.kelly.org.au
   github:         justinkelly
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   https://plus.google.com/u/0/+JustinKelly0
+  #google_plus:   https://plus.google.com/u/0/+JustinKelly0
 
-plugins: [ jekyll-gist, jekyll-srcset, jekyll-minifier, jekyll-sitemap, jekyll-feed,jekyll-compress-images]
+#plugins: [ jekyll-gist, jekyll-srcset, jekyll-minifier, jekyll-sitemap, jekyll-feed,jekyll-compress-images]
+plugins: [ jekyll-gist, jekyll-minifier, jekyll-sitemap, jekyll-feed,jekyll-compress-images]
 
 markdown: kramdown
 
@@ -40,9 +41,9 @@ compress_images:
   images_path: "img/**/*.{gif,png,jpg,jpeg,svg}"
 
 # reCaptcha
-reCaptcha:
-    siteKey: "6LeMoygUAAAAAEo97WDnpKdmp1jLdgQ6aIG41gs0"
-    secret: "edDZoWzS/wjuiP4fnRZDU7OQXLrUN5HbNVG5tJ/VJ8Xp+xsY6xM44+i2z/4fHKIvfnVD3ZheobZx0+gOFptxBwYnAj6SqwHgNOUpGyFBZYBFKGDfcwHBD8i6gmP7fOrCwQ7FmbVrRuWIpHIJbqCYXM2BM4IjQbx0rZB09WB4QcU="
+#reCaptcha:
+#    siteKey: "6LeMoygUAAAAAEo97WDnpKdmp1jLdgQ6aIG41gs0"
+#    secret: "edDZoWzS/wjuiP4fnRZDU7OQXLrUN5HbNVG5tJ/VJ8Xp+xsY6xM44+i2z/4fHKIvfnVD3ZheobZx0+gOFptxBwYnAj6SqwHgNOUpGyFBZYBFKGDfcwHBD8i6gmP7fOrCwQ7FmbVrRuWIpHIJbqCYXM2BM4IjQbx0rZB09WB4QcU="
 
 sass:
     sass_dir: _sass
@@ -89,7 +90,7 @@ prose:
           value: ''
 
 # Staticman comments
-staticmanUrl: https://staticman-justinkelly.herokuapp.com/v2/entry/justinkelly/justinkelly.github.io/master/comments
+#staticmanUrl: https://staticman-justinkelly.herokuapp.com/v2/entry/justinkelly/justinkelly.github.io/master/comments
 
 jekyll-minifier:
   exclude: '*.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob pattern

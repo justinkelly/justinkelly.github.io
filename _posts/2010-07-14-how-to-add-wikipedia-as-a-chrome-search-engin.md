@@ -20,9 +20,9 @@ URL: http://en.wikipedia.org/wiki/%s
 
 refer image below:
 
-{% image_tag src="/img/chrome-wiki-1.png" width="400" %}
+<img src="/img/chrome-wiki-1.png" width="400" alt="">
 
 No in chrome just type wiki followed by where you want, ie `wiki php` 
 in the chrome address box (refer image below) and chrome will now search wikipedia for that term
 
-{% image_tag src="/img/chrome-wiki-2.png" width="400" %}
+<img src="/img/chrome-wiki-2.png" width="400" alt="">

@@ -13,7 +13,7 @@ looks like a great budget friendly bluetooth headphones. Lets look closer at the
 
 <!--more-->
 
-{% image_tag src="/img/2013-08-13-headphones.jpg" width="400" %}
+<img src="/img/2013-08-13-headphones.jpg" width="400" alt="">
 
 ### The Good
 

@@ -12,15 +12,15 @@ After much testing I've finally got a solution working as required.
 
 List of tags with a count of posts
 
-{% image_tag src="/img/2017-07-jekyll-tags.png" width="600" %}
+<img src="/img/2017-07-jekyll-tags.png" width="600" alt="">
 
 List of posts in each tag ordered by date newest
 
-{% image_tag src="/img/2017-07-jekyll-archive.png" width="600" %}
+<img src="/img/2017-07-jekyll-archive.png" width="600" alt="">
 
 In the footer of the post to list the tags and linking to the correct section of the new tags page
 
-{% image_tag src="/img/2017-07-jekyll-tag-list.png" width="250" %}
+<img src="/img/2017-07-jekyll-tag-list.png" width="250" alt="">
 
 ## Instructions
 

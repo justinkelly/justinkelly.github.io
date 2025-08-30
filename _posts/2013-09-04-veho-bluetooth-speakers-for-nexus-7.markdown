@@ -13,7 +13,7 @@ Enter the [Veho bluetooth speakers][Veho] from the nice guys at [MobileZap][Zap]
 
 <!--more-->
 
-{% image_tag src="/img/2013-09-03-veho-300.jpg" width="300" %}
+<img src="/img/2013-09-03-veho-300.jpg" width="300" alt="">
 
 ## The Good
 

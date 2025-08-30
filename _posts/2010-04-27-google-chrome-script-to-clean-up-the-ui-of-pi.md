@@ -33,11 +33,11 @@ I've uploaded to userscripts.org a Chrome user script / Firefox greasemonkey scr
  
 Screenshot of Pinboard pre script
 
-{% image_tag src="/img/pinboard_original.png" width="400" %}
+<img src="/img/pinboard_original.png" width="400" alt="">
 
 Screenshot of Pinboard post script
 
-{% image_tag src="/img/pinboard_with_user_script.png" width="400" %}
+<img src="/img/pinboard_with_user_script.png" width="400" alt="">
 
 ## To install
 

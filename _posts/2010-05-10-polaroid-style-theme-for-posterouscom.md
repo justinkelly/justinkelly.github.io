@@ -8,7 +8,7 @@ If you have a simple photo blog on posterous.com below is the code for a simple 
 
 Refer image below for example of it in action
 
-{% image_tag src="/img/polaroid.png" width="400" %}
+<img src="/img/polaroid.png" width="400" alt="">
 
 ``` html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">

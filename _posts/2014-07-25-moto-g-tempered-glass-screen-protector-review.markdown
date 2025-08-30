@@ -14,12 +14,12 @@ In the last year a new breed of phone screen protectors has launched onto the ma
 
 The nice guys over at [MobileZap](http://www.mobilezap.com.au/35014/motorola/moto-g/screen-protectors.htm) sent over a Orzly premium tempered glass 0.3mm screen protector for review.
 
-{% image_tag src="/img/Moto-G-screen-small.jpg" width="400" %}
+<img src="/img/Moto-G-screen-small.jpg" width="400" alt="">
 
 The Good
 ===
 
-{% image_tag src="/img/Moto-G-scratch.png" width="400" %}
+<img src="/img/Moto-G-scratch.png" width="400" alt="">
 
 * Much stronger that film based protectors, check out any of the youtube clips and you'll see a bunch of people trying to scratch or smash the tempered glass with scissors and screwdrivers to no avail
 * 0.3 mm thickness adds minimal bulk to your phone.
@@ -40,7 +40,7 @@ If you are concerned about scratching or smashing your phones screen I highly re
 Note:
 ===
 
-{% image_tag src="/img/Moto-G-screen-remove-small.jpg" width="400" %}
+<img src="/img/Moto-G-screen-remove-small.jpg" width="400" alt="">
 
 I had endless trouble trying to remove the Motorola film protector on the phone, quickest solution is to put tape on a corner and peel if off.
 

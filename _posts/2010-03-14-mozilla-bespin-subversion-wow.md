@@ -21,7 +21,7 @@ is this useful ?
  
 below: bespin in action
 
-{% image_tag src="/img/bespin.png" width="400" %}
+<img src="/img/bespin.png" width="400" alt="">
 
 if you havent checked out bespin from mozilla labs i suggest you take a look
 

@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem "rmagick", "~>2.13.2", :require => 'RMagick'
+#gem "rmagick", "~>2.13.2", :require => 'RMagick'
 gem 'jekyll'
 gem 'github-pages'
-gem 'jekyll-srcset'
+#gem 'jekyll-srcset'
 gem 'jekyll-compress-images'
 gem 'jekyll-minifier'
 gem 'jekyll-sitemap'

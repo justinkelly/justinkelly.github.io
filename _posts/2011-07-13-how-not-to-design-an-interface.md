@@ -12,4 +12,4 @@ can this thing have any more arrows?
 
 best of all the screen is unreadable in daylight
 
-{% image_tag src="/img/myki.jpg" width="400" %}
+<img src="/img/myki.jpg" width="400" alt="">

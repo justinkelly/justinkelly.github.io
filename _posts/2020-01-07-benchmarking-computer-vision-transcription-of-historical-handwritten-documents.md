@@ -15,7 +15,7 @@ For automatic transcription of most historical handwritten cursive script docume
 - Google Cloud: 89
 - Amazon AWS: 11
 
-{% image_tag src="/img/george_swinburne_transcript.png" width="600" %}
+<img src="/img/george_swinburne_transcript.png" width="600" alt="">
 _Sample of the MS Azure transcription of the George Swinburne diary_
 
 ### Table of contents
@@ -104,7 +104,7 @@ Scaled for difficulty: Easy = .5, Medium = 1, Hard = 1.5, Very Hard = 2
 * URL: [https://commons.swinburne.edu.au/items/0903ff8d-ddc3-41f9-96b6-928eee4d1bde/1/][swin-diary]
 
 Preview:
-{% image_tag src="/img/george_swinburne_diary.png" width="400" %}
+<img src="/img/george_swinburne_diary.png" width="400" alt="">
 
 
 #### Human transcription
@@ -198,7 +198,7 @@ serafla
 * Image URL: [https://commons.swinburne.edu.au/items/cd53e247-3e39-458e-8582-9fa0a2a2e120/1/][swin-letter]
 
 Preview:
-{% image_tag src="/img/swinburne-letter.jpg" width="400" %}
+<img src="/img/swinburne-letter.jpg" width="400" alt="">
 
 _Note: Image is of undetermined copyright status and is provided here for educational purposes_
 
@@ -287,7 +287,7 @@ Iill fe bpe me
 * URL: [http://handle.slv.vic.gov.au/10381/119196][slv-postcard]
 
 Preview:
-{% image_tag src="/img/slv_postcard.jpg" width="400" %}
+<img src="/img/slv_postcard.jpg" width="400" alt="">
 
 #### Human transcript (guessed words mark in ""):
 ```
@@ -335,7 +335,7 @@ For more information of the UNESCO listed Charles Evans diary:
 [https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/](https://blogs.slv.vic.gov.au/news/unesco-adds-gold-rush-diaries-to-australian-memory-of-the-world-register/)
 
 Preview:
-{% image_tag src="/img/slv_diary.jpg" width="400" %}
+<img src="/img/slv_diary.jpg" width="400" alt="">
 
 #### Transcript
 ```

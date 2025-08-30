@@ -13,4 +13,4 @@ quickest solution i could find is the command below
 gconftool-2 --type string --set /apps/metacity/general/button_layout "menu:minimize,maximize,close"
 ```
 
-{% image_tag src="/img/ubuntu-right.png" width="400" %}
+<img src="/img/ubuntu-right.png" width="400" alt="">

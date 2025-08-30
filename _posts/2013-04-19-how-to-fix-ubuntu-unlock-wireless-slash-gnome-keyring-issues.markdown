@@ -9,7 +9,7 @@ Even if you manage to get wireless/wifi working fine in Ubuntu, one annoying
 issue (if you have auto login set) will be that the 'Gnome keyring' will keep prompting you for a password every time you login
 or wake from hibernation - so that it could connect to my Wi-Fi network. 
 
-{% image_tag src="/img/2013-04-Blog-auto-unlock-keyring-01-enter-password.jpg" width="400" %}
+<img src="/img/2013-04-Blog-auto-unlock-keyring-01-enter-password.jpg" width="400" alt="">
 
 The solution is simple but one you shouldn't have to worry about:
 

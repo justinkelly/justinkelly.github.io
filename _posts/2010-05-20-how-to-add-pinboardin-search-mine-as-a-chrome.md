@@ -24,4 +24,4 @@ Refer image below
 just type `pin` followed by what you want, ie 'pin php arrary' in the chrome address box 
 (refer image below) and chrome will now seasrch google maps for that address
 
-{% image_tag src="/img/pin-chrome-bar.png" width="400" %}
+<img src="/img/pin-chrome-bar.png" width="400" alt="">
