@@ -8,6 +8,8 @@ title: Modernising a legacy open source app using Claude Code
 
 In a few hours over the weekend, using Claude Code to do at least 95% of the work, Claude Code fully modernised the legacy open source web application SimpleInvoices.
 
+Below goes into the detail on how to do this, limitation, cavaets, and benefits.
+
 ![2025-08-25 Claude modern.png]({{site.baseurl}}/img/2025-08-25 Claude modern.png)
 
 ### Introduction
@@ -38,13 +40,20 @@ _* There are open source alternatives to Claude Code - such as Aider - but this 
 
 ### Introduction
 
-For Cloaude
-Claude init
+_Assumptions:_
+_* Claude Code in installed
+_* Pro subscription of Claude Code at minimum
+_* Using command line version 
+
+To get started with Claude Code on a project, open Claude Code up in the project directory, and run `/init`.
+
+Refer recording and image of init in action
 
 <script src="https://asciinema.org/a/nCWHgw7FgNt7xztiMorhElq8Q.js" id="asciicast-nCWHgw7FgNt7xztiMorhElq8Q" async="true"></script>
 
-
 ![2025-08-25 Claude init.png]({{site.baseurl}}/img/2025-08-25 Claude init.png)
+
+
 
 ```
 
