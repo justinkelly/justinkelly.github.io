@@ -4,7 +4,13 @@ published: false
 comments: true
 title: Modernising a legacy open source app using Claude Code
 ---
-### Summary
+### In short
+
+In a few hours over the weekend, using Claude Code to do at least 95% of the work, Claude Code fully modernised the legacy open source web application SimpleInvoices.
+
+![2025-08-25 Claude modern.png]({{site.baseurl}}/img/2025-08-25 Claude modern.png)
+
+### Introduction
 
 For the last 10 years I had put off upgrading and modernising the open source PHP web application [SimpleInvoices](https://github.com/simpleinvoices/simpleinvoices) that I started way back in 2005 and maintained till around 2015.
 
@@ -37,6 +43,8 @@ Claude init
 
 <script src="https://asciinema.org/a/nCWHgw7FgNt7xztiMorhElq8Q.js" id="asciicast-nCWHgw7FgNt7xztiMorhElq8Q" async="true"></script>
 
+
+![2025-08-25 Claude init.png]({{site.baseurl}}/img/2025-08-25 Claude init.png)
 
 ```
 
