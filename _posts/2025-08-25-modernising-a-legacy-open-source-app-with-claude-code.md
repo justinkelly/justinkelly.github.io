@@ -50,7 +50,7 @@ To get started with Claude Code on a project, open Claude Code up in the project
 
 Refer recording and image of init in action
 
-<script src="https://asciinema.org/a/nCWHgw7FgNt7xztiMorhElq8Q.js" id="asciicast-nCWHgw7FgNt7xztiMorhElq8Q" async="true"></script>
+<script src="https://asciinema.org/a/737072.js" id="asciicast-737072" async="true"></script>
 
 ![2025-08-25 Claude init.png]({{site.baseurl}}/img/2025-08-25 Claude init.png)
 
@@ -157,7 +157,8 @@ replace /library/Zend with latest version of Zend Framework v1 that is maintaine
 framework with compatible code for the new version - also replace the usage of Zend_Mail with latest PHPMailer library - also installed via composer and check the changes work - also replace any php libraries with composer manager version and adjust code
 ```
 
-<script src="https://asciinema.org/a/737072.js" id="asciicast-737072" async="true"></script>
+
+<script src="https://asciinema.org/a/737076.js" id="asciicast-737076" async="true"></script>
 
 
 ![2025-09-01 claude zf1.png]({{site.baseurl}}/img/2025-09-01 claude zf1.png)
