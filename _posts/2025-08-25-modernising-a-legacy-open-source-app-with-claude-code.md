@@ -41,9 +41,9 @@ _* There are open source alternatives to Claude Code - such as Aider - but this 
 ### Get Claude to understanding the app 
 
 _Assumptions:_
-_* Claude Code in installed_
-_* Pro subscription of Claude Code at minimum_
-_* Using command line version_ 
+* _Claude Code in installed_
+* _Pro subscription of Claude Code at minimum_
+* _Using command line version_ 
 
 To get started with Claude Code on a project, open Claude Code up in the project directory, and run `/init`.
 
