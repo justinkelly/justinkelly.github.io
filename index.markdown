@@ -19,10 +19,14 @@ published: true
       <p class="">
       Feel free to contact me 
         <a class="" href="mailto:justin@kelly.au" style="">
-	          <i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
-        </a> or 
+	          <i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.au</span>
+        </a> |
         <a class="" href="https://twitter.com/_justin_kelly" style="">
           <i class="fa icon-twit fa-lg"></i><span>_justin_kelly</span>
+        </a>
+        </a> | 
+        <a class="" href="https://www.linkedin.com/in/justinkellyau" style="">
+          <i class="fa icon-link-in fa-lg"></i><span>justinkellyau</span>
         </a>
       </p>
     </div>
