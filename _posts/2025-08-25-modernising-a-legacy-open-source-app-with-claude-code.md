@@ -41,6 +41,7 @@ _* There are open source alternatives to Claude Code - such as Aider - but this 
 ### Get Claude to understanding the app 
 
 _Assumptions:_
+
 * _Claude Code in installed_
 * _Pro subscription of Claude Code at minimum_
 * _Using command line version_ 
