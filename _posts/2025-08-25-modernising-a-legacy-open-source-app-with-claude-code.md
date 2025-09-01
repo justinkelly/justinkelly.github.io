@@ -38,12 +38,12 @@ _Note:_
 _* Claude Code requires a paid $20USD per month subscription
 _* There are open source alternatives to Claude Code - such as Aider - but this was not explored_
 
-### Introduction
+### Get Claude to understanding the app 
 
 _Assumptions:_
-_* Claude Code in installed
-_* Pro subscription of Claude Code at minimum
-_* Using command line version 
+_* Claude Code in installed_
+_* Pro subscription of Claude Code at minimum_
+_* Using command line version_ 
 
 To get started with Claude Code on a project, open Claude Code up in the project directory, and run `/init`.
 
