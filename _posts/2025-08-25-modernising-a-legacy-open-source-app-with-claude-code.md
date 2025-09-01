@@ -149,12 +149,18 @@ This is a traditional PHP application with no build process, package managers, o
 - ERD diagram shows primary/foreign key relationships
 ```
 
-Claude - find a new maintained version of the main library (ZZend Framework v1) that is now long unspported)
+### Upgrading core libraries and editing all affected code
 
 
 ```
-replace /library/Zend with latest version of Zend Framework v1 that is maintained and compat with php8 and install
-  and manage this using composer and adjust any existing code that uses zend
-    framework with compatible code for the new version - also replace the usage of Zend_Mail with latest PHPMailer
-  library - also installed via composer and check the changes work
-  ```
+replace /library/Zend with latest version of Zend Framework v1 that is maintained and compat with php8 and install and manage this using composer and adjust any existing code that uses zend
+framework with compatible code for the new version - also replace the usage of Zend_Mail with latest PHPMailer library - also installed via composer and check the changes work - also replace any php libraries with composer manager version and adjust code
+```
+
+
+![2025-09-01 claude zf1.png]({{site.baseurl}}/img/2025-09-01 claude zf1.png)
+
+![2025-09-01 claude zend replace.png]({{site.baseurl}}/img/2025-09-01 claude zend replace.png)
+
+
+
