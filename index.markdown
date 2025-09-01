@@ -18,7 +18,7 @@ published: true
       </p>
       <p class="">
       Feel free to contact me 
-        <a class="" href="mailto:justin@kelly.org.au" style="">
+        <a class="" href="mailto:justin@kelly.au" style="">
 	          <i class="fa icon-envelope-o fa-lg"></i><span>justin@kelly.org.au</span>
         </a> or 
         <a class="" href="https://twitter.com/_justin_kelly" style="">
