@@ -55,10 +55,98 @@ Refer recording and image of init in action
 ![2025-08-25 Claude init.png]({{site.baseurl}}/img/2025-08-25 Claude init.png)
 
 
+```markdown
+# CLAUDE.md
 
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## About SimpleInvoices
+
+SimpleInvoices is a PHP-based invoicing application that has been "Making invoicing rock since '05". It's a web-based application using the Zend Framework 1.11, Smarty templating, and MySQL database.
+
+## Setup and Dependencies
+
+### Cloning
+The project uses git submodules for the Zend Framework dependency:
+```bash
+git clone --recursive git@github.com:simpleinvoices/simpleinvoices.git
 ```
 
+If you downloaded a zip instead of cloning, manually download the [Zend v1.11 library](https://github.com/dmelo/Zend-1.11/archive/27d7f1b3f45a436a9c795881db1d41689b8f9224.zip) and expand it into `library/Zend/`.
 
+### Configuration
+- Main config: `config/config.php` (INI format with PHP header for security)
+- Database configuration includes MySQL connection details
+- Configuration sections: production, development, authentication, export settings, localization
+
+## Architecture Overview
+
+### Directory Structure
+- `index.php` - Main controller that handles all requests via GET parameters (module, view, case)
+- `modules/` - Core application modules (invoices, customers, billers, payments, etc.)
+- `include/` - Core PHP includes and initialization files
+  - `include/init.php` - Zend Framework initialization and autoloading
+  - `include/class/` - Core business logic classes
+- `templates/` - Smarty template files
+- `library/` - Third-party libraries (Zend Framework, PDF generation, etc.)
+- `extensions/` - Plugin-like extensions for additional functionality
+- `custom/` - Custom overrides for templates and modules
+- `databases/mysql/` - Database schema and sample data
+
+### Request Flow
+1. All requests go through `index.php`
+2. URL parameters: `?module=invoices&view=manage&case=edit`
+3. Security check via `checkLogin()` function
+4. Module-specific PHP files handle business logic
+5. Smarty templates render the UI
+
+### Key Classes
+- `invoice` class (`include/class/invoice.php`) - Core invoice functionality
+- Database abstraction via Zend Framework PDO
+- Custom field handling via `CustomField.php`
+- Export functionality for PDF, XLS, DOC formats
+
+### Database
+- MySQL database with full schema in `databases/mysql/Full_Simple_Invoices.sql`
+- Entity Relationship Diagram available as PNG in databases/mysql/
+- Uses PDO with prepared statements for security
+- Domain-based multi-tenancy support
+
+### Extensions System
+Extensions can be found in `extensions/` directory with individual README files:
+- sub_customer - Sub-customer functionality  
+- default_invoice - Default invoice templates
+- mini - Minimal UI
+- text_ui - Text-based interface
+- expense - Expense tracking
+- And many more
+
+### Custom Override System
+The `GetCustomPath()` function allows overriding default templates and modules:
+- Custom templates: `custom/default_template/`
+- Custom modules: `custom/modules/`
+- Falls back to default if custom version doesn't exist
+
+## Development Notes
+
+### No Build System
+This is a traditional PHP application with no build process, package managers, or test framework. Changes are made directly to PHP files.
+
+### Localization  
+- 41+ languages supported via `lang/` directory
+- Each language has an `info.xml` file
+- Translation project available on Transifex
+
+### Security
+- All requests filtered through `index.php` 
+- `filenameEscape()` function used on GET parameters
+- Authentication can be enabled in config
+- Direct file browsing blocked with `BROWSE` constant check
+
+### Database Schema
+- Full database structure in `databases/mysql/structure.sql`
+- Sample data available in JSON format in `databases/json/`
+- ERD diagram shows primary/foreign key relationships
 ```
 
 Claude - find a new maintained version of the main library (ZZend Framework v1) that is now long unspported)
