@@ -3,6 +3,7 @@ layout: post
 published: false
 comments: true
 title: Modernising a legacy open source app using Claude Code
+tags: ''
 ---
 ### In short
 
@@ -166,9 +167,3 @@ framework with compatible code for the new version - also replace the usage of Z
 ![2025-09-01 claude zend replace.png]({{site.baseurl}}/img/2025-09-01 claude zend replace.png)
 
 ![2025-09-01 claude send fin.png]({{site.baseurl}}/img/2025-09-01 claude send fin.png)
-
-
-
-
-
-
