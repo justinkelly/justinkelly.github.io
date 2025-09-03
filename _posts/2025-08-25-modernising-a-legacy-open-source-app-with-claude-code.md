@@ -53,10 +53,13 @@ Refer recording and image of init in action
 
 <script src="https://asciinema.org/a/737072.js" id="asciicast-737072" async="true"></script>
 
+`CLAUDE.md` file produced
+
 ![2025-08-25 Claude init.png]({{site.baseurl}}/img/2025-08-25 Claude init.png)
 
 
 ```markdown
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
